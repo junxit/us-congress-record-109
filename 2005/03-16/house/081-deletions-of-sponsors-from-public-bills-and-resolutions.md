@@ -1,0 +1,23 @@
+---
+granule: CREC-2005-03-16-pt1-PgH1623
+date: 2005-03-16
+edition: CREC
+section: HOUSE
+page: H1623
+citation: 151 Cong. Rec. H1623
+---
+
+# DELETIONS OF SPONSORS FROM PUBLIC BILLS AND RESOLUTIONS
+
+**Measures:** H.R. 525
+
+```
+        DELETIONS OF SPONSORS FROM PUBLIC BILLS AND RESOLUTIONS
+
+  Under clause 7 of rule XII, sponsors were deleted from public bills 
+and resolutions as follows:
+
+       H.R. 525: Mr. Meeks of New York.
+
+                          ____________________
+```

@@ -1,0 +1,39 @@
+---
+granule: CREC-2005-03-16-pt1-PgS2842-2
+date: 2005-03-16
+edition: CREC
+section: SENATE
+page: S2842
+citation: 151 Cong. Rec. S2842
+---
+
+# CO-SPONSORSHIP CHANGE S. 379
+
+**Speaking:** Mikulski, Barbara A. (M000702) [D-MD]
+
+**Measures:** S. 379
+
+```
+                      CO-SPONSORSHIP CHANGE S. 379
+
+  Ms. MIKULSKI. Mr President, today I rise to ask for a clarification 
+in the Congressional Record from yesterday, dated March 15, 2004. The 
+Record mistakenly reported that I was to be added as a cosponsor of S. 
+379, the Firearm Manufacturers Protection Act. Apparently, my name was 
+typed into the Record instead of that of Senator Mitch McConnell who 
+had requested to be added as a cosponsor of that bill. I wanted the 
+Record to reflect that I never requested to be added to the bill. As I 
+hope my record reflects, I have been a strong opponent of the gun 
+immunity bill because it puts one industry's bottomline ahead of the 
+families
+
+[[Page S2843]]
+
+and victims of gun violence. I opposed this bill and will continue to 
+oppose it because it slams closed the courthouse door to those seeking 
+justice for victims of gun violence, such as the victims of the 
+horrific sniper who terrorized the citizens of DC, Maryland, and 
+Virginia just a short time ago.
+
+                          ____________________
+```
