@@ -1,0 +1,28 @@
+---
+granule: CREC-2005-03-10-pt1-PgH1271
+date: 2005-03-10
+edition: CREC
+section: HOUSE
+page: H1271
+citation: 151 Cong. Rec. H1271
+---
+
+# REMOVAL OF NAME OF MEMBER AS COSPONSOR OF H.R. 21
+
+**Speaking:** Baca, Joe (B001234) [D-CA]
+
+**Measures:** H.R. 21
+
+```
+[[Page H1271]]
+           REMOVAL OF NAME OF MEMBER AS COSPONSOR OF H.R. 21
+
+  Mr. BACA. Mr. Speaker, I ask unanimous consent to have my name 
+removed as a cosponsor of H.R. 21. I inadvertently gave the wrong 
+number earlier.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from California?
+  There was no objection.
+
+                          ____________________
+```
