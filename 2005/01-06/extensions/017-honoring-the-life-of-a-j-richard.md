@@ -1,0 +1,96 @@
+---
+granule: CREC-2005-01-06-pt1-PgE35-2
+date: 2005-01-06
+edition: CREC
+section: EXTENSIONS
+page: E35
+citation: 151 Cong. Rec. E35
+---
+
+# HONORING THE LIFE OF A.J. RICHARD
+
+**Speaking:** Israel, Steve (I000057) [D-NY]
+
+```
+                   HONORING THE LIFE OF A.J. RICHARD
+
+                                 ______
+                                 
+
+                           HON. STEVE ISRAEL
+
+                              of new york
+
+                    in the house of representatives
+
+                       Thursday, January 6, 2005
+
+  Mr. ISRAEL. Mr. Speaker, I rise today to honor the life of A.J. 
+Richard, a vital member of the New York community. Throughout his life 
+as a successful businessman, dedicated family man, concerned citizen 
+and creative innovator, A.J. Richard defied the odds in keeping his 
+family business running and growing when other community competitors 
+were closing their doors. Today his legacy lives on in the type of 
+business he left behind: it is owned and operated by family; it is as 
+much a part of the community as it is a service to the community; and 
+it places customers ahead of profits. A.J.'s business is a reflection 
+of a certain value system, a value system we rarely see in today's 
+largely faceless corporate culture. That value system is about 
+community, family, work ethic, optimism and integrity. While A.J. has 
+passed, his business and that special value system live on. We are all 
+thankful for this legacy he leaves with us.
+  In his honor, I would like to share the following obituary of A.J. 
+Richard as it appeared in the N.Y. Times on January 5, 2004:
+  ``A.J. Richard, whose contagious enthusiasm for new gadgets 
+transformed P.C. Richard & Son from a hardware store into a major 
+retailer of consumer appliances and electronics, died on Dec. 28 in 
+West Islip, N.Y. He was 95 and lived in Bay Shore and Port St. Lucie, 
+Fla.
+  The cause was pneumonia, said Alan Meschkow, the company's 
+advertising director.
+  Although Mr. Richard's father, Peter Christiaan, started the 
+business, it was A.J. who in 1924, at the age of 15, insisted on 
+selling newfangled electric irons alongside the store's kerosene lamps 
+and plumbing supplies.
+  ``It's beautiful, look--it's chrome, it's polished, it fits your 
+hand,'' went Mr. Richard's sales pitch, Mr. Meschkow said. ``And look 
+at the tip, the point--you can go right in between the buttons.'' He 
+asked his first buyer to pay 50 cents a week toward the total cost of 
+$4.9.5, and other customers soon followed.
+  Over the next six decades, including several years he spent living 
+above his store in Ozone Park, Mr. Richard sold New Yorkers all kinds 
+of new electric devices, from toaster in the 1920's to the Walkman in 
+the 1980's.
+  His methods were often ingenious. In the early 1930's, when people 
+seemed content to scrub clothes on washboards, he sent salesmen door to 
+door offering families $5 to try out washing machines. In the 1950's, 
+he let people watch Friday-night boxing matches on a television 
+displayed in the store's window, and some inevitably bought their own 
+10-inch black-and-white set, which cost nearly $400. In the 1980's, the 
+company offered cooking classes to demonstrate microwave ovens.
+  P.C. Richard & Son now reports annual sales of roughly $1 billion, 
+making it the country's largest family-owned and operated seller of 
+appliances and consumer electronics. Based in Farmingdale, N.Y., it has 
+grown to 49 stores in New York and New Jersey, even as competing 
+regional chains like Crazy Eddie and Newmark & Lewis have closed. Many 
+people can whistle its five-note advertising jingle, ``At P.C. 
+Richard.''
+  Much of the advertising still carries pictures of A.J. and his two 
+sons: Gary, son the company's chief executive, and Peter, who is 
+executive vice president. A grandson, Gregg Richard, recently became 
+president, and a granddaughter, Bonni Richard, is head of human 
+resources.
+  Alfred Joseph Richard was born in Brooklyn on Oct. 11, 1909, the same 
+year his father, a handyman who emigrated from Amsterdam, opened the 
+family's first store in the Bensonhurst neighborhood of Brooklyn.
+  ``I waited on customers when I was 7,'' he told The New York Times in 
+a 1995 interview. ``I was a 100 percent hardware man by the age of 9.''
+  He was also a tinkerer, and he started the store's service department 
+after learning to repair radios as a teenager. He took over the company 
+in 1947.
+  His wife, the former Vicky Himmelman, died in 1997. He is survived by 
+his sons, Gary and Peter, both of Long Island; eight grandchildren; and 
+18 great-grandchildren.''
+
+                          ____________________
+```
