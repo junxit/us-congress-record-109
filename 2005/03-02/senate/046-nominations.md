@@ -1,0 +1,60 @@
+---
+granule: CRECB-2005-pt3-Pg3213-2
+date: 2005-03-02
+edition: CRECB
+section: SENATE
+page: 3213
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate March 2, 2005:
+
+
+                              IN THE ARMY
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES ARMY TO THE GRADE INDICATED UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                          To be major general
+
+BRIG. GEN. BENJAMIN C. FREAKLEY, 0000
+
+       THE FOLLOWING NAMED OFFICERS FOR APPOINTMENT IN THE RESERVE 
+     OF THE ARMY TO THE GRADES INDICATED UNDER TITLE 10, U.S.C., 
+     SECTION 12203:
+
+                          To be major general
+
+BRIG. GEN. DONALD L. JACKA, JR., 0000
+
+                        To be brigadier general
+
+COL. JERRY D. LA CRUZ, JR., 0000
+
+
+                              IN THE NAVY
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT AS CHIEF OF 
+     NAVAL OPERATIONS, UNITED STATES NAVY AND APPOINTMENT TO THE 
+     GRADE INDICATED WHILE ASSIGNED TO A POSITION OF IMPORTANCE 
+     AND RESPONSIBILITY UNDER TITLE 10, U.S.C., SECTIONS 601 AND 
+     5033:
+
+                             To be admiral
+
+ADM. MICHAEL G. MULLEN, 0000
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES NAVY TO THE GRADE INDICATED WHILE ASSIGNED TO A 
+     POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, 
+     U.S.C., SECTION 601:
+
+                           To be vice admiral
+
+REAR ADM. EVAN M. CHANIK, JR., 0000
+```
