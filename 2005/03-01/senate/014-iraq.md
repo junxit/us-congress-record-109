@@ -1,0 +1,60 @@
+---
+granule: CREC-2005-03-01-pt1-PgS1816
+date: 2005-03-01
+edition: CREC
+section: SENATE
+page: S1816
+citation: 151 Cong. Rec. S1816
+---
+
+# IRAQ
+
+**Speaking:** Brownback, Sam (B000953) [R-KS]
+
+```
+                                  IRAQ
+
+  Mr. BROWNBACK. Mr. President, I thank my colleague from Texas for her 
+kind comments. I ran into a number of great troops from Texas, from Ft. 
+Hood, TX, and individuals from Texas who are doing a fabulous job, 
+putting their lives on the line and showing the definition of courage 
+and honor. Those guys go right into the face of the fire, and when the 
+fire fight comes when the bullets are flying, they are running towards 
+the fire. It was really a beautiful modern-day story of courage under 
+fire and of doing the right thing.
+  That right thing is now yielding, in the last week, multiparty 
+elections in Egypt. Mubarak has not stood for elections in 25, 30 
+years. It is going to do that. With a protest now taking place, the 
+Lebanese Government has withdrawn and is asking Syria to withdraw and 
+to allow democracy to flourish in Lebanon. Saudi Arabia had flawed 
+local elections, but they at least had somewhat of an election.
+  I met with officials in Iraq who are now discussing how to maintain a 
+balance of power and an open society. The policies in Iraq are yielding 
+enormous fruit--still difficult, still very fragile, but those soldiers 
+who have put so much on the line are really changing the world. I thank 
+my colleague from Texas for her support in that effort. What we are 
+seeing taking place in that region is amazing.
+  Our troops are in harm's way. We continue to see the number of 
+improvised explosive devices about the same as they have in the past, 
+although our number of wounded troops has gone down in the last 2 weeks 
+about 40 percent, which is encouraging. That also means, apparently, 
+that more of the attacks are directed at the Iraqis. We saw yesterday 
+the horrific tragedy, over 100 Iraqis killed in a massive car bomb, 
+that clearly the insurgency, much of it commanded and controlled out of 
+other countries--and Syria has complicity of allowing some of this 
+operation to take place--has to be pressured against that. But we have 
+to get at that command and control structure of the insurgency and 
+break that to be able to stop some of this incredible carnage that is 
+taking place, people being killed in a country that just seeks to be 
+free, seeks to be an open, fair society. It is difficult. In the early 
+stages of democracy there will be flaws and missteps, but it is really 
+changing the face of the region.
+
+  I met with Prime Minister Allawi. I met with the head of the Kurdish 
+group, and Shias, Dr. Joffee. Each is talking about bringing in the 
+Sunnis, working together, creating an open society. I am concerned 
+about the issue of the role of Islam in the constitution. That is 
+clearly one of the key issues being negotiated.
+
+                          ____________________
+```
