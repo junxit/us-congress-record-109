@@ -1,0 +1,36 @@
+---
+granule: CRECB-2005-pt2-Pg2160-2
+date: 2005-02-10
+edition: CRECB
+section: SENATE
+page: 2160
+---
+
+# EXECUTIVE SESSION
+
+```
+                           EXECUTIVE SESSION
+
+                                 ______
+                                 
+
+                           EXECUTIVE CALENDAR
+
+  Mr. FRIST. Mr. President, I ask unanimous consent that the Senate 
+proceed to executive session to consider the following nomination on 
+the calendar: Calendar No. 9, Allen Weinstein, to be Archivist of the 
+United States. I further ask unanimous consent that the nomination be 
+confirmed, the motion to reconsider be laid on the table, the President 
+be immediately notified of the Senate's action, and the Senate then 
+resume legislative session.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The nomination considered and confirmed is as follows:
+
+
+              NATIONAL ARCHIVES AND RECORDS ADMINISTRATION
+
+       Allen Weinstein, of Maryland, to be Archivist of the United 
+     States.
+
+                          ____________________
+```
