@@ -1,0 +1,31 @@
+---
+granule: CREC-2005-04-04-pt1-PgS3158-5
+date: 2005-04-04
+edition: CREC
+section: SENATE
+page: S3158
+citation: 151 Cong. Rec. S3158
+---
+
+# ORDERS FOR TUESDAY, APRIL 5, 2005
+
+**Speaking:** Frist, William H. (F000439) [R-TN]
+
+```
+                   ORDERS FOR TUESDAY, APRIL 5, 2005
+
+  Mr. FRIST. Mr. President, I ask unanimous consent that when the 
+Senate completes its business today, the Senate stand in adjournment 
+until 9:45 a.m. on Tuesday, April 5. I further ask that following the 
+prayer and pledge, the morning hour be deemed expired, the Journal of 
+proceedings be approved to date, the time for the two leaders be 
+reserved, and the Senate then begin a period of morning business for up 
+to 60 minutes, with the first 30 minutes under the control of the 
+majority leader or his designee and the following 30 minutes under the 
+control of the Democratic leader or his designee. I further ask 
+unanimous consent that the Senate recess from 12:30 p.m. until 2:15 
+p.m. for the weekly party luncheons.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```
