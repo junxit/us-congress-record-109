@@ -1,0 +1,31 @@
+---
+granule: CREC-2005-01-20-pt1-PgS105-7
+date: 2005-01-20
+edition: CREC
+section: SENATE
+page: S105
+citation: 151 Cong. Rec. S105
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate Thursday, January 20, 
+2005:
+
+
+                        DEPARTMENT OF EDUCATION
+
+       MARGARET SPELLINGS, OF TEXAS, TO BE SECRETARY OF EDUCATION.
+
+
+                       DEPARTMENT OF AGRICULTURE
+
+       MIKE JOHANNS, OF NEBRASKA, TO BE SECRETARY OF AGRICULTURE.
+
+       THE ABOVE NOMINATION WAS APPROVED SUBJECT TO THE NOMINEE'S 
+     COMMITMENT TO RESPOND TO REQUESTS TO APPEAR AND TESTIFY 
+     BEFORE ANY DULY CONSTITUTED COMMITTEE OF THE SENATE.
+```
