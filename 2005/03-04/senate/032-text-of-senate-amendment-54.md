@@ -1,0 +1,2347 @@
+---
+granule: CREC-2005-03-04-pt1-PgS2086-3
+date: 2005-03-04
+edition: CREC
+section: SENATE
+page: S2086
+citation: 151 Cong. Rec. S2086
+---
+
+# Text of Senate Amendment 54
+
+**Speaking:** Bennett, Robert F. (B000382) [R-UT]
+
+```
+  SA 54. Mr. BENNETT submitted an amendment intended to be proposed by 
+him to the bill S. 256, to amend title 11 of the United States Code, 
+and for other purposes; which was ordered to lie on the table; as 
+follows:
+
+       Strike title IX and insert the following:
+
+                TITLE IX--FINANCIAL CONTRACT PROVISIONS
+
+     SEC. 901. TREATMENT OF CERTAIN AGREEMENTS BY CONSERVATORS OR 
+                   RECEIVERS OF INSURED DEPOSITORY INSTITUTIONS.
+
+       (a) Definition of Qualified Financial Contract.--
+       (1) FDIC-insured depository institutions.--Section 
+     11(e)(8)(D) of the Federal Deposit Insurance Act (12 U.S.C. 
+     1821(e)(8)(D)) is amended--
+       (A) by striking ``subsection--'' and inserting 
+     ``subsection, the following definitions shall apply:''; and
+       (B) in clause (i), by inserting ``, resolution, or order'' 
+     after ``any similar agreement that the Corporation determines 
+     by regulation''.
+       (2) Insured credit unions.--Section 207(c)(8)(D) of the 
+     Federal Credit Union Act (12 U.S.C. 1787(c)(8)(D)) is 
+     amended--
+       (A) by striking ``subsection--'' and inserting 
+     ``subsection, the following definitions shall apply:''; and
+       (B) in clause (i), by inserting ``, resolution, or order'' 
+     after ``any similar agreement that the Board determines by 
+     regulation''.
+       (b) Definition of Securities Contract.--
+       (1) FDIC-insured depository institutions.--Section 
+     11(e)(8)(D)(ii) of the Federal Deposit Insurance Act (12 
+     U.S.C. 1821(e)(8)(D)(ii)) is amended to read as follows:
+       ``(ii) Securities contract.--The term `securities 
+     contract'--
+
+       ``(I) means a contract for the purchase, sale, or loan of a 
+     security, a certificate of deposit, a mortgage loan, any 
+     interest in a mortgage loan, a group or index of securities, 
+     certificates of deposit, or mortgage loans or interests 
+     therein (including any interest therein or based on the value 
+     thereof) or any option on any of the foregoing, including any 
+     option to purchase or sell any such security, certificate of 
+     deposit, mortgage loan, interest, group or index, or option, 
+     and including any repurchase or reverse repurchase 
+     transaction on any such security, certificate of deposit, 
+     mortgage loan, interest, group or index, or option (whether 
+     or not such repurchase or reverse repurchase transaction is a 
+     repurchase agreement as defined in section 11(e)(8)(D)(c));
+       ``(II) does not include any purchase, sale, or repurchase 
+     obligation under a participation in a commercial mortgage 
+     loan unless the Corporation determines by regulation, 
+     resolution, or order to include any such agreement within the 
+     meaning of such term (whether or not such repurchase or 
+     reverse repurchase is a `repurchase agreement' as defined in 
+     clause (v));
+       ``(III) means any option entered into on a national 
+     securities exchange relating to foreign currencies;
+       ``(IV) means the guarantee (including by novation) by or to 
+     any securities clearing agency of any settlement of cash, 
+     securities, certificates of deposit, mortgage loans or 
+     interests therein, group or index of securities, certificates 
+     of deposit, or mortgage loans or interests therein (including 
+     any interest therein or based on the value thereof) or option 
+     on any of the foregoing, including any option to purchase or 
+     sell any such security, certificate of deposit, mortgage 
+     loan, interest, group or index, or option (whether or not 
+     such settlement is in connection with any agreement or 
+     transaction referred to in subclause (I), (III), (IV), (V), 
+     (VI), (VII), (VIII), (IX), (X), or (XI));
+       ``(V) means any margin loan;
+       ``(VI) any extension of credit for the clearance or 
+     settlement of securities transactions;
+       ``(VII) any collar/loan transaction related to securities, 
+     prepaid forward transaction related to securities, or sale/
+     total return swap transaction related to securities;
+       ``(VIII) means any other agreement or transaction that is 
+     similar to any agreement or transaction referred to in this 
+     clause;
+       ``(IX) means any combination of the agreements or 
+     transactions referred to in this clause;
+       ``(X) means any option to enter into any agreement or 
+     transaction referred to in this clause;
+       ``(XI) means a master agreement that provides for an 
+     agreement or transaction referred to in subclause (I), (III), 
+     (IV), (V), (VI), (VII), (VIII), (IX), or (X) together with 
+     all supplements to any such master agreement,
+
+[[Page S2087]]
+
+     without regard to whether the master agreement provides for 
+     an agreement or transaction that is not a securities contract 
+     under this clause, except that the master agreement shall be 
+     considered to be a securities contract under this clause only 
+     with respect to each agreement or transaction under the 
+     master agreement that is referred to in subclause (I), (III), 
+     (IV), (V), (VI), (VII), (VIII), (IX), or (X); and
+       ``(XII) means any security agreement or arrangement or 
+     other credit enhancement related to any agreement or 
+     transaction referred to in this clause, including any 
+     guarantee or reimbursement obligation in connection with any 
+     agreement or transaction referred to in this clause.''.
+
+       (2) Insured credit unions.--Section 207(c)(8)(D)(ii) of the 
+     Federal Credit Union Act (12 U.S.C. 1787(c)(8)(D)(ii)) is 
+     amended to read as follows:
+       ``(ii) Securities contract.--The term `securities 
+     contract'--
+
+       ``(I) means a contract for the purchase, sale, or loan of a 
+     security, a certificate of deposit, a mortgage loan, or any 
+     interest in a mortgage loan, a group or index of securities, 
+     certificates of deposit, or mortgage loans or interests 
+     therein (including any interest therein or based on the value 
+     thereof) or any option on any of the foregoing, including any 
+     option to purchase or sell any such security, certificate of 
+     deposit, mortgage loan, interest, group or index, or option, 
+     and including any repurchase or reverse repurchase 
+     transaction on any such security, certificate of deposit, 
+     mortgage loan, interest, group or index, or option;
+       ``(II) does not include any purchase, sale, or repurchase 
+     obligation under a participation in a commercial mortgage 
+     loan unless the Board determines by regulation, resolution, 
+     or order to include any such agreement within the meaning of 
+     such term;
+       ``(III) means any option entered into on a national 
+     securities exchange relating to foreign currencies;
+       ``(IV) means the guarantee by or to any securities clearing 
+     agency of any settlement of cash, securities, certificates of 
+     deposit, mortgage loans or interests therein, group or index 
+     of securities, certificates of deposit, or mortgage loans or 
+     interests therein (including any interest therein or based on 
+     the value thereof) or option on any of the foregoing, 
+     including any option to purchase or sell any such security, 
+     certificate of deposit, mortgage loan, interest, group or 
+     index, or option;
+       ``(V) means any margin loan;
+       ``(VI) means any other agreement or transaction that is 
+     similar to any agreement or transaction referred to in this 
+     clause;
+       ``(VII) means any combination of the agreements or 
+     transactions referred to in this clause;
+       ``(VIII) means any option to enter into any agreement or 
+     transaction referred to in this clause;
+       ``(IX) means a master agreement that provides for an 
+     agreement or transaction referred to in subclause (I), (III), 
+     (IV), (V), (VI), (VII), or (VIII), together with all 
+     supplements to any such master agreement, without regard to 
+     whether the master agreement provides for an agreement or 
+     transaction that is not a securities contract under this 
+     clause, except that the master agreement shall be considered 
+     to be a securities contract under this clause only with 
+     respect to each agreement or transaction under the master 
+     agreement that is referred to in subclause (I), (III), (IV), 
+     (V), (VI), (VII), or (VIII); and
+       ``(X) means any security agreement or arrangement or other 
+     credit enhancement related to any agreement or transaction 
+     referred to in this clause, including any guarantee or 
+     reimbursement obligation in connection with any agreement or 
+     transaction referred to in this clause.''.
+
+       (c) Definition of Commodity Contract.--
+       (1) FDIC-insured depository institutions.--Section 
+     11(e)(8)(D)(iii) of the Federal Deposit Insurance Act (12 
+     U.S.C. 1821(e)(8)(D)(iii)) is amended to read as follows:
+       ``(iii) Commodity contract.--The term `commodity contract' 
+     means--
+
+       ``(I) with respect to a futures commission merchant, a 
+     contract for the purchase or sale of a commodity for future 
+     delivery on, or subject to the rules of, a contract market or 
+     board of trade;
+       ``(II) with respect to a foreign futures commission 
+     merchant, a foreign future;
+       ``(III) with respect to a leverage transaction merchant, a 
+     leverage transaction;
+       ``(IV) with respect to a clearing organization, a contract 
+     for the purchase or sale of a commodity for future delivery 
+     on, or subject to the rules of, a contract market or board of 
+     trade that is cleared by such clearing organization, or 
+     commodity option traded on, or subject to the rules of, a 
+     contract market or board of trade that is cleared by such 
+     clearing organization;
+       ``(V) with respect to a commodity options dealer, a 
+     commodity option;
+       ``(VI) any other agreement or transaction that is similar 
+     to any agreement or transaction referred to in this clause;
+       ``(VII) any combination of the agreements or transactions 
+     referred to in this clause;
+       ``(VIII) any option to enter into any agreement or 
+     transaction referred to in this clause;
+       ``(IX) a master agreement that provides for an agreement or 
+     transaction referred to in subclause (I), (II), (III), (IV), 
+     (V), (VI), (VII), or (VIII), together with all supplements to 
+     any such master agreement, without regard to whether the 
+     master agreement provides for an agreement or transaction 
+     that is not a commodity contract under this clause, except 
+     that the master agreement shall be considered to be a 
+     commodity contract under this clause only with respect to 
+     each agreement or transaction under the master agreement that 
+     is referred to in subclause (I), (II), (III), (IV), (V), 
+     (VI), (VII), or (VIII); or
+       ``(X) any security agreement or arrangement or other credit 
+     enhancement related to any agreement or transaction referred 
+     to in this clause, including any guarantee or reimbursement 
+     obligation in connection with any agreement or transaction 
+     referred to in this clause.''.
+
+       (2) Insured credit unions.--Section 207(c)(8)(D)(iii) of 
+     the Federal Credit Union Act (12 U.S.C. 1787(c)(8)(D)(iii)) 
+     is amended to read as follows:
+       ``(iii) Commodity contract.--The term `commodity contract' 
+     means--
+
+       ``(I) with respect to a futures commission merchant, a 
+     contract for the purchase or sale of a commodity for future 
+     delivery on, or subject to the rules of, a contract market or 
+     board of trade;
+       ``(II) with respect to a foreign futures commission 
+     merchant, a foreign future;
+       ``(III) with respect to a leverage transaction merchant, a 
+     leverage transaction;
+       ``(IV) with respect to a clearing organization, a contract 
+     for the purchase or sale of a commodity for future delivery 
+     on, or subject to the rules of, a contract market or board of 
+     trade that is cleared by such clearing organization, or 
+     commodity option traded on, or subject to the rules of, a 
+     contract market or board of trade that is cleared by such 
+     clearing organization;
+       ``(V) with respect to a commodity options dealer, a 
+     commodity option;
+       ``(VI) any other agreement or transaction that is similar 
+     to any agreement or transaction referred to in this clause;
+       ``(VII) any combination of the agreements or transactions 
+     referred to in this clause;
+       ``(VIII) any option to enter into any agreement or 
+     transaction referred to in this clause;
+       ``(IX) a master agreement that provides for an agreement or 
+     transaction referred to in subclause (I), (II), (III), (IV), 
+     (V), (VI), (VII), or (VIII), together with all supplements to 
+     any such master agreement, without regard to whether the 
+     master agreement provides for an agreement or transaction 
+     that is not a commodity contract under this clause, except 
+     that the master agreement shall be considered to be a 
+     commodity contract under this clause only with respect to 
+     each agreement or transaction under the master agreement that 
+     is referred to in subclause (I), (II), (III), (IV), (V), 
+     (VI), (VII), or (VIII); or
+       ``(X) any security agreement or arrangement or other credit 
+     enhancement related to any agreement or transaction referred 
+     to in this clause, including any guarantee or reimbursement 
+     obligation in connection with any agreement or transaction 
+     referred to in this clause.''.
+
+       (d) Definition of Forward Contract.--
+       (1) FDIC-insured depository institutions.--Section 
+     11(e)(8)(D)(iv) of the Federal Deposit Insurance Act (12 
+     U.S.C. 1821(e)(8)(D)(iv)) is amended to read as follows:
+       ``(iv) Forward contract.--The term `forward contract' 
+     means--
+
+       ``(I) a contract (other than a commodity contract) for the 
+     purchase, sale, or transfer of a commodity or any similar 
+     good, article, service, right, or interest which is presently 
+     or in the future becomes the subject of dealing in the 
+     forward contract trade, or product or byproduct thereof, with 
+     a maturity date more than 2 days after the date the contract 
+     is entered into, including, a repurchase transaction, reverse 
+     repurchase transaction, consignment, lease, swap, hedge 
+     transaction, deposit, loan, option, allocated transaction 
+     (whether or not such repurchase or reverse repurchase or 
+     reverse repurchase transaction is a repurchase agreement as 
+     defined in section 11(e)(8)(D)(v)), unallocated transaction, 
+     or any other similar agreement;
+       ``(II) any combination of agreements or transactions 
+     referred to in subclauses (I) and (III);
+       ``(III) any option to enter into any agreement or 
+     transaction referred to in subclause (I) or (II);
+       ``(IV) a master agreement that provides for an agreement or 
+     transaction referred to in subclauses (I), (II), or (III), 
+     together with all supplements to any such master agreement, 
+     without regard to whether the master agreement provides for 
+     an agreement or transaction that is not a forward contract 
+     under this clause, except that the master agreement shall be 
+     considered to be a forward contract under this clause only 
+     with respect to each agreement or transaction under the 
+     master agreement that is referred to in subclause (I), (II), 
+     or (III); or
+       ``(V) any security agreement or arrangement or other credit 
+     enhancement related to any agreement or transaction referred 
+     to in subclause (I), (II), (III), or (IV), including any 
+     guarantee or reimbursement obligation in connection with any 
+     agreement or transaction referred to in any such 
+     subclause.''.
+
+       (2) Insured credit unions.--Section 207(c)(8)(D)(iv) of the 
+     Federal Credit Union Act (12 U.S.C. 1787(c)(8)(D)(iv)) is 
+     amended to read as follows:
+       ``(iv) Forward contract.--The term `forward contract' 
+     means--
+
+       ``(I) a contract (other than a commodity contract) for the 
+     purchase, sale, or transfer
+
+[[Page S2088]]
+
+     of a commodity or any similar good, article, service, right, 
+     or interest which is presently or in the future becomes the 
+     subject of dealing in the forward contract trade, or product 
+     or byproduct thereof, with a maturity date more than 2 days 
+     after the date the contract is entered into, including, a 
+     repurchase transaction, reverse repurchase transaction, 
+     consignment, lease, swap, hedge transaction, deposit, loan, 
+     option, allocated transaction, unallocated transaction, or 
+     any other similar agreement;
+       ``(II) any combination of agreements or transactions 
+     referred to in subclauses (I) and (III);
+       ``(III) any option to enter into any agreement or 
+     transaction referred to in subclause (I) or (II);
+       ``(IV) a master agreement that provides for an agreement or 
+     transaction referred to in subclauses (I), (II), or (III), 
+     together with all supplements to any such master agreement, 
+     without regard to whether the master agreement provides for 
+     an agreement or transaction that is not a forward contract 
+     under this clause, except that the master agreement shall be 
+     considered to be a forward contract under this clause only 
+     with respect to each agreement or transaction under the 
+     master agreement that is referred to in subclause (I), (II), 
+     or (III); or
+       ``(V) any security agreement or arrangement or other credit 
+     enhancement related to any agreement or transaction referred 
+     to in subclause (I), (II), (III), or (IV), including any 
+     guarantee or reimbursement obligation in connection with any 
+     agreement or transaction referred to in any such 
+     subclause.''.
+
+       (e) Definition of Repurchase Agreement.--
+       (1) FDIC-insured depository institutions.--Section 
+     11(e)(8)(D)(v) of the Federal Deposit Insurance Act (12 
+     U.S.C. 1821(e)(8)(D)(v)) is amended to read as follows:
+       ``(v) Repurchase agreement.--The term `repurchase 
+     agreement' (which definition also applies to a reverse 
+     repurchase agreement)--
+
+       ``(I) means an agreement, including related terms, which 
+     provides for the transfer of one or more certificates of 
+     deposit, mortgage-related securities (as such term is defined 
+     in the Securities Exchange Act of 1934), mortgage loans, 
+     interests in mortgage-related securities or mortgage loans, 
+     eligible bankers' acceptances, qualified foreign government 
+     securities or securities that are direct obligations of, or 
+     that are fully guaranteed by, the United States or any agency 
+     of the United States against the transfer of funds by the 
+     transferee of such certificates of deposit, eligible bankers' 
+     acceptances, securities, mortgage loans, or interests with a 
+     simultaneous agreement by such transferee to transfer to the 
+     transferor thereof certificates of deposit, eligible bankers' 
+     acceptances, securities, mortgage loans, or interests as 
+     described above, at a date certain not later than 1 year 
+     after such transfers or on demand, against the transfer of 
+     funds, or any other similar agreement;
+       ``(II) does not include any repurchase obligation under a 
+     participation in a commercial mortgage loan unless the 
+     Corporation determines by regulation, resolution, or order to 
+     include any such participation within the meaning of such 
+     term;
+       ``(III) means any combination of agreements or transactions 
+     referred to in subclauses (I) and (IV);
+       ``(IV) means any option to enter into any agreement or 
+     transaction referred to in subclause (I) or (III);
+       ``(V) means a master agreement that provides for an 
+     agreement or transaction referred to in subclause (I), (III), 
+     or (IV), together with all supplements to any such master 
+     agreement, without regard to whether the master agreement 
+     provides for an agreement or transaction that is not a 
+     repurchase agreement under this clause, except that the 
+     master agreement shall be considered to be a repurchase 
+     agreement under this subclause only with respect to each 
+     agreement or transaction under the master agreement that is 
+     referred to in subclause (I), (III), or (IV); and
+       ``(VI) means any security agreement or arrangement or other 
+     credit enhancement related to any agreement or transaction 
+     referred to in subclause (I), (III), (IV), or (V), including 
+     any guarantee or reimbursement obligation in connection with 
+     any agreement or transaction referred to in any such 
+     subclause.
+
+     For purposes of this clause, the term `qualified foreign 
+     government security' means a security that is a direct 
+     obligation of, or that is fully guaranteed by, the central 
+     government of a member of the Organization for Economic 
+     Cooperation and Development (as determined by regulation or 
+     order adopted by the appropriate Federal banking 
+     authority).''.
+       (2) Insured credit unions.--Section 207(c)(8)(D)(v) of the 
+     Federal Credit Union Act (12 U.S.C. 1787(c)(8)(D)(v)) is 
+     amended to read as follows:
+       ``(v) Repurchase agreement.--The term `repurchase 
+     agreement' (which definition also applies to a reverse 
+     repurchase agreement)--
+
+       ``(I) means an agreement, including related terms, which 
+     provides for the transfer of one or more certificates of 
+     deposit, mortgage-related securities (as such term is defined 
+     in the Securities Exchange Act of 1934), mortgage loans, 
+     interests in mortgage-related securities or mortgage loans, 
+     eligible bankers' acceptances, qualified foreign government 
+     securities or securities that are direct obligations of, or 
+     that are fully guaranteed by, the United States or any agency 
+     of the United States against the transfer of funds by the 
+     transferee of such certificates of deposit, eligible bankers' 
+     acceptances, securities, mortgage loans, or interests with a 
+     simultaneous agreement by such transferee to transfer to the 
+     transferor thereof certificates of deposit, eligible bankers' 
+     acceptances, securities, mortgage loans, or interests as 
+     described above, at a date certain not later than 1 year 
+     after such transfers or on demand, against the transfer of 
+     funds, or any other similar agreement;
+       ``(II) does not include any repurchase obligation under a 
+     participation in a commercial mortgage loan unless the Board 
+     determines by regulation, resolution, or order to include any 
+     such participation within the meaning of such term;
+       ``(III) means any combination of agreements or transactions 
+     referred to in subclauses (I) and (IV);
+       ``(IV) means any option to enter into any agreement or 
+     transaction referred to in subclause (I) or (III);
+       ``(V) means a master agreement that provides for an 
+     agreement or transaction referred to in subclause (I), (III), 
+     or (IV), together with all supplements to any such master 
+     agreement, without regard to whether the master agreement 
+     provides for an agreement or transaction that is not a 
+     repurchase agreement under this clause, except that the 
+     master agreement shall be considered to be a repurchase 
+     agreement under this subclause only with respect to each 
+     agreement or transaction under the master agreement that is 
+     referred to in subclause (I), (III), or (IV); and
+       ``(VI) means any security agreement or arrangement or other 
+     credit enhancement related to any agreement or transaction 
+     referred to in subclause (I), (III), (IV), or (V), including 
+     any guarantee or reimbursement obligation in connection with 
+     any agreement or transaction referred to in any such 
+     subclause.
+
+     For purposes of this clause, the term `qualified foreign 
+     government security' means a security that is a direct 
+     obligation of, or that is fully guaranteed by, the central 
+     government of a member of the Organization for Economic 
+     Cooperation and Development (as determined by regulation or 
+     order adopted by the appropriate Federal banking 
+     authority).''.
+       (f) Definition of Swap Agreement.--
+       (1) FDIC-insured depository institutions.--Section 
+     11(e)(8)(D)(vi) of the Federal Deposit Insurance Act (12 
+     U.S.C. 1821(e)(8)(D)(vi)) is amended to read as follows:
+       ``(vi) Swap agreement.--The term `swap agreement' means--
+
+       ``(I) any agreement, including the terms and conditions 
+     incorporated by reference in any such agreement, which is an 
+     interest rate swap, option, future, or forward agreement, 
+     including a rate floor, rate cap, rate collar, cross-currency 
+     rate swap, and basis swap; a spot, same day-tomorrow, 
+     tomorrow-next, forward, or other foreign exchange, precious 
+     metals or other commodity agreement; a currency swap, option, 
+     future, or forward agreement; an equity index or equity swap, 
+     option, future, or forward agreement; a debt index or debt 
+     swap, option, future, or forward agreement; a total return, 
+     credit spread or credit swap, option, future, or forward 
+     agreement; a commodity index or commodity swap, option, 
+     future, or forward agreement; or a weather swap option, 
+     future, or forward agreement; an emissions swap, option, 
+     future, or forward agreement; or an inflation swap, option, 
+     future, or forward agreement;
+       ``(II) any agreement or transaction that is similar to any 
+     other agreement or transaction referred to in this clause and 
+     that is of a type that has been, is presently, or in the 
+     future becomes, the subject of recurrent dealings in the swap 
+     or other derivatives markets (including terms and conditions 
+     incorporated by reference in such agreement) and that is a 
+     forward, swap, future, option or spot transaction on one or 
+     more rates, currencies, commodities, equity securities or 
+     other equity instruments, debt securities or other debt 
+     instruments, quantitative measures associated with an 
+     occurrence, extent of an occurrence, or contingency 
+     associated with a financial, commercial, or economic 
+     consequence, or economic or financial indices or measures of 
+     economic or financial risk or value;
+       ``(III) any combination of agreements or transactions 
+     referred to in this clause;
+       ``(IV) any option to enter into any agreement or 
+     transaction referred to in this clause;
+       ``(V) a master agreement that provides for an agreement or 
+     transaction referred to in subclause (I), (II), (III), or 
+     (IV), together with all supplements to any such master 
+     agreement, without regard to whether the master agreement 
+     contains an agreement or transaction that is not a swap 
+     agreement under this clause, except that the master agreement 
+     shall be considered to be a swap agreement under this clause 
+     only with respect to each agreement or transaction under the 
+     master agreement that is referred to in subclause (I), (II), 
+     (III), or (IV); and
+       ``(VI) any security agreement or arrangement or other 
+     credit enhancement related to any agreements or transactions 
+     referred to in subclause (I), (II), (III), (IV), or (V), 
+     including any guarantee or reimbursement obligation in 
+     connection with any agreement
+
+[[Page S2089]]
+
+     or transaction referred to in any such subclause.
+
+     Such term is applicable for purposes of this subsection only 
+     and shall not be construed or applied so as to challenge or 
+     affect the characterization, definition, or treatment of any 
+     swap agreement under any other statute, regulation, or rule, 
+     including the Securities Act of 1933, the Securities Exchange 
+     Act of 1934, the Public Utility Holding Company Act of 1935, 
+     the Trust Indenture Act of 1939, the Investment Company Act 
+     of 1940, the Investment Advisers Act of 1940, the Securities 
+     Investor Protection Act of 1970, the Commodity Exchange Act, 
+     the Gramm-Leach-Bliley Act, and the Legal Certainty for Bank 
+     Products Act of 2000.''.
+       (2) Insured credit unions.--Section 207(c)(8)(D) of the 
+     Federal Credit Union Act (12 U.S.C. 1787(c)(8)(D)) is amended 
+     by adding at the end the following new clause:
+       ``(vi) Swap agreement.--The term `swap agreement' means--
+
+       ``(I) any agreement, including the terms and conditions 
+     incorporated by reference in any such agreement, which is an 
+     interest rate swap, option, future, or forward agreement, 
+     including a rate floor, rate cap, rate collar, cross-currency 
+     rate swap, and basis swap; a spot, same day-tomorrow, 
+     tomorrow-next, forward, or other foreign exchange or precious 
+     metals agreement; a currency swap, option, future, or forward 
+     agreement; an equity index or equity swap, option, future, or 
+     forward agreement; a debt index or debt swap, option, future, 
+     or forward agreement; a total return, credit spread or credit 
+     swap, option, future, or forward agreement; a commodity index 
+     or commodity swap, option, future, or forward agreement; or a 
+     weather swap, weather derivative, or weather option;
+       ``(II) any agreement or transaction that is similar to any 
+     other agreement or transaction referred to in this clause and 
+     that is of a type that has been, is presently, or in the 
+     future becomes, the subject of recurrent dealings in the swap 
+     markets (including terms and conditions incorporated by 
+     reference in such agreement) and that is a forward, 
+     swap,future, or option on one or more rates, currencies, 
+     commodities, equity securities or other equity instruments, 
+     debt securities or other debt instruments, quantitative 
+     measures associated with an occurrence, extent of an 
+     occurrence, or contingency associated with a financial, 
+     commercial, or economic consequence, or economic or financial 
+     indices or measures of economic or financial risk or value;
+       ``(III) any combination of agreements or transactions 
+     referred to in this clause;
+       ``(IV) any option to enter into any agreement or 
+     transaction referred to in this clause;
+       ``(V) a master agreement that provides for an agreement or 
+     transaction referred to in subclause (I), (II), (III), or 
+     (IV), together with all supplements to any such master 
+     agreement, without regard to whether the master agreement 
+     contains an agreement or transaction that is not a swap 
+     agreement under this clause, except that the master agreement 
+     shall be considered to be a swap agreement under this clause 
+     only with respect to each agreement or transaction under the 
+     master agreement that is referred to in subclause (I), (II), 
+     (III), or (IV); and
+       ``(VI) any security agreement or arrangement or other 
+     credit enhancement related to any agreements or transactions 
+     referred to in subclause (I), (II), (III), (IV), or (V), 
+     including any guarantee or reimbursement obligation in 
+     connection with any agreement or transaction referred to in 
+     any such subclause.
+
+     Such term is applicable for purposes of this subsection only 
+     and shall not be construed or applied so as to challenge or 
+     affect the characterization, definition, or treatment of any 
+     swap agreement under any other statute, regulation, or rule, 
+     including the Securities Act of 1933, the Securities Exchange 
+     Act of 1934, the Public Utility Holding Company Act of 1935, 
+     the Trust Indenture Act of 1939, the Investment Company Act 
+     of 1940, the Investment Advisers Act of 1940, the Securities 
+     Investor Protection Act of 1970, the Commodity Exchange Act, 
+     the Gramm-Leach-Bliley Act, and the Legal Certainty for Bank 
+     Products Act of 2000.''.
+       (g) Definition of Transfer.--
+       (1) FDIC-insured depository institutions.--Section 
+     11(e)(8)(D)(viii) of the Federal Deposit Insurance Act (12 
+     U.S.C. 1821(e)(8)(D)(viii)) is amended to read as follows:
+       ``(viii) Transfer.--The term `transfer' means every mode, 
+     direct or indirect, absolute or conditional, voluntary or 
+     involuntary, of disposing of or parting with property or with 
+     an interest in property, including retention of title as a 
+     security interest and foreclosure of the depository 
+     institution's equity of redemption.''.
+       (2) Insured credit unions.--Section 207(c)(8)(D) of the 
+     Federal Credit Union Act (12 U.S.C. 1787(c)(8)(D)) (as 
+     amended by subsection (f) of this section) is amended by 
+     adding at the end the following new clause:
+       ``(viii) Transfer.--The term `transfer' means every mode, 
+     direct or indirect, absolute or conditional, voluntary or 
+     involuntary, of disposing of or parting with property or with 
+     an interest in property, including retention of title as a 
+     security interest and foreclosure of the depository 
+     institution's equity of redemption.''.
+       (h) Treatment of Qualified Financial Contracts.--
+       (1) FDIC-insured depository institutions.--Section 11(e)(8) 
+     of the Federal Deposit Insurance Act (12 U.S.C. 1821(e)(8)) 
+     is amended--
+       (A) in subparagraph (A)--
+       (i) by striking ``paragraph (10)'' and inserting 
+     ``paragraphs (9) and (10)'';
+       (ii) in clause (i), by striking ``to cause the termination 
+     or liquidation'' and inserting ``such person has to cause the 
+     termination, liquidation, or acceleration''; and
+       (iii) by striking clause (ii) and inserting the following 
+     new clause:
+       ``(ii) any right under any security agreement or 
+     arrangement or other credit enhancement related to one or 
+     more qualified financial contracts described in clause 
+     (i);''; and
+       (B) in subparagraph (E), by striking clause (ii) and 
+     inserting the following:
+       ``(ii) any right under any security agreement or 
+     arrangement or other credit enhancement related to one or 
+     more qualified financial contracts described in clause 
+     (i);''.
+       (2) Insured credit unions.--Section 207(c)(8) of the 
+     Federal Credit Union Act (12 U.S.C. 1787(c)(8)) is amended--
+       (A) in subparagraph (A)--
+       (i) by striking ``paragraph (12)'' and inserting 
+     ``paragraphs (9) and (10)'';
+       (ii) in clause (i), by striking ``to cause the termination 
+     or liquidation'' and inserting ``such person has to cause the 
+     termination, liquidation, or acceleration''; and
+       (iii) by striking clause (ii) and inserting the following 
+     new clause:
+       ``(ii) any right under any security agreement or 
+     arrangement or other credit enhancement related to 1 or more 
+     qualified financial contracts described in clause (i);''; and
+       (B) in subparagraph (E), by striking clause (ii) and 
+     inserting the following new clause:
+       ``(ii) any right under any security agreement or 
+     arrangement or other credit enhancement related to 1 or more 
+     qualified financial contracts described in clause (i);''.
+       (i) Avoidance of Transfers.--
+       (1) FDIC-insured depository institutions.--Section 
+     11(e)(8)(C)(i) of the Federal Deposit Insurance Act (12 
+     U.S.C. 1821(e)(8)(C)(i)) is amended by inserting ``section 
+     5242 of the Revised Statutes of the United States or any 
+     other Federal or State law relating to the avoidance of 
+     preferential or fraudulent transfers,'' before ``the 
+     Corporation''.
+       (2) Insured credit unions.--Section 207(c)(8)(C)(i) of the 
+     Federal Credit Union Act (12 U.S.C. 1787(c)(8)(C)(i)) is 
+     amended by inserting ``section 5242 of the Revised Statutes 
+     of the United States or any other Federal or State law 
+     relating to the avoidance of preferential or fraudulent 
+     transfers,'' before ``the Board''.
+
+     SEC. 902. AUTHORITY OF THE FDIC AND NCUAB WITH RESPECT TO 
+                   FAILED AND FAILING INSTITUTIONS.
+
+       (a) Federal Deposit Insurance Corporation.--
+       (1) In general.--Section 11(e)(8) of the Federal Deposit 
+     Insurance Act (12 U.S.C. 1821(e)(8)) is amended--
+       (A) in subparagraph (E), by striking ``other than paragraph 
+     (12) of this subsection, subsection (d)(9)'' and inserting 
+     ``other than subsections (d)(9) and (e)(10)''; and
+       (B) by adding at the end the following new subparagraphs:
+       ``(F) Clarification.--No provision of law shall be 
+     construed as limiting the right or power of the Corporation, 
+     or authorizing any court or agency to limit or delay, in any 
+     manner, the right or power of the Corporation to transfer any 
+     qualified financial contract in accordance with paragraphs 
+     (9) and (10) of this subsection or to disaffirm or repudiate 
+     any such contract in accordance with subsection (e)(1) of 
+     this section.
+       ``(G) Walkaway clauses not effective.--
+       ``(i) In general.--Notwithstanding the provisions of 
+     subparagraphs (A) and (E), and sections 403 and 404 of the 
+     Federal Deposit Insurance Corporation Improvement Act of 
+     1991, no walkaway clause shall be enforceable in a qualified 
+     financial contract of an insured depository institution in 
+     default.
+       ``(ii) Walkaway clause defined.--For purposes of this 
+     subparagraph, the term `walkaway clause' means a provision in 
+     a qualified financial contract that, after calculation of a 
+     value of a party's position or an amount due to or from 1 of 
+     the parties in accordance with its terms upon termination, 
+     liquidation, or acceleration of the qualified financial 
+     contract, either does not create a payment obligation of a 
+     party or extinguishes a payment obligation of a party in 
+     whole or in part solely because of such party's status as a 
+     nondefaulting party.''.
+       (2) Technical and conforming amendment.--Section 
+     11(e)(12)(A) of the Federal Deposit Insurance Act (12 U.S.C. 
+     1821(e)(12)(A)) is amended by inserting ``or the exercise of 
+     rights or powers by'' after ``the appointment of''.
+       (b) National Credit Union Administration Board.--
+       (1) In general.--Section 207(c)(8) of the Federal Credit 
+     Union Act (12 U.S.C. 1787(c)(8)) is amended--
+       (A) in subparagraph (E) (as amended by section 901(h)), by 
+     striking ``other than paragraph (12) of this subsection, 
+     subsection (b)(9)'' and inserting ``other than subsections 
+     (b)(9) and (c)(10)''; and
+       (B) by adding at the end the following new subparagraphs:
+       ``(F) Clarification.--No provision of law shall be 
+     construed as limiting the right or power of the Board, or 
+     authorizing any court or agency to limit or delay, in any 
+     manner, the right or power of the Board to transfer
+
+[[Page S2090]]
+
+     any qualified financial contract in accordance with 
+     paragraphs (9) and (10) of this subsection or to disaffirm or 
+     repudiate any such contract in accordance with subsection 
+     (c)(1) of this section.
+       ``(G) Walkaway clauses not effective.--
+       ``(i) In general.--Notwithstanding the provisions of 
+     subparagraphs (A) and (E), and sections 403 and 404 of the 
+     Federal Deposit Insurance Corporation Improvement Act of 
+     1991, no walkaway clause shall be enforceable in a qualified 
+     financial contract of an insured credit union in default.
+       ``(ii) Walkaway clause defined.--For purposes of this 
+     subparagraph, the term `walkaway clause' means a provision in 
+     a qualified financial contract that, after calculation of a 
+     value of a party's position or an amount due to or from 1 of 
+     the parties in accordance with its terms upon termination, 
+     liquidation, or acceleration of the qualified financial 
+     contract, either does not create a payment obligation of a 
+     party or extinguishes a payment obligation of a party in 
+     whole or in part solely because of such party's status as a 
+     nondefaulting party.''.
+       (2) Technical and conforming amendment.--Section 
+     207(c)(12)(A) of the Federal Credit Union Act (12 U.S.C. 
+     1787(c)(12)(A)) is amended by inserting ``or the exercise of 
+     rights or powers by'' after ``the appointment of''.
+
+     SEC. 903. AMENDMENTS RELATING TO TRANSFERS OF QUALIFIED 
+                   FINANCIAL CONTRACTS.
+
+       (a) FDIC-Insured Depository Institutions.--
+       (1) Transfers of Qualified Financial Contracts to Financial 
+     Institutions.--Section 11(e)(9) of the Federal Deposit 
+     Insurance Act (12 U.S.C. 1821(e)(9)) is amended to read as 
+     follows:
+       ``(9) Transfer of qualified financial contracts.--
+       ``(A) In general.--In making any transfer of assets or 
+     liabilities of a depository institution in default which 
+     includes any qualified financial contract, the conservator or 
+     receiver for such depository institution shall either--
+       ``(i) transfer to one financial institution, other than a 
+     financial institution for which a conservator, receiver, 
+     trustee in bankruptcy, or other legal custodian has been 
+     appointed or which is otherwise the subject of a bankruptcy 
+     or insolvency proceeding--
+
+       ``(I) all qualified financial contracts between any person 
+     or any affiliate of such person and the depository 
+     institution in default;
+       ``(II) all claims of such person or any affiliate of such 
+     person against such depository institution under any such 
+     contract (other than any claim which, under the terms of any 
+     such contract, is subordinated to the claims of general 
+     unsecured creditors of such institution);
+       ``(III) all claims of such depository institution against 
+     such person or any affiliate of such person under any such 
+     contract; and
+       ``(IV) all property securing or any other credit 
+     enhancement for any contract described in subclause (I) or 
+     any claim described in subclause (II) or (III) under any such 
+     contract; or
+
+       ``(ii) transfer none of the qualified financial contracts, 
+     claims, property or other credit enhancement referred to in 
+     clause (i) (with respect to such person and any affiliate of 
+     such person).
+       ``(B) Transfer to foreign bank, foreign financial 
+     institution, or branch or agency of a foreign bank or 
+     financial institution.--In transferring any qualified 
+     financial contracts and related claims and property under 
+     subparagraph (A)(i), the conservator or receiver for the 
+     depository institution shall not make such transfer to a 
+     foreign bank, financial institution organized under the laws 
+     of a foreign country, or a branch or agency of a foreign bank 
+     or financial institution unless, under the law applicable to 
+     such bank, financial institution, branch or agency, to the 
+     qualified financial contracts, and to any netting contract, 
+     any security agreement or arrangement or other credit 
+     enhancement related to one or more qualified financial 
+     contracts, the contractual rights of the parties to such 
+     qualified financial contracts, netting contracts, security 
+     agreements or arrangements, or other credit enhancements are 
+     enforceable substantially to the same extent as permitted 
+     under this section.
+       ``(C) Transfer of contracts subject to the rules of a 
+     clearing organization.--In the event that a conservator or 
+     receiver transfers any qualified financial contract and 
+     related claims, property, and credit enhancements pursuant to 
+     subparagraph (A)(i) and such contract is cleared by or 
+     subject to the rules of a clearing organization, the clearing 
+     organization shall not be required to accept the transferee 
+     as a member by virtue of the transfer.
+       ``(D) Definitions.--For purposes of this paragraph, the 
+     term `financial institution' means a broker or dealer, a 
+     depository institution, a futures commission merchant, or any 
+     other institution, as determined by the Corporation by 
+     regulation to be a financial institution, and the term 
+     `clearing organization' has the same meaning as in section 
+     402 of the Federal Deposit Insurance Corporation Improvement 
+     Act of 1991.''.
+       (2) Notice to qualified financial contract 
+     counterparties.--Section 11(e)(10)(A) of the Federal Deposit 
+     Insurance Act (12 U.S.C. 1821(e)(10)(A)) is amended in the 
+     material immediately following clause (ii) by striking ``the 
+     conservator'' and all that follows through the period and 
+     inserting the following: ``the conservator or receiver shall 
+     notify any person who is a party to any such contract of such 
+     transfer by 5:00 p.m. (eastern time) on the business day 
+     following the date of the appointment of the receiver in the 
+     case of a receivership, or the business day following such 
+     transfer in the case of a conservatorship.''.
+       (3) Rights against receiver and conservator and treatment 
+     of bridge banks.--Section 11(e)(10) of the Federal Deposit 
+     Insurance Act (12 U.S.C. 1821(e)(10)) is amended--
+       (A) by redesignating subparagraph (B) as subparagraph (D); 
+     and
+       (B) by inserting after subparagraph (A) the following new 
+     subparagraphs:
+       ``(B) Certain rights not enforceable.--
+       ``(i) Receivership.--A person who is a party to a qualified 
+     financial contract with an insured depository institution may 
+     not exercise any right that such person has to terminate, 
+     liquidate, or net such contract under paragraph (8)(A) of 
+     this subsection or section 403 or 404 of the Federal Deposit 
+     Insurance Corporation Improvement Act of 1991, solely by 
+     reason of or incidental to the appointment of a receiver for 
+     the depository institution (or the insolvency or financial 
+     condition of the depository institution for which the 
+     receiver has been appointed)--
+
+       ``(I) until 5:00 p.m. (eastern time) on the business day 
+     following the date of the appointment of the receiver; or
+       ``(II) after the person has received notice that the 
+     contract has been transferred pursuant to paragraph (9)(A).
+
+       ``(ii) Conservatorship.--A person who is a party to a 
+     qualified financial contract with an insured depository 
+     institution may not exercise any right that such person has 
+     to terminate, liquidate, or net such contract under paragraph 
+     (8)(E) of this subsection or section 403 or 404 of the 
+     Federal Deposit Insurance Corporation Improvement Act of 
+     1991, solely by reason of or incidental to the appointment of 
+     a conservator for the depository institution (or the 
+     insolvency or financial condition of the depository 
+     institution for which the conservator has been appointed).
+       ``(iii) Notice.--For purposes of this paragraph, the 
+     Corporation as receiver or conservator of an insured 
+     depository institution shall be deemed to have notified a 
+     person who is a party to a qualified financial contract with 
+     such depository institution if the Corporation has taken 
+     steps reasonably calculated to provide notice to such person 
+     by the time specified in subparagraph (A).
+       ``(C) Treatment of bridge banks.--The following 
+     institutions shall not be considered to be a financial 
+     institution for which a conservator, receiver, trustee in 
+     bankruptcy, or other legal custodian has been appointed or 
+     which is otherwise the subject of a bankruptcy or insolvency 
+     proceeding for purposes of paragraph (9):
+       ``(i) A bridge bank.
+       ``(ii) A depository institution organized by the 
+     Corporation, for which a conservator is appointed either--
+
+       ``(I) immediately upon the organization of the institution; 
+     or
+       ``(II) at the time of a purchase and assumption transaction 
+     between the depository institution and the Corporation as 
+     receiver for a depository institution in default.''.
+
+       (b) Insured Credit Unions.--
+       (1) Transfers of qualified financial contracts to financial 
+     institutions.--Section 207(c)(9) of the Federal Credit Union 
+     Act (12 U.S.C. 1787(c)(9)) is amended to read as follows:
+       ``(9) Transfer of qualified financial contracts.--
+       ``(A) In general.--In making any transfer of assets or 
+     liabilities of a credit union in default which includes any 
+     qualified financial contract, the conservator or liquidating 
+     agent for such credit union shall either--
+       ``(i) transfer to 1 financial institution, other than a 
+     financial institution for which a conservator, receiver, 
+     trustee in bankruptcy, or other legal custodian has been 
+     appointed or which is otherwise the subject of a bankruptcy 
+     or insolvency proceeding--
+
+       ``(I) all qualified financial contracts between any person 
+     or any affiliate of such person and the credit union in 
+     default;
+       ``(II) all claims of such person or any affiliate of such 
+     person against such credit union under any such contract 
+     (other than any claim which, under the terms of any such 
+     contract, is subordinated to the claims of general unsecured 
+     creditors of such credit union);
+       ``(III) all claims of such credit union against such person 
+     or any affiliate of such person under any such contract; and
+       ``(IV) all property securing or any other credit 
+     enhancement for any contract described in subclause (I) or 
+     any claim described in subclause (II) or (III) under any such 
+     contract; or
+
+       ``(ii) transfer none of the qualified financial contracts, 
+     claims, property or other credit enhancement referred to in 
+     clause (i) (with respect to such person and any affiliate of 
+     such person).
+       ``(B) Transfer to foreign bank, foreign financial 
+     institution, or branch or agency of a foreign bank or 
+     financial institution.--In transferring any qualified 
+     financial contracts and related claims and property under 
+     subparagraph (A)(i), the conservator or liquidating agent for 
+     the credit union shall not make such transfer to a foreign 
+     bank, financial institution organized under the laws of a 
+     foreign country, or a branch or agency of a foreign bank or 
+     financial institution unless, under the law applicable to 
+     such
+
+[[Page S2091]]
+
+     bank, financial institution, branch or agency, to the 
+     qualified financial contracts, and to any netting contract, 
+     any security agreement or arrangement or other credit 
+     enhancement related to 1 or more qualified financial 
+     contracts, the contractual rights of the parties to such 
+     qualified financial contracts, netting contracts, security 
+     agreements or arrangements, or other credit enhancements are 
+     enforceable substantially to the same extent as permitted 
+     under this section.
+       ``(C) Transfer of contracts subject to the rules of a 
+     clearing organization.--In the event that a conservator or 
+     liquidating agent transfers any qualified financial contract 
+     and related claims, property, and credit enhancements 
+     pursuant to subparagraph (A)(i) and such contract is cleared 
+     by or subject to the rules of a clearing organization, the 
+     clearing organization shall not be required to accept the 
+     transferee as a member by virtue of the transfer.
+       ``(D) Definitions.--For purposes of this paragraph--
+       ``(i) the term `financial institution' means a broker or 
+     dealer, a depository institution, a futures commission 
+     merchant, a credit union, or any other institution, as 
+     determined by the Board by regulation to be a financial 
+     institution; and
+       ``(ii) the term `clearing organization' has the same 
+     meaning as in section 402 of the Federal Deposit Insurance 
+     Corporation Improvement Act of 1991.''.
+       (2) Notice to qualified financial contract 
+     counterparties.--Section 207(c)(10)(A) of the Federal Credit 
+     Union Act (12 U.S.C. 1787(c)(10)(A)) is amended in the 
+     material immediately following clause (ii) by striking ``the 
+     conservator'' and all that follows through the period and 
+     inserting the following: ``the conservator or liquidating 
+     agent shall notify any person who is a party to any such 
+     contract of such transfer by 5:00 p.m. (eastern time) on the 
+     business day following the date of the appointment of the 
+     liquidating agent in the case of a liquidation, or the 
+     business day following such transfer in the case of a 
+     conservatorship.''.
+       (3) Rights against liquidating agent and conservator and 
+     treatment of bridge banks.--Section 207(c)(10) of the Federal 
+     Credit Union Act (12 U.S.C. 1787(c)(10)) is amended--
+       (A) by redesignating subparagraph (B) as subparagraph (D); 
+     and
+       (B) by inserting after subparagraph (A) the following new 
+     subparagraphs:
+       ``(B) Certain rights not enforceable.--
+       ``(i) Liquidation.--A person who is a party to a qualified 
+     financial contract with an insured credit union may not 
+     exercise any right that such person has to terminate, 
+     liquidate, or net such contract under paragraph (8)(A) of 
+     this subsection or section 403 or 404 of the Federal Deposit 
+     Insurance Corporation Improvement Act of 1991, solely by 
+     reason of or incidental to the appointment of a liquidating 
+     agent for the credit union institution (or the insolvency or 
+     financial condition of the credit union for which the 
+     liquidating agent has been appointed)--
+
+       ``(I) until 5:00 p.m. (eastern time) on the business day 
+     following the date of the appointment of the liquidating 
+     agent; or
+       ``(II) after the person has received notice that the 
+     contract has been transferred pursuant to paragraph (9)(A).
+
+       ``(ii) Conservatorship.--A person who is a party to a 
+     qualified financial contract with an insured credit union may 
+     not exercise any right that such person has to terminate, 
+     liquidate, or net such contract under paragraph (8)(E) of 
+     this subsection or section 403 or 404 of the Federal Deposit 
+     Insurance Corporation Improvement Act of 1991, solely by 
+     reason of or incidental to the appointment of a conservator 
+     for the credit union or the insolvency or financial condition 
+     of the credit union for which the conservator has been 
+     appointed).
+       ``(iii) Notice.--For purposes of this paragraph, the Board 
+     as conservator or liquidating agent of an insured credit 
+     union shall be deemed to have notified a person who is a 
+     party to a qualified financial contract with such credit 
+     union if the Board has taken steps reasonably calculated to 
+     provide notice to such person by the time specified in 
+     subparagraph (A).
+       ``(C) Treatment of bridge banks.--The following 
+     institutions shall not be considered to be a financial 
+     institution for which a conservator, receiver, trustee in 
+     bankruptcy, or other legal custodian has been appointed or 
+     which is otherwise the subject of a bankruptcy or insolvency 
+     proceeding for purposes of paragraph (9):
+       ``(i) A bridge bank.
+       ``(ii) A credit union organized by the Board, for which a 
+     conservator is appointed either--
+
+       ``(I) immediately upon the organization of the credit 
+     union; or
+       ``(II) at the time of a purchase and assumption transaction 
+     between the credit union and the Board as receiver for a 
+     credit union in default.''.
+
+     SEC. 904. AMENDMENTS RELATING TO DISAFFIRMANCE OR REPUDIATION 
+                   OF QUALIFIED FINANCIAL CONTRACTS.
+
+       (a) FDIC-Insured Depository Institutions.--Section 11(e) of 
+     the Federal Deposit Insurance Act (12 U.S.C. 1821(e)) is 
+     amended--
+       (1) by redesignating paragraphs (11) through (15) as 
+     paragraphs (12) through (16), respectively;
+       (2) by inserting after paragraph (10) the following new 
+     paragraph:
+       ``(11) Disaffirmance or repudiation of qualified financial 
+     contracts.--In exercising the rights of disaffirmance or 
+     repudiation of a conservator or receiver with respect to any 
+     qualified financial contract to which an insured depository 
+     institution is a party, the conservator or receiver for such 
+     institution shall either--
+       ``(A) disaffirm or repudiate all qualified financial 
+     contracts between--
+       ``(i) any person or any affiliate of such person; and
+       ``(ii) the depository institution in default; or
+       ``(B) disaffirm or repudiate none of the qualified 
+     financial contracts referred to in subparagraph (A) (with 
+     respect to such person or any affiliate of such person).''; 
+     and
+       (3) by adding at the end the following new paragraph:
+       ``(17) Savings clause.--The meanings of terms used in this 
+     subsection are applicable for purposes of this subsection 
+     only, and shall not be construed or applied so as to 
+     challenge or affect the characterization, definition, or 
+     treatment of any similar terms under any other statute, 
+     regulation, or rule, including the Gramm-Leach-Bliley Act, 
+     the Legal Certainty for Bank Products Act of 2000, the 
+     securities laws (as that term is defined in section 3(a)(47) 
+     of the Securities Exchange Act of 1934), and the Commodity 
+     Exchange Act.''.
+       (b) Insured Credit Unions.--Section 207(c) of the Federal 
+     Credit Union Act (12 U.S.C. 1787(c)) is amended--
+       (1) by redesignating paragraphs (11), (12), and (13) as 
+     paragraphs (12), (13), and (14), respectively;
+       (2) by inserting after paragraph (10) the following new 
+     paragraph:
+       ``(11) Disaffirmance or repudiation of qualified financial 
+     contracts.--In exercising the rights of disaffirmance or 
+     repudiation of a conservator or liquidating agent with 
+     respect to any qualified financial contract to which an 
+     insured credit union is a party, the conservator or 
+     liquidating agent for such credit union shall either--
+       ``(A) disaffirm or repudiate all qualified financial 
+     contracts between--
+       ``(i) any person or any affiliate of such person; and
+       ``(ii) the credit union in default; or
+       ``(B) disaffirm or repudiate none of the qualified 
+     financial contracts referred to in subparagraph (A) (with 
+     respect to such person or any affiliate of such person).''; 
+     and
+       (3) by adding at the end the following new paragraph:
+       ``(15) Savings clause.--The meanings of terms used in this 
+     subsection are applicable for purposes of this subsection 
+     only, and shall not be construed or applied so as to 
+     challenge or affect the characterization, definition, or 
+     treatment of any similar terms under any other statute, 
+     regulation, or rule, including the Gramm-Leach-Bliley Act, 
+     the Legal Certainty for Bank Products Act of 2000, the 
+     securities laws (as that term is defined in section (a)(47) 
+     of the Securities Exchange Act of 1934), and the Commodity 
+     Exchange Act.''.
+
+     SEC. 905. CLARIFYING AMENDMENT RELATING TO MASTER AGREEMENTS 
+                   AND DEFINITION OF PERSON.
+
+       (a) FDIC-Insured Depository Institutions.--
+       (1) Master Agreement.--Section 11(e)(8)(D)(vii) of the 
+     Federal Deposit Insurance Act (12 U.S.C. 1821(e)(8)(D)(vii)) 
+     is amended to read as follows:
+       ``(vii) Treatment of master agreement as one agreement.--
+     Any master agreement for any contract or agreement described 
+     in any preceding clause of this subparagraph (or any master 
+     agreement for such master agreement or agreements), together 
+     with all supplements to such master agreement, shall be 
+     treated as a single agreement and a single qualified 
+     financial contract. If a master agreement contains provisions 
+     relating to agreements or transactions that are not 
+     themselves qualified financial contracts, the master 
+     agreement shall be deemed to be a qualified financial 
+     contract only with respect to those transactions that are 
+     themselves qualified financial contracts.''.
+       (2) Person.--Section 11(e)(8)(D)of the Federal Deposit 
+     Insurance Act (12 U.S.C. 1821(e)(8)(D)) is amended by adding 
+     at the end the following:
+       ``(ix) For purposes of this subsection, `person' shall 
+     include any governmental entity and any entity set forth in 
+     the definition of `person' in section of title 1, United 
+     States Code.''.
+       (b) Insured Credit Unions.--Section 207(c)(8)(D) of the 
+     Federal Credit Union Act (12 U.S.C. 1787(c)(8)(D)) is amended 
+     by inserting after clause (vi) (as added by section 901(f)) 
+     the following new clause:
+       ``(vii) Treatment of master agreement as one agreement.--
+     Any master agreement for any contract or agreement described 
+     in any preceding clause of this subparagraph (or any master 
+     agreement for such master agreement or agreements), together 
+     with all supplements to such master agreement, shall be 
+     treated as a single agreement and a single qualified 
+     financial contract. If a master agreement contains provisions 
+     relating to agreements or transactions that are not 
+     themselves qualified financial contracts, the master 
+     agreement shall be deemed to be a qualified financial 
+     contract only with respect to those transactions that are 
+     themselves qualified financial contracts.''.
+
+[[Page S2092]]
+
+     SEC. 906. FEDERAL DEPOSIT INSURANCE CORPORATION IMPROVEMENT 
+                   ACT OF 1991.
+
+       (a) Definitions.--Section 402 of the Federal Deposit 
+     Insurance Corporation Improvement Act of 1991 (12 U.S.C. 
+     4402) is amended--
+       (1) in paragraph (2)--
+       (A) in subparagraph (A)(ii), by inserting before the 
+     semicolon ``, or is exempt from such registration by order of 
+     the Securities and Exchange Commission''; and
+       (B) in subparagraph (B), by inserting before the period ``, 
+     that has been granted an exemption under section 4(c)(1) of 
+     the Commodity Exchange Act, or that is a multilateral 
+     clearing organization (as defined in section 408 of this 
+     Act)'';
+       (2) in paragraph (6)--
+       (A) by redesignating subparagraphs (B) through (D) as 
+     subparagraphs (C) through (E), respectively;
+       (B) by inserting after subparagraph (A) the following new 
+     subparagraph:
+       ``(B) an uninsured national bank or an uninsured State bank 
+     that is a member of the Federal Reserve System, if the 
+     national bank or State member bank is not eligible to make 
+     application to become an insured bank under section 5 of the 
+     Federal Deposit Insurance Act;''; and
+       (C) by amending subparagraph (C), so redesignated, to read 
+     as follows:
+       ``(C) a branch or agency of a foreign bank, a foreign bank 
+     and any branch or agency of the foreign bank, or the foreign 
+     bank that established the branch or agency, as those terms 
+     are defined in section 1(b) of the International Banking Act 
+     of 1978;'';
+       (3) in paragraph (11), by inserting before the period ``and 
+     any other clearing organization with which such clearing 
+     organization has a netting contract'';
+       (4) by amending paragraph (14)(A)(i) to read as follows:
+       ``(i) means a contract or agreement between 2 or more 
+     financial institutions, clearing organizations, or members 
+     that provides for netting present or future payment 
+     obligations or payment entitlements (including liquidation or 
+     close out values relating to such obligations or 
+     entitlements) among the parties to the agreement; and''; and
+       (5) by adding at the end the following new paragraph:
+       ``(15) Payment.--The term `payment' means a payment of 
+     United States dollars, another currency, or a composite 
+     currency, and a noncash delivery, including a payment or 
+     delivery to liquidate an unmatured obligation.''.
+       (b) Enforceability of Bilateral Netting Contracts.--Section 
+     403 of the Federal Deposit Insurance Corporation Improvement 
+     Act of 1991 (12 U.S.C. 4403) is amended--
+       (1) by striking subsection (a) and inserting the following:
+       ``(a) General Rule.--Notwithstanding any other provision of 
+     State or Federal law (other than section 11(e) of the Federal 
+     Deposit Insurance Act, paragraphs (8)(E), (8)(F), and (10)(B) 
+     of section 207(c) of the Federal Credit Union Act, or any 
+     order authorized under section 5(b)(2) of the Securities 
+     Investor Protection Act of 1970), the covered contractual 
+     payment obligations and the covered contractual payment 
+     entitlements between any 2 financial institutions shall be 
+     terminated, liquidated, accelerated, and netted in accordance 
+     with, and subject to the conditions of, the terms of any 
+     applicable netting contract (except as provided in section 
+     561(b)(2) of title 11, United States Code).''; and
+       (2) by adding at the end the following new subsection:
+       ``(f) Enforceability of Security Agreements.--The 
+     provisions of any security agreement or arrangement or other 
+     credit enhancement related to one or more netting contracts 
+     between any 2 financial institutions shall be enforceable in 
+     accordance with their terms (except as provided in section 
+     561(b)(2) of title 11, United States Code), and shall not be 
+     stayed, avoided, or otherwise limited by any State or Federal 
+     law (other than paragraphs (8)(E), (8)(F), and (10)(B) of 
+     section 11(e) of the Federal Deposit Insurance Act, 
+     paragraphs (8)(E), (8)(F), and (10)(B) of section 207(c) of 
+     the Federal Credit Union Act, and section 5(b)(2) of the 
+     Securities Investor Protection Act of 1970).''.
+       (c) Enforceability of Clearing Organization Netting 
+     Contracts.--Section 404 of the Federal Deposit Insurance 
+     Corporation Improvement Act of 1991 (12 U.S.C. 4404) is 
+     amended--
+       (1) by striking subsection (a) and inserting the following:
+       ``(a) General Rule.--Notwithstanding any other provision of 
+     State or Federal law (other than section 11(e) of the Federal 
+     Deposit Insurance Act, paragraphs (8)(E), (8)(F), and (10)(B) 
+     of section 207(c) of the Federal Credit Union Act, and any 
+     order authorized under section 5(b)(2) of the Securities 
+     Investor Protection Act of 1970), the covered contractual 
+     payment obligations and the covered contractual payment 
+     entitlements of a member of a clearing organization to and 
+     from all other members of a clearing organization shall be 
+     terminated, liquidated, accelerated, and netted in accordance 
+     with and subject to the conditions of any applicable netting 
+     contract (except as provided in section 561(b)(2) of title 
+     11, United States Code).''; and
+       (2) by adding at the end the following new subsection:
+       ``(h) Enforceability of Security Agreements.--The 
+     provisions of any security agreement or arrangement or other 
+     credit enhancement related to one or more netting contracts 
+     between any 2 members of a clearing organization shall be 
+     enforceable in accordance with their terms (except as 
+     provided in section 561(b)(2) of title 11, United States 
+     Code), and shall not be stayed, avoided, or otherwise limited 
+     by any State or Federal law (other than paragraphs (8)(E), 
+     (8)(F), and (10)(B) of section 11(e) of the Federal Deposit 
+     Insurance Act, paragraphs (8)(E), (8)(F), and (10)(B) of 
+     section 207(c) of the Federal Credit Union Act, and section 
+     5(b)(2) of the Securities Investor Protection Act of 
+     1970).''.
+       (d) Enforceability of Contracts With Uninsured National 
+     Banks, Uninsured Federal Branches and Agencies, Certain 
+     Uninsured State Member Banks, and Edge Act Corporations.--The 
+     Federal Deposit Insurance Corporation Improvement Act of 1991 
+     (12 U.S.C. 4401 et seq.) is amended--
+       (1) by redesignating section 407 as section 407A; and
+       (2) by inserting after section 406 the following new 
+     section:
+
+     ``SEC. 407. TREATMENT OF CONTRACTS WITH UNINSURED NATIONAL 
+                   BANKS, UNINSURED FEDERAL BRANCHES AND AGENCIES, 
+                   CERTAIN UNINSURED STATE MEMBER BANKS, AND EDGE 
+                   ACT CORPORATIONS.
+
+       ``(a) In General.--Notwithstanding any other provision of 
+     law, paragraphs (8), (9), (10), and (11) of section 11(e) of 
+     the Federal Deposit Insurance Act shall apply to an uninsured 
+     national bank or uninsured Federal branch or Federal agency, 
+     a corporation chartered under section 25A of the Federal 
+     Reserve Act, or an uninsured State member bank which 
+     operates, or operates as, a multilateral clearing 
+     organization pursuant to section 409 of this Act, except that 
+     for such purpose--
+       ``(1) any reference to the `Corporation as receiver' or 
+     `the receiver or the Corporation' shall refer to the receiver 
+     appointed by the Comptroller of the Currency in the case of 
+     an uninsured national bank or uninsured Federal branch or 
+     agency, or to the receiver appointed by the Board of 
+     Governors of the Federal Reserve System in the case of a 
+     corporation chartered under section 25A of the Federal 
+     Reserve Act or an uninsured State member bank;
+       ``(2) any reference to the `Corporation' (other than in 
+     section 11(e)(8)(D) of such Act), the `Corporation, whether 
+     acting as such or as conservator or receiver', a `receiver', 
+     or a `conservator' shall refer to the receiver or conservator 
+     appointed by the Comptroller of the Currency in the case of 
+     an uninsured national bank or uninsured Federal branch or 
+     agency, or to the receiver or conservator appointed by the 
+     Board of Governors of the Federal Reserve System in the case 
+     of a corporation chartered under section 25A of the Federal 
+     Reserve Act or an uninsured State member bank; and
+       ``(3) any reference to an `insured depository institution' 
+     or `depository institution' shall refer to an uninsured 
+     national bank, an uninsured Federal branch or Federal agency, 
+     a corporation chartered under section 25A of the Federal 
+     Reserve Act, or an uninsured State member bank which 
+     operates, or operates as, a multilateral clearing 
+     organization pursuant to section 409 of this Act.
+       ``(b) Liability.--The liability of a receiver or 
+     conservator of an uninsured national bank, uninsured Federal 
+     branch or agency, a corporation chartered under section 25A 
+     of the Federal Reserve Act, or an uninsured State member bank 
+     which operates, or operates as, a multilateral clearing 
+     organization pursuant to section 409 of this Act, shall be 
+     determined in the same manner and subject to the same 
+     limitations that apply to receivers and conservators of 
+     insured depository institutions under section 11(e) of the 
+     Federal Deposit Insurance Act.
+       ``(c) Regulatory Authority.--
+       ``(1) In general.--The Comptroller of the Currency in the 
+     case of an uninsured national bank or uninsured Federal 
+     branch or agency and the Board of Governors of the Federal 
+     Reserve System in the case of a corporation chartered under 
+     section 25A of the Federal Reserve Act, or an uninsured State 
+     member bank that operates, or operates as, a multilateral 
+     clearing organization pursuant to section 409 of this Act, in 
+     consultation with the Federal Deposit Insurance Corporation, 
+     may each promulgate regulations solely to implement this 
+     section.
+       ``(2) Specific requirement.--In promulgating regulations, 
+     limited solely to implementing paragraphs (8), (9), (10), and 
+     (11) of section 11(e) of the Federal Deposit Insurance Act, 
+     the Comptroller of the Currency and the Board of Governors of 
+     the Federal Reserve System each shall ensure that the 
+     regulations generally are consistent with the regulations and 
+     policies of the Federal Deposit Insurance Corporation adopted 
+     pursuant to the Federal Deposit Insurance Act.
+       ``(d) Definitions.--For purposes of this section, the terms 
+     `Federal branch', `Federal agency', and `foreign bank' have 
+     the same meanings as in section 1(b) of the International 
+     Banking Act of 1978.''.
+
+     SEC. 907. BANKRUPTCY CODE AMENDMENTS.
+
+       (a) Definitions of Forward Contract, Repurchase Agreement, 
+     Securities Clearing Agency, Swap Agreement, Commodity 
+     Contract, and Securities Contract.--Title 11, United States 
+     Code, is amended--
+       (1) in section 101--
+       (A) in paragraph (25)--
+       (i) by striking ``means a contract'' and inserting 
+     ``means--
+       ``(A) a contract'';
+       (ii) by inserting ``as defined in section 761 of this 
+     title'' after ``commodity contract'';
+
+[[Page S2093]]
+
+       (iii) by striking ``, or any combination thereof or option 
+     thereon;'' and inserting ``, or any other similar 
+     agreement;''; and
+       (iv) by striking ``repurchase transaction, reverse 
+     repurchase transaction,'' and inserting ``repurchase or 
+     reverse repurchase transaction (whether or not such 
+     repurchase or reverse repurchase transaction is a repurchase 
+     agreement as defined in section 101)''; and
+       (v) by adding at the end the following:
+       ``(B) any combination of agreements or transactions 
+     referred to in subparagraphs (A) and (C);
+       ``(C) any option to enter into an agreement or transaction 
+     referred to in subparagraph (A) or (B);
+       ``(D) a master agreement that provides for an agreement or 
+     transaction referred to in subparagraph (A), (B), or (C), 
+     together with all supplements to any such master agreement, 
+     without regard to whether such master agreement provides for 
+     an agreement or transaction that is not a forward contract 
+     under this paragraph, except that such master agreement shall 
+     be considered to be a forward contract under this paragraph 
+     only with respect to each agreement or transaction under such 
+     master agreement that is referred to in subparagraph (A), 
+     (B), or (C); or
+       ``(E) any security agreement or arrangement, or other 
+     credit enhancement related to any agreement or transaction 
+     referred to in subparagraph (A), (B), (C), or (D), including 
+     any guarantee or reimbursement obligation by or to a forward 
+     contract merchant or financial participant in connection with 
+     any agreement or transaction referred to in any such 
+     subparagraph, but not to exceed the damages in connection 
+     with any such agreement or transaction, measured in 
+     accordance with section 562;'';
+       (B) in paragraph (46), by striking ``on any day during the 
+     period beginning 90 days before the date of'' and inserting 
+     ``at any time before'';
+       (C) by amending paragraph (47) to read as follows:
+       ``(47) `repurchase agreement' (which definition also 
+     applies to a reverse repurchase agreement)--
+       ``(A) means--
+       ``(i) an agreement, including related terms, which provides 
+     for the transfer of one or more certificates of deposit, 
+     mortgage related securities (as defined in section 3 of the 
+     Securities Exchange Act of 1934), mortgage loans, interests 
+     in mortgage related securities or mortgage loans, eligible 
+     bankers' acceptances, qualified foreign government securities 
+     (defined as a security that is a direct obligation of, or 
+     that is fully guaranteed by, the central government of a 
+     member of the Organization for Economic Cooperation and 
+     Development), or securities that are direct obligations of, 
+     or that are fully guaranteed by, the United States or any 
+     agency of the United States against the transfer of funds by 
+     the transferee of such certificates of deposit, eligible 
+     bankers' acceptances, securities, mortgage loans, or 
+     interests, with a simultaneous agreement by such transferee 
+     to transfer to the transferor thereof certificates of 
+     deposit, eligible bankers' acceptance, securities, mortgage 
+     loans, or interests of the kind described in this clause, at 
+     a date certain not later than 1 year after such transfer or 
+     on demand, against the transfer of funds;
+       ``(ii) any combination of agreements or transactions 
+     referred to in clauses (i) and (iii);
+       ``(iii) an option to enter into an agreement or transaction 
+     referred to in clause (i) or (ii);
+       ``(iv) a master agreement that provides for an agreement or 
+     transaction referred to in clause (i), (ii), or (iii), 
+     together with all supplements to any such master agreement, 
+     without regard to whether such master agreement provides for 
+     an agreement or transaction that is not a repurchase 
+     agreement under this paragraph, except that such master 
+     agreement shall be considered to be a repurchase agreement 
+     under this paragraph only with respect to each agreement or 
+     transaction under the master agreement that is referred to in 
+     clause (i), (ii), or (iii); or
+       ``(v) any security agreement or arrangement or other credit 
+     enhancement related to any agreement or transaction referred 
+     to in clause (i), (ii), (iii), or (iv), including any 
+     guarantee or reimbursement obligation by or to a 
+     repoparticipant or financial participant in connection with 
+     any agreement or transaction referred to in any such clause, 
+     but not to exceed the damages in connection with any such 
+     agreement or transaction, measured in accordance with section 
+     562 of this title; and
+       ``(B) does not include a repurchase obligation under a 
+     participation in a commercial mortgage loan;'';
+       (D) in paragraph (48), by inserting ``, or exempt from such 
+     registration under such section pursuant to an order of the 
+     Securities and Exchange Commission,'' after ``1934''; and
+       (E) by amending paragraph (53B) to read as follows:
+       ``(53B) `swap agreement'--
+       ``(A) means--
+       ``(i) any agreement, including the terms and conditions 
+     incorporated by reference in such agreement, which is--
+
+       ``(I) an interest rate swap, option, future, or forward 
+     agreement, including a rate floor, rate cap, rate collar, 
+     cross-currency rate swap, and basis swap;
+       ``(II) a spot, same day-tomorrow, tomorrow-next, forward, 
+     or other foreign exchange, precious metals, or other 
+     commodity agreement;
+       ``(III) a currency swap, option, future, or forward 
+     agreement;
+       ``(IV) an equity index or equity swap, option, future, or 
+     forward agreement;
+       ``(V) a debt index or debt swap, option, future, or forward 
+     agreement;
+       ``(VI) a total return, credit spread or credit swap, 
+     option, future, or forward agreement;
+       ``(VII) a commodity index or a commodity swap, option, 
+     future, or forward agreement; or
+       ``(VIII) a weather swap, option, future, or forward 
+     agreement;
+       ``(IX) an emissions swap, option, future, or forward 
+     agreement; or
+       ``(X) an inflation swap, option, future, or forward 
+     agreement;
+
+       ``(ii) any agreement or transaction that is similar to any 
+     other agreement or transaction referred to in this paragraph 
+     and that--
+
+       ``(I) is of a type that has been, is presently, or in the 
+     future becomes, the subject of recurrent dealings in the swap 
+     or other derivatives markets (including terms and conditions 
+     incorporated by reference therein); and
+       ``(II) is a forward, swap, future, option, or spot 
+     transaction on one or more rates, currencies, commodities, 
+     equity securities, or other equity instruments, debt 
+     securities or other debt instruments, quantitative measures 
+     associated with an occurrence, extent of an occurrence, or 
+     contingency associated with a financial, commercial, or 
+     economic consequence, or economic or financial indices or 
+     measures of economic or financial risk or value;
+
+       ``(iii) any combination of agreements or transactions 
+     referred to in this subparagraph;
+       ``(iv) any option to enter into an agreement or transaction 
+     referred to in this subparagraph;
+       ``(v) a master agreement that provides for an agreement or 
+     transaction referred to in clause (i), (ii), (iii), or (iv), 
+     together with all supplements to any such master agreement, 
+     and without regard to whether the master agreement contains 
+     an agreement or transaction that is not a swap agreement 
+     under this paragraph, except that the master agreement shall 
+     be considered to be a swap agreement under this paragraph 
+     only with respect to each agreement or transaction under the 
+     master agreement that is referred to in clause (i), (ii), 
+     (iii), or (iv); or
+       ``(vi) any security agreement or arrangement or other 
+     credit enhancement related to any agreements or transactions 
+     referred to in clause (i) through (v), including any 
+     guarantee or reimbursement obligation by or to a swap 
+     participant or financial participant in connection with any 
+     agreement or transaction referred to in any such clause, but 
+     not to exceed the damages in connection with any such 
+     agreement or transaction, measured in accordance with section 
+     562; and
+       ``(B) is applicable for purposes of this title only, and 
+     shall not be construed or applied so as to challenge or 
+     affect the characterization, definition, or treatment of any 
+     swap agreement under any other statute, regulation, or rule, 
+     including the Securities Act of 1933, the Securities Exchange 
+     Act of 1934, the Public Utility Holding Company Act of 1935, 
+     the Trust Indenture Act of 1939, the Investment Company Act 
+     of 1940, the Investment Advisers Act of 1940, the Securities 
+     Investor Protection Act of 1970, the Commodity Exchange Act, 
+     the Gramm-Leach-Bliley Act, and the Legal Certainty for Bank 
+     Products Act of 2000;'';
+       (2) in section 741(7), by striking paragraph (7) and 
+     inserting the following:
+       ``(7) `securities contract'--
+       ``(A) means--
+       ``(i) a contract for the purchase, sale, or loan of a 
+     security, a certificate of deposit, a mortgage loan, any 
+     interest in a mortgage loan, a group or index of securities, 
+     certificates of deposit, or mortgage loans or interests 
+     therein (including an interest therein or based on the value 
+     thereof), or option on any of the foregoing, including an 
+     option to purchase or sell any such security, certificate of 
+     deposit, mortgage loan, interest, group or index, or option, 
+     and including any repurchase or reverse repurchase 
+     transaction on any such security, certificate of deposit, 
+     mortgage loan, interest, group or index, or option (whether 
+     or not such repurchase or reverse repurchase transaction is a 
+     ``repurchase agreement'' as defined in section 101);
+       ``(ii) any option entered into on a national securities 
+     exchange relating to foreign currencies;
+       ``(iii) the guarantee (including by novation) by or to any 
+     securities clearing agency of a settlement of cash, 
+     securities, certificates of deposit, mortgage loans or 
+     interests therein, group or index of securities, or mortgage 
+     loans or interests therein (including any interest therein or 
+     based on the value thereof), or option on any of the 
+     foregoing, including an option to purchase or sell any such 
+     security, certificate of deposit, mortgage loan, interest, 
+     group or index, or option (whether or not such settlement is 
+     in connection with any agreement or transaction referred to 
+     in clause (i), (ii), (iii), (iv), (v), (vi), (vii), (viii), 
+     (ix), or (x));
+       ``(iv) any margin loan;
+       ``(v) any extension of credit for the clearance or 
+     settlement of securities transactions;
+       ``(vi) any collar/loan transaction related to securities, 
+     prepaid forward transaction related to securities, or sale/
+     total return swap transaction related to securities;
+
+[[Page S2094]]
+
+       ``(vii) any other agreement or transaction that is similar 
+     to an agreement or transaction referred to in this 
+     subparagraph;
+       ``(viii) any combination of the agreements or transactions 
+     referred to in this subparagraph;
+       ``(ix) any option to enter into any agreement or 
+     transaction referred to in this subparagraph;
+       ``(x) a master agreement that provides for an agreement or 
+     transaction referred to in clause (i), (ii), (iii), (iv), 
+     (v), (vi), (vii), (viii), or (ix) together with all 
+     supplements to any such master agreement, without regard to 
+     whether the master agreement provides for an agreement or 
+     transaction that is not a securities contract under this 
+     subparagraph, except that such master agreement shall be 
+     considered to be a securities contract under this 
+     subparagraph only with respect to each agreement or 
+     transaction under such master agreement that is referred to 
+     in clause (i), (ii), (iii), (iv), (v), (vi), (vii), (viii), 
+     or (ix); or
+       ``(xi) any security agreement or arrangement or other 
+     credit enhancement related to any agreement or transaction 
+     referred to in this subparagraph, including any guarantee or 
+     reimbursement obligation by or to a stockbroker, securities 
+     clearing agency, financial institution, or financial 
+     participant in connection with any agreement or transaction 
+     referred to in this subparagraph, but not to exceed the 
+     damages in connection with any such agreement or transaction, 
+     measured in accordance with section 562; and
+       ``(B) does not include any purchase, sale, or repurchase 
+     obligation under a participation in a commercial mortgage 
+     loan;''; and
+       (3) in section 761(4)--
+       (A) by striking ``or'' at the end of subparagraph (D); and
+       (B) by adding at the end the following:
+       ``(F) any other agreement or transaction that is similar to 
+     an agreement or transaction referred to in this paragraph;
+       ``(G) any combination of the agreements or transactions 
+     referred to in this paragraph;
+       ``(H) any option to enter into an agreement or transaction 
+     referred to in this paragraph;
+       ``(I) a master agreement that provides for an agreement or 
+     transaction referred to in subparagraph (A), (B), (C), (D), 
+     (E), (F), (G), or (H), together with all supplements to such 
+     master agreement, without regard to whether the master 
+     agreement provides for an agreement or transaction that is 
+     not a commodity contract under this paragraph, except that 
+     the master agreement shall be considered to be a commodity 
+     contract under this paragraph only with respect to each 
+     agreement or transaction under the master agreement that is 
+     referred to in subparagraph (A), (B), (C), (D), (E), (F), 
+     (G), or (H); or
+       ``(J) any security agreement or arrangement or other credit 
+     enhancement related to any agreement or transaction referred 
+     to in this paragraph, including any guarantee or 
+     reimbursement obligation by or to a commodity broker or 
+     financial participant in connection with any agreement or 
+     transaction referred to in this paragraph, but not to exceed 
+     the damages in connection with any such agreement or 
+     transaction, measured in accordance with section 562;''.
+       (b) Definitions of Financial Institution, Financial 
+     Participant, Forward Contract Merchant, Commodity Broker, 
+     Corporation, Repoparticipant, Stockbrocker, and Swap 
+     Participant.--Section 101 of title 11, United States Code, is 
+     amended--
+       (1) by striking paragraph (22) and inserting the following:
+       ``(22) `financial institution' means--
+       ``(A) a Federal reserve bank, or an entity (domestic or 
+     foreign) that is a commercial or savings bank, industrial 
+     savings bank, savings and loan association, trust company, 
+     federally-insured credit union, or receiver, liquidating 
+     agent, or conservator for such entity and, when any such 
+     Federal reserve bank, receiver, liquidating agent, 
+     conservator or entity is acting as agent or custodian for a 
+     customer (whether or not a `customer' as defined in section 
+     741) in connection with a securities contract (as defined in 
+     section 741) such customer; or
+       ``(B) in connection with a securities contract (as defined 
+     in section 741) an investment company registered under the 
+     Investment Company Act of 1940;'';
+       (2) by inserting after paragraph (22) the following:
+       ``(22A) `financial participant' means--
+       ``(A) an entity (domestic or foreign) that, at the time it 
+     enters into a securities contract, commodity contract, swap 
+     agreement, repurchase agreement, or forward contract, or at 
+     the time of the date of the filing of the petition, has one 
+     or more agreements or transactions described in paragraph 
+     (1), (2), (3), (4), (5), or (6) of section 561(a) with the 
+     debtor or any other entity (other than an affiliate) of a 
+     total gross dollar value of not less than $1,000,000,000 in 
+     notional or actual principal amount outstanding at such time 
+     or on any day during the 15-month period prior to the 
+     commencement of the case, or has gross mark-to-market 
+     positions of not less than $100,000,000 (aggregated across 
+     counterparties) in one or more such agreements or 
+     transactions with the debtor or any other entity (other than 
+     an affiliate) at such time of or any day during the 15-month 
+     period prior to the commencement of the case; or
+       ``(B) a clearing organization (as defined in section 402 of 
+     the Federal Deposit Insurance Corporation Improvement Act of 
+     1991);'';
+       (3) by striking paragraph (26) and inserting the following:
+       ``(26) `forward contract merchant' means a Federal reserve 
+     bank, or an entity (domestic or foreign) the business of 
+     which consists in whole or in part of entering into forward 
+     contracts as or with merchants in a commodity (as defined in 
+     section 761) or any similar good, article, service, right, or 
+     interest which is presently or in the future becomes the 
+     subject of dealing in the forward contract trade;
+       (4) by inserting in paragraph (6) after ``means'' the 
+     following: ``, whether domestic or foreign,'';
+       (5) by inserting in paragraph (9) the following after 
+     ``business trust'': ``(and for purposes of section 109, any 
+     trust that enters into one or more contracts that are 
+     described in any one or more of paragraphs (1) through (5) of 
+     section 561(a) shall be deemed to be a business trust)'';
+       (6) by inserting in paragraph (46) after ``entity'' the 
+     following: ``(domestic or foreign)'';
+       (7) by striking in paragraph (53A) ``person'' and replacing 
+     it with ``entity (domestic or foreign)'' and striking 
+     ``person's'' and replacing it with ``entity's''; and
+       (8) by inserting in paragraph (53C) after ``entity'' the 
+     following: ``(domestic or foreign)''.
+       (c) Definition of Master Netting Agreement and Master 
+     Netting Agreement Participant.--Section 101 of title 11, 
+     United States Code, is amended by inserting after paragraph 
+     (38) the following new paragraphs:
+       ``(38A) `master netting agreement'--
+       ``(A) means an agreement providing for the exercise of 
+     rights, including rights of netting, setoff, liquidation, 
+     termination, acceleration, or close out, under or in 
+     connection with one or more contracts that are described in 
+     any one or more of paragraphs (1) through (5) of section 
+     561(a), or any security agreement or arrangement or other 
+     credit enhancement related to one or more of the foregoing, 
+     including any guarantee or reimbursement obligation related 
+     to 1 or more of the foregoing; and
+       ``(B) if the agreement contains provisions relating to 
+     agreements or transactions that are not contracts described 
+     in paragraphs (1) through (5) of section 561(a), shall be 
+     deemed to be a master netting agreement only with respect to 
+     those agreements or transactions that are described in any 
+     one or more of paragraphs (1) through (5) of section 561(a);
+       ``(38B) `master netting agreement participant' means an 
+     entity (domestic or foreign) that, at any time before the 
+     filing of the petition, is a party to an outstanding master 
+     netting agreement with the debtor;''.
+       (d) Swap Agreements, Securities Contracts, Commodity 
+     Contracts, Forward Contracts, Repurchase Agreements, and 
+     Master Netting Agreements Under the Automatic-Stay.--
+       (1) In general.--Section 362(b) of title 11, United States 
+     Code, as amended by sections 224, 303, 311, 401, and 718, is 
+     amended--
+       (A) by striking paragraph (6) and inserting the following:
+       ``(6) under subsection (a) of this section, of the exercise 
+     by a commodity broker, forward contract merchant, 
+     stockbroker, financial institution, financial participant, or 
+     securities clearing agency of any contractual right (as 
+     defined in section 555 or 556) under any security agreement 
+     or arrangement or other credit enhancement forming a part of 
+     or related to any commodity contract, forward contract or 
+     securities contract, or of any contractual right (as defined 
+     in section 555 or 556) to offset or net out any termination 
+     value, payment amount, or other transfer obligation arising 
+     under or in connection with 1 or more such contracts, 
+     including any master agreement for such contracts;'';
+       (B) by striking paragraph (7) and inserting the following:
+       ``(7) under subsection (a) of this section, of the exercise 
+     by a repoparticipant or financial participant of any 
+     contractual right (as defined in section 559) under any 
+     security agreement or arrangement or other credit enhancement 
+     forming a part of or related to any repurchase agreement, or 
+     of any contractual right (as defined in section 559) to 
+     offset or net out any termination value, payment amount, or 
+     other transfer obligation arising under or in connection with 
+     1 or more such agreements, including any master agreement for 
+     such agreements;'';
+       (C) by striking paragraph (17) and inserting the following:
+       ``(17) under subsection (a) of this section, of the 
+     exercise by a swap participant or financial participant of 
+     any contractual right (as defined in section 560) under any 
+     security agreement or arrangement or other credit enhancement 
+     forming a part of related to any swap agreement, or of any 
+     contractual right (as defined in section 560) to offset or 
+     net out any termination value, payment amount, or other 
+     transfer obligation arising under or in connection with I or 
+     more such agreements, including any master agreement for such 
+     agreements;''; and
+       (D) by inserting after paragraph (26) the following:
+       ``(27) under subsection (a) of this section, of the 
+     exercise by a master netting agreement participant of any 
+     contractual right (as defined in section 555, 556, 559, or 
+     560) under any security agreement or arrangement or other 
+     credit enhancement forming a part of or related to any master 
+     netting agreement or any contract or agreement subject to 
+     such agreement, or of any contractual right (as defined in 
+     section 555, 556, 559, or 560) to offset or net out any 
+     termination value, payment amount, or other transfer 
+     obligation arising under or in connection with 1 or more such 
+     master netting agreements or contracts or agreements subject 
+     thereto the
+
+[[Page S2095]]
+
+     extent that such participant is eligible to exercise such 
+     rights under paragraph (6), (7), or (17) for each individual 
+     contract covered by the master netting agreement in issue; 
+     and''.
+       (2) Limitation.--Section 362 of title 11, United States 
+     Code, as amended by sections 106, 305, 311, and 441, is 
+     amended by adding at the end the following:
+       ``(o) The exercise of rights not subject to the stay 
+     arising under subsection (a) pursuant to paragraph (6), (7), 
+     (17), or (27) of subsection (b) shall not be stayed by any 
+     order of a court or administrative agency in any proceeding 
+     under this title.''.
+       (e) Limitation of Avoidance Powers Under Master Netting 
+     Agreement.--Section 546 of title 11, United States Code, is 
+     amended--
+       (1) in subsection (e), by inserting ``(or for the benefit 
+     of)'' before ``a commodity broker'' and by inserting: ``or 
+     that is a transfer made by or to (or for the benefit of) a 
+     commodity broker, forward contract merchant, stockbroker, 
+     financial institution, financial participant, or securities 
+     clearing agency, in connection with a securities contract, as 
+     defined in section 741(7), commodity contract, as defined in 
+     section 761(4), or forward contract, in each case,'' after 
+     ``securities clearing agency,'';
+       (2) in subsection (f), by striking ``that is a margin 
+     payment, as defined in section 101, 741, or 761 of this 
+     title, or settlement payment, as defined in section 101 or 
+     741 of this title,'' and inserting ``(or for the benefit 
+     of)'' before ``repoparticipant'';
+       (3) in subsection (g) (as added by section 103 of Public 
+     Law 101-311)--
+       (A) by striking ``under a swap agreement'';
+       (B) by striking ``in connection with a swap agreement'' and 
+     inserting ``under or in connection with any swap agreement'';
+       (C) by inserting ``or financial participant'' after ``swap 
+     participant''; and
+       (D) by inserting ``(or for the benefit of)'' before ``a 
+     swap participant''; and
+       (4) by adding at the end the following:
+       ``(j) Notwithstanding sections 544, 545, 547, 548(a)(1)(B), 
+     and 548(b) the trustee may not avoid a transfer made by or to 
+     or for the benefit of a master netting agreement participant 
+     under or in connection with any master netting agreement or 
+     any individual contract covered thereby that is made before 
+     the commencement of the case, except under section 
+     548(a)(1)(A) and except to the extent that the trustee could 
+     otherwise avoid such a transfer made under an individual 
+     contract covered by such master netting agreement.''.
+       (f) Fraudulent Transfers of Master Netting Agreements.--
+     Section 548(d)(2) of title 11, United States Code, is 
+     amended--
+       (1) in subparagraph (C), by striking ``and'' at the end;
+       (2) in subparagraph (D), by striking the period and 
+     inserting ``; and''; and
+       (3) by adding at the end the following new subparagraph:
+       ``(E) a master netting agreement participant that receives 
+     a transfer in connection with a master netting agreement or 
+     any individual contract covered thereby takes for value to 
+     the extent of such transfer, except that, with respect to a 
+     transfer under any individual contract covered thereby, to 
+     the extent that such master netting agreement participant 
+     otherwise did not take (or is otherwise not deemed to have 
+     taken) such transfer for value.''.
+       (g) Termination or Acceleration of Securities Contracts.--
+     Section 555 of title 11, United States Code, is amended--
+       (1) by amending the section heading to read as follows:
+
+     ``Sec. 555. Contractual right to liquidate, terminate, or 
+       accelerate a securities contract'';
+
+     and
+       (2) in the first sentence, by striking ``liquidation'' and 
+     inserting ``liquidation, termination, or acceleration''.
+       (h) Termination or Acceleration of Commodities or Forward 
+     Contracts.--Section 556 of title 11, United States Code, is 
+     amended--
+       (1) by amending the section heading to read as follows:
+
+     ``Sec. 556. Contractual right to liquidate, terminate, or 
+       accelerate a commodities contract or forward contract'';
+
+       (2) in the first sentence, by striking ``liquidation'' and 
+     inserting ``liquidation, termination, or acceleration''; and
+       (3) in the second sentence, by striking ``As used'' and all 
+     that follows through ``right,'' and inserting ``As used in 
+     this section, the term `contractual right' includes a right 
+     set forth in a rule or bylaw of a derivatives clearing 
+     organization (as defined in the Commodity Exchange Act), a 
+     multilateral clearing organization (as defined in the Federal 
+     Deposit Insurance Corporation Improvement Act of 1991), a 
+     national securities exchange, a national securities 
+     association, a securities clearing agency, a contract market 
+     designated under the Commodity Exchange Act, a derivatives 
+     transaction execution facility registered under the Commodity 
+     Exchange Act, or a board of trade (as defined in the 
+     Commodity Exchange Act) or in a resolution of the governing 
+     board thereof and a right,''.
+       (i) Termination or Acceleration of Repurchase Agreements.--
+     Section 559 of title 11, United States Code, is amended--
+       (1) by amending the section heading to read as follows:
+
+     ``Sec. 559. Contractual right to liquidate, terminate, or 
+       accelerate a repurchase agreement'';
+
+       (2) in the first sentence, by striking ``liquidation'' and 
+     inserting ``liquidation, termination, or acceleration''; and
+       (3) in the third sentence, by striking ``As used'' and all 
+     that follows through ``right,'' and inserting ``As used in 
+     this section, the term `contractual right' includes a right 
+     set forth in a rule or bylaw of a derivatives clearing 
+     organization (as defined in the Commodity Exchange Act), a 
+     multilateral clearing organization (as defined in the Federal 
+     Deposit Insurance Corporation Improvement Act of 1991), a 
+     national securities exchange, a national securities 
+     association, a securities clearing agency, a contract market 
+     designated under the Commodity Exchange Act, a derivatives 
+     transaction execution facility registered under the Commodity 
+     Exchange Act, or a board of trade (as defined in the 
+     Commodity Exchange Act) or in a resolution of the governing 
+     board thereof and a right,''.
+       (j) Liquidation, Termination, or Acceleration of Swap 
+     Agreements.--Section 560 of title 11, United States Code, is 
+     amended--
+       (1) by amending the section heading to read as follows:
+
+     ``Sec. 560. Contractual right to liquidate, terminate, or 
+       accelerate a swap agreement'';
+
+       (2) in the first sentence, by striking ``termination of a 
+     swap agreement'' and inserting ``liquidation, termination, or 
+     acceleration of one or more swap agreements'';
+       (3) by striking ``in connection with any swap agreement'' 
+     and inserting ``in connection with the termination, 
+     liquidation, or acceleration of one or more swap 
+     agreements''; and
+       (4) in the second sentence, by striking ``As used'' and all 
+     that follows through ``right,'' and inserting ``As used in 
+     this section, the term `contractual right' includes a right 
+     set forth in a rule or bylaw of a derivatives clearing 
+     organization (as defined in the Commodity Exchange Act), a 
+     multilateral clearing organization (as defined in the Federal 
+     Deposit Insurance Corporation Improvement Act of 1991), a 
+     national securities exchange, a national securities 
+     association, a securities clearing agency, a contract market 
+     designated under the Commodity Exchange Act, a derivatives 
+     transaction execution facility registered under the Commodity 
+     Exchange Act, or a board of trade (as defined in the 
+     Commodity Exchange Act) or in a resolution of the governing 
+     board thereof and a right,''.
+       (k) Liquidation, Termination, Acceleration, or Offset Under 
+     a Master Netting Agreement and Across Contracts.--
+       (1) In general.--Title 11, United States Code, is amended 
+     by inserting after section 560 the following:
+
+     ``Sec. 561. Contractual right to terminate, liquidate, 
+       accelerate, or offset under a master netting agreement and 
+       across contracts; proceedings under chapter 15
+
+       ``(a) Subject to subsection (b), the exercise of any 
+     contractual right, because of a condition of the kind 
+     specified in section 365(e)(1), to cause the termination, 
+     liquidation, or acceleration of or to offset or net 
+     termination values, payment amounts, or other transfer 
+     obligations arising under or in connection with one or more 
+     (or the termination, liquidation, or acceleration of one or 
+     more)--
+       ``(1) securities contracts, as defined in section 741(7);
+       ``(2) commodity contracts, as defined in section 761(4);
+       ``(3) forward contracts;
+       ``(4) repurchase agreements;
+       ``(5) swap agreements; or
+       ``(6) master netting agreements,
+
+     shall not be stayed, avoided, or otherwise limited by 
+     operation of any provision of this title or by any order of a 
+     court or administrative agency in any proceeding under this 
+     title.
+       ``(b)(1) A party may exercise a contractual right described 
+     in subsection (a) to terminate, liquidate, or accelerate only 
+     to the extent that such party could exercise such a right 
+     under section 555, 556, 559, or 560 for each individual 
+     contract covered by the master netting agreement in issue.
+       ``(2) If a debtor is a commodity broker subject to 
+     subchapter IV of chapter 7--
+       ``(A) a party may not net or offset an obligation to the 
+     debtor arising under, or in connection with, a commodity 
+     contract traded on or subject to the rules of a contract 
+     market designated under the Commodity Exchange Act or a 
+     derivatives transaction execution facility registered under 
+     the Commodity Exchange Act against any claim arising under, 
+     or in connection with, other instruments, contracts, or 
+     agreements listed in subsection (a) except to the extent that 
+     the party has positive net equity in the commodity accounts 
+     at the debtor, as calculated under such subchapter; and
+       ``(B) another commodity broker may not net or offset an 
+     obligation to the debtor arising under, or in connection 
+     with, a commodity contract entered into or held on behalf of 
+     a customer of the debtor and traded on or subject to the 
+     rules of a contract market designated under the Commodity 
+     Exchange Act or a derivatives transaction execution facility 
+     registered under the Commodity Exchange Act against any claim 
+     arising under, or in connection with, other instruments, 
+     contracts, or agreements listed in subsection (a).
+       ``(3) No provision of subparagraph (A) or (B) of paragraph 
+     (2) shall prohibit the offset of claims and obligations that 
+     arise under--
+       ``(A) a cross-margining agreement or similar arrangement 
+     that has been approved by the Commodity Futures Trading 
+     Commission or submitted to the Commodity Futures Trading 
+     Commission under paragraph (1) or (2) of section 5c(c) of the 
+     Commodity Exchange Act and has not been abrogated or
+
+[[Page S2096]]
+
+     rendered ineffective by the Commodity Futures Trading 
+     Commission; or
+       ``(B) any other netting agreement between a clearing 
+     organization (as defined in section 761) and another entity 
+     that has been approved by the Commodity Futures Trading 
+     Commission.
+       ``(c) As used in this section, the term `contractual right' 
+     includes a right set forth in a rule or bylaw of a 
+     derivatives clearing organization (as defined in the 
+     Commodity Exchange Act), a multilateral clearing organization 
+     (as defined in the Federal Deposit Insurance Corporation 
+     Improvement Act of 1991), a national securities exchange, a 
+     national securities association, a securities clearing 
+     agency, a contract market designated under the Commodity 
+     Exchange Act, a derivatives transaction execution facility 
+     registered under the Commodity Exchange Act, or a board of 
+     trade (as defined in the Commodity Exchange Act) or in a 
+     resolution of the governing board thereof, and a right, 
+     whether or not evidenced in writing, arising under common 
+     law, under law merchant, or by reason of normal business 
+     practice.
+       ``(d) Any provisions of this title relating to securities 
+     contracts, commodity contracts, forward contracts, repurchase 
+     agreements, swap agreements, or master netting agreements 
+     shall apply in a case under chapter 15, so that enforcement 
+     of contractual provisions of such contracts and agreements in 
+     accordance with their terms will not be stayed or otherwise 
+     limited by operation of any provision of this title or by 
+     order of a court in any case under this title, and to limit 
+     avoidance powers to the same extent as in a proceeding under 
+     chapter 7 or 11 of this title (such enforcement not to be 
+     limited based on the presence or absence of assets of the 
+     debtor in the United States).''.
+       (2) Conforming amendment.--The table of sections for 
+     chapter 5 of title 11, United States Code, is amended by 
+     inserting after the item relating to section 560 the 
+     following:
+
+``561. Contractual right to terminate, liquidate, accelerate, or offset 
+              under a master netting agreement and across contracts; 
+              proceedings under chapter 15.''.
+
+       (l) Commodity Broker Liquidations.--Title 11, United States 
+     Code, is amended by inserting after section 766 the 
+     following:
+
+     ``Sec. 767. Commodity broker liquidation and forward contract 
+       merchants, commodity brokers, stockbrokers, financial 
+       institutions, financial participants, securities clearing 
+       agencies, swap participants, repoparticipants, and master 
+       netting agreement participants
+
+       ``Notwithstanding any other provision of this title, the 
+     exercise of rights by a forward contract merchant, commodity 
+     broker, stockbroker, financial institution, financial 
+     participant, securities clearing agency, swap participant, 
+     repoparticipant, or master netting agreement participant 
+     under this title shall not affect the priority of any 
+     unsecured claim it may have after the exercise of such 
+     rights.''.
+       (m) Stockbroker Liquidations.--Title 11, United States 
+     Code, is amended by inserting after section 752 the 
+     following:
+
+     ``Sec. 753. Stockbroker liquidation and forward contract 
+       merchants, commodity brokers, stockbrokers, financial 
+       institutions, financial participants, securities clearing 
+       agencies, swap participants, repoparticipants, and master 
+       netting agreement participants
+
+       ``Notwithstanding any other provision of this title, the 
+     exercise of rights by a forward contract merchant, commodity 
+     broker, stockbroker, financial institution, financial 
+     participant, securities clearing agency, swap participant, 
+     repoparticipant, or master netting agreement participant 
+     under this title shall not affect the priority of any 
+     unsecured claim it may have after the exercise of such 
+     rights.''.
+       (n) Setoff.--Section 553 of title 11, United States Code, 
+     is amended--
+       (1) in subsection (a)(2)(B)(ii), by inserting before the 
+     semicolon the following: ``(except for a setoff of a kind 
+     described in section 362(b)(6), 362(b)(7), 362(b)(17), 
+     362(b)(27), 555, 556, 559, 560, or 561)'';
+       (2) in subsection (a)(3)(C), by inserting before the period 
+     the following: ``(except for a setoff of a kind described in 
+     section 362(b)(6), 362(b)(7), 362(b)(17), 362(b)(27), 555, 
+     556, 559, 560, or 561)''; and
+       (3) in subsection (b)(1), by striking ``362(b)(14),'' and 
+     inserting ``362(b)(17), 362(b)(27), 555, 556, 559, 560, 
+     561,''; and
+       (4) by adding at the end the following:
+       ``(d) Treatment of Certain Debts.--Debts and claims will 
+     not be considered as lacking mutuality as a result of such 
+     debts or claims being held through one or more securities 
+     clearing systems, securities intermediaries, or securities 
+     depositories (or nominees thereof), notwithstanding any 
+     otherwise applicable nonbankruptcy law to the contrary.''.
+       (o) Securities Contracts, Commodity Contracts, and Forward 
+     Contracts.--Title 11, United States Code, is amended--
+       (1) in section 546(f), by inserting ``or financial 
+     participant'' after ``repoparticipant'' each place such term 
+     appears;
+       (2) in section 546(e), by inserting ``financial 
+     participant,'' after ``financial institution,'';
+       (3) in section 548(d)(2)(B), by inserting ``financial 
+     participant,'' after ``financial institution,'';
+       (4) in section 548(d)(2)(C), by inserting ``or financial 
+     participant'' after ``repoparticipant'';
+       (5) in section 548(d)(2)(D), by inserting ``or financial 
+     participant'' after ``swap participant'';
+       (6) in section 555--
+       (A) by inserting ``financial participant,'' after 
+     ``financial institution,''; and
+       (B) by striking the second sentence and inserting the 
+     following: ``As used in this section, the term `contractual 
+     right' includes a right set forth in a rule or bylaw of a 
+     derivatives clearing organization (as defined in the 
+     Commodity Exchange Act), a multilateral clearing organization 
+     (as defined in the Federal Deposit Insurance Corporation 
+     Improvement Act of 1991), a national securities exchange, a 
+     national securities association, a securities clearing 
+     agency, a contract market designated under the Commodity 
+     Exchange Act, a derivatives transaction execution facility 
+     registered under the Commodity Exchange Act, or a board of 
+     trade (as defined in the Commodity Exchange Act), or in a 
+     resolution of the governing board thereof, and a right, 
+     whether or not in writing, arising under common law, under 
+     law merchant, or by reason of normal business practice.'';
+       (7) in section 556, by inserting ``, financial 
+     participant,'' after ``commodity broker'';
+       (8) in section 559, by inserting ``or financial 
+     participant'' after ``repoparticipant'' each place such term 
+     appears; and
+       (9) in section 560, by inserting ``or financial 
+     participant'' after ``swap participant''.
+       (p) Conforming Amendments.--Title 11, United States Code, 
+     is amended--
+       (1) in the table of sections for chapter 5--
+       (A) by amending the items relating to sections 555 and 556 
+     to read as follows:
+
+``555. Contractual right to liquidate, terminate, or accelerate a 
+              securities contract.
+``556. Contractual right to liquidate, terminate, or accelerate a 
+              commodities contract or forward contract.'';
+
+     and
+       (B) by amending the items relating to sections 559 and 560 
+     to read as follows:
+
+``559. Contractual right to liquidate, terminate, or accelerate a 
+              repurchase agreement.
+``560. Contractual right to liquidate, terminate, or accelerate a swap 
+              agreement.'';
+
+     and
+       (2) in the table of sections for chapter 7--
+       (A) by inserting after the item relating to section 766 the 
+     following:
+
+``767. Commodity broker liquidation and forward contract merchants, 
+              commodity brokers, stockbrokers, financial institutions, 
+              financial participants, securities clearing agencies, 
+              swap participants, repoparticipants, and master netting 
+              agreement participants.'';
+
+     and
+       (B) by inserting after the item relating to section 752 the 
+     following:
+
+``753. Stockbroker liquidation and forward contract merchants, 
+              commodity brokers, stockbrokers, financial institutions, 
+              financial participants, securities clearing agencies, 
+              swap participants, repoparticipants, and master netting 
+              agreement participants.''.
+
+     SEC. 908. RECORDKEEPING REQUIREMENTS.
+
+       (a) FDIC-Insured Depository Institutions.--Section 11(e)(8) 
+     of the Federal Deposit Insurance Act (12 U.S.C. 1821(e)(8)) 
+     is amended by adding at the end the following new 
+     subparagraph:
+       ``(H) Recordkeeping requirements.--The Corporation, in 
+     consultation with the appropriate Federal banking agencies, 
+     may prescribe regulations requiring more detailed 
+     recordkeeping by any insured depository institution with 
+     respect to qualified financial contracts (including market 
+     valuations) only if such insured depository institution is in 
+     a troubled condition (as such term is defined by the 
+     Corporation pursuant to section 32).''.
+       (b) Insured Credit Unions.--Section 207(c)(8) of the 
+     Federal Credit Union Act (12 U.S.C. 1787(c)(8)) is amended by 
+     adding at the end the following new subparagraph:
+       ``(H) Recordkeeping requirements.--The Board, in 
+     consultation with the appropriate Federal banking agencies, 
+     may prescribe regulations requiring more detailed 
+     recordkeeping by any insured credit union with respect to 
+     qualified financial contracts (including market valuations) 
+     only if such insured credit union is in a troubled condition 
+     (as such term is defined by the Board pursuant to section 
+     212).''.
+
+     SEC. 909. EXEMPTIONS FROM CONTEMPORANEOUS EXECUTION 
+                   REQUIREMENT.
+
+       Section 13(e)(2) of the Federal Deposit Insurance Act (12 
+     U.S.C. 1823(e)(2)) is amended to read as follows:
+       ``(2) Exemptions from contemporaneous execution 
+     requirement.--An agreement to provide for the lawful 
+     collateralization of--
+       ``(A) deposits of, or other credit extension by, a Federal, 
+     State, or local governmental entity, or of any depositor 
+     referred to in section 11(a)(2), including an agreement to 
+     provide collateral in lieu of a surety bond;
+       ``(B) bankruptcy estate funds pursuant to section 345(b)(2) 
+     of title 11, United States Code;
+       ``(C) extensions of credit, including any overdraft, from a 
+     Federal reserve bank or Federal home loan bank; or
+       ``(D) one or more qualified financial contracts, as defined 
+     in section 11(e)(8)(D),
+
+
+[[Page S2097]]
+
+
+     shall not be deemed invalid pursuant to paragraph (1)(B) 
+     solely because such agreement was not executed 
+     contemporaneously with the acquisition of the collateral or 
+     because of pledges, delivery, or substitution of the 
+     collateral made in accordance with such agreement.''.
+
+     SEC. 910. DAMAGE MEASURE.
+
+       (a) In General.--Title 11, United States Code, is amended--
+       (1) by inserting after section 561, as added by section 
+     907, the following:
+
+     ``Sec. 562. Timing of damage measurement in connection with 
+       swap agreements, securities contracts, forward contracts, 
+       commodity contracts, repurchase agreements, and master 
+       netting agreements
+
+       ``(a) If the trustee rejects a swap agreement, securities 
+     contract (as defined in section 741), forward contract, 
+     commodity contract (as defined in section 761), repurchase 
+     agreement, or master netting agreement pursuant to section 
+     365(a), or if a forward contract merchant, stockbroker, 
+     financial institution, securities clearing agency, 
+     repoparticipant, financial participant, master netting 
+     agreement participant, or swap participant liquidates, 
+     terminates, or accelerates such contract or agreement, 
+     damages shall be measured as of the earlier of--
+       ``(1) the date of such rejection; or
+       ``(2) the date or dates of such liquidation, termination, 
+     or acceleration.
+       ``(b) If there are not any commercially reasonable 
+     determinants of value as of any date referred to in paragraph 
+     (1) or (2) of subsection (a), damages shall be measured as of 
+     the earliest subsequent date or dates on which there are 
+     commercially reasonable determinants of value.
+       ``(c) For the purposes of subsection (b), if damages are 
+     not measured as of the date or dates of rejection, 
+     liquidation, termination, or acceleration, and the forward 
+     contract merchant, stockbroker, financial institution, 
+     securities clearing agency, repoparticipant, financial 
+     participant, master netting agreement participant, or swap 
+     participant or the trustee objects to the timing of the 
+     measurement of damages--
+       ``(1) the trustee, in the case of an objection by a forward 
+     contract merchant, stockbroker, financial institution, 
+     securities clearing agency, repoparticipant, financial 
+     participant, master netting agreement participant, or swap 
+     participant; or
+       ``(2) the forward contract merchant, stockbroker, financial 
+     institution, securities clearing agency, repoparticipant, 
+     financial participant, master netting agreement participant, 
+     or swap participant, in the case of an objection by the 
+     trustee,
+
+     has the burden of proving that there were no commercially 
+     reasonable determinants of value as of such date or dates.''; 
+     and
+       (2) in the table of sections for chapter 5, by inserting 
+     after the item relating to section 561 (as added by section 
+     907) the following new item:
+
+``562. Timing of damage measure in connection with swap agreements, 
+              securities contracts, forward contracts, commodity 
+              contracts, repurchase agreements, or master netting 
+              agreements.''.
+
+       (b) Claims Arising From Rejection.--Section 502(g) of title 
+     11, United States Code, is amended--
+       (1) by inserting ``(1)'' after ``(g)''; and
+       (2) by adding at the end the following:
+       ``(2) A claim for damages calculated in accordance with 
+     section 562 shall be allowed under subsection (a), (b), or 
+     (c), or disallowed under subsection (d) or (e), as if such 
+     claim had arisen before the date of the filing of the 
+     petition.''.
+
+     SEC. 911. SIPC STAY.
+
+       Section 5(b)(2) of the Securities Investor Protection Act 
+     of 1970 (15 U.S.C. 78eee(b)(2)) is amended by adding at the 
+     end the following new subparagraph:
+       ``(C) Exception from stay.--
+       ``(i) Notwithstanding section 362 of title 11, United 
+     States Code, neither the filing of an application under 
+     subsection (a)(3) nor any order or decree obtained by SIPC 
+     from the court shall operate as a stay of any contractual 
+     rights of a creditor to liquidate, terminate, or accelerate a 
+     securities contract, commodity contract, forward contract, 
+     repurchase agreement, swap agreement, or master netting 
+     agreement, as those terms are defined in sections 101, 741, 
+     and 761 of title 11, United States Code, to offset or net 
+     termination values, payment amounts, or other transfer 
+     obligations arising under or in connection with one or more 
+     of such contracts or agreements, or to foreclose on any cash 
+     collateral pledged by the debtor, whether or not with respect 
+     to one or more of such contracts or agreements.
+       ``(ii) Notwithstanding clause (i), such application, order, 
+     or decree may operate as a stay of the foreclosure on, or 
+     disposition of, securities collateral pledged by the debtor, 
+     whether or not with respect to one or more of such contracts 
+     or agreements, securities sold by the debtor under a 
+     repurchase agreement, or securities lent under a securities 
+     lending agreement.
+       ``(iii) As used in this subparagraph, the term `contractual 
+     right' includes a right set forth in a rule or bylaw of a 
+     derivatives clearing organization (as defined in the 
+     Commodity Exchange Act), a multilateral clearing organization 
+     (as defined in the Federal Deposit Insurance Corporation 
+     Improvement Act of 1991), a national securities exchange, a 
+     national securities association, a securities clearing 
+     agency, a contract market designated under the Commodity 
+     Exchange Act, a derivatives transaction execution facility 
+     registered under the Commodity Exchange Act, or a board of 
+     trade (as defined in the Commodity Exchange Act), or in a 
+     resolution of the governing board thereof, and a right, 
+     whether or not in writing, arising under common law, under 
+     law merchant, or by reason of normal business practice.''.
+
+     SEC. 912. EFFECTIVE DATE; APPLICATION OF AMENDMENTS.
+
+       (a) Effective Date.--This title shall take effect on the 
+     date of enactment of the Act.
+       (b) Application of Amendments.--The amendments made by this 
+     title and section 502 shall apply with respect to cases 
+     commenced or appointments made under any Federal or State law 
+     on or after the date of enactment of this Act, but shall not 
+     apply with respect to cases commenced or appointments made 
+     under any Federal or State law before the date of enactment 
+     of this Act.
+
+     SEC. 913. SAVINGS CLAUSE.
+
+       The meanings of terms used in this title are applicable for 
+     the purposes of this title only, and shall not be construed 
+     or applied so as to challenge or affect the characterization, 
+     definition, or treatment of any similar terms under any other 
+     statute, regulation, or rule, including the Gramm-Leach-
+     Bliley Act, the Legal Certainty for Bank Products Act of 
+     2000, the securities laws (as that term is defined in section 
+     3(a)(47) of the Securities Exchange Act of 1934), and the 
+     Commodity Exchange Act.
+                                 ______
+```
