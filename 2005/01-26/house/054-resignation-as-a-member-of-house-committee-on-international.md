@@ -1,0 +1,38 @@
+---
+granule: CRECB-2005-pt1-Pg835
+date: 2005-01-26
+edition: CRECB
+section: HOUSE
+page: 835
+---
+
+# RESIGNATION AS A MEMBER OF HOUSE COMMITTEE ON INTERNATIONAL RELATIONS
+
+```
+ RESIGNATION AS A MEMBER OF HOUSE COMMITTEE ON INTERNATIONAL RELATIONS
+
+  The Speaker pro tempore laid before the House the following 
+resignation as a member of the House Committee on International 
+Relations.
+
+                                     House of Representatives,
+
+                                 Washington, DC, January 26, 2005.
+     Hon. J. Dennis Hastert,
+     Office of the Speaker, U.S. Capitol, Washington, DC.
+       Dear Mr. Speaker: Please consider this letter as my 
+     resignation, as of this date, as a member of the House 
+     Committee on International Relations. I have appreciated the 
+     opportunity to serve as a member of this committee and have 
+     enjoyed my eight years of service.
+       With every good wish, I am
+           Sincerely yours,
+                                                   John M. McHugh,
+                                               Member of Congress.
+
+  The SPEAKER pro tempore (Mr. Tiberi). Without objection, the 
+resignation is accepted.
+  There was no objection.
+
+                          ____________________
+```
