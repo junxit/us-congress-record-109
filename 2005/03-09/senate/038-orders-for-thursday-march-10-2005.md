@@ -1,0 +1,26 @@
+---
+granule: CRECB-2005-pt3-Pg3915-3
+date: 2005-03-09
+edition: CRECB
+section: SENATE
+page: 3915
+---
+
+# ORDERS FOR THURSDAY, MARCH 10, 2005
+
+```
+                  ORDERS FOR THURSDAY, MARCH 10, 2005
+
+  Mr. FRIST. Mr. President, I ask unanimous consent that when the 
+Senate completes its business today, the Senate adjourn until 9:30 a.m. 
+on Thursday, March 10. I further ask that following the prayer and 
+pledge, the morning hour be deemed expired, the Journal of proceedings 
+be approved to date, the time for the two leaders be reserved, and the 
+Senate then begin a period of morning business with the time until 11 
+a.m. equally divided between the two leaders or their designees; 
+provided that at 11 a.m. the Senate resume consideration of S. 256, the 
+Bankruptcy Reform Act, as provided under the previous order.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```
