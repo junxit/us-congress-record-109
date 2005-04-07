@@ -1,0 +1,44 @@
+---
+granule: CRECB-2005-pt5-Pg5917
+date: 2005-04-07
+edition: CRECB
+section: SENATE
+page: 5917
+---
+
+# ADDITIONAL STATEMENTS
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+            TRIBUTE TO ENSIGN JAMES RANDOLPH MOTLEY McMURTRY
+
+● Mr. SANTORUM. Mr. President, today I would like to reflect on 
+the recent passing of Ensign James Randolph Motley McMurtry, a member 
+of the U.S. Navy and a beloved son and friend. Ensign McMurtry 
+tragically died while on vacation in February 2005. The McMurtry family 
+has suffered a tremendous loss, and I offer them my condolences and 
+deepest sympathy during this difficult time.
+  Ensign McMurtry grew up in Harrisburg, PA, attending the Harrisburg 
+Academy in Wormleysburg. He was an exemplary student and excelled in 
+athletics. As he continued his education at the United States Naval 
+Academy in Annapolis, MD, he served as platoon commander, drill 
+sergeant, and drill officer.
+  After graduating from the Naval Academy in 2003, Ensign McMurtry was 
+assigned to the Joint Chiefs of Staff of the National Military Command 
+Center at the Pentagon. For all those who worked with Ensign McMurtry 
+at the Pentagon, they knew him as quiet, purposeful, and respectful.
+  Ensign McMurtry had dedicated his life to protecting the freedom and 
+liberties we hold dear as Americans. I value Ensign McMurtry's courage 
+and patriotism. I am also inspired by this young man's conviction and 
+desire to spend his life serving our Nation. I am deeply saddened that 
+his life ended so tragically.
+  Ensign McMurtry leaves behind wonderful family, friends, and 
+coworkers. My thoughts and prayers are with those that were blessed to 
+know Ensign McMurtry.●
+
+                          ____________________
+```
