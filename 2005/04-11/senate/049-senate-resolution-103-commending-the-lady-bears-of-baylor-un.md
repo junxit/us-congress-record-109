@@ -1,0 +1,68 @@
+---
+granule: CREC-2005-04-11-pt1-PgS3432-2
+date: 2005-04-11
+edition: CREC
+section: SENATE
+page: S3432
+citation: 151 Cong. Rec. S3432
+---
+
+# SENATE RESOLUTION 103--COMMENDING THE LADY BEARS OF BAYLOR UNIVERSITY FOR WINNING THE 2005 NATIONAL COLLEGIATE ATHLETIC ASSOCIATION DIVISION I WOMEN'S BASKETBALL CHAMPIONSHIP
+
+**Measures:** S.Res. 103
+
+```
+ SENATE RESOLUTION 103--COMMENDING THE LADY BEARS OF BAYLOR UNIVERSITY 
+FOR WINNING THE 2005 NATIONAL COLLEGIATE ATHLETIC ASSOCIATION DIVISION 
+                   I WOMEN'S BASKETBALL CHAMPIONSHIP
+
+  Mrs. HUTCHISON (for herself and Mr. Cornyn) submitted the following 
+resolution; which was considered and agreed to:
+
+                              S. Res. 103
+
+       Whereas the Baylor University women's basketball team won 
+     its first national championship by defeating Michigan State, 
+     84 to 62, the second largest margin of victory in the history 
+     of women's basketball championship games;
+
+[[Page S3435]]
+
+       Whereas the Lady Bears finished the 2004-2005 season with a 
+     record of 33 wins and 3 losses, including winning their final 
+     20 consecutive games;
+       Whereas Coach Kim Mulkey-Robertson brought the Lady Bears 
+     to their first national championship and became the first 
+     woman to have been both a head coach and a player on a 
+     national championship team;
+       Whereas Coach Kim Mulkey-Robertson took the Lady Bears from 
+     the bottom of the Big 12 standings in 2000 to a national 
+     championship in 5 years;
+       Whereas All-American Sophia Young, who averaged 22 points 
+     in the tournament, reached double figures in all 36 games in 
+     the 2004-2005 season, with 17 double-doubles, and had 26 
+     points in the final game to be the high scorer in the 
+     championship game;
+       Whereas All-American Steffanie Blackmon scored 22 points 
+     and had 7 rebounds to lead the Lady Bears to the 
+     championship;
+       Whereas Emily Niemann made key 3-point shots to boost the 
+     Lady Bears to victory in an exciting final game;
+       Whereas the entire team should be commended for their work 
+     together;
+       Whereas Baylor University has demonstrated its excellence 
+     in both athletics and academics, and has significantly 
+     advanced the sport of women's basketball by demonstrating 
+     hard work and sportsmanship; and
+       Whereas the Baylor University Lady Bears are the pride of 
+     Waco and the rest of the great State of Texas: Now, 
+     therefore, be it
+       Resolved, That the Senate commends the Lady Bears of Baylor 
+     University for--
+       (1) winning the 2005 National Collegiate Athletic 
+     Association Division I Women's Basketball Championship; and
+       (2) completing the 2004-2005 women's basketball season with 
+     a record of 33 wins and 3 losses.
+
+                          ____________________
+```
