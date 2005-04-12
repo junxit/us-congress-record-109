@@ -1,0 +1,39 @@
+---
+granule: CREC-2005-04-12-pt1-PgS3501-2
+date: 2005-04-12
+edition: CREC
+section: SENATE
+page: S3501
+citation: 151 Cong. Rec. S3501
+---
+
+# PRIVILEGE OF THE FLOOR
+
+**Speaking:** Carper, Thomas R. (C000174) [D-DE], Hutchison, Kay Bailey (H001016) [R-TX], Byrd, Robert C. (B001210) [D-WV]
+
+**Measures:** H.R. 1268
+
+```
+                         PRIVILEGE OF THE FLOOR
+
+  Mr. CARPER. Mr. President, I ask unanimous consent that Richard 
+Litsey, a fellow on the Finance Committee staff of Senator Baucus, be 
+granted the privilege of the floor during consideration of H.R. 1268, 
+the emergency Iraq/Afghanistan supplemental appropriations, and all 
+rollcall votes thereon.
+  The ACTING PRESIDENT pro tempore. Without objection, it is so 
+ordered.
+  Mrs. HUTCHISON. Mr. President, I ask unanimous consent that Senator 
+John McCain's legislative fellow, Navy CDR Shawn Grenier, be granted 
+floor privileges during the consideration of H.R. 1268, the Emergency 
+Supplemental Appropriations Act.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. BYRD. Mr. President, on behalf of Senator Baucus, I ask unanimous 
+consent that Cuong Huynh, a fellow on his staff at the Finance 
+Committee, be accorded floor privileges during the consideration of 
+H.R. 1268, the emergency Iraq-Afghanistan supplemental appropriation 
+bill, and any votes thereon.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```

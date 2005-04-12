@@ -1,0 +1,26 @@
+---
+granule: CREC-2005-04-12-pt1-PgS3442-2
+date: 2005-04-12
+edition: CREC
+section: SENATE
+page: S3442
+citation: 151 Cong. Rec. S3442
+---
+
+# MORNING BUSINESS
+
+**Speaking:** Frist, William H. (F000439) [R-TN]
+
+```
+                            MORNING BUSINESS
+
+  The ACTING PRESIDENT pro tempore. Under the previous order, there 
+will now be a period for the transaction of morning business for up to 
+60 minutes, with the first half of the time under the control of the 
+Democratic leader or his designee, and the second half of the time 
+under the control of the majority leader or his designee.
+  The majority leader is recognized.
+  Mr. FRIST. Mr. President, I will speak on leader time.
+
+                          ____________________
+```
