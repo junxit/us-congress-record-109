@@ -1,0 +1,69 @@
+---
+granule: CREC-2005-04-14-pt1-PgS3690-2
+date: 2005-04-14
+edition: CREC
+section: SENATE
+page: S3690
+citation: 151 Cong. Rec. S3690
+---
+
+# SENATE RESOLUTION 110--COMMENDING OKLAHOMA STATE UNIVERSITY'S WRESTLING TEAM FOR WINNING THE 2005 NATIONAL COLLEGIATE ATHLETIC ASSOCIATION DIVISION I WRESTLING CHAMPIONSHIP
+
+**Measures:** S.Res. 110
+
+```
+SENATE RESOLUTION 110--COMMENDING OKLAHOMA STATE UNIVERSITY'S WRESTLING 
+  TEAM FOR WINNING THE 2005 NATIONAL COLLEGIATE ATHLETIC ASSOCIATION 
+                   DIVISION I WRESTLING CHAMPIONSHIP
+
+  Mr. INHOFE (for himself and Mr. Coburn) submitted the following 
+resolution; which was considered and agreed to:
+
+                              S. Res. 110
+
+       Whereas on March 19, 2005, the Oklahoma State University 
+     Cowboys claimed their 33rd National Collegiate Athletic 
+     Association Wrestling Championship in St. Louis, Missouri;
+       Whereas the 33 wrestling championships won by the Cowboys 
+     is more than have been won by any other school in the history 
+     of National Collegiate Athletic Association Division I 
+     wrestling;
+       Whereas the Cowboys now have won 3 consecutive wrestling 
+     championships, a feat not accomplished since they won the 
+     national wrestling championship in 1954, 1955, and 1956;
+       Whereas the Cowboys' 2005 championship topped off an 
+     impressive season in which they were undefeated in the 
+     regular season and also had a perfect record in the finals;
+       Whereas the Cowboys outscored second place Michigan, 153 to 
+     83, achieving a margin of victory that was the second-highest 
+     in National Collegiate Athletic Association wrestling 
+     history;
+       Whereas the Cowboys crowned a school-record 5 individual 
+     national champions, tying a national tournament record;
+       Whereas the Cowboys' outstanding 2005 season contributed to 
+     an already rich and proud tradition of wrestling excellence 
+     at Oklahoma State University;
+       Whereas the amazing accomplishments of the past year 
+     reflect the dedication, commitment, and tireless effort of 
+     the entire school, from the president to the athletic 
+     directors, coaches, athletes, managers, and staff members; 
+     and
+       Whereas the student athletes of the Oklahoma State 
+     University wrestling team, through their exceptional athletic 
+     achievements, have not only brought credit to themselves but 
+     to their fellow students, their university, and their 
+     community: Now, therefore be it
+       Resolved, That the Senate--
+       (1) commends the Oklahoma State Cowboys for their third 
+     straight National Collegiate Athletic Association Division I 
+     Wrestling Championship;
+       (2) recognizes the players, coaches, staff, and all who 
+     have made the historic successes of the 2005 season possible; 
+     and
+       (3) directs the Secretary of the Senate to transmit an 
+     enrolled copy of this resolution to Oklahoma State University 
+     President Dr. David J. Schmidly and Coach John Smith for 
+     appropriate display.
+
+                          ____________________
+```
