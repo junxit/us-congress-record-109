@@ -1,0 +1,67 @@
+---
+granule: CRECB-2005-pt6-Pg7559-2
+date: 2005-04-21
+edition: CRECB
+section: EXTENSIONS
+page: 7559
+---
+
+# COMMEMORATING THE 90TH ANNIVERSARY OF THE ARMENIAN GENOCIDE
+
+```
+      COMMEMORATING THE 90TH ANNIVERSARY OF THE ARMENIAN GENOCIDE
+
+                                 ______
+                                 
+
+                        HON. CAROLYN B. MALONEY
+
+                              of new york
+
+                    in the house of representatives
+
+                        Thursday, April 21, 2005
+
+  Mrs. MALONEY. Mr. Speaker, as a proud member of the Congressional 
+Caucus on Armenian Issues, and the representative of a large and 
+vibrant community of Armenian Americans, I rise to join my colleagues 
+in the sad commemoration of the Armenian Genocide.
+  Today we declare to people living in every comer of our globe that 
+the Turkish and American governments must finally acknowledge what we 
+have long understood: that the unimaginable horror committed on Turkish 
+soil in the aftermath of World War I was, and is, an act of genocide.
+  I strongly believe that the tragic events that began on April 24, 
+1915, which are well known to all of us, should be part of the history 
+curriculum in every Turkish and American school. On that dark April 
+day, more than 200 of Armenia's religious, political and intellectual 
+leaders were arrested in Constantinople and killed. Ultimately, more 
+than 1.5 million Armenians were systematically murdered at the hands of 
+the Young Turks, and more than 500,000 more were exiled from their 
+native land.
+  On this 90th anniversary of the beginning of the genocide, we lend 
+our voices to a chorus that grows louder with each passing year. We 
+simply will not allow the planned elimination of an entire people to 
+remain in the shadows of history. The Armenian Genocide must be 
+acknowledged, studied and never, ever allowed to happen again.
+  The parliaments of Canada, France and Switzerland have all passed 
+resolutions affirming that the Armenian people were indeed subjected to 
+genocide. The United States must do the same. I will not stop fighting 
+until long overdue legislation acknowledging the Armenian Genocide 
+finally passes.
+  Of course, an acknowledgment of the genocide is not our only 
+objective. I remain committed to ensuring that the U.S. government 
+continues to provide direct financial assistance to Armenia. Over the 
+years, this aid has played a critical role in the economic and 
+political advancement of the Armenian people.
+  Additionally, it is clearly in our national interest to foster peace 
+and stability in the South Caucasus region. We in Congress need to 
+renew our commitment to Section 907 of the Freedom Support Act, which 
+denies assistance to Azerbaijan until it ends its stranglehold on the 
+embattled region of Nagorno-Karabagh. We will not stand by as the 
+Armenian people are threatened yet again.
+  On this solemn day, our message is clear: the world remembers the 
+Armenian genocide, and the governments of Turkey and the United States 
+must declare--once and for all--that they do, too.
+
+                          ____________________
+```
