@@ -1,0 +1,309 @@
+---
+granule: CRECB-2005-pt6-Pg8551
+date: 2005-05-03
+edition: CRECB
+section: EXTENSIONS
+page: 8551
+---
+
+# REINTRODUCTION OF THE WESTERN WATERS AND FARM LANDS PROTECTION ACT
+
+```
+   REINTRODUCTION OF THE WESTERN WATERS AND FARM LANDS PROTECTION ACT
+
+                                 ______
+                                 
+
+                            HON. MARK UDALL
+
+                              of colorado
+
+                    in the house of representatives
+
+                          Tuesday, May 3, 2005
+
+  Mr. UDALL of Colorado. Mr. Speaker, today I am again introducing the 
+Western Waters and Farm Lands Protection Act.
+  The bill's purpose is to make it more likely that the energy 
+resources in our Western states will be developed in ways that are 
+protective of vital water supplies and respectful of the rights and 
+interests of the agricultural community. It would do three things:
+  First, it would establish clear requirements for proper management of 
+ground water that is extracted in the course of oil and gas 
+development.
+  Second, it would provide for greater involvement of surface owners in 
+plans for oil and gas development and requires the Interior Department 
+to give surface owners advance notice of lease sales that would affect 
+their lands and to notify them of subsequent events related to proposed 
+or ongoing energy development.
+  Finally, it would require developers to draft reclamation plans and 
+post reclamation bonds for the restoration of lands affected by 
+drilling for federal oil and gas.
+  The bill is based on one I introduced in the 108th Congress that was 
+endorsed by the Colorado Farm Bureau. I have made revisions suggested 
+by the American Farm Bureau Federation, which has indicated its support 
+for the bill as I am introducing it today.
+  Mr. Speaker, the western United States is blessed with significant 
+energy resources. In appropriate places, and under appropriate 
+conditions, they can and should be developed for the benefit of our 
+country. But it's important to recognize the importance of other 
+resources--particularly water--and other uses of the lands involved--
+and this bill responds to this need.
+
+
+                        Purposes of Legislation
+
+  The primary purposes of the Western Waters and Farmlands Protection 
+Act are--(1) to assure that the development of those energy resources 
+in the West will not mean destruction of precious water resources; (2) 
+to reduce potential conflicts between development of energy resources 
+and the interests and concerns of those who own the surface estate in 
+affected lands; and (3) to provide for appropriate reclamation of 
+affected lands.
+
+
+                        Water Quality Protection
+
+  One new energy resource is receiving great attention--gas associated 
+with coal deposits, often referred to as coalbed methane. An October 
+2000 United States Geological Survey report estimated that the U.S. may 
+contain more than 700 trillion cubic feet (tcf) of coalbed methane and 
+that more than 100 tcf of this may be recoverable using existing 
+technology. In part because of the availability of these reserves and 
+because of tax incentives to exploit them, the West has seen a 
+significant increase in its development.
+  Development of coalbed methane usually involves the extraction of 
+water from underground strata. Some of this extracted water is 
+reinjected into the ground, while some is retained in surface holding 
+ponds or released and allowed to flow into streams or other water 
+bodies, including irrigation ditches.
+  The quality of the extracted waters varies from one location to 
+another. Some are of good quality, but often they contain dissolved 
+minerals (such as sodium, magnesium, arsenic, or selenium) that can 
+contaminate other waters--something that can happen because of leaks or 
+leaching from holding ponds or because the extracted waters are simply 
+discharged into a stream or other body of water. In addition, extracted 
+waters often have other characteristics, such as high acidity and 
+temperature, which can adversely affect agricultural uses of land or 
+the quality of the environment.
+  In Colorado and other States in the arid West, water is scarce and 
+precious. So, as we work to develop our domestic energy resources, it 
+is vital that we safeguard our water--and I believe that clear 
+requirements for proper disposal of these extracted waters are 
+necessary in order to avoid some of these adverse effects. That is the 
+purpose of the first part of the bill.
+  The bill (in Title I) includes two requirements regarding extracted 
+water.
+  First, it would make clear that water extracted from oil and gas 
+development must comply with relevant and applicable discharge permits 
+under the Clean Water Act. Lawsuits have been filed in some western 
+states regarding whether or not these discharge permits are required 
+for coalbed methane development. The bill would require oil and gas 
+development to secure permits if necessary and required, like any other 
+entity that may discharge contaminates into the waters of the United 
+States.
+  Second, the bill would require those who develop federal oil or gas--
+including coalbed methane--under the Mineral Leasing Act to take steps 
+to make sure their activities do not harm water resources. Under this 
+legislation, oil or gas operators who damage a water resource--by 
+contaminating it, reducing it, or interrupting it--would be required to 
+provide replacement water. And the bill requires that water produced 
+under a mineral lease must be dealt with in ways that comply with all 
+Federal and State requirements.
+  Further, because water is so important, the bill requires oil and gas 
+operators to make the protection of water part of their plans from the 
+very beginning, requiring applications for oil or gas leases to include 
+details of ways in which operators will protect water quality and 
+quantity and the rights of water users.
+  These are not onerous requirements, but they are very important--
+particularly with the great increase in drilling for coalbed methane 
+and other energy resources in Colorado, Wyoming, Montana, and other 
+western states.
+
+
+                        Surface Owner Protection
+
+  In many parts of the country, the party that owns the surface of some 
+land does not necessarily own the minerals beneath those lands. In the 
+West, mineral estates often belong to the federal government while the 
+surface estates are owned by private interests, who typically use the 
+land for farming and ranching.
+  This split-estate situation can lead to conflicts. And while I 
+support development of energy resources where appropriate, I also 
+believe that this must be done responsibly and in a way that 
+demonstrates respect for the environment and overlying landowners.
+  The second part of the bill (Title II) is intended to promote that 
+approach, by establishing a system for development of federal oil and 
+gas in split-estate situations that resembles--but is not identical 
+to--the system for development of federally-owned coal in similar 
+situations.
+  Under federal law, the leasing of federally owned coal resources on 
+lands where the surface estate is not owned by the United States is 
+subject to the consent of the surface estate owners. But neither this 
+consent requirement nor the operating and bonding requirements 
+applicable to development of federally owned locatable minerals applies 
+to the leasing or development of oil or gas in similar split-estate 
+situations.
+  I believe that that there should be similar respect for the rights 
+and interests of surface estate owners affected by development of oil 
+and gas and that this should be done by providing clear and adequate 
+standards and increasing the involvement of surface owners.
+  Accordingly, the bill requires the Interior Department to give 
+surface owners advance notice of lease sales that would affect their 
+lands and to notify them of subsequent events related to proposed or 
+ongoing developments related to such leases,
+  In addition, the bill requires that anyone proposing to drill for 
+federal minerals in a split-estate situation must first try to reach an 
+agreement with the surface owner that spells out what will be done to 
+minimize interference with the surface owner's use and enjoyment and to 
+provide for reclamation of affected lands and compensation for any 
+damages.
+  I am convinced that most energy companies want to avoid harming the 
+surface owners, so I expect that it will usually be possible for them 
+to reach such agreements. However, I recognize that this may not always 
+be the case--and the bill includes two provisions that address this 
+possibility: (1) if no agreement is reached within 90 days, the bill 
+requires that the matter be referred to neutral arbitration; and (2) 
+the bill provides that if even arbitration fails to resolve 
+differences, the energy development can go forward, subject to Interior 
+Department regulations that will balance the energy development with 
+the interests of the surface owner or owners.
+  As I mentioned, these provisions are patterned on the current law 
+dealing with development of federally-owned coal in split-estate 
+situations. However, it is important to note one major difference--
+namely, while current law allows a surface owner to effectively veto 
+development of coal resources, under the bill a surface owner 
+ultimately could not block development of oil or gas underlying his or 
+her lands. This difference reflects the fact that appropriate 
+development of oil and natural gas is needed.
+
+
+                        Reclamation Requirements
+
+  The bill's third part (Titles III and IV) addresses reclamation of 
+affected lands.
+  Title III would amend the Mineral Leasing Act by adding an explicit 
+requirement that parties that produced oil or gas (including coalbed
+
+[[Page 8552]]
+
+methane) under a federal lease must restore the affected land so it 
+will be able to support the uses it could support before the energy 
+development. Toward that end, this part of the bill requires 
+development of reclamation plans and posting of reclamation bonds. In 
+addition, so Congress can consider whether changes are needed, the bill 
+requires the General Accounting Office to review how these requirements 
+are being implemented and how well they are working.
+  And, finally, Title IV would require the Interior Department to--(1) 
+establish, in cooperation with the Agriculture Department, a program 
+for reclamation and closure of abandoned oil or gas wells located on 
+lands managed by an Interior Department agency or the Forest Service or 
+drilled for development of federal oil or gas in split-estate 
+situations; and (2) establish, in consultation with the Energy 
+Department, a program to provide technical assistance to state and 
+tribal governments that are working to correct environmental problems 
+cased by abandoned wells on other lands. The bill would authorize 
+annual appropriations of $5 million in fiscal 2005 and 2006 for the 
+federal program and annual appropriations of $5 million in fiscal 2005, 
+2006, and 2007 for the program of assistance to the states and tribes.
+  Mr. Speaker, our country is overly dependent on fossil fuels, to the 
+detriment of our environment, our national security, and our economy. 
+We need to diversity our energy portfolio and increase the 
+contributions of alternative energy sources. However, for the 
+foreseeable future, petroleum and natural gas (including coalbed 
+methane) will remain important parts of our energy portfolio--and I 
+support their development in appropriate areas and in responsible ways. 
+I believe this legislation can move us closer toward this goal by 
+establishing some clear, reasonable rules that will provide greater 
+assurance and certainty for all concerned, including the energy 
+industry and the residents of Colorado, New Mexico, and other Western 
+states. Here is a brief outline of its major provisions:
+
+
+                            Outline of Bill
+
+       Section 1.--This section provides a short title (``Western 
+     Waters and Farm Lands Protection Act''), makes several 
+     findings about the need for the legislation, and states the 
+     bill's purpose, which is ``to provide for the protection of 
+     water resources and surface estate owners in the development 
+     of oil and gas resources, including coalbed methane.''
+       Title I.--This title deals with the protection of water 
+     resources. It includes three sections:
+       Section 101 amends current law to specify that an operator 
+     producing oil or gas under a federal lease must--(1) replace 
+     a water supply that is contaminated or interrupted by 
+     drilling operations; (2) comply with all applicable 
+     requirements of Federal and State law for discharge of water 
+     produced under the lease; and (3) develop a proposed water 
+     management plan before obtaining a lease.
+       Section 102 amends current law to make clear that 
+     extraction of water in connection with development of oil or 
+     gas (including coalbed methane) is subject to an appropriate 
+     permit and the requirement to minimize adverse effects on 
+     affected lands or waters.
+       Section 103 provides that nothing in the bill will--(1) 
+     affect any State's right or jurisdiction with respect to 
+     water; or (2) limit, alter, modify, or amend any interstate 
+     compact or judicial rulings that apportion water among and 
+     between different States.
+       Title II.--This title deals with the protection of surface 
+     owners. It includes four sections:
+       Section 201 provides definitions for several terms used in 
+     Title II.
+       Section 202 requires a party seeking to develop federal oil 
+     or gas in a split-estate situation to first seek to reach an 
+     agreement with the surface owner or owners that spells out 
+     how the energy development will be carried out, how the 
+     affected lands will be reclaimed, and that compensation will 
+     be made for damages. It provides that if no such agreement is 
+     reached within 90 days after the start of negotiations the 
+     matter will be referred to arbitration by a neutral party 
+     identified by the Interior Department.
+       Section 203 provides that if no agreement under section 202 
+     is reached within 90 days after going to arbitration, the 
+     Interior Department can permit energy development to proceed 
+     under an approved plan of operations and posting of an 
+     adequate bond. This section also requires the Interior 
+     Department to provide surface owners with an opportunity to 
+     comment on proposed plans of operations, participate in 
+     decisions regarding the amount of the bonds that will be 
+     required, and to participate in on-site inspections if the 
+     surface owners have reason to believe that plans of 
+     operations are not being followed. In addition, this section 
+     allows surface owners to petition the Interior Department for 
+     payments under bonds to compensate for damages and authorizes 
+     the Interior Department to release bonds after the energy 
+     development is completed and any damages have been 
+     compensated.
+       Section 204 requires the Interior Department to notify 
+     surface owners about lease sales and subsequent decisions 
+     involving federal oil or gas resources in their lands.
+       Title III.--This title amends current law to require 
+     parties producing oil or gas under a federal lease to restore 
+     affected lands and to post bonds to cover reclamation costs. 
+     It also requires the GAO to review Interior Department 
+     implementation of this part of the bill and to report to 
+     Congress about the results of that review and any 
+     recommendations for legislative or administrative changes 
+     that would improve matters.
+       Title IV.--This title deals with abandoned oil or gas 
+     wells. It includes three sections:
+       Section 401 defines the wells that would be covered by the 
+     title.
+       Section 402 requires the Interior Department, in 
+     cooperation with the Department of Agriculture, to establish 
+     a program for reclamation and closure of abandoned wells on 
+     federal lands or that were drilled for development of 
+     federally-owned minerals in split-estate situations. It 
+     authorizes appropriations of $5 million in fiscal years 2005 
+     and 2006.
+       Section 403 requires the Interior Department, in 
+     consultation with DOE, to establish a program to assist 
+     states and tribes to remedy environmental problems caused by 
+     abandoned oil or gas wells on non-federal and Indian lands. 
+     It authorizes appropriations of $5 million in fiscal years 
+     2006, 2007, and 2008.
+
+                          ____________________
+```
