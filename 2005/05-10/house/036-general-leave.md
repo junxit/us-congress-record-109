@@ -1,0 +1,23 @@
+---
+granule: CRECB-2005-pt7-Pg9100
+date: 2005-05-10
+edition: CRECB
+section: HOUSE
+page: 9100
+---
+
+# GENERAL LEAVE
+
+```
+                             GENERAL LEAVE
+
+  Ms. JACKSON-LEE of Texas. Mr. Speaker, I ask unanimous consent that 
+all Members may have 5 legislative days within which to revise and 
+extend their remarks and include extraneous material on the subject of 
+my question of personal privilege today.
+  The SPEAKER pro tempore (Mr. Boozman). Is there objection to the 
+request of the gentlewoman from Texas?
+  There was no objection.
+
+                          ____________________
+```

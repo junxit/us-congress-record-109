@@ -1,0 +1,531 @@
+---
+granule: CRECB-2005-pt7-Pg8984-3
+date: 2005-05-10
+edition: CRECB
+section: SENATE
+page: 8984
+---
+
+# JUDICIAL NOMINATIONS
+
+```
+                          JUDICIAL NOMINATIONS
+
+  Mr. HATCH. Mr. President, yesterday marked the fourth anniversary of 
+President Bush's first judicial nominations, a group of 11 highly 
+qualified men and women nominated to the U.S. courts of appeals.
+  As I said in the East Room at the White House on May 9, 2001: I hope 
+the Senate will at least treat these nominees fairly. Many of our 
+Democratic colleagues instead chose to follow their minority leader's 
+order issued days after President Bush took office, to use ``whatever 
+means necessary'' to defeat judicial nominees the minority does not 
+like.
+  While the previous 3 Presidents saw their first 11 appeals court 
+nominees confirmed in an average of just 81 days, today, 1,461 days 
+later, 3 of those original nominees have not even received a vote, let 
+alone been confirmed. Three have withdrawn.
+  In 2003, the minority opened a new front in the confirmation conflict 
+by using filibusters to defeat majority-supported judicial nominees. 
+This morning I will briefly address the top 10 most ridiculous judicial 
+filibuster defenses. Time permits only brief treatment, but it was 
+difficult to limit the list to 10.
+  No. 10 is the claim that these filibusters are part of Senate 
+tradition. Calling something a filibuster, even if you repeat it over 
+and over, does not make it so. These filibusters block confirmation of 
+majority-supported judicial nominations by defeating votes to invoke 
+cloture or end debate. Either these filibusters happened before or they 
+did not.
+  Let me take the evidence offered by filibuster proponents at face 
+value. Let me refer to these two charts. These two charts list some 
+representative examples of what Democrats repeatedly claim is 
+filibuster precedence. The Senate confirmed each of these nominations. 
+As ridiculous as it sounds, filibuster proponents claim, with a 
+straight face, by the way, that confirming these past nominations 
+justifies refusing to confirm nominations today.
+  Some examples are more ridiculous than others. Stephen Breyer is on 
+the Democrats' list of filibusters, suggesting that the Senate treated 
+his nomination the way Democrats are treating President Bush's 
+nominations today. The two situations could not be more different. Even 
+though President Carter nominated now-Justice Breyer but then attorney 
+Breyer, law professor Breyer, in November 1980, after losing his bid 
+for reelection--that is when he nominated him--and after Democrats lost 
+control of the Senate, we voted to end debate and overwhelmingly 
+confirmed Stephen Breyer just 26 days after his nomination. And I had a 
+lot to do with that. The suggestion that confirming the Breyer 
+nomination for the party losing its majority now justifies 
+filibustering nominations for the party keeping its majority is, well, 
+just plain ridiculous.
+  No. 9 on the list of the most ridiculous filibuster defenses is that 
+they are necessary, they say, to prevent one-party rule from stacking 
+the Federal bench. Now, if you win elections, you say the country has 
+chosen its leadership. If you lose, you complain about one-party rule. 
+When your party controls the White House, the President appoints 
+judges. When the other party controls the White House, the President 
+stacks the bench--at least that seems to be the attitude.
+  Our Democratic colleagues say we should be guided by how the 
+Democratic Senate handled Franklin Roosevelt's attempt to pack the 
+Supreme Court. It is true that FDR's legislative proposal to create new 
+Supreme Court seats failed, and without a filibuster, I might add. But 
+as it turned out, packing the Supreme Court required only filling the 
+existing seats. President Roosevelt packed the Court all right, by 
+appointing no less than eight Justices in 6 years--more than any 
+President, except George Washington himself.
+  This chart is an answer to FDR's court packing without a filibuster. 
+Now, let me just make some points. As the chart shows, during the 75th, 
+76th, and 77th Congresses, when President Roosevelt made those 
+nominations, Democrats outnumbered Republicans by an average of 70 
+Democrats to 20 Republicans. Now, that is one-party rule. Yet the 
+Senate confirmed those Supreme Court nominees in an average of just 13 
+days, one of them on the very
+
+[[Page 8985]]
+
+day it was made and six of them without even a rollcall vote. That is 
+not because filibustering judicial nominations was difficult. In fact, 
+our cloture rule did not then apply to nominations. A single Member of 
+that tiny, beleaguered Republican minority could have filibustered 
+these nominations and attempted to stop President Roosevelt from 
+packing the Supreme Court--just a single Member could have.
+  The most important number on this chart is the number right at the 
+bottom: the number of filibusters against President Roosevelt's 
+nominees--zero.
+  No. 8 on this list is the claim that without the filibuster the 
+Senate would be a patsy, nothing but a rubberstamp for the President's 
+judicial nominations. To paraphrase a great Supreme Court Justice: If 
+simply stating this argument does not suffice to refute it, our debate 
+about these issues has achieved terminal silliness. Being on the losing 
+side does not make one a rubberstamp.
+  For all of these centuries of democratic government, have we seen 
+only winners and rubberstamps? Was the famous tag line for ABC's Wide 
+World of Sports ``the thrill of victory and the agony of 
+rubberstamping''? Democrats did not start filibustering judicial 
+nominations until the 108th Congress. Imagine the history books 
+describing the previous 107 Senates as the great rubberstamp Senates. 
+Did Democrats rubberstamp the Supreme Court nomination of Clarence 
+Thomas in 1991 since they did not use the filibuster? That conflict 
+lasting several months and concluding with that 52-to-48 confirmation 
+vote did not look like a rubberstamp to me.
+  Some modify this ridiculous argument by saying this applies when one 
+party controls both the White House and the Senate. They make the 
+stunning observation that Senators of the President's party are likely 
+to vote for his nominees. The assistant minority leader, Senator 
+Durbin, recently said, for example, that Republican Senators are 
+nothing but ``lapdogs'' for President Bush.
+  Pointing at others can be dangerous because you have a few fingers 
+pointing back at yourself. Counting both unanimous consent or rollcall 
+votes, more than 37,500 votes were cast here on the Senate floor on 
+President Clinton's judicial nominations. Only 11 of them, just a 
+teeny, tiny, three one-hundredths of 1 percent, were ``no'' votes from 
+Democrats--only 11 of 37,500. Were they just rubberstamping lapdogs in 
+supporting President Clinton?
+  The Constitution assigns the same roles to the President and the 
+Senate no matter which party the American people put in charge of which 
+end of Pennsylvania Avenue.
+  In the 1960s, the Democrats were in charge, yet Minority Leader 
+Everett Dirksen refused to filibuster judicial nominees of Presidents 
+Kennedy or Johnson. Was he just a rubberstamp?
+  In the 1970s, the Democrats were in charge, yet Minority Leader 
+Howard Baker refused to filibuster President Carter's judicial 
+nominees. Was he just a rubberstamp?
+  In the 1980s, the Republicans were in charge, yet Minority Leader 
+Robert Byrd did not filibuster President Reagan's judicial nominees. 
+Was he just a rubberstamp?
+  And a decade ago, the Democrats were again in charge, yet Minority 
+Leader Bob Dole refused to filibuster President Clinton's judicial 
+nominees. Was he a rubberstamp?
+  To avoid being a rubberstamp, one need only fight the good fight, win 
+or lose.
+  No. 7 on the list of most ridiculous judicial filibuster defenses is 
+that these filibusters are necessary to preserve our system of checks 
+and balances. That is an argument we have heard from the other side.
+  Mr. President, any civics textbook explains that what we call 
+``checks and balances'' regulates the relationship between the branches 
+of Government. The Senate's role of advice and consent checks the 
+President's power to appoint judges, and we exercise that check when we 
+vote on his judicial nominations.
+  The filibuster is about the relationship between the majority and 
+minority in the Senate, not about the relationship between the Senate 
+and the President. It actually interferes with being a check on the 
+President's power by preventing the Senate from exercising its role of 
+advice and consent at all.
+  Former Majority Leader Mike Mansfield once explained that by 
+filibustering judicial nominations, individual Senators presume what he 
+called ``great personal privilege at the expense of the 
+responsibilities of the Senate as a whole, and at the expense of the 
+constitutional structure of the federal government.''
+  In September 1999, the Senator from Massachusetts, Mr. Kennedy, 
+expressed the same view when he said:
+
+       It is true that some Senators have voiced concerns about 
+     these nominations. But that should not prevent a roll call 
+     vote which gives every Senator the opportunity to vote 
+     ``yes'' or ``no.''
+
+  Those were the words of our colleague from Massachusetts, Senator 
+Kennedy: Give every Senator the opportunity to vote yes or no.
+  That was then; this is now.
+  In case anyone needs further clarification on this point, I ask 
+unanimous consent that the definition of ``checks and balances'' from 
+two sources, ``congressforkids.net'' and ``socialstudieshelp.com,'' be 
+printed in the Record.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+       Definition of checks and balances from 
+     www.congressforkids.org.
+       ``By creating three branches of government, the delegates 
+     built a `check and balance' system into the Constitution.''
+       Definition of checks and balances from 
+     www.socialstudieshelp.com.
+       ``In this system the government was to be divided into 
+     three branches of government, each branch having particular 
+     powers. Not only does each branch of the government have 
+     particular powers, each branch has certain powers of the 
+     other branches.''
+
+  Mr. HATCH. No. 6 on the list is that these filibusters are necessary 
+to prevent appointment of extremists.
+  What our Democratic colleagues call ``extreme'' the American Bar 
+Association calls ``qualified.'' In fact, all three of the appeals 
+court nominees chosen 4 years ago who have been denied confirmation 
+received the ABA's highest ``well qualified'' rating. Now, that was the 
+gold standard under the Democrats when Clinton was President. The same 
+Democrats who once called the ABA rating the gold standard for 
+evaluating judicial nominees now disregard it and call these people 
+extreme.
+  Did 76 percent of Californians vote to keep an extremist on their 
+supreme court when they voted to retain Justice Janice Rogers Brown, an 
+African-American woman, a sharecroppers' daughter, who fought her way 
+all the way up to the Supreme Court of California?
+  Did 84 percent of all Texans and every major newspaper in the State 
+support an extremist when they reelected Justice Priscilla Owen to the 
+Texas Supreme Court--84 percent?
+  The Associated Press reported last Friday that the minority leader 
+reserves the right to filibuster what he calls ``extreme'' Supreme 
+Court nominees. Now, that is quite an escape hatch, if you will, since 
+the minority already defines any nominee it does not like as 
+``extreme.'' This is simply a repackaged status quo masquerading as 
+reform.
+  If Senators want to dismiss as an extremist any judicial nominee who 
+does not think exactly as they do, that certainly is their right. That 
+is, however, a reason for voting against a confirmation, not for 
+refusing to vote at all. As our former colleague, Tom Daschle, said:
+
+       I find it simply baffling that a Senator would vote against 
+     even voting on a judicial nominee.
+
+  No. 5 on this list of most ridiculous judicial filibuster defenses is 
+the claim that these filibusters are about free speech and debate. If 
+Senators cannot filibuster judicial nominations, some say, the Senate 
+will cease to exist, and we will be literally unable to represent our 
+constituents.
+  The same men who founded this Republic designed this Senate without 
+the ability to filibuster anything at all. A simple majority could 
+proceed to vote on something after sufficient debate. Among those first 
+Senators were
+
+[[Page 8986]]
+
+Oliver Ellsworth of Connecticut, who later served on the Supreme Court, 
+as well as Charles Carroll of Maryland and Richard Henry Lee of 
+Virginia, who had signed the Declaration of Independence. When they ran 
+for office, did they know that they would be unable to represent their 
+States because they would be unable to filibuster?
+  These filibusters are about defeating judicial nominations, not 
+debating them. The minority rejects every proposal for debating and 
+voting on nominations it targets for defeat.
+  In April 2003, my colleague from Utah, Senator Bennett, asked him, 
+the minority leader, how many hours Democrats would need to debate a 
+particular nomination. Now, just take a look at chart 4. His response 
+spoke volumes:
+
+       [T]here is not a number [of hours] in the universe that 
+     would be sufficient.
+
+  Let me just refer to chart 5.
+  Later that year, he said:
+
+       We would not agree to a time agreement . . . of any 
+     duration.
+
+  Let me go to chart 6. Just 2 weeks ago, the minority leader summed up 
+what really has been the Democrats' position all along:
+
+       This has never been about the length of the debate.
+
+  He is right about that. This has always been about defeating 
+nominations, not debating them. If our Democratic colleagues want to 
+debate, then let us debate. The majority leader said we will give 100 
+hours for each of these nominees. Let's debate them. Let us do what 
+Democrats once said was the purpose of debating judicial nominations. 
+As my colleague from California, Senator Boxer, put it in January 1998:
+
+       [L]et these names come up, let us have debate, let us vote.
+
+  No. 4 on the list is that returning to Senate tradition regarding 
+floor votes on judicial nominations would amount to breaking the rules 
+to change the rules. As any consultant worth even a little salt will 
+tell you, that is a catchy little phrase. The problem is that neither 
+of its catchy little parts is true.
+  The constitutional option, which would change judicial confirmation 
+procedure through the Senate voting to affirm a parliamentary ruling, 
+would neither break nor change Senate rules. While the constitutional 
+option has not been used to break our rules, it has been used to break 
+filibusters.
+  On January 4, 1995, the Senator from West Virginia, the distinguished 
+Senator, Mr. Byrd, described how, in 1977, when he was majority leader, 
+he used this procedure to break a filibuster on a natural gas bill. 
+Now, I have genuine affection and great respect for the Senator from 
+West Virginia, and he knows that. But let me just refer to chart 7. 
+Since I would not want to describe his repeated use of the 
+constitutional option in a pejorative way, let me use his own words. 
+Here is what he said back in 1995, the distinguished Senator from West 
+Virginia:
+
+       I have seen filibusters. I have helped to break them. There 
+     are few Senators in this body who were here [in 1977] when I 
+     broke the filibuster on the natural gas bill. . . . I asked 
+     Mr. Mondale, the Vice President, to go please sit in the 
+     chair; I wanted to make some points of order and create some 
+     new precedents that would break these filibusters. And the 
+     filibuster was broken--back, neck, legs, and arms. . . . So I 
+     know something about filibusters. I helped to set a great 
+     many of the precedents that are on the books here.
+
+  Well, he certainly did. I was here. And using the constitutional 
+option today to return to Senate tradition regarding judicial 
+nominations would simply use the precedents the distinguished Senator 
+from West Virginia put on the books.
+  No. 3 on the list of most ridiculous judicial filibuster defenses is 
+that the constitutional option is unprecedented, or should we call it 
+the Byrd option. In 1977, 1979, and 1987, the then majority leader, 
+Senator Byrd, secured a favorable parliamentary ruling through a point 
+of order and a majority of Senators voted to affirm it. He did this 
+even when the result he sought was inconsistent with the text of our 
+written rules.
+  In 1980, he used a version of the same procedure to limit nomination-
+related filibusters. Majority Leader Byrd made a motion for the Senate 
+to vote to go into executive session and proceed to consider a specific 
+nomination. At the time, the first step was not debatable but the 
+second step was debatable. A majority of Senators voted to overturn a 
+parliamentary ruling disallowing the procedural change Majority Leader 
+Byrd wanted.
+  Let me refer to chart 8. Seven of these Senators serve with us today, 
+and their names appear on this chart. They can explain for themselves 
+how voting against restricting nomination-related filibusters today is 
+consistent with voting to restrict them in 1980. As you can see, they 
+are illustrious colleagues.
+  No. 2 on the list is that preventing judicial filibusters will doom 
+legislative filibusters. As you know, there are two calendars in the 
+Senate. One is the legislative calendar. I would fight to my death to 
+keep the filibuster alive on the legislative calendar to protect the 
+minority. But then there is the executive calendar, which is partly the 
+President's in the sense that he has the power of appointment and 
+nomination and sends these people up here and expects advice and 
+consent from the Senate. Advice we give. Consent we have not given in 
+the case of these nominees who have been filibustered, or so-called 
+filibustered.
+  No. 2 on the list is that preventing judicial filibusters, they 
+claim, will doom legislative filibusters. That's pure bunk. Our own 
+Senate history shows how ridiculous this argument really is. 
+Filibusters became possible by dropping the rule allowing a simple 
+majority to proceed to a vote. The legislative filibuster developed, 
+the judicial filibuster did not. What we must today limit by rule or 
+ruling we once limited by principle or self-restraint--for 214 years, 
+that is. The filibuster is an inappropriate obstacle to the President's 
+judicial appointment power but an appropriate tool for exercising our 
+own legislative power. I cannot fathom how returning to our tradition 
+regarding judicial nominations will somehow threaten our tradition 
+regarding legislation. The only threat to the legislative filibuster 
+and the only votes to abolish have come from the other side of the 
+aisle. In 1995, 19 Senators, all Democrats, voted against tabling an 
+amendment to our cloture rule that would prohibit all filibusters of 
+legislation as well as nominations. As this chart shows, nine of those 
+Senators still serve with us and their names are right here on this 
+chart.
+  I voted then against the Democrats' proposal to eliminate the 
+legislative filibuster, and I oppose eliminating it today. The majority 
+leader, Senator Frist, also voted against the Democrats' proposal to 
+eliminate the legislative filibuster. In fact, that was his first vote 
+as a new Member of this body. I joined him in recommitting ourselves to 
+protecting the legislative filibuster. I urge my friends on the other 
+side, the Democrats, to follow the example of our colleague from 
+California, Senator Boxer, who recently said that she has changed her 
+position, that she no longer wants to eliminate the legislative 
+filibuster.
+  In 1995, USA Today condemned the filibuster as ``a pedestrian tool of 
+partisans and gridlock meisters.''
+  The New York Times said the filibuster is ``the tool of the sore 
+loser.'' I hope these papers will reconsider their position and support 
+the legislative filibuster.
+  The No. 1 most ridiculous judicial filibuster defense is that those 
+wanting to filibuster Republican nominees today opposed filibustering 
+Democratic nominees only a few years ago. In a letter dated February 4, 
+1998, for example, the leftwing urged confirmation of Margaret Morrow 
+to the U.S. District Court for the Central District of California. They 
+urged us to ``bring the nomination to the Senate, ensure that it 
+received prompt, full and fair consideration, and that a final vote on 
+her nomination is scheduled as soon as possible.'' Groups signing this 
+letter included the Alliance for Justice, Leadership Conference on 
+Civil Rights, and People for the American Way. As we all know, these 
+leftwing groups today lead the grassroots campaign behind these 
+filibusters that would deny this same treatment to President Bush's 
+nominees. Their position has changed as the
+
+[[Page 8987]]
+
+party controlling the White House has changed.
+  Let me make it easy for the ``hypocrite patrol'' to check out my 
+position on the Morrow nomination. In the February 11, 1998, 
+Congressional Record, on page S640, three pages before that letter from 
+the leftwing groups appears, I opened the debate on the Morrow 
+nomination by strongly urging my fellow Senators to support it. We did, 
+and she is, today, a sitting Federal judge, as I believe she should be. 
+The same Democrats who today call for filibusters called for up-or-down 
+votes when a Democrat was in the White House.
+  Let me refer to chart 10 here. I will just give some illustrations. 
+In 1999, my dear friend from California, Senator Feinstein, a person I 
+have great love and respect for, a Member of the Senate Judiciary 
+Committee, said of the Senate:
+
+       It is our job to confirm these judges. If we don't like 
+     them, we can vote against them.
+
+  She said:
+
+       A nominee is entitled to a vote. Vote them up, vote them 
+     down.
+
+  Let me go to chart 11. Another committee member, Senator Schumer, 
+properly said in March 2000:
+
+       The President nominates and we are charged with voting on 
+     the nominees.
+
+  He was right.
+  Let me refer to chart 12. I have already quoted the Senator from 
+California, Senator Boxer once, but in 2000 she said that filibustering 
+judicial nominees:
+
+     . . . would be such a twisting of what cloture really means 
+     in these cases. It has never been done before for a judge, as 
+     far as we know--ever.
+
+  I appreciate what another member of the Judiciary Committee, Senator 
+Kohl, said in 1997:
+
+       Let's breathe life back into the confirmation process. 
+     Let's vote on the nominees who have already been approved by 
+     the Judiciary Committee.
+
+  Well, let me go to chart 14. The Senator from Iowa, Senator Harkin, 
+who fought so strongly against the legislative filibuster in 1995, 
+said, 5 years later, about the judicial filibuster:
+
+       If they want to vote against them, let them vote against 
+     them. But at least have a vote.
+
+  The same view comes from three former Judiciary Committee chairmen, 
+members of the Democratic leadership. Let me refer to chart No. 15. A 
+former committee chairman, Senator Biden, said in 1977 that every 
+judicial nominee is entitled:
+
+       To have a shot to be heard on the floor and have a vote on 
+     the floor.
+
+  Former chairman, Senator Edward Kennedy, said in 1998:
+
+       If Senators don't like them, vote against them. But give 
+     them a vote.
+
+  And my immediate predecessor as chairman, Senator Leahy, said a year 
+later, judicial nominees are:
+
+     entitled to a vote, aye or nay.
+
+  Now, the assistant minority leader, Senator Durbin, had urged the 
+same thing in September 1998:
+
+       Vote the person up or down.
+
+  Vote the person up or down.
+  Finally, Mr. President, the minority leader, Senator Reid, expressed 
+in March 2000 the standard that I hope we can reestablish:
+
+       Once they get out of committee, bring them down here and 
+     vote up or down on them.
+
+  The majority leader, Senator Frist, recently proposed a plan to 
+accomplish precisely this result. But the minority leader dismissed it 
+as--I want to quote this accurately now--
+
+       A big fat wet kiss to the far right.
+
+  I never thought voting on judicial nominations was a far-right thing 
+to do.
+  These statements speak for themselves. Do you see a pattern here? The 
+message at one time seems to be let us debate and let us vote. That 
+should be the standard, no matter which party controls the White House 
+or the Senate.
+  Mr. President, as I close, let me summarize these 10 top most 
+ridiculous judicial filibusters in this way. Blocking confirmation of 
+majority-supported judicial nominations by defeating cloture votes is 
+unprecedented. In the words of the current Judiciary Committee 
+chairman, Senator Specter:
+
+       What Democrats are doing here is really seeking a 
+     constitutional revolution.
+
+  We must turn back that revolution. No matter which party controls the 
+White House or Senate, we should return to our tradition of giving 
+judicial nominations reaching the Senate floor an up-or-down vote. 
+Full, fair, and vigorous debate is one of the hallmarks of this body, 
+and it should drive how we evaluate a President's judicial nominations.
+  Honoring the Constitution's separation of power, however, requires 
+that our check on the President's appointment power not highjack that 
+power altogether. This means debate must be a means to an end rather 
+than an end in itself. Senators are free to vote against the nominees 
+they feel extreme, but they should not be free to prevent other 
+Senators from expressing a contrary view or advising and consenting. In 
+this body, we govern ourselves with parliamentary rulings as well as by 
+unwritten rules. The procedure of a majority of Senators voting to 
+sustain a parliamentary ruling has been used repeatedly to change 
+Senate procedure without changing Senate rules, even to limit 
+nomination-related filibusters.
+  I have tried to deal with the substance of our filibuster proponents' 
+arguments, albeit with some humor and maybe a touch of sarcasm. A few 
+days ago, as the Salt Lake Tribune reported, the minority leader was in 
+my State:
+
+     . . . stopping just short of calling Utah Senator Orrin Hatch 
+     a hypocrite.
+
+  That is at least how the newspaper described it. That is not what I 
+consider to be a substantive argument. Perhaps those who dismiss their 
+opponents as liars, losers, or lap dogs have nothing else to offer in 
+this debate. Yet debate we must, and then we must vote.
+  Mr. President, how much remaining time do I have?
+  The ACTING PRESIDENT pro tempore. The Senator has 1 minute remaining.
+  Mr. HATCH. Let me just make this point. We confirmed, in 6 years of 
+Republican control of the Senate, 377 judges for President Clinton. 
+That was five less than the all-time confirmation champion Ronald 
+Reagan. All of these people who are up have well-qualified ratings from 
+the ABA, all had a bipartisan majority to support them. What is wrong 
+with giving them an up-or-down vote and retaining 214 years of Senate 
+tradition? What is wrong with that? I think it is wrong to try and blow 
+up that tradition the way it is being done.
+  With that, I yield the floor.
+  I suggest the absence of a quorum.
+  The ACTING PRESIDENT pro tempore. The clerk will call the roll.
+  The assistant legislative clerk proceeded to call the roll.
+  Mr. SCHUMER. Mr. President, I ask unanimous consent that the order 
+for the quorum call be rescinded.
+  The ACTING PRESIDENT pro tempore. Without objection, it is so 
+ordered.
+  Mr. SCHUMER. Will the Chair advise as to how much time remains on 
+this side?
+  The ACTING PRESIDENT pro tempore. One-half hour remains on the 
+Senator's side.
+
+                          ____________________
+```
