@@ -1,0 +1,34 @@
+---
+granule: CRECB-2005-pt7-Pg9743-5
+date: 2005-05-16
+edition: CRECB
+section: HOUSE
+page: 9743
+---
+
+# IMPORTANT ISSUES NOT BEING ADDRESSED
+
+```
+                  IMPORTANT ISSUES NOT BEING ADDRESSED
+
+  (Ms. WOOLSEY asked and was given permission to address the House for 
+1 minute and to revise and extend her remarks.)
+  Ms. WOOLSEY. Mr. Speaker, how disappointing that instead of using the 
+first months of this new Congress to address the important issues 
+facing our Nation, we have spent most of our time on issues that cater 
+to special interests.
+  Instead of helping retirees by strengthening our pension system, my 
+colleagues on the other side of the aisle are seeking to dismantle 
+Social Security. They want to take away the safety net, a safety net 
+that seniors depend on, in favor of giving even more money to Wall 
+Street.
+  Instead of developing a meaningful energy policy to lessen our 
+dependence on foreign oil, we spend time on the House floor passing an 
+energy bill that will do nothing to relieve rising gas prices, but 
+instead give tax incentives to big oil and gas companies.
+  The Republican leadership must stop abusing this body and the people 
+we represent. They are doing it for their own self-interests, and it is 
+time the people take this House back. It is the people's House.
+
+                          ____________________
+```
