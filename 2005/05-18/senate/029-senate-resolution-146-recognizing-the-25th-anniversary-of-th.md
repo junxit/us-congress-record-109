@@ -1,0 +1,62 @@
+---
+granule: CRECB-2005-pt7-Pg10129
+date: 2005-05-18
+edition: CRECB
+section: SENATE
+page: 10129
+---
+
+# SENATE RESOLUTION 146--RECOGNIZING THE 25TH ANNIVERSARY OF THE ERUPTION OF MOUNT ST. HELENS
+
+```
+SENATE RESOLUTION 146--RECOGNIZING THE 25TH ANNIVERSARY OF THE ERUPTION 
+                          OF MOUNT ST. HELENS
+
+  Ms. CANTWELL (for herself, Mrs. Murray, Mr. Stevens, and Mr. Pryor) 
+submitted the following resolution; which was considered and agreed to:
+
+                              S. Res. 146
+
+       Whereas, on May 18, 1980, at 8:32 a.m. Pacific Daylight 
+     Time, the volcano of Mount St. Helens erupted, changing its 
+     elevation from 9,677 feet to 8,363 feet;
+       Whereas the eruption was triggered by an earthquake of 
+     magnitude 5.1 approximately 1 mile beneath the volcano;
+       Whereas the lateral blast covered an area approximately 230 
+     square miles and reached as far as 17 miles northwest of the 
+     crater;
+       Whereas the velocity of the blast was estimated to be at 
+     least 300 miles per hour;
+       Whereas the pyroclastic flows covered 6 square miles, 
+     reached temperatures of 1,300 degrees Fahrenheit, and moved 
+     at speeds between 50 and 80 miles per hour;
+       Whereas, as a result of the eruption, over 4,000,000,000 
+     board-feet of timber was blown down, which is enough material 
+     to build about 150,000 homes;
+       Whereas volcanic ash clouded the sky above eastern 
+     Washington, reached the east coast of the United States in 3 
+     days, and eventually circled the globe in 15 days;
+       Whereas the eruption claimed the lives of 57 people; and
+       Whereas tens of thousands of animals perished: Now, 
+     therefore, be it
+       Resolved, That the Senate--
+       (1) recognizes the 25th Anniversary of the eruption of 
+     Mount St. Helens on May 18, 2005;
+       (2) acknowledges the importance of monitoring all 169 
+     volcanoes in the United States and its territories;
+       (3) recognizes the invaluable work of the Department of the 
+     Interior, the United States Geological Survey, the United 
+     States Forest Service, the Directorate of Emergency 
+     Preparedness and Response of the Department of Homeland 
+     Security, and the Cascade Volcano Observatory in monitoring 
+     the activities of Mount St. Helens;
+       (4) acknowledges the progress in science that has led to a 
+     more comprehensive understanding of volcanology, seismology, 
+     and plate tectonics, thus enhancing the ability to predict 
+     volcanic activity and eruptions; and
+       (5) supports monitoring volcanoes and helping to develop 
+     emergency response plans to ensure that the people and 
+     communities of the United States are safe.
+
+                          ____________________
+```
