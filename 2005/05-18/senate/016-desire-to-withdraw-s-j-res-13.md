@@ -1,0 +1,32 @@
+---
+granule: CREC-2005-05-18-pt1-PgS5434-2
+date: 2005-05-18
+edition: CREC
+section: SENATE
+page: S5434
+citation: 151 Cong. Rec. S5434
+---
+
+# DESIRE TO WITHDRAW S.J. RES. 13
+
+**Speaking:** Brownback, Sam (B000953) [R-KS]
+
+**Measures:** S.J.Res. 13
+
+```
+                    DESIRE TO WITHDRAW S.J. RES. 13
+
+  Mr. BROWNBACK. Mr. President, several weeks ago I introduced a joint 
+resolution which has been given the number S.J. Res. 13. This 
+resolution is a one sentence amendment to the Constitution declaring 
+that marriage is between a man and a woman. I would like the Record to 
+reflect at this point that I would like to withdraw this resolution.
+  I understand that under the Senate rules, a unanimous consent 
+withdrawing a joint resolution would not be in order. Thus, copies S.J. 
+Res. 13 will remain available from the Government Printing Office. 
+However, while it is my intent to continue to hold hearings on the 
+important issue of traditional marriage, it is not my intent to advance 
+S.J. Res. 13 through the legislative process.
+
+                          ____________________
+```
