@@ -1,0 +1,62 @@
+---
+granule: CRECB-2005-pt8-Pg10697
+date: 2005-05-19
+edition: CRECB
+section: EXTENSIONS
+page: 10697
+---
+
+# TRIBUTE TO MR. THOMAS P. INFUSINO
+
+```
+                   TRIBUTE TO MR. THOMAS P. INFUSINO
+
+                                 ______
+                                 
+
+                        HON. BILL PASCRELL, JR.
+
+                             of new jersey
+
+                    in the house of representatives
+
+                         Thursday, May 19, 2005
+
+  Mr. PASCRELL. Mr. Speaker, I would like to call your attention to the 
+life and work of an exceptional individual, Mr. Thomas Infusino. Thomas 
+was honored at the Wakefern Food Corporation's annual meeting on 
+Thursday, May 19, 2005.
+  Over the past thirty-four years, Thomas Infusino has worked 
+tirelessly on behalf of his investors, employees, and clients. His 
+commitment to his business, the food distribution industry, and the 
+community at large has left an indelible mark on the lives of many, 
+demonstrating the difference one dedicated person can make. It is only 
+fitting that we honor Thomas Infusino, in this, the permanent record of 
+the greatest freely elected body on Earth.
+  Thomas served in the United States military during World War II, 
+primarily stationed in Italy and Africa. Upon his return he quickly 
+became a part of the Northern New Jersey community and has raised a 
+family in our wonderful state. Thomas has truly made a name for himself 
+as an innovative entrepreneur with a propensity for giving back to the 
+community.
+  Tom has been chairman and CEO of Wakefern Food Corporation, a 
+retailer-owned cooperative of the wholesale merchandising and 
+distribution arm for ShopRite supermarkets, since 1971. He is also the 
+owner and president of the Nutley Park ShopRite located in Nutley, NJ.
+  Mr. Infusino's philanthropic spirit has been recognized by an array 
+of organizations. Tom was honored by the Cooley's Anemia Foundation and 
+subsequently given the Lifeline Award fur his efforts. Additionally, 
+Tom continues to work closely with the Lautenberg Center for General 
+and Tumor Immunology, which sponsors the annual Thomas Infusino Prize. 
+He also serves on the Board of Governors for the National Conference 
+for Community and Justice as well as retaining a seat on the Board of 
+Directors of the New Jersey Food Council.
+  The job of a United States Congressman involves so much that is 
+rewarding, yet nothing compares to learning about and recognizing the 
+efforts of individuals like Thomas Infusino.
+  Mr. Speaker, I ask that you join our colleagues, the members of the 
+Infusino family, and myself in recognizing Thomas Infusino for his 
+outstanding service.
+
+                          ____________________
+```

@@ -1,0 +1,47 @@
+---
+granule: CRECB-2005-pt8-Pg10700-2
+date: 2005-05-19
+edition: CRECB
+section: EXTENSIONS
+page: 10700
+---
+
+# HONORING HYUNDAI MOTOR COMPANY'S FIRST U.S. ASSEMBLY AND MANUFACTURING PLANT IN MONTGOMERY, ALABAMA
+
+```
+HONORING HYUNDAI MOTOR COMPANY'S FIRST U.S. ASSEMBLY AND MANUFACTURING 
+                      PLANT IN MONTGOMERY, ALABAMA
+
+                                 ______
+                                 
+
+                           HON. TERRY EVERETT
+
+                               of alabama
+
+                    in the house of representatives
+
+                         Thursday, May 19, 2005
+
+  Mr. EVERETT. Mr. Speaker, I would like to take this opportunity to 
+recognize the completion and grand opening of Hyundai Motor Company's 
+first U.S. automotive assembly and manufacturing plant on May 20th in 
+Montgomery, Alabama.
+  Hyundai broke ground on its $1.1 billion Alabama facility in April 
+2002. When Hyundai Motor Manufacturing Alabama reaches peak production, 
+it will employ approximately 2,000 people and produce 300,000 vehicles 
+per year. Hyundai's in-state suppliers will provide another 4,500 jobs 
+and invest more than $500 million in the local economy.
+  This plant is the most advanced automobile manufacturing facility in 
+the world, using state of the art robotics and other technologies. 
+Hyundai is truly creating quality jobs and quality products in Alabama.
+  I am proud to welcome Hyundai Motor Manufacturing Alabama to our 
+Montgomery area and look forward to the job opportunities it will 
+provide for our motivated workforce from central Alabama to the 
+Wiregrass.
+  I would like to applaud Hyundai for its commitment to building 
+quality products, and its confidence in the great state of Alabama to 
+continue that tradition.
+
+                          ____________________
+```
