@@ -1,0 +1,62 @@
+---
+granule: CREC-2005-05-20-pt1-PgE1032-2
+date: 2005-05-20
+edition: CREC
+section: EXTENSIONS
+page: E1032
+citation: 151 Cong. Rec. E1032
+---
+
+# HONORING RICHARD F. CORDELL
+
+**Speaking:** Kildee, Dale E. (K000172) [D-MI]
+
+```
+                      HONORING RICHARD F. CORDELL
+
+                                 ______
+                                 
+
+                          HON. DALE E. KILDEE
+
+                              of michigan
+
+                    in the house of representatives
+
+                         Thursday, May 19, 2005
+
+  Mr. KILDEE. Mr. Speaker, I rise today to pay tribute to an 
+outstanding gentleman, Mr. Richard F. Cordell of Flushing, MI. This 
+Friday, members of the Rotary Club of Flint will pay tribute to Mr. 
+Cordell, as he celebrates 42 years of service as a Rotarian, and 25 
+years as Executive Secretary/Treasurer of the Club.
+  Born and raised in Toledo, Ohio, Dick Cordell began his long history 
+of service to others by serving his country in World War II following 
+his graduation from the University of Toledo. Dick piloted a B-26 as a 
+member of the U.S. Air Force, earning the rank of Lieutenant Colonel. 
+After the war, Dick worked as a salesman for IBM. During this time, he 
+met and married Ruth, his wife of 58 years. When Symplex purchased 
+Dick's division at IBM, he was transferred to Flint where he was 
+appointed District Manager.
+  Dick began his distinguished career with Rotary International on 
+September 1, 1963. After memberships on various committees and 
+participation in many projects, Dick was elected President of the Flint 
+Rotary Club from 1974-1976. He also served as District Governor from 
+1984-1985. Since 1980, he has operated as the Flint Club's Executive 
+Secretary/Treasurer, a position he enjoys due to the constant positive 
+interaction he experiences from his fellow Rotarians. In addition, Dick 
+and Ruth plan to attend this year's Rotary International Convention, 
+which will be their fifteenth.
+  I am appreciative of Dick Cordell's many years of leadership and for 
+the untold number of individuals he has assisted, both personally and 
+indirectly. He truly personifies the Rotary motto: ``Service Above 
+Self,'' as well as the Rotarian philosophy of truth, fairness, 
+goodwill, and mutual benefit in all professional actions.
+  Mr. Speaker, as a Rotary Club fellowship beneficiary, I can attest to 
+the unwavering support toward the community exhibited by its members, 
+and I am grateful for people such as Richard Cordell. I ask my 
+colleagues in the 109th to please join me in recognizing his 
+accomplishments, and wishing him the best in all his future endeavors.
+
+                          ____________________
+```

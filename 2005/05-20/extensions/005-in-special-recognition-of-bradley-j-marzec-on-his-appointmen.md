@@ -1,0 +1,65 @@
+---
+granule: CREC-2005-05-20-pt1-PgE1030-2
+date: 2005-05-20
+edition: CREC
+section: EXTENSIONS
+page: E1030
+citation: 151 Cong. Rec. E1030
+---
+
+# IN SPECIAL RECOGNITION OF BRADLEY J. MARZEC ON HIS APPOINTMENT TO ATTEND THE UNITED STATES AIR FORCE ACADEMY
+
+**Speaking:** Gillmor, Paul E. (G000210) [R-OH]
+
+```
+   IN SPECIAL RECOGNITION OF BRADLEY J. MARZEC ON HIS APPOINTMENT TO 
+               ATTEND THE UNITED STATES AIR FORCE ACADEMY
+
+                                 ______
+                                 
+
+                          HON. PAUL E. GILLMOR
+
+                                of ohio
+
+                    in the house of representatives
+
+                         Thursday, May 19, 2005
+
+  Mr. GILLMOR. Mr. Speaker, it is my great pleasure to pay special 
+tribute to an outstanding young man from Ohio's Fifth Congressional 
+District. I am happy to announce that Bradley J. Marzec of Rossford, 
+Ohio has been offered an appointment to attend the United States Air 
+Force Academy in Colorado Springs, Colorado.
+  Bradley's offer of appointment poises him to attend the United States 
+Air Force Academy this fall with the incoming cadet class of 2009. 
+Attending one of our Nation's military academies is an invaluable 
+experience that offers a world-class education and demands the very 
+best that these young men and women have to offer. Truly, it is one of 
+the most challenging and rewarding undertakings of their lives.
+  Bradley brings an enormous amount of leadership, service, and 
+dedication to the incoming class of Air Force cadets. Bradley is a 2004 
+graduate of Saint Francis de Sales High School in Toledo, Ohio. While 
+attending St. Francis, Bradley was an honor student in addition to 
+serving as a church youth group volunteer. Since his graduation from 
+St. Francis, Bradley has been preparing to attend the Academy by 
+attending the Air Force Academy Preparatory School in Colorado Springs, 
+Colorado.
+  Outside the classroom, Bradley has distinguished himself as an 
+excellent student-athlete. On the fields of competition, Bradley earned 
+his Varsity letter in Wrestling where he was named team captain in his 
+junior year and has been a decorated champion. Bradley's dedication and 
+service to the community and his peers has proven his ability to excel 
+among the leaders at the Air Force Academy. I have no doubt that 
+Bradley will take the lessons of his student leadership with him to 
+Colorado Springs.
+  Mr. Speaker, I ask my colleagues to join me in congratulating Bradley 
+J. Marzec on his appointment to the United States Air Force Academy in 
+Colorado Springs, Colorado. Our service academies offer the finest 
+military training and education available anywhere in the world. I am 
+sure that Bradley will do very well during his career at the Air Force 
+Academy and I ask my colleagues to join me in wishing him well as he 
+begins his service to the Nation.
+
+                          ____________________
+```

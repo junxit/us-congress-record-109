@@ -1,0 +1,38 @@
+---
+granule: CREC-2005-05-20-pt1-PgS5714
+date: 2005-05-20
+edition: CREC
+section: SENATE
+page: S5714
+citation: 151 Cong. Rec. S5714
+---
+
+# MEASURES PLACED ON THE CALENDAR--S. 1084 AND S. 1085
+
+**Speaking:** Cornyn, John (C001056) [R-TX]
+
+**Measures:** S. 1084, S. 1085
+
+```
+          MEASURES PLACED ON THE CALENDAR--S. 1084 AND S. 1085
+
+  Mr. CORNYN. I understand there are two bills at the desk that are due 
+for a second reading. I ask unanimous consent they be read for a second 
+time en bloc.
+  The PRESIDENT pro tempore. Without objection, it is so ordered. The 
+clerk will report.
+  The assistant legislative clerk read as follows:
+
+       A bill (S. 1084) to eliminate child poverty, and for other 
+     purposes.
+       A bill (S. 1085) to provide for paid sick leave to ensure 
+     that Americans can address their own health needs and the 
+     health needs of their families.
+
+  Mr. CORNYN. In order to place the bills on the calendar under the 
+provisions of rule XIV, I object to further proceeding, en bloc.
+  The PRESIDENT pro tempore. Objection is heard. The bills will be 
+placed on the calendar.
+
+                          ____________________
+```

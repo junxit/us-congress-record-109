@@ -1,0 +1,63 @@
+---
+granule: CREC-2005-05-20-pt1-PgE1039
+date: 2005-05-20
+edition: CREC
+section: EXTENSIONS
+page: E1039
+citation: 151 Cong. Rec. E1039
+---
+
+# HONORING THE DISTINGUISHED SERVICE OF MILLARD OAKLEY
+
+**Speaking:** Gordon, Bart (G000309) [D-TN]
+
+```
+          HONORING THE DISTINGUISHED SERVICE OF MILLARD OAKLEY
+
+                                 ______
+                                 
+
+                            HON. BART GORDON
+
+                              of tennessee
+
+                    in the house of representatives
+
+                         Thursday, May 19, 2005
+
+  Mr. GORDON. Mr. Speaker, I rise today to recognize the outstanding 
+support that Livingston, Tennessee, resident Millard Oakley has shown 
+his community and the education of its children. In fact, Millard is 
+being honored by Volunteer State Community College as its Friend of the 
+Year this weekend for his unprecedented support of the college and 
+higher education.
+  Millard is a lifelong resident of Livingston who prospered after 
+receiving a first-rate education in the community's public school 
+systems and at nearby Tennessee Technological University and Cumberland 
+University School of Law. A successful attorney and businessman who 
+remembers his humble beginnings, Millard recently made a significant 
+contribution for capital improvements at the Livingston campus of Vol 
+State. He also established the Oakley First National Foundation, which 
+awards full scholarships to Overton County students attending Vol 
+State, Tennessee Technological University or the Tennessee Technology 
+Center.
+  Millard's life is a prime example of what a good education and the 
+proper motivation can do for a country boy raised in the rural hills of 
+Tennessee. He has served in the Tennessee General Assembly, as the 
+state's Insurance Commissioner, in the state's Constitutional 
+Convention, as the Overton County Attorney and as the general counsel 
+of the U.S. House of Representative's Select Committee on Small 
+Business. He presently serves on the board of directors of the First 
+National Banks of Tennessee in Livingston, Cookeville and Crossville, 
+and of Thomas Nelson Publishers, the world's largest Bible-publishing 
+company.
+  I cannot count the times I have sought Millard's advice on a wide 
+range of issues. He has always given me his honest opinion and wise 
+counsel, and I sincerely thank him for that. Millard is a true friend 
+to me, his community and the Overton County students who benefit from 
+his generosity. Once again, I congratulate Millard for his unselfish 
+devotion to his community and to those who seek a better life through 
+education.
+
+                          ____________________
+```
