@@ -1,0 +1,64 @@
+---
+granule: CRECB-2005-pt8-Pg10553-2
+date: 2005-05-20
+edition: CRECB
+section: SENATE
+page: 10553
+---
+
+# ADDITIONAL COSPONSORS
+
+```
+                         ADDITIONAL COSPONSORS
+
+
+                                 S. 65
+
+  At the request of Mr. Inhofe, the name of the Senator from Virginia 
+(Mr. Warner) was added as a cosponsor of S. 65, a bill to amend the age 
+restrictions for pilots.
+
+
+                                 S. 420
+
+  At the request of Mr. Kyl, the name of the Senator from Texas (Mrs. 
+Hutchison) was added as a cosponsor of S. 420, a bill to make the 
+repeal of the estate tax permanent.
+
+
+                                 S. 875
+
+  At the request of Mr. Bingaman, the name of the Senator from New York 
+(Mr. Schumer) was added as a cosponsor of S. 875, a bill to amend the 
+Internal Revenue Code of 1986 and the Employee Retirement Income 
+Security Act of 1974 to increase participation in section 401(k) plans 
+through automatic contribution trusts, and for other purposes.
+
+
+                                 S. 962
+
+  At the request of Mr. Grassley, the name of the Senator from Arkansas 
+(Mr. Pryor) was added as a cosponsor of S. 962, a bill to amend the 
+Internal Revenue Code of 1986 to allow a credit to holders of qualified 
+bonds issued to finance certain energy projects, and for other 
+purposes.
+
+
+                                S. 1060
+
+  At the request of Mr. Coleman, the name of the Senator from New 
+Jersey (Mr. Corzine) was added as a cosponsor of S. 1060, a bill to 
+amend the Internal Revenue Code of 1986 to allow a credit against 
+income tax for the purchase of hearing aids.
+
+
+                                S. 1075
+
+  At the request of Mr. Thune, the names of the Senator from 
+Connecticut (Mr. Lieberman), the Senator from New Jersey (Mr. Corzine) 
+and the Senator from Connecticut (Mr. Dodd) were added as cosponsors of 
+S. 1075, a bill to postpone the 2005 round of defense base closure and 
+realignment.
+
+                          ____________________
+```
