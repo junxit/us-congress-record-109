@@ -1,0 +1,43 @@
+---
+granule: CREC-2005-05-23-pt1-PgH3746-8
+date: 2005-05-23
+edition: CREC
+section: HOUSE
+page: H3746
+citation: 151 Cong. Rec. H3746
+---
+
+# ALLOW STEM CELL RESEARCH
+
+**Speaking:** Inslee, Jay (I000026) [D-WA]
+
+```
+                        ALLOW STEM CELL RESEARCH
+
+  (Mr. INSLEE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. INSLEE. Mr. Speaker, yesterday I met with a group of folks who 
+are urging the House to allow commonsense, reasonable stem cell, 
+embryonic stem cell research to continue. I talked to Dr. Charles 
+Murray of the University of Washington Cardiovascular Regenerative 
+Biology Center, who told us that this research some day could repair 
+damaged hearts.
+  I talked to Dr. Tony Blau, a hematologist at the University of 
+Washington, who said that they had to put some research on the shelf 
+because of these restrictive rules that President
+
+[[Page H3747]]
+
+Bush's administration has placed on this research.
+  I talked to Dr. Connie Davis, who works with kidney and liver 
+transplantees, who told us about the potential that this research could 
+bring for the health of citizens, who said, why can people not make 
+their own decisions? When you donate a kidney or you donate embryonic 
+cells, she said, it should be the same thing.
+  We should pass, tomorrow, a commonsense measure that removes these 
+restrictions that put handcuffs on our researchers right now where we 
+are falling behind the rest of the country. Folks who have diabetes and 
+Parkinson's know what is at stake tomorrow. Let us pass the bill.
+
+                          ____________________
+```

@@ -1,0 +1,226 @@
+---
+granule: CREC-2005-05-23-pt1-PgS5780-2
+date: 2005-05-23
+edition: CREC
+section: SENATE
+page: S5780
+citation: 151 Cong. Rec. S5780
+---
+
+# Introductory Statement on S. 1096
+
+**Speaking:** Corzine, Jon S. (C001042) [D-NJ]
+
+**Measures:** S. 1096
+
+```
+      By Mr. CORZINE (for himself and Mr. Lautenberg):
+  S. 1096. A bill to amend the Wild and Scenic Rivers Act to designate 
+portions of the Musconetcong River in the State of New Jersey as a 
+component of the National Wild and Scenic Rivers System, and for other 
+purposes; to the Committee on Energy and Natural Resources.
+  Mr. CORZINE. Mr. President, today, along with Senator Lautenberg, I 
+am introducing legislation, the Musconetcong Wild and Scenic Rivers 
+Act, to designate portions of the Musconetcong River in New Jersey as a 
+component of the National Wild and Scenic Rivers System. I am proud to 
+be joining my New Jersey colleague, Representative Scott Garrett, who 
+has introduced this legislation in the House of Representatives, with 
+the support of Congressmen Robert Andrews, Michael Ferguson, Rodney 
+Frelinghuysen, Robert Menendez, Frank Pallone, Donald Payne and James 
+Saxton.
+  This is important legislation to help preserve and protect one of the 
+most valuable natural resources in the State of New Jersey. The 
+Musconetcong River is a 43 mile river that runs westward from Lake 
+Musconetcong to the Delaware River. It provides many ecological, 
+recreational and scenic benefits to the northwestern portion of our 
+State. In addition, it is also home to a number of archeological sites 
+and other historic areas, including one site in Warren County where 
+scientists have discovered stone knives and other weapons dating back 
+at least ten thousand years. Finally, it feeds acquifers that provide 
+many residents in Hunterdon and Warren counties with quality drinking 
+water.
+  Unfortunately, the beauty and value that the Musconetcong provides is 
+at risk. The river faces pressures, for example, from the development 
+that is occurring on or near its shores. This has caused water quality 
+to deteriorate from increased levels of bacteria, silt and runoff from 
+roadways. Further, many of the municipalities that lie along the river 
+lack the financial resources to adequately protect the river for future 
+generations.
+  The Musconetcong Wild and Scenic Rivers Act would help state, county 
+and local officials begin to address these concerns, working alongside 
+environmental and public interest groups. By including this river in 
+the Wild and Scenic River System, it would allow New Jersey to 
+implement a management plan for the river that has the support of three 
+counties and 13 municipalities. In addition it would make the river 
+eligible for financial, planning, and technical assistance to help 
+preserve and protect it. The goal is to encourage uses and development 
+that is compatible with the river.
+  The Wild and Scenic River System already includes the Maurice and 
+Great Egg Harbor Rivers in New Jersey as well as the lower and middle 
+portions of the Delaware River
+  I will work hard in the 109th Congress to see that the Musconetcong 
+is added to this list. I hope my colleagues will support this 
+legislation, and I ask unanimous consent that the text of the bill be 
+printed in the Record.
+  There being no objection, the bill was ordered to be printed in the 
+Record, as follows:
+
+                                S. 1096
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Musconetcong Wild and Scenic 
+     Rivers Act''.
+
+     SEC. 2. FINDINGS.
+
+       Congress finds that--
+       (1) the Secretary of the Interior, in cooperation and 
+     consultation with appropriate Federal, State, regional, and 
+     local agencies, is conducting a study of the eligibility and 
+     suitability of the Musconetcong River in the State of New 
+     Jersey for inclusion in the Wild and Scenic Rivers System;
+       (2) the Musconetcong Wild and Scenic River Study Task 
+     Force, with assistance from the National Park Service, has 
+     prepared a river management plan for the study area entitled 
+     ``Musconetcong River Management Plan'' and dated April 2002 
+     that establishes goals and actions to ensure long-term 
+     protection of the outstanding values of the river and 
+     compatible management of land and water resources associated 
+     with the Musconetcong River; and
+       (3) 13 municipalities and 3 counties along segments of the 
+     Musconetcong River that are eligible for designation have 
+     passed resolutions in which the municipalities and counties--
+       (A) express support for the Musconetcong River Management 
+     Plan;
+       (B) agree to take action to implement the goals of the 
+     management plan; and
+       (C) endorse designation of the Musconetcong River as a 
+     component of the Wild and Scenic Rivers System.
+
+     SEC. 3. DEFINITIONS.
+
+       In this Act:
+       (1) Additional river segment.--The term ``additional river 
+     segment'' means the approximately 4.3-mile Musconetcong River 
+     segment designated as ``C'' in the management plan, from 
+     Hughesville Mill to the Delaware River Confluence.
+       (2) Management plan.--The term ``management plan'' means 
+     the river management plan prepared by the Musconetcong River 
+     Management Committee, the National Park Service, the Heritage 
+     Conservancy, and the Musconetcong Watershed Association 
+     entitled ``Musconetcong River Management Plan'' and dated 
+     April 2002 that establishes goals and actions to--
+       (A) ensure long-term protection of the outstanding values 
+     of the river segments; and
+       (B) compatible management of land and water resources 
+     associated with the river segments.
+       (3) River segment.--The term ``river segment'' means any 
+     segment of the Musconetcong River, New Jersey, designated as 
+     a scenic river or recreational river by section 3(a)(167) of 
+     the Wild and Scenic Rivers Act (as added by section 4).
+       (4) Secretary.--The term ``Secretary'' means the Secretary 
+     of the Interior.
+
+     SEC. 4. DESIGNATION OF PORTIONS OF MUSCONETCONG RIVER, NEW 
+                   JERSEY, AS SCENIC AND RECREATIONAL RIVERS.
+
+       Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 
+     1274(a)) is amended by adding at the end the following:
+       ``(167) Musconetcong river, new jersey.--
+       ``(A) Designation.--The 24.2 miles of river segments in New 
+     Jersey, consisting of--
+       ``(i) the approximately 3.5-mile segment from Saxton Falls 
+     to the Route 46 bridge, to be administered by the Secretary 
+     of the Interior as a scenic river; and
+       ``(ii) the approximately 20.7-mile segment from the Kings 
+     Highway bridge to the railroad tunnels at Musconetcong Gorge, 
+     to be administered by the Secretary of the Interior as a 
+     recreational river.
+       ``(B) Administration.--Notwithstanding section 10(c), the 
+     river segments designated under subparagraph (A) shall not be 
+     administered as part of the National Park System.''.
+
+     SEC. 5. MANAGEMENT.
+
+       (a) Management Plan.--
+       (1) In general.--The Secretary shall manage the river 
+     segments in accordance with the management plan.
+       (2) Satisfaction of requirements for plan.--The management 
+     plan shall be considered to satisfy the requirements for a 
+     comprehensive management plan for the river segments under 
+     section 3(d) of the Wild and Scenic Rivers Act (16 U.S.C. 
+     1274(d)).
+
+[[Page S5781]]
+
+       (3) Restrictions on water resource projects.--For purposes 
+     of determining whether a proposed water resources project 
+     would have a direct and adverse effect on the values for 
+     which a river segment is designated as part of the Wild and 
+     Scenic Rivers System under section 7(a) of the Wild and 
+     Scenic Rivers Act (16 U.S.C. 1278(a)), the Secretary shall 
+     consider the extent to which the proposed water resources 
+     project is consistent with the management plan.
+       (4) Implementation.--The Secretary may provide technical 
+     assistance, staff support, and funding to assist in the 
+     implementation of the management plan.
+       (b) Cooperation.--
+       (1) In general.--The Secretary shall manage the river 
+     segments in cooperation with appropriate Federal, State, 
+     regional, and local agencies, including--
+       (A) the Musconetcong River Management Committee;
+       (B) the Musconetcong Watershed Association;
+       (C) the Heritage Conservancy;
+       (D) the National Park Service; and
+       (E) the New Jersey Department of Environmental Protection.
+       (2) Cooperative agreements.--Any cooperative agreement 
+     entered into under section 10(e) of the Wild and Scenic 
+     Rivers Act (16 U.S.C. 1281(e)) relating to a river segment--
+       (A) shall be consistent with the management plan; and
+       (B) may include provisions for financial or other 
+     assistance from the United States to facilitate the long-term 
+     protection, conservation, and enhancement of the river 
+     segment.
+       (c) Land Management.--
+       (1) In general.--The Secretary may provide planning, 
+     financial, and technical assistance to local municipalities 
+     and nonprofit organizations to assist in the implementation 
+     of actions to protect the natural and historic resources of 
+     the river segments.
+       (2) Plan requirements.--After adoption of recommendations 
+     made in section IV of the management plan, the zoning 
+     ordinances of the municipalities bordering the segments shall 
+     be considered to satisfy the standards and requirements under 
+     section 6(c) of the Wild and Scenic Rivers Act (16 U.S.C. 
+     1277(c)).
+       (d) Designation of Additional River Segment.--
+       (1) Finding.--Congress finds that the additional river 
+     segment is suitable for designation as a recreational river 
+     if the Secretary determines that there is adequate local 
+     support for the designation of the additional river segment 
+     in accordance with paragraph (3).
+       (2) Designation and administration.--If the Secretary 
+     determines that there is adequate local support for 
+     designating the additional river segment as a recreational 
+     river--
+       (A) the Secretary shall publish in the Federal Register 
+     notice of the designation of the segment;
+       (B) the segment shall be designated as a recreational river 
+     in accordance with the Wild and Scenic Rivers Act (16 U.S.C. 
+     1271 et seq.); and
+       (C) the Secretary shall administer the additional river 
+     segment as a recreational river.
+       (3) Criteria for local support.--In determining whether 
+     there is adequate local support for the designation of the 
+     additional river segment, the Secretary shall consider the 
+     preferences of local governments expressed in resolutions 
+     concerning designation of the additional river segment.
+       (e) Authorization of Appropriations.--There are authorized 
+     to be appropriated such sums as are necessary to carry out 
+     this Act and the amendments made by this Act.
+                                 ______
+```
