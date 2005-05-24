@@ -1,0 +1,50 @@
+---
+granule: CRECB-2005-pt8-Pg11099-3
+date: 2005-05-24
+edition: CRECB
+section: EXTENSIONS
+page: 11099
+---
+
+# TRIBUTE TO COACH JOE SOLTERO
+
+```
+                      TRIBUTE TO COACH JOE SOLTERO
+
+                                 ______
+                                 
+
+                             HON. JOE BACA
+
+                             of california
+
+                    in the house of representatives
+
+                         Tuesday, May 24, 2005
+
+  Mr. BACA. Mr. Speaker, Mr. Costa and I rise to pay tribute to Coach 
+Joe Soltero who has coached Little League in Delano, CA for over 37 
+years. By receiving the Adelante Eagle Award, Coach Soltero is being 
+recognized for his years of selfless service to his community and it 
+gives us great pleasure to acknowledge his years as a coach and mentor 
+to the students of Delano.
+  Coach Soltero is an exceptional individual who has not only devoted 
+his life to helping the Delano community at-large but has also been an 
+important pillar of support for generations of children. His kindness 
+and passionate spirit render him a vital resource and a beloved member 
+of his community.
+  As a little league coach, he instilled the values of teamwork, 
+dedication and perseverance. He is an inspiration to those who know him 
+and influenced countless people with his work ethic and love of 
+teaching. He has been an integral contributor to his community, as well 
+as an active participant and positive influence on the lives of his 
+little league players.
+  During his 30-plus years, Coach Soltero has played in 16 
+championships, winning 12 of them. He taught the values of 
+sportsmanship and winning humbly.
+  And so, Mr. Speaker, we salute Coach Joe Soltero. We join with family 
+and friends in honoring his incomparable accomplishments and 
+congratulate him on this well-deserved award.
+
+                          ____________________
+```
