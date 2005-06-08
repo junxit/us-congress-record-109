@@ -1,0 +1,62 @@
+---
+granule: CRECB-2005-pt9-Pg11850
+date: 2005-06-08
+edition: CRECB
+section: SENATE
+page: 11850
+---
+
+# 2005 VERMONT SBA AWARDS
+
+```
+                        2005 VERMONT SBA AWARDS
+
+  Mr. LEAHY. Mr. President, today I call to the attention of the Senate 
+several successful Vermont businesses being honored this year by the 
+Small Business Administration, SBA. An outstanding group of Vermonters 
+are being awarded 2005 Vermont Small Business Champion Awards, and the 
+prestigious Vermont Small Business Person of the Year Award is being 
+awarded to the owner and president of Four Seasons Garden Center, 
+Oliver Gardner.
+  It is a great pleasure to recognize the enterprises and business 
+leaders who will receive Vermont Small Business Champion Awards: Karen 
+and Brian Zecchinelli of the Wayside Restaurant, Family-Owned Business 
+of the Year; Emily Kaminsky of Community Capital of Central Vermont, 
+Financial Services Champion of the Year; Jean Elizabeth Temple of Jean 
+Elizabeth's Soap Company, Home-Based Business Champion of the Year; 
+Paula Cope of Cope & Associates, Small Business Woman of the Year; 
+Claudia Clark of Moosewood Hollow, Vermont Microenterprise of the Year; 
+Edward Walbridge of Walbridge Electric, Veteran Small Business Champion 
+of the Year; and Linda Ingold of the Vermont Women's Business Center, 
+Women in Business Champion of the Year.
+  I would like to take a moment to draw special attention to my friend 
+Oliver Gardner, the 2005 Vermont Small Business Person of the Year. His 
+Four Seasons Garden Center in Williston is one of Vermont's great small 
+business success stories, built on Yankee determination and responsible 
+business practices. Gardner was selected for outstanding leadership 
+related to his company's staying power, employee growth, increase in 
+sales, innovative ingenuity, response to adversity, and contributions 
+to the community.
+  Following Gardner's purchase of Four Seasons in 1978, the company has 
+seen steady growth. Employee numbers have risen from 50 to 98 during 
+peak season, and annual revenues have increased from $800,000 in 1977, 
+to $4 million, as of October 2004. Now, Four Seasons is considered one 
+of Vermont's largest local gardening resources. When Gardner learned of 
+the imminent arrival of Home Depot and Wal-Mart back in 1994, he 
+implemented a dynamic plan to boost Four Seasons' competitive edge. The 
+business expanded and relocated to a 10-acre lot less than a mile from 
+the big-box stores in Williston. The plan was a stellar success and 
+promoted increased sales at a time when many independent garden centers 
+were closing due to pressure from chain store giants.
+  Despite a progressive, 20-year spinal cord disease that restricts his 
+mobility, Gardner has demonstrated extraordinary determination, 
+persistence, and creativity. Also exceptional is Gardner's commitment 
+to his goals for social and environmental responsibility in business. 
+Four Seasons promotes gardening programs for the entire family and 
+offers free access to its new facility to all organizations interested 
+in gardening and a healthy environment.
+  I congratulate Oliver and all of the 2005 winners, who are accepting 
+their prestigious awards today in Burlington, for jobs well done.
+
+                          ____________________
+```
