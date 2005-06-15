@@ -1,0 +1,46 @@
+---
+granule: CRECB-2005-pt9-Pg12775-3
+date: 2005-06-15
+edition: CRECB
+section: EXTENSIONS
+page: 12775
+---
+
+# RECOGNIZING JESSE WEST FOR ACHIEVING THE RANK OF EAGLE SCOUT
+
+```
+      RECOGNIZING JESSE WEST FOR ACHIEVING THE RANK OF EAGLE SCOUT
+
+                                 ______
+                                 
+
+                            HON. SAM GRAVES
+
+                              of missouri
+
+                    in the house of representatives
+
+                        Wednesday, June 15, 2005
+
+  Mr. GRAVES. Mr. Speaker, I proudly pause to recognize Jesse West of 
+Weston, Missouri, a very special young man who has exemplified the 
+finest qualities of citizenship and leadership by taking an active part 
+in the Boy
+
+[[Page 12776]]
+
+Scouts of America, Troop 249, and in earning the most prestigious award 
+of Eagle Scout. Jesse achieved the rank of Eagle Scout on August 4, 
+2004.
+  Jesse has been very active with his troop, participating in many 
+scout activities. Over the many years that Jesse has been involved with 
+scouting, he has not only earned numerous merit badges, but also the 
+respect of his family, peers, and community.
+  For his Eagle Scout project, Jesse designed and landscaped a 
+``Welcome to Weston'' sign at the edge of the school property.
+  Mr. Speaker, I proudly ask you to join me in commending Jesse West 
+for his accomplishments with the Boy Scouts of America and for his 
+efforts put forth in achieving the highest distinction of Eagle Scout.
+
+                          ____________________
+```
