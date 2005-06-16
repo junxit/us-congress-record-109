@@ -1,0 +1,1498 @@
+---
+granule: CREC-2005-06-16-pt1-PgS6770-2
+date: 2005-06-16
+edition: CREC
+section: SENATE
+page: S6770
+citation: 151 Cong. Rec. S6770
+---
+
+# Text of Senate Amendment 793
+
+**Speaking:** Lautenberg, Frank R. (L000123) [D-NJ]
+
+```
+  SA 793. Mr. LAUTENBERG submitted an amendment intended to be proposed 
+by him to the bill H.R. 6, Reserved; which was ordered to lie on the 
+table; as follows:
+
+       Beginning on page 135, strike line 6 and all that follows 
+     through page 160, line 1, and insert the following:
+       (d) Report.--Not later than April 16, 2007, and every 3 
+     years thereafter, the Secretary shall provide to Congress a 
+     report on the progress of the Federal Government in meeting 
+     the goals established by this section.
+
+                       Subtitle B--Reliable Fuels
+
+     SEC. 211. RENEWABLE CONTENT OF GASOLINE.
+
+       (a) In General.--Section 211 of the Clean Air Act (42 
+     U.S.C. 7545) is amended--
+       (1) by redesignating subsection (o) as subsection (r); and
+       (2) by inserting after subsection (n) the following:
+       ``(o) Renewable Fuel Program.--
+       ``(1) Definitions.--In this section and section 212:
+       ``(A) Cellulosic biomass ethanol.--The term `cellulosic 
+     biomass ethanol' means ethanol derived from any 
+     lignocellulosic or hemicellulosic matter that is available on 
+     a renewable or recurring basis, including--
+       ``(i) dedicated energy crops and trees;
+       ``(ii) wood and wood residues;
+       ``(iii) plants;
+       ``(iv) grasses;
+       ``(v) agricultural residues;
+       ``(vi) fibers;
+       ``(vii) animal wastes and other waste materials; and
+       ``(viii) municipal solid waste.
+       ``(B) Cellulosic biomass feedstock.--The term `cellulosic 
+     biomass feedstock' means--
+       ``(i) dedicated energy crops and trees;
+       ``(ii) wood and wood residues;
+       ``(iii) plants;
+       ``(iv) grasses;
+       ``(v) agricultural residues;
+       ``(vi) fibers;
+       ``(vii) animal wastes and other waste materials; and
+       ``(viii) municipal solid waste.
+       ``(C) Cellulosic biomass-derived liquid alternative fuel.--
+       ``(i) In general.--The term `cellulosic biomass-derived 
+     liquid alternative fuel' means an alternative fuel (as 
+     defined in section 301 of the Energy Policy Act of 1992 (42 
+     U.S.C. 13211)), or a blending component for alternate fuel, 
+     that--
+
+       ``(I) is derived from cellulosic biomass feedstock or 
+     waste; and
+       ``(II) remains substantially in a liquid phase at room 
+     temperature and atmospheric pressure.
+
+       ``(ii) Certain liquid alternative fuels.--For any liquid 
+     alternative fuel that contains a component that is not 
+     derived from a cellulosic biomass feedstock or waste, only 
+     the portion of the fuel that is derived from a cellulosic 
+     biomass feedstock shall be considered to be a biomass-derived 
+     liquid alternative fuel.
+       ``(D) Renewable fuel.--
+       ``(i) In general.--The term `renewable fuel' means motor 
+     vehicle fuel that--
+
+       ``(I)(aa) is produced from grain, starch, oilseeds, 
+     sugarcane, sugar beets, sugar components, tobacco, potatoes, 
+     or other biomass; or
+       ``(bb) is natural gas produced from a biogas source, 
+     including a landfill, sewage waste treatment plant, feedlot, 
+     or other place where decaying organic material is found; and
+       ``(II) is used to replace or reduce the quantity of fossil 
+     fuel present in a fuel mixture used to operate a motor 
+     vehicle.
+
+       ``(ii) Inclusion.--The term `renewable fuel' includes--
+
+       ``(I) cellulosic biomass ethanol; and
+       ``(II) biodiesel (as defined in section 312(f) of the 
+     Energy Policy Act of 1992 (42 U.S.C. 13220(f))).
+
+       ``(E) Small refinery.--The term `small refinery' means a 
+     refinery for which the average aggregate daily crude oil 
+     throughput for a calendar year (as determined by dividing the 
+     aggregate throughput for the calendar year by the number of 
+     days in the calendar year) does not exceed 75,000 barrels.
+       ``(F) Waste.--The term `waste' means--
+       ``(i) animal wastes, including poultry fats and poultry 
+     wastes, and other waste materials; or
+       ``(ii) municipal solid waste (as defined in section 1004 of 
+     the Solid Waste Disposal Act (42 U.S.C. 6903)).
+       ``(2) Renewable fuel program.--
+       ``(A) Regulations.--
+       ``(i) In general.--Not later than 1 year after the date of 
+     enactment of this paragraph, the Administrator shall 
+     promulgate regulations to ensure that gasoline sold or 
+     introduced into commerce in the United States (except in 
+     noncontiguous States or territories), on an annual average 
+     basis, contains the applicable volume of renewable fuel 
+     determined in accordance with subparagraph (B).
+       ``(ii) Noncontiguous state opt-in.--
+
+       ``(I) In general.--On the petition of a noncontiguous State 
+     or territory, the Administrator may allow the renewable fuel 
+     program established under this subsection to apply in the 
+     noncontiguous State or territory at the same time or any time 
+     after the Administrator promulgates regulations under this 
+     subparagraph.
+       ``(II) Other actions.--In carrying out this clause, the 
+     Administrator may--
+
+       ``(aa) issue or revise regulations under this paragraph;
+       ``(bb) establish applicable percentages under paragraph 
+     (3);
+       ``(cc) provide for the generation of credits under 
+     paragraph (5); and
+       ``(dd) take such other actions as are necessary to allow 
+     for the application of the renewable fuels program in a 
+     noncontiguous State or territory.
+       ``(iii) Provisions of regulations.--Regardless of the date 
+     of promulgation, the regulations promulgated under clause 
+     (i)--
+
+       ``(I) shall contain compliance provisions applicable to 
+     refineries, blenders, distributors, and importers, as 
+     appropriate, to ensure that the requirements of this 
+     paragraph are met; but
+       ``(II) shall not--
+
+       ``(aa) restrict geographic areas in which renewable fuel 
+     may be used; or
+       ``(bb) impose any per-gallon obligation for the use of 
+     renewable fuel.
+       ``(iv) Requirement in case of failure to promulgate 
+     regulations.--If the Administrator does not promulgate 
+     regulations under clause (i), the percentage of renewable 
+     fuel in gasoline sold or dispensed to consumers in the United 
+     States, on a volume basis, shall be 3.2 percent for calendar 
+     year 2006.
+       ``(B) Applicable volume.--
+       ``(i) Calendar years 2006 through 2012.--For the purpose of 
+     subparagraph (A), the applicable volume for any of calendar 
+     years 2006 through 2012 shall be determined in accordance 
+     with the following table:
+
+                                    Applicable volume of renewable fuel
+``Calendar year:                              (in billions of gallons):
+  2006.........................................................4.0 ....
+
+  2007.........................................................4.7 ....
+
+  2008.........................................................5.4 ....
+
+  2009.........................................................6.1 ....
+
+  2010.........................................................6.8 ....
+
+  2011.........................................................7.4 ....
+
+  2012.........................................................8.0.....
+
+       ``(ii) Calendar year 2013 and thereafter.--Subject to 
+     clauses (iii) and (iv), for the purposes of subparagraph (A), 
+     the applicable volume for calendar year 2013 and each 
+     calendar year thereafter shall be determined by the 
+     Administrator, in coordination with
+
+[[Page S6771]]
+
+     the Secretary of Agriculture and the Secretary of Energy, 
+     based on a review of the implementation of the program during 
+     calendar years 2006 through 2012, including a review of--
+
+       ``(I) the impact of the use of renewable fuels on the 
+     environment, air quality, energy security, job creation, and 
+     rural economic development; and
+       ``(II) the expected annual rate of future production of 
+     renewable fuels, including cellulosic ethanol.
+
+       ``(iii) Minimum quantity derived from cellulosic biomass.--
+     For calendar year 2013 and each calendar year thereafter--
+
+       ``(I) the applicable volume referred to in clause (ii) 
+     shall contain a minimum of 250,000,000 gallons that are 
+     derived from cellulosic biomass; and
+       ``(II) the 2.5-to-1 ratio referred to in paragraph (4) 
+     shall not apply.
+
+       ``(iv) Minimum applicable volume.--For the purpose of 
+     subparagraph (A), the applicable volume for calendar year 
+     2013 and each calendar year thereafter shall be not less than 
+     the product obtained by multiplying--
+
+       ``(I) the number of gallons of gasoline that the 
+     Administrator estimates will be sold or introduced into 
+     commerce in the calendar year; and
+       ``(II) the ratio that--
+
+       ``(aa) 8,000,000,000 gallons of renewable fuel; bears to
+       ``(bb) the number of gallons of gasoline sold or introduced 
+     into commerce in calendar year 2012.
+       ``(3) Applicable percentages.--
+       ``(A) Provision of estimate of volumes of Gasoline sales.--
+     Not later than October 31 of each of calendar years 2005 
+     through 2011, the Administrator of the Energy Information 
+     Administration shall provide to the Administrator of the 
+     Environmental Protection Agency an estimate, with respect to 
+     the following calendar year, of the volumes of gasoline 
+     projected to be sold or introduced into commerce in the 
+     United States.
+       ``(B) Determination of applicable percentages.--
+       ``(i) In general.--Not later than November 30 of each of 
+     calendar years 2005 through 2012, based on the estimate 
+     provided under subparagraph (A), the Administrator of the 
+     Environmental Protection Agency shall determine and publish 
+     in the Federal Register, with respect to the following 
+     calendar year, the renewable fuel obligation that ensures 
+     that the requirements of paragraph (2) are met.
+       ``(ii) Required elements.--The renewable fuel obligation 
+     determined for a calendar year under clause (i) shall--
+
+       ``(I) be applicable to refineries, blenders, and importers, 
+     as appropriate;
+       ``(II) be expressed in terms of a volume percentage of 
+     gasoline sold or introduced into commerce in the United 
+     States; and
+       ``(III) subject to subparagraph (C)(i), consist of a single 
+     applicable percentage that applies to all categories of 
+     persons specified in subclause (I).
+
+       ``(C) Adjustments.--In determining the applicable 
+     percentage for a calendar year, the Administrator shall make 
+     adjustments--
+       ``(i) to prevent the imposition of redundant obligations on 
+     any person specified in subparagraph (B)(ii)(I); and
+       ``(ii) to account for the use of renewable fuel during the 
+     previous calendar year by small refineries that are exempt 
+     under paragraph (9).
+       ``(4) Cellulosic biomass ethanol.--For the purpose of 
+     paragraph (2), 1 gallon of cellulosic biomass ethanol shall 
+     be considered to be the equivalent of 2.5 gallons of 
+     renewable fuel.
+       ``(5) Credit program.--
+       ``(A) In general.--The regulations promulgated under 
+     paragraph (2)(A) shall provide--
+       ``(i) for the generation of an appropriate amount of 
+     credits by any person that refines, blends, or imports 
+     gasoline that contains a quantity of renewable fuel that is 
+     greater than the quantity required under paragraph (2);
+       ``(ii) for the generation of an appropriate amount of 
+     credits for biodiesel; and
+       ``(iii) for the generation of credits by small refineries 
+     in accordance with paragraph (9)(C).
+       ``(B) Use of credits.--A person that generates credits 
+     under subparagraph (A) may use the credits, or transfer all 
+     or a portion of the credits to another person, for the 
+     purpose of complying with paragraph (2).
+       ``(C) Duration of credits.--A credit generated under this 
+     paragraph shall be valid to show compliance for the calendar 
+     year in which the credit was generated.
+       ``(D) Inability to generate or purchase sufficient 
+     credits.--The regulations promulgated under paragraph (2)(A) 
+     shall include provisions allowing any person that is unable 
+     to generate or purchase sufficient credits to meet the 
+     requirements of paragraph (2) to carry forward a renewable 
+     fuel deficit on condition that the person, in the calendar 
+     year following the year in which the renewable fuel deficit 
+     is created--
+       ``(i) achieves compliance with the renewable fuel 
+     requirement under paragraph (2); and
+       ``(ii) generates or purchases additional renewable fuel 
+     credits to offset the renewable fuel deficit of the previous 
+     year.
+       ``(6) Seasonal variations in renewable fuel use.--
+       ``(A) Study.--For each of calendar years 2006 through 2012, 
+     the Administrator of the Energy Information Administration 
+     shall conduct a study of renewable fuel blending to determine 
+     whether there are excessive seasonal variations in the use of 
+     renewable fuel.
+       ``(B) Regulation of excessive seasonal variations.--If, for 
+     any calendar year, the Administrator of the Energy 
+     Information Administration, based on the study under 
+     subparagraph (A), makes the determinations specified in 
+     subparagraph (C), the Administrator of the Environmental 
+     Protection Agency shall promulgate regulations to ensure that 
+     35 percent or more of the quantity of renewable fuel 
+     necessary to meet the requirements of paragraph (2) is used 
+     during each of the 2 periods specified in subparagraph (D) of 
+     each subsequent calendar year.
+       ``(C) Determinations.--The determinations referred to in 
+     subparagraph (B) are that--
+       ``(i) less than 35 percent of the quantity of renewable 
+     fuel necessary to meet the requirements of paragraph (2) has 
+     been used during 1 of the 2 periods specified in subparagraph 
+     (D) of the calendar year; and
+       ``(ii) a pattern of excessive seasonal variation described 
+     in clause (i) will continue in subsequent calendar years.
+       ``(D) Periods.--The 2 periods referred to in this paragraph 
+     are--
+       ``(i) April through September; and
+       ``(ii) January through March and October through December.
+       ``(E) Exclusion.--Renewable fuel blended or consumed in 
+     calendar year 2006 in a State that has received a waiver 
+     under section 209(b) shall not be included in the study under 
+     subparagraph (A).
+       ``(F) State exemption from seasonality requirements.--
+     Notwithstanding any other provision of law, the seasonality 
+     requirement relating to renewable fuel use established by 
+     this paragraph shall not apply to any State that has received 
+     a waiver under section 209(b).
+       ``(7) Waivers.--
+       ``(A) In general.--The Administrator, in consultation with 
+     the Secretary of Agriculture and the Secretary of Energy, may 
+     waive the requirements of paragraph (2) in whole or in part 
+     on petition by 1 or more States by reducing the national 
+     quantity of renewable fuel required under paragraph (2)--
+       ``(i) based on a determination by the Administrator, after 
+     public notice and opportunity for comment, that 
+     implementation of the requirement would severely harm the 
+     economy or environment of a State, a region, or the United 
+     States; or
+       ``(ii) based on a determination by the Administrator, after 
+     public notice and opportunity for comment, that there is an 
+     inadequate domestic supply.
+       ``(B) Petitions for waivers.--The Administrator, in 
+     consultation with the Secretary of Agriculture and the 
+     Secretary of Energy, shall approve or disapprove a State 
+     petition for a waiver of the requirements of paragraph (2) 
+     within 90 days after the date on which the petition is 
+     received by the Administrator.
+       ``(C) Termination of waivers.--A waiver granted under 
+     subparagraph (A) shall terminate after 1 year, but may be 
+     renewed by the Administrator after consultation with the 
+     Secretary of Agriculture and the Secretary of Energy.
+       ``(8) Study and waiver for initial year of program.--
+       ``(A) In general.--Not later than 180 days after the date 
+     of enactment of this paragraph, the Secretary of Energy shall 
+     conduct for the Administrator a study assessing whether the 
+     renewable fuel requirement under paragraph (2) will likely 
+     result in significant adverse impacts on consumers in 2006, 
+     on a national, regional, or State basis.
+       ``(B) Required evaluations.--The study shall evaluate 
+     renewable fuel--
+       ``(i) supplies and prices;
+       ``(ii) blendstock supplies; and
+       ``(iii) supply and distribution system capabilities.
+       ``(C) Recommendations by the Secretary.--Based on the 
+     results of the study, the Secretary of Energy shall make 
+     specific recommendations to the Administrator concerning 
+     waiver of the requirements of paragraph (2), in whole or in 
+     part, to prevent any adverse impacts described in 
+     subparagraph (A).
+       ``(D) Waiver.--
+       ``(i) In general.--Not later than 270 days after the date 
+     of enactment of this paragraph, the Administrator shall, if 
+     and to the extent recommended by the Secretary of Energy 
+     under subparagraph (C), waive, in whole or in part, the 
+     renewable fuel requirement under paragraph (2) by reducing 
+     the national quantity of renewable fuel required under 
+     paragraph (2) in calendar year 2006.
+       ``(ii) No effect on waiver authority.--Clause (i) does not 
+     limit the authority of the Administrator to waive the 
+     requirements of paragraph (2) in whole, or in part, under 
+     paragraph (7).
+       ``(9) Small refineries.--
+       ``(A) Temporary exemption.--
+       ``(i) In general.--The requirements of paragraph (2) shall 
+     not apply to small refineries until calendar year 2011.
+       ``(ii) Extension of exemption.--
+
+       ``(I) Study by Secretary of Energy.--Not later than 
+     December 31, 2008, the Secretary of Energy shall conduct for 
+     the Administrator a study to determine whether compliance 
+     with the requirements of paragraph (2) would impose a 
+     disproportionate economic hardship on small refineries.
+       ``(II) Extension of exemption.--In the case of a small 
+     refinery that the Secretary of Energy determines under 
+     subclause (I) would be
+
+[[Page S6772]]
+
+     subject to a disproportionate economic hardship if required 
+     to comply with paragraph (2), the Administrator shall extend 
+     the exemption under clause (i) for the small refinery for a 
+     period of not less than 2 additional years.
+
+       ``(B) Petitions based on disproportionate economic 
+     hardship.--
+       ``(i) Extension of exemption.--A small refinery may at any 
+     time petition the Administrator for an extension of the 
+     exemption under subparagraph (A) for the reason of 
+     disproportionate economic hardship.
+       ``(ii) Evaluation of petitions.--In evaluating a petition 
+     under clause (i), the Administrator, in consultation with the 
+     Secretary of Energy, shall consider the findings of the study 
+     under subparagraph (A)(ii) and other economic factors.
+       ``(iii) Deadline for action on petitions.--The 
+     Administrator shall act on any petition submitted by a small 
+     refinery for a hardship exemption not later than 90 days 
+     after the date of receipt of the petition.
+       ``(C) Credit program.--If a small refinery notifies the 
+     Administrator that the small refinery waives the exemption 
+     under subparagraph (A), the regulations promulgated under 
+     paragraph (2)(A) shall provide for the generation of credits 
+     by the small refinery under paragraph (5) beginning in the 
+     calendar year following the date of notification.
+       ``(D) Opt-in for small refineries.--A small refinery shall 
+     be subject to the requirements of paragraph (2) if the small 
+     refinery notifies the Administrator that the small refinery 
+     waives the exemption under subparagraph (A).
+       ``(10) Ethanol market concentration analysis.--
+       ``(A) Analysis.--
+       ``(i) In general.--Not later than 180 days after the date 
+     of enactment of this paragraph, and annually thereafter, the 
+     Federal Trade Commission shall perform a market concentration 
+     analysis of the ethanol production industry using the 
+     Herfindahl-Hirschman Index to determine whether there is 
+     sufficient competition among industry participants to avoid 
+     price-setting and other anticompetitive behavior.
+       ``(ii) Scoring.--For the purpose of scoring under clause 
+     (i) using the Herfindahl-Hirschman Index, all marketing 
+     arrangements among industry participants shall be considered.
+       ``(B) Report.--Not later than December 1, 2005, and 
+     annually thereafter, the Federal Trade Commission shall 
+     submit to Congress and the Administrator a report on the 
+     results of the market concentration analysis performed under 
+     subparagraph (A)(i).
+       ``(p) Renewable Fuel Safe Harbor.--
+       ``(1) In general.--
+       ``(A) Safe harbor.--Notwithstanding any other provision of 
+     Federal or State law, no renewable fuel (as defined in 
+     subsection (o)(1)) used or intended to be used as a motor 
+     vehicle fuel, nor any motor vehicle fuel containing renewable 
+     fuel, shall be deemed to be defective in design or 
+     manufacture by reason of the fact that the fuel is, or 
+     contains, renewable fuel, if--
+       ``(i) the fuel does not violate a control or prohibition 
+     imposed by the Administrator under this section; and
+       ``(ii) the manufacturer of the fuel is in compliance with 
+     all requests for information under subsection (b).
+       ``(B) Safe harbor not applicable.--In any case in which 
+     subparagraph (A) does not apply to a quantity of fuel, the 
+     existence of a design defect or manufacturing defect with 
+     respect to the fuel shall be determined under otherwise 
+     applicable law.
+       ``(2) Exception.--This subsection does not apply to ethers.
+       ``(3) Applicability.--This subsection applies with respect 
+     to all claims filed on or after the date of enactment of this 
+     subsection.''.
+       (b) Penalties and Enforcement.--Section 211(d) of the Clean 
+     Air Act (42 U.S.C. 7545(d)) is amended--
+       (1) in paragraph (1)--
+       (A) in the first sentence, by striking ``or (n)'' each 
+     place it appears and inserting ``(n), or (o)''; and
+       (B) in the second sentence, by striking ``or (m)'' and 
+     inserting ``(m), or (o)''; and
+       (2) in the first sentence of paragraph (2), by striking 
+     ``and (n)'' each place it appears and inserting ``(n), and 
+     (o)''.
+       (c) Exclusion From Ethanol Waiver.--Section 211(h) of the 
+     Clean Air Act (42 U.S.C. 7545(h)) is amended--
+       (1) by redesignating paragraph (5) as paragraph (6); and
+       (2) by inserting after paragraph (4) the following:
+       ``(5) Exclusion from ethanol waiver.--
+       ``(A) Promulgation of regulations.--Upon notification, 
+     accompanied by supporting documentation, from the Governor of 
+     a State that the Reid vapor pressure limitation established 
+     by paragraph (4) will increase emissions that contribute to 
+     air pollution in any area in the State, the Administrator 
+     shall, by regulation, apply, in lieu of the Reid vapor 
+     pressure limitation established by paragraph (4), the Reid 
+     vapor pressure limitation established by paragraph (1) to all 
+     fuel blends containing gasoline and 10 percent denatured 
+     anhydrous ethanol that are sold, offered for sale, dispensed, 
+     supplied, offered for supply, transported, or introduced into 
+     commerce in the area during the high ozone season.
+       ``(B) Deadline for promulgation.--The Administrator shall 
+     promulgate regulations under subparagraph (A) not later than 
+     90 days after the date of receipt of a notification from a 
+     Governor under that subparagraph.
+       ``(C) Effective date.--
+       ``(i) In general.--With respect to an area in a State for 
+     which the Governor submits a notification under subparagraph 
+     (A), the regulations under that subparagraph shall take 
+     effect on the later of--
+
+       ``(I) the first day of the first high ozone season for the 
+     area that begins after the date of receipt of the 
+     notification; or
+       ``(II) 1 year after the date of receipt of the 
+     notification.
+
+       ``(ii) Extension of effective date Based on determination 
+     of insufficient supply.--
+
+       ``(I) In general.--If, after receipt of a notification with 
+     respect to an area from a Governor of a State under 
+     subparagraph (A), the Administrator determines, on the 
+     Administrator's own motion or on petition of any person and 
+     after consultation with the Secretary of Energy, that the 
+     promulgation of regulations described in subparagraph (A) 
+     would result in an insufficient supply of gasoline in the 
+     State, the Administrator, by regulation--
+
+       ``(aa) shall extend the effective date of the regulations 
+     under clause (i) with respect to the area for not more than 1 
+     year; and
+       ``(bb) may renew the extension under item (aa) for 2 
+     additional periods, each of which shall not exceed 1 year.
+
+       ``(II) Deadline for action on petitions.--The Administrator 
+     shall act on any petition submitted under subclause (I) not 
+     later than 180 days after the date of receipt of the 
+     petition.''.
+
+     SEC. 212. RENEWABLE FUEL.
+
+       (a) In General.--The Clean Air Act is amended by inserting 
+     after section 211 (42 U.S.C. 7411) the following:
+
+     ``SEC. 212. RENEWABLE FUEL.
+
+       ``(a) Definitions.--In this section:
+       ``(1) Municipal solid waste.--The term `municipal solid 
+     waste' has the meaning given the term `solid waste' in 
+     section 1004 of the Solid Waste Disposal Act (42 U.S.C. 
+     6903).
+       ``(2) RFG State.--The term `RFG State' means a State in 
+     which is located 1 or more covered areas (as defined in 
+     section 211(k)(10)(D)).
+       ``(3) Secretary.--The term `Secretary' means the Secretary 
+     of Energy.
+       ``(b) Survey of Renewable Fuel Market.--
+       ``(1) Survey and report.--Not later than December 1, 2006, 
+     and annually thereafter, the Administrator shall--
+       ``(A) conduct, with respect to each conventional gasoline 
+     use area and each reformulated gasoline use area in each 
+     State, a survey to determine the market shares of--
+       ``(i) conventional gasoline containing ethanol;
+       ``(ii) reformulated gasoline containing ethanol;
+       ``(iii) conventional gasoline containing renewable fuel; 
+     and
+       ``(iv) reformulated gasoline containing renewable fuel; and
+       ``(B) submit to Congress, and make publicly available, a 
+     report on the results of the survey under subparagraph (A).
+       ``(2) Recordkeeping and reporting requirements.--
+       ``(A) In general.--The Administrator may require any 
+     refiner, blender, or importer to keep such records and make 
+     such reports as are necessary to ensure that the survey 
+     conducted under paragraph (1) is accurate.
+       ``(B) Reliance on existing requirements.--To avoid 
+     duplicative requirements, in carrying out subparagraph (A), 
+     the Administrator shall rely, to the maximum extent 
+     practicable, on reporting and recordkeeping requirements in 
+     effect on the date of enactment of this section.
+       ``(3) Confidentiality.--Activities carried out under this 
+     subsection shall be conducted in a manner designed to protect 
+     confidentiality of individual responses.
+       ``(c)  Cellulosic Biomass Ethanol And Municipal Solid Waste 
+     Loan Guarantee Program.--
+       ``(1) In general.--Funds may be provided for the cost (as 
+     defined in the Federal Credit Reform Act of 1990 (2 U.S.C. 
+     661 et seq.)) of loan guarantees issued under title XIV of 
+     the Energy Policy Act of 2005 to carry out commercial 
+     demonstration projects for celluosic biomass and sucrose-
+     derived ethanol and cellulosic biomass-derived liquid 
+     alternative fuels.
+       ``(2) Demonstration projects.--
+       ``(A) In general.--The Secretary shall issue loan 
+     guarantees under this section to carry out not more than 4 
+     projects to commercially demonstrate the feasibility and 
+     viability of producing cellulosic biomass ethanol, sucrose-
+     derived ethanol, or cellulosic biomass-derived liquid 
+     alternative fuels, including at least 1 project that uses 
+     cereal straw as a feedstock and 1 project that uses municipal 
+     solid waste as a feedstock.
+       ``(B) Design capacity.--Each project shall have a design 
+     capacity to produce at least 30,000,000 gallons of cellulosic 
+     biomass ethanol or cellulosic biomass-derived liquid 
+     alternative fuels each year.
+       ``(3) Applicant assurances.--An applicant for a loan 
+     guarantee under this section shall provide assurances, 
+     satisfactory to the Secretary, that--
+       ``(A) the project design has been validated through the 
+     operation of a continuous process facility with a cumulative 
+     output of at least 50,000 gallons of ethanol or cellulosic 
+     biomass-derived liquid alternative fuels;
+       ``(B) the project has been subject to a full technical 
+     review;
+
+[[Page S6773]]
+
+       ``(C) the project is covered by adequate project 
+     performance guarantees;
+       ``(D) the project, with the loan guarantee, is economically 
+     viable; and
+       ``(E) there is a reasonable assurance of repayment of the 
+     guaranteed loan.
+       ``(4) Limitations.--
+       ``(A) Maximum guarantee.--Except as provided in 
+     subparagraph (B), a loan guarantee under this section may be 
+     issued for up to 80 percent of the estimated cost of a 
+     project, but may not exceed $250,000,000 for a project.
+       ``(B) Additional guarantees.--
+       ``(i) In general.--The Secretary may issue additional loan 
+     guarantees for a project to cover up to 80 percent of the 
+     excess of actual project cost over estimated project cost but 
+     not to exceed 15 percent of the amount of the original 
+     guarantee.
+       ``(ii) Principal and interest.--Subject to subparagraph 
+     (A), the Secretary shall guarantee 100 percent of the 
+     principal and interest of a loan made under subparagraph (A).
+       ``(5) Equity contributions.--To be eligible for a loan 
+     guarantee under this section, an applicant for the loan 
+     guarantee shall have binding commitments from equity 
+     investors to provide an initial equity contribution of at 
+     least 20 percent of the total project cost.
+       ``(6) Insufficient amounts.--If the amount made available 
+     to carry out this section is insufficient to allow the 
+     Secretary to make loan guarantees for 3 projects described in 
+     subsection (b), the Secretary shall issue loan guarantees for 
+     1 or more qualifying projects under this section in the order 
+     in which the applications for the projects are received by 
+     the Secretary.
+       ``(7) Approval.--An application for a loan guarantee under 
+     this section shall be approved or disapproved by the 
+     Secretary not later than 90 days after the application is 
+     received by the Secretary.
+       ``(d) Authorization of Appropriations for Resource 
+     Center.--There is authorized to be appropriated, for a 
+     resource center to further develop bioconversion technology 
+     using low-cost biomass for the production of ethanol at the 
+     Center for Biomass-Based Energy at the Mississippi State 
+     University and the Oklahoma State University, $4,000,000 for 
+     each of fiscal years 2005 through 2007.
+       ``(e) Renewable Fuel Production Research and Development 
+     Grants.--
+       ``(1) In general.--The Administrator shall provide grants 
+     for the research into, and development and implementation of, 
+     renewable fuel production technologies in RFG States with low 
+     rates of ethanol production, including low rates of 
+     production of cellulosic biomass ethanol.
+       ``(2) Eligibility.--
+       ``(A) In general.--The entities eligible to receive a grant 
+     under this subsection are academic institutions in RFG 
+     States, and consortia made up of combinations of academic 
+     institutions, industry, State government agencies, or local 
+     government agencies in RFG States, that have proven 
+     experience and capabilities with relevant technologies.
+       ``(B) Application.--To be eligible to receive a grant under 
+     this subsection, an eligible entity shall submit to the 
+     Administrator an application in such manner and form, and 
+     accompanied by such information, as the Administrator may 
+     specify.
+       ``(3) Authorization of appropriations.--There is authorized 
+     to be appropriated to carry out this subsection $25,000,000 
+     for each of fiscal years 2006 through 2010.
+       ``(f) Cellulosic Biomass Ethanol Conversion Assistance.--
+       ``(1) In general.--The Secretary may provide grants to 
+     merchant producers of cellulosic biomass ethanol in the 
+     United States to assist the producers in building eligible 
+     production facilities described in paragraph (2) for the 
+     production of cellulosic biomass ethanol.
+       ``(2) Eligible production facilities.--A production 
+     facility shall be eligible to receive a grant under this 
+     subsection if the production facility--
+       ``(A) is located in the United States; and
+       ``(B) uses cellulosic biomass feedstocks derived from 
+     agricultural residues or municipal solid waste.
+       ``(3) Authorization of appropriations.--There is authorized 
+     to be appropriated to carry out this subsection--
+       ``(A) $250,000,000 for fiscal year 2005; and
+       ``(B) $400,000,000 for fiscal year 2006.''.
+       (b) Conforming Amendment.--The table of contents for the 
+     Clean Air Act (42 U.S.C. 7401 prec.) is amended by inserting 
+     after the item relating to section 211 the following:
+
+``Sec. 212. Renewable fuels''.
+
+     SEC. 213. SURVEY OF RENEWABLE FUELS CONSUMPTION.
+
+       Section 205 of the Department of Energy Organization Act 
+     (42 U.S.C. 7135) is amended by adding at the end the 
+     following:
+       ``(m) Survey of Renewable Fuels Consumption.--
+       ``(1) In general.--In order to improve the ability to 
+     evaluate the effectiveness of the Nation's renewable fuels 
+     mandate, the Administrator shall conduct and publish the 
+     results of a survey of renewable fuels consumption in the 
+     motor vehicle fuels market in the United States monthly, and 
+     in a manner designed to protect the confidentiality of 
+     individual responses.
+       ``(2) Elements of survey.--In conducting the survey, the 
+     Administrator shall collect information retrospectively to 
+     1998, on a national basis and a regional basis, including--
+       ``(A) the quantity of renewable fuels produced;
+       ``(B) the cost of production;
+       ``(C) the cost of blending and marketing;
+       ``(D) the quantity of renewable fuels blended;
+       ``(E) the quantity of renewable fuels imported; and
+       ``(F) market price data.''.
+
+                 Subtitle C--Federal Reformulated Fuels
+
+     SEC. 221. SHORT TITLE.
+
+       This subtitle may be cited as the ``Federal Reformulated 
+     Fuels Act of 2005''.
+
+     SEC. 222. LEAKING UNDERGROUND STORAGE TANKS.
+
+       (a) Use of LUST Funds for Remediation of Contamination From 
+     Ether Fuel Additives.--Section 9003(h) of the Solid Waste 
+     Disposal Act (42 U.S.C. 6991b(h)) is amended--
+       (1) in paragraph (7)(A)--
+       (A) by striking ``paragraphs (1) and (2) of this 
+     subsection'' and inserting ``paragraphs (1), (2), and (12)''; 
+     and
+       (B) by inserting ``and section 9010'' before ``if''; and
+       (2) by adding at the end the following:
+       ``(12) Remediation of contamination from ether fuel 
+     additives.--
+       ``(A) In general.--The Administrator and the States may use 
+     funds made available under section 9013(1) to carry out 
+     corrective actions with respect to a release of methyl 
+     tertiary butyl ether or other ether fuel additive that 
+     presents a threat to human health, welfare, or the 
+     environment.
+       ``(B) Applicable authority.--Subparagraph (A) shall be 
+     carried out--
+       ``(i) in accordance with paragraph (2), except that a 
+     release with respect to which a corrective action is carried 
+     out under subparagraph (A) shall not be required to be from 
+     an underground storage tank; and
+       ``(ii) in the case of a State, in accordance with a 
+     cooperative agreement entered into by the Administrator and 
+     the State under paragraph (7).''.
+       (b) Release Prevention and Compliance.--Subtitle I of the 
+     Solid Waste Disposal Act (42 U.S.C. 6991 et seq.) is amended 
+     by striking section 9010 and inserting the following:
+
+     ``SEC. 9010. RELEASE PREVENTION AND COMPLIANCE.
+
+       ``Funds made available under section 9013(2) from the 
+     Leaking Underground Storage Tank Trust Fund may be used for 
+     conducting inspections, or for issuing orders or bringing 
+     actions under this subtitle--
+       ``(1) by a State (pursuant to section 9003(h)(7)) acting 
+     under--
+       ``(A) a program approved under section 9004; or
+       ``(B) State requirements regulating underground storage 
+     tanks that are similar or identical to this subtitle, as 
+     determined by the Administrator; and
+       ``(2) by the Administrator, acting under this subtitle or a 
+     State program approved under section 9004.
+
+     ``SEC. 9011. AUTHORIZATION OF APPROPRIATIONS.
+
+       ``In addition to amounts made available under section 
+     2007(f), there are authorized to be appropriated from the 
+     Leaking Underground Storage Tank Trust Fund, notwithstanding 
+     section 9508(c)(1) of the Internal Revenue Code of 1986--
+       ``(1) to carry out section 9003(h)(12), $200,000,000 for 
+     fiscal year 2005, to remain available until expended; and
+       ``(2) to carry out section 9010--
+       ``(A) $50,000,000 for fiscal year 2005; and
+       ``(B) $30,000,000 for fiscal years 2006 through 2010.''.
+       (c) Technical Amendments.--
+       (1) Section 1001 of the Solid Waste Disposal Act (42 U.S.C. 
+     prec. 6901) is amended by striking the item relating to 
+     section 9010 and inserting the following:
+
+``Sec. 9010. Release prevention and compliance.
+``Sec. 9011. Authorization of appropriations.''.
+
+       (2) Section 9001(3)(A) of the Solid Waste Disposal Act (42 
+     U.S.C. 6991(3)(A)) is amended by striking ``sustances'' and 
+     inserting ``substances''.
+       (3) Section 9003(f)(1) of the Solid Waste Disposal Act (42 
+     U.S.C. 6991b(f)(1)) is amended by striking ``subsection (c) 
+     and (d) of this section'' and inserting ``subsections (c) and 
+     (d)''.
+       (4) Section 9004(a) of the Solid Waste Disposal Act (42 
+     U.S.C. 6991c(a)) is amended in the second sentence by 
+     striking ``referred to'' and all that follows and inserting 
+     ``referred to in subparagraph (A) or (B), or both, of section 
+     9001(2).''.
+       (5) Section 9005 of the Solid Waste Disposal Act (42 U.S.C. 
+     6991d) is amended--
+       (A) in subsection (a), by striking ``study taking'' and 
+     inserting ``study, taking'';
+       (B) in subsection (b)(1), by striking ``relevent'' and 
+     inserting ``relevant''; and
+       (C) in subsection (b)(4), by striking ``Evironmental'' and 
+     inserting ``Environmental''.
+
+     SEC. 223. RESTRICTIONS ON THE USE OF MTBE.
+
+       (a) Findings.--Congress finds that--
+       (1) since 1979, methyl tertiary butyl ether (referred to in 
+     this section as ``MTBE'') has been used nationwide at low 
+     levels in gasoline to replace lead as an octane booster or 
+     anti-knocking agent;
+       (2) Public Law 101-549 (commonly known as the ``Clean Air 
+     Act Amendments of 1990'') (42 U.S.C. 7401 et seq.) 
+     established a fuel oxygenate standard under which 
+     reformulated gasoline must contain at least 2 percent oxygen 
+     by weight;
+       (3) at the time of the adoption of the fuel oxygenate 
+     standard, Congress was aware that--
+       (A) increased use of MTBE could result from the adoption of 
+     that standard; and
+
+[[Page S6774]]
+
+       (B) the use of MTBE would likely be needed to implement 
+     that standard;
+       (4) Congress is aware that gasoline and its component 
+     additives have leaked from storage tanks, with consequences 
+     for water quality;
+       (5) the fuel industry responded to the fuel oxygenate 
+     standard established by Public Law 101-549 by making 
+     substantial investments in--
+       (A) MTBE production capacity; and
+       (B) systems to deliver MTBE-containing gasoline to the 
+     marketplace;
+       (6) when leaked or spilled into the environment, MTBE may 
+     cause serious problems of drinking water quality;
+       (7) in recent years, MTBE has been detected in water 
+     sources throughout the United States;
+       (8) MTBE can be detected by smell and taste at low 
+     concentrations;
+       (9) while small quantities of MTBE can render water 
+     supplies unpalatable, the precise human health effects of 
+     MTBE consumption at low levels are yet unknown as of the date 
+     of enactment of this Act;
+       (10) in the report entitled ``Achieving Clean Air and Clean 
+     Water: The Report of the Blue Ribbon Panel on Oxygenates in 
+     Gasoline'' and dated September 1999, Congress was urged--
+       (A) to eliminate the fuel oxygenate standard;
+       (B) to greatly reduce use of MTBE; and
+       (C) to maintain the environmental performance of 
+     reformulated gasoline;
+       (11) Congress has--
+       (A) reconsidered the relative value of MTBE in gasoline; 
+     and
+       (B) decided to eliminate use of MTBE as a fuel additive;
+       (12) the timeline for elimination of use of MTBE as a fuel 
+     additive must be established in a manner that achieves an 
+     appropriate balance among the goals of--
+       (A) environmental protection;
+       (B) adequate energy supply; and
+       (C) reasonable fuel prices; and
+       (13) it is appropriate for Congress to provide some limited 
+     transition assistance--
+       (A) to merchant producers of MTBE who produced MTBE in 
+     response to a market created by the oxygenate requirement 
+     contained in the Clean Air Act (42 U.S.C. 7401 et seq.); and
+       (B) for the purpose of mitigating any fuel supply problems 
+     that may result from elimination of a widely-used fuel 
+     additive.
+       (b) Purposes.--The purposes of this section are--
+       (1) to eliminate use of MTBE as a fuel oxygenate; and
+       (2) to provide assistance to merchant producers of MTBE in 
+     making the transition from producing MTBE to producing other 
+     fuel additives.
+       (c) Authority for Water Quality Protection From Fuels.--
+     Section 211(c) of the Clean Air Act (42 U.S.C. 7545(c)) is 
+     amended--
+       (1) in paragraph (1)(A)--
+       (A) by inserting ``fuel or fuel additive or'' after 
+     ``Administrator any''; and
+       (B) by striking ``air pollution which'' and inserting ``air 
+     pollution, or water pollution, that'';
+       (2) in paragraph (4)(B), by inserting ``or water quality 
+     protection,'' after ``emission control,''; and
+       (3) by adding at the end the following:
+       ``(5) Restrictions on use of MTBE.--
+       ``(A) In general.--Subject to subparagraph (E), not later 
+     than 4 years after the date of enactment of this paragraph, 
+     the use of methyl tertiary butyl ether in motor vehicle fuel 
+     in any State other than a State described in subparagraph (C) 
+     is prohibited.
+       ``(B) Regulations.--The Administrator shall promulgate 
+     regulations to effect the prohibition in subparagraph (A).
+       ``(C) States that authorize use.--A State described in this 
+     subparagraph is a State that submits to the Administrator a 
+     notice that the State authorizes use of methyl tertiary butyl 
+     ether in motor vehicle fuel sold or used in the State.
+       ``(D) Publication of notice.--The Administrator shall 
+     publish in the Federal Register each notice submitted by a 
+     State under subparagraph (C).
+       ``(E) Trace quantities.--In carrying out subparagraph (A), 
+     the Administrator may allow trace quantities of methyl 
+     tertiary butyl ether, not to exceed 0.5 percent by volume, to 
+     be present in motor vehicle fuel in cases that the 
+     Administrator determines to be appropriate.
+       ``(6) MTBE merchant producer conversion assistance.--
+       ``(A) In general.--
+       ``(i) Grants.--The Secretary of Energy, in consultation 
+     with the Administrator, may make grants to merchant producers 
+     of methyl tertiary butyl ether in the United States to assist 
+     the producers in the conversion of eligible production 
+     facilities described in subparagraph (C) to the production 
+     of--
+
+       ``(I) iso-octane or alkylates, unless the Administrator, in 
+     consultation with the Secretary of Energy, determines that 
+     transition assistance for the production of iso-octane or 
+     alkylates is inconsistent with the criteria specified in 
+     subparagraph (B); and
+       ``(II) any other fuel additive that meets the criteria 
+     specified in subparagraph (B).
+
+       ``(B) Criteria.--The criteria referred to in subparagraph 
+     (A) are that--
+       ``(i) use of the fuel additive is consistent with this 
+     subsection;
+       ``(ii) the Administrator has not determined that the fuel 
+     additive may reasonably be anticipated to endanger public 
+     health or the environment;
+       ``(iii) the fuel additive has been registered and tested, 
+     or is being tested, in accordance with the requirements of 
+     this section; and
+       ``(iv) the fuel additive will contribute to replacing 
+     quantities of motor vehicle fuel rendered unavailable as a 
+     result of paragraph (5).
+       ``(C) Eligible production facilities.--A production 
+     facility shall be eligible to receive a grant under this 
+     paragraph if the production facility--
+       ``(i) is located in the United States; and
+       ``(ii) produced methyl tertiary butyl ether for consumption 
+     in nonattainment areas during the period--
+
+       ``(I) beginning on the date of enactment of this paragraph; 
+     and
+       ``(II) ending on the effective date of the prohibition on 
+     the use of methyl tertiary butyl ether under paragraph (5).
+
+       ``(D) Authorization of appropriations.--There is authorized 
+     to be appropriated to carry out this paragraph $250,000,000 
+     for each of fiscal years 2005 through 2008.''.
+       (d) No Effect on Law Concerning State Authority.--The 
+     amendments made by subsection (c) have no effect on any law 
+     enacted or in effect before the date of enactment of this Act 
+     concerning the authority of States to limit the use of methyl 
+     tertiary butyl ether in motor vehicle fuel.
+
+     SEC. 224. ELIMINATION OF OXYGEN CONTENT REQUIREMENT FOR 
+                   REFORMULATED GASOLINE.
+
+       (a) Elimination.--
+       (1) In general.--Section 211(k) of the Clean Air Act (42 
+     U.S.C. 7545(k)) is amended--
+       (A) in paragraph (2)--
+       (i) in the second sentence of subparagraph (A), by striking 
+     ``(including the oxygen content requirement contained in 
+     subparagraph (B))'';
+       (ii) by striking subparagraph (B); and
+       (iii) by redesignating subparagraphs (C) and (D) as 
+     subparagraphs (B) and (C), respectively;
+       (B) in paragraph (3)(A), by striking clause (v); and
+       (C) in paragraph (7)--
+       (i) in subparagraph (A)--
+
+       (I) by striking clause (i); and
+       (II) by redesignating clauses (ii) and (iii) as clauses (i) 
+     and (ii), respectively; and
+
+       (ii) in subparagraph (C)--
+
+       (I) by striking clause (ii); and
+       (II) by redesignating clause (iii) as clause (ii).
+
+       (2) Applicability.--The amendments made by paragraph (1) 
+     apply--
+       (A) in the case of a State that has received a waiver under 
+     section 209(b) of the Clean Air Act (42 U.S.C. 7543(b)), 
+     beginning on the date of enactment of this Act; and
+       (B) in the case of any other State, beginning 270 days 
+     after the date of enactment of this Act.
+       (b) Maintenance of Toxic Air Pollutant Emission 
+     Reductions.--Section 211(k)(1) of the Clean Air Act (42 
+     U.S.C. 7545(k)(1)) is amended--
+       (1) by striking ``Within 1 year after the enactment of the 
+     Clean Air Act Amendments of 1990,'' and inserting the 
+     following:
+       ``(A) In general.--Not later than November 15, 1991,''; and
+       (2) by adding at the end the following:
+       ``(B) Maintenance of toxic air pollutant emissions 
+     reductions from reformulated Gasoline.--
+       ``(i) Definition of PADD.--In this subparagraph the term 
+     `PADD' means a Petroleum Administration for Defense District.
+       ``(ii) Regulations concerning emissions of toxic air 
+     pollutants.--Not later than 270 days after the date of 
+     enactment of this subparagraph, the Administrator shall 
+     establish by regulation, for each refinery or importer (other 
+     than a refiner or importer in a State that has received a 
+     waiver under section 209(b) with respect to gasoline produced 
+     for use in that State), standards for toxic air pollutants 
+     from use of the reformulated gasoline produced or distributed 
+     by the refiner or importer that maintain the reduction of the 
+     average annual aggregate emissions of toxic air pollutants 
+     for reformulated gasoline produced or distributed by the 
+     refiner or importer during calendar years 2001 and 2002 (as 
+     determined on the basis of data collected by the 
+     Administrator with respect to the refiner or importer).
+       ``(iii) Standards applicable to specific refineries or 
+     importers.--
+
+       ``(I) Applicability of standards.--For any calendar year, 
+     the standards applicable to a refiner or importer under 
+     clause (ii) shall apply to the quantity of gasoline produced 
+     or distributed by the refiner or importer in the calendar 
+     year only to the extent that the quantity is less than or 
+     equal to the average annual quantity of reformulated gasoline 
+     produced or distributed by the refiner or importer during 
+     calendar years 2001 and 2002.
+       ``(II) Applicability of other standards.--For any calendar 
+     year, the quantity of gasoline produced or distributed by a 
+     refiner or importer that is in excess of the quantity subject 
+     to subclause (I) shall be subject to standards for emissions 
+     of toxic air pollutants promulgated under subparagraph (A) 
+     and paragraph (3)(B).
+
+       ``(iv) Credit program.--The Administrator shall provide for 
+     the granting and use of credits for emissions of toxic air 
+     pollutants in the same manner as provided in paragraph (7).
+
+[[Page S6775]]
+
+       ``(v) Regional protection of toxics reduction baselines.--
+
+       ``(I) In general.--Not later than 60 days after the date of 
+     enactment of this subparagraph, and not later than April 1 of 
+     each calendar year that begins after that date of enactment, 
+     the Administrator shall publish in the Federal Register a 
+     report that specifies, with respect to the previous calendar 
+     year--
+
+       ``(aa) the quantity of reformulated gasoline produced that 
+     is in excess of the average annual quantity of reformulated 
+     gasoline produced in 2001 and 2002; and
+       ``(bb) the reduction of the average annual aggregate 
+     emissions of toxic air pollutants in each PADD, based on 
+     retail survey data or data from other appropriate sources.
+
+       ``(II) Effect of failure to maintain aggregate toxics 
+     reductions.--If, in any calendar year, the reduction of the 
+     average annual aggregate emissions of toxic air pollutants in 
+     a PADD fails to meet or exceed the reduction of the average 
+     annual aggregate emissions of toxic air pollutants in the 
+     PADD in calendar years 2001 and 2002, the Administrator, not 
+     later than 90 days after the date of publication of the 
+     report for the calendar year under subclause (I), shall--
+
+       ``(aa) identify, to the maximum extent practicable, the 
+     reasons for the failure, including the sources, volumes, and 
+     characteristics of reformulated gasoline that contributed to 
+     the failure; and
+       ``(bb) promulgate revisions to the regulations promulgated 
+     under clause (ii), to take effect not earlier than 180 days 
+     but not later than 270 days after the date of promulgation, 
+     to provide that, notwithstanding clause (iii)(II), all 
+     reformulated gasoline produced or distributed at each refiner 
+     or importer shall meet the standards applicable under clause 
+     (iii)(I) beginning not later than April 1 of the calendar 
+     year following publication of the report under subclause (I) 
+     and in each calendar year thereafter.
+       ``(vi) Regulations to control hazardous air pollutants from 
+     motor vehicles and motor vehicle fuels.--Not later than July 
+     1, 2006, the Administrator shall promulgate final regulations 
+     to control hazardous air pollutants from motor vehicles and 
+     motor vehicle fuels, as provided for in section 80.1045 of 
+     title 40, Code of Federal Regulations (as in effect on the 
+     date of enactment of this subparagraph).''.
+       (c) Commingling.--
+       (1) In general.--Section 211(k) of the Clean Air Act (42 
+     U.S.C. 7545(k)) is amended by adding at the end the 
+     following:
+       ``(11) Commingling.--The regulations under paragraph (1) 
+     shall permit the commingling at a retail station of 
+     reformulated gasoline containing ethanol and reformulated 
+     gasoline that does not contain ethanol if, each time such 
+     commingling occurs--
+       ``(A) the retailer notifies the Administrator before the 
+     commingling, identifying the exact location of the retail 
+     station and the specific tank in which the commingling will 
+     take place; and
+       ``(B) the retailer certifies that the reformulated gasoline 
+     resulting from the commingling will meet all applicable 
+     requirements for reformulated gasoline, including content and 
+     emission performance standards.''.
+       (d) Consolidation in Reformulated Gasoline Regulations.--
+     Not later than 180 days after the date of enactment of this 
+     Act, the Administrator of the Environmental Protection Agency 
+     shall revise the reformulated gasoline regulations under 
+     subpart D of part 80 of title 40, Code of Federal 
+     Regulations, to consolidate the regulations applicable to 
+     VOC-Control Regions 1 and 2 under section 80.41 of that title 
+     by eliminating the less stringent requirements applicable to 
+     gasoline designated for VOC-Control Region 2 and instead 
+     applying the more stringent requirements applicable to 
+     gasoline designated for VOC-Control Region 1.
+       (e) Savings Clause.--
+       (1) In general.--Nothing in this section or any amendment 
+     made by this section affects or prejudices any legal claim or 
+     action with respect to regulations promulgated by the 
+     Administrator before the date of enactment of this Act 
+     regarding--
+       (A) emissions of toxic air pollutants from motor vehicles; 
+     or
+       (B) the adjustment of standards applicable to a specific 
+     refinery or importer made under those regulations.
+       (2) Adjustment of standards.--
+       (A) Applicability.--The Administrator may apply any 
+     adjustments to the standards applicable to a refinery or 
+     importer under subparagraph (B)(iii)(I) of section 211(k)(1) 
+     of the Clean Air Act (as added by subsection (b)(2)), except 
+     that--
+       (i) the Administrator shall revise the adjustments to be 
+     based only on calendar years 2001 and 2002;
+       (ii) any such adjustment shall not be made at a level below 
+     the average percentage of reductions of emissions of toxic 
+     air pollutants for reformulated gasoline supplied to PADD I 
+     during calendar years 2001 and 2002; and
+       (iii) in the case of an adjustment based on toxic air 
+     pollutant emissions from reformulated gasoline significantly 
+     below the national annual average emissions of toxic air 
+     pollutants from all reformulated gasoline--
+
+       (I) the Administrator may revise the adjustment to take 
+     account of the scope of the prohibition on methyl tertiary 
+     butyl ether imposed by paragraph (5) of section 211(c) of the 
+     Clean Air Act (as added by section 211(c)); and
+       (II) any such adjustment shall require the refiner or 
+     importer, to the maximum extent practicable, to maintain the 
+     reduction achieved during calendar years 2001 and 2002 in the 
+     average annual aggregate emissions of toxic air pollutants 
+     from reformulated gasoline produced or distributed by the 
+     refiner or importer.
+
+     SEC. 225. PUBLIC HEALTH AND ENVIRONMENTAL IMPACTS OF FUELS 
+                   AND FUEL ADDITIVES.
+
+       Section 211(b) of the Clean Air Act (42 U.S.C. 7545(b)) is 
+     amended--
+       (1) in paragraph (2)--
+       (A) by striking ``may also'' and inserting ``shall, on a 
+     regular basis,''; and
+       (B) by striking subparagraph (A) and inserting the 
+     following:
+       ``(A) to conduct tests to determine potential public health 
+     and environmental effects of the fuel or additive (including 
+     carcinogenic, teratogenic, or mutagenic effects); and''; and
+       (2) by adding at the end the following:
+       ``(4) Study on certain fuel additives and blendstocks.--
+       ``(A) In general.--Not later than 2 years after the date of 
+     enactment of this paragraph, the Administrator shall--
+       ``(i) conduct a study on the effects on public health 
+     (including the effects on children, pregnant women, minority 
+     or low-income communities, and other sensitive populations), 
+     air quality, and water resources of increased use of, and the 
+     feasibility of using as substitutes for methyl tertiary butyl 
+     ether in gasoline--
+
+       ``(I) ethyl tertiary butyl ether;
+       ``(II) tertiary amyl methyl ether;
+       ``(III) di-isopropyl ether;
+       ``(IV) tertiary butyl alcohol;
+       ``(V) other ethers and heavy alcohols, as determined by 
+     then Administrator;
+       ``(VI) ethanol;
+       ``(VII) iso-octane; and
+       ``(VIII) alkylates; and
+
+       ``(ii) conduct a study on the effects on public health 
+     (including the effects on children, pregnant women, minority 
+     or low-income communities, and other sensitive populations), 
+     air quality, and water resources of the adjustment for 
+     ethanol-blended reformulated gasoline to the volatile organic 
+     compounds performance requirements that are applicable under 
+     paragraphs (1) and (3) of section 211(k); and
+       ``(iii) submit to the Committee on Environment and Public 
+     Works of the Senate and the Committee on Energy and Commerce 
+     of the House of Representatives a report describing the 
+     results of the studies under clauses (i) and (ii).
+       ``(B) Contracts for study.--In carrying out this paragraph, 
+     the Administrator may enter into 1 or more contracts with 
+     nongovernmental entities such as--
+       ``(i) the national energy laboratories; and
+       ``(ii) institutions of higher education (as defined in 
+     section 101 of the Higher Education Act of 1965 (20 U.S.C. 
+     1001)).''.
+
+     SEC. 226. ANALYSES OF MOTOR VEHICLE FUEL CHANGES.
+
+       Section 211 of the Clean Air Act (42 U.S.C. 7545) (as 
+     amended by section 205(a)) is amended by inserting after 
+     subsection (p) the following:
+       ``(q) Analyses of Motor Vehicle Fuel Changes and Emissions 
+     Model.--
+       ``(1) Anti-backsliding analysis.--
+       ``(A) Draft analysis.--Not later than 4 years after the 
+     date of enactment of this paragraph, the Administrator shall 
+     publish for public comment a draft analysis of the changes in 
+     emissions of air pollutants and air quality due to the use of 
+     motor vehicle fuel and fuel additives resulting from 
+     implementation of the amendments made by the Federal 
+     Reformulated Fuels Act of 2005.
+       ``(B) Final analysis.--After providing a reasonable 
+     opportunity for comment but not later than 5 years after the 
+     date of enactment of this paragraph, the Administrator shall 
+     publish the analysis in final form.
+       ``(2) Emissions model.--For the purposes of this section, 
+     not later than 4 years after the date of enactment of this 
+     paragraph, the Administrator shall develop and finalize an 
+     emissions model that reflects, to the maximum extent 
+     practicable, the effects of gasoline characteristics or 
+     components on emissions from vehicles in the motor vehicle 
+     fleet during calendar year 2007.
+       ``(3) Permeation effects study.--
+       ``(A) In general.--Not later than 1 year after the date of 
+     enactment of this paragraph, the Administrator shall conduct 
+     a study, and report to Congress the results of the study, on 
+     the effects of ethanol content in gasoline on permeation, the 
+     process by which fuel molecules migrate through the 
+     elastomeric materials (rubber and plastic parts) that make up 
+     the fuel and fuel vapor systems of a motor vehicle.
+       ``(B) Evaporative emissions.--The study shall include 
+     estimates of the increase in total evaporative emissions 
+     likely to result from the use of gasoline with ethanol 
+     content in a motor vehicle, and the fleet of motor vehicles, 
+     due to permeation.''.
+
+     SEC. 227. ADDITIONAL OPT-IN AREAS UNDER REFORMULATED GASOLINE 
+                   PROGRAM.
+
+       Section 211(k)(6) of the Clean Air Act (42 U.S.C. 
+     7545(k)(6)) is amended--
+       (1) by striking ``(6) Opt-in areas.--(A) Upon'' and 
+     inserting the following:
+       ``(6) Opt-in areas.--
+       ``(A) Classified areas.--
+       ``(i) In general.--Upon'';
+       (2) in subparagraph (B), by striking ``(B) If'' and 
+     inserting the following:
+       ``(ii) Effect of insufficient domestic capacity to produce 
+     reformulated Gasoline.--If'';
+       (3) in subparagraph (A)(ii) (as redesignated by paragraph 
+     (2))--
+
+[[Page S6776]]
+
+       (A) in the first sentence, by striking ``subparagraph (A)'' 
+     and inserting ``clause (i)''; and
+       (B) in the second sentence, by striking ``this paragraph'' 
+     and inserting ``this subparagraph''; and
+       (4) by adding at the end the following:
+       ``(B) Ozone transport Region.--
+       ``(i) Application of prohibition.--
+
+       ``(I) In general.--On application of the Governor of a 
+     State in the ozone transport region established by section 
+     184(a), the Administrator, not later than 180 days after the 
+     date of receipt of the application, shall apply the 
+     prohibition specified in paragraph (5) to any area in the 
+     State (other than an area classified as a marginal, moderate, 
+     serious, or severe ozone nonattainment area under subpart 2 
+     of part D of title I) unless the Administrator determines 
+     under clause (iii) that there is insufficient capacity to 
+     supply reformulated gasoline.
+       ``(II) Publication of application.--As soon as practicable 
+     after the date of receipt of an application under subclause 
+     (I), the Administrator shall publish the application in the 
+     Federal Register.
+
+       ``(ii) Period of applicability.--Under clause (i), the 
+     prohibition specified in paragraph (5) shall apply in a 
+     State--
+
+       ``(I) commencing as soon as practicable but not later than 
+     2 years after the date of approval by the Administrator of 
+     the application of the Governor of the State; and
+       ``(II) ending not earlier than 4 years after the 
+     commencement date determined under subclause (I).
+
+       ``(iii) Extension of commencement date Based on 
+     insufficient capacity.--
+
+       ``(I) In general.--If, after receipt of an application from 
+     a Governor of a State under clause (i), the Administrator 
+     determines, on the Administrator's own motion or on petition 
+     of any person, after consultation with the Secretary of 
+     Energy, that there is insufficient capacity to supply 
+     reformulated gasoline, the Administrator, by regulation--
+
+       ``(aa) shall extend the commencement date with respect to 
+     the State under clause (ii)(I) for not more than 1 year; and
+       ``(bb) may renew the extension under item (aa) for 2 
+     additional periods, each of which shall not exceed 1 year.
+
+       ``(II) Deadline for action on petitions.--The Administrator 
+     shall act on any petition submitted under subclause (I) not 
+     later than 180 days after the date of receipt of the 
+     petition.''.
+
+     SEC. 228. FEDERAL ENFORCEMENT OF STATE FUELS REQUIREMENTS.
+
+       Section 211(c)(4)(C) of the Clean Air Act (42 U.S.C. 
+     7545(c)(4)(C)) is amended--
+       (1) by striking ``(C) A State'' and inserting the 
+     following:
+       ``(C) Authority of State to control fuels and fuel 
+     additives for reasons of necessity.--
+       ``(i) In general.--A State''; and
+       (2) by adding at the end the following:
+       ``(ii) Enforcement by the Administrator.--In any case in 
+     which a State prescribes and enforces a control or 
+     prohibition under clause (i), the Administrator, at the 
+     request of the State, shall enforce the control or 
+     prohibition as if the control or prohibition had been adopted 
+     under the other provisions of this section.''.
+
+     SEC. 229. FUEL SYSTEM REQUIREMENTS HARMONIZATION STUDY.
+
+       (a) Study.--
+       (1) In general.--The Administrator of the Environmental 
+     Protection Agency and the Secretary of Energy shall jointly 
+     conduct a study of Federal, State, and local requirements 
+     concerning motor vehicle fuels, including--
+       (A) requirements relating to reformulated gasoline, 
+     volatility (measured in Reid vapor pressure), oxygenated 
+     fuel, and diesel fuel; and
+       (B) other requirements that vary from State to State, 
+     region to region, or locality to locality.
+       (2) Required elements.--The study shall assess--
+       (A) the effect of the variety of requirements described in 
+     paragraph (1) on the supply, quality, and price of motor 
+     vehicle fuels available to the consumer;
+       (B) the effect of the requirements described in paragraph 
+     (1) on achievement of--
+       (i) national, regional, and local air quality standards and 
+     goals; and
+       (ii) related environmental and public health protection 
+     standards and goals (including the protection of children, 
+     pregnant women, minority or low-income communities, and other 
+     sensitive populations);
+       (C) the effect of Federal, State, and local motor vehicle 
+     fuel regulations, including multiple motor vehicle fuel 
+     requirements, on--
+       (i) domestic refiners;
+       (ii) the fuel distribution system; and
+       (iii) industry investment in new capacity;
+       (D) the effect of the requirements described in paragraph 
+     (1) on emissions from vehicles, refiners, and fuel handling 
+     facilities;
+       (E) the feasibility of developing national or regional 
+     motor vehicle fuel slates for the 48 contiguous States that, 
+     while protecting and improving air quality at the national, 
+     regional, and local levels, could--
+       (i) enhance flexibility in the fuel distribution 
+     infrastructure and improve fuel fungibility;
+       (ii) reduce price volatility and costs to consumers and 
+     producers;
+       (iii) provide increased liquidity to the gasoline market; 
+     and
+       (iv) enhance fuel quality, consistency, and supply; and
+       (F) the feasibility of providing incentives, and the need 
+     for the development of national standards necessary, to 
+     promote cleaner burning motor vehicle fuel.
+       (b) Report.--
+       (1) In general.--Not later than June 1, 2008, the 
+     Administrator of the Environmental Protection Agency and the 
+     Secretary of Energy shall submit to Congress a report on the 
+     results of the study conducted under subsection (a).
+       (2) Recommendations.--
+       (A) In general.--The report shall contain recommendations 
+     for legislative and administrative actions that may be 
+     taken--
+       (i) to improve air quality;
+       (ii) to reduce costs to consumers and producers; and
+       (iii) to increase supply liquidity.
+       (B) Required considerations.--The recommendations under 
+     subparagraph (A) shall take into account the need to provide 
+     advance notice of required modifications to refinery and fuel 
+     distribution systems in order to ensure an adequate supply of 
+     motor vehicle fuel in all States.
+       (3) Consultation.--In developing the report, the 
+     Administrator of the Environmental Protection Agency and the 
+     Secretary of Energy shall consult with--
+       (A) the Governors of the States;
+       (B) automobile manufacturers;
+       (C) State and local air pollution control regulators;
+       (D) public health experts;
+       (E) motor vehicle fuel producers and distributors; and
+       (F) the public.
+
+     SEC. 230. ADVANCED BIOFUEL TECHNOLOGIES PROGRAM.
+
+       (a) In General.--Subject to the availability of 
+     appropriations under subsection (d), the Administrator of the 
+     Environmental Protection Agency shall, in consultation with 
+     the Secretary of Agriculture and the Biomass Research and 
+     Development Technical Advisory Committee established under 
+     section 306 of the Biomass Research and Development Act of 
+     2000 (Public Law 106-224; 7 U.S.C. 8101 note), establish a 
+     program, to be known as the ``Advanced Biofuel Technologies 
+     Program'', to demonstrate advanced technologies for the 
+     production of alternative transportation fuels.
+       (b) Priority.--In carrying out the program under subsection 
+     (a), the Administrator shall give priority to projects that 
+     enhance the geographical diversity of alternative fuels 
+     production and utilize feedstocks that represent 10 percent 
+     or less of ethanol or biodiesel fuel production in the United 
+     States during the previous fiscal year.
+       (c) Demonstration Projects.--
+       (1) In general.--As part of the program under subsection 
+     (a), the Administrator shall fund demonstration projects--
+       (A) to develop not less than 4 different conversion 
+     technologies for producing cellulosic biomass ethanol and 
+     cellulosic biomass-derived liquid alternative fuel (as 
+     defined in section 211(o)(1) of the Clean Air Act (as amended 
+     by section 211(a))); and
+       (B) to develop not less than 5 technologies for coproducing 
+     value-added bioproducts (such as fertilizers, herbicides, and 
+     pesticides) resulting from the production of biodiesel fuel.
+       (2) Administration.--Demonstration projects under this 
+     subsection shall be--
+       (A) conducted based on a merit-reviewed, competitive 
+     process; and
+       (B) subject to the cost-sharing requirements of section 
+     1002.
+       (d) Authorization of appropriations.--There are authorized 
+     to be appropriated to carry out this section $110,000,000 for 
+     each of fiscal years 2005 through 2009.
+
+     SEC. 231. SUGAR CANE ETHANOL PROGRAM.
+
+       (a) Definition of Program.--In this section, the term 
+     ``program'' means the Sugar Cane Ethanol Program established 
+     by subsection (b).
+       (b) Establishment.--There is established within the 
+     Environmental Protection Agency a program to be known as the 
+     ``Sugar Cane Ethanol Program''.
+       (c) Project.--
+       (1) In general.--Subject to the availability of 
+     appropriations under subsection (d), in carrying out the 
+     program, the Administrator of the Environmental Protection 
+     Agency shall establish a project that is--
+       (A) carried out in multiple States--
+       (i) in each of which is produced cane sugar that is 
+     eligible for loans under section 156 of the Federal 
+     Agriculture Improvement and Reform Act of 1996 (7 U.S.C. 
+     7272), or a similar subsequent authority; and
+       (ii) at the option of each such State, that have an 
+     incentive program that requires the use of ethanol in the 
+     State; and
+       (B) designed to study the production of ethanol from cane 
+     sugar, sugarcane, and sugarcane byproducts.
+       (2) Requirements.--A project described in paragraph (1) 
+     shall--
+       (A) be limited to the production of ethanol in the States 
+     of Florida, Louisiana, Texas, and Hawaii in a way similar to 
+     the existing program for the processing of corn for ethanol 
+     to demonstrate that the process may be applicable to cane 
+     sugar, sugarcane, and sugarcane byproducts;
+       (B) include information on the ways in which the scale of 
+     production may be replicated once the sugar cane industry has 
+     located sites for, and constructed, ethanol production 
+     facilities; and
+       (C) not last more than 3 years.
+       (d) Authorization of Appropriations.--There is authorized 
+     to be appropriated to
+
+[[Page S6777]]
+
+     carry out this section $36,000,000, to remain available until 
+     expended.
+
+                       Subtitle B--Insular Energy
+
+                                 ______
+```

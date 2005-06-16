@@ -1,0 +1,37 @@
+---
+granule: CREC-2005-06-16-pt1-PgH4656-3
+date: 2005-06-16
+edition: CREC
+section: HOUSE
+page: H4656
+citation: 151 Cong. Rec. H4656
+---
+
+# Text of House Amendment 12
+
+**Speaking:** Deal, Nathan (D000168) [R-GA]
+
+**Measures:** H.R. 2863
+
+```
+H.R. 2863
+
+                    Offered By: Mr. Deal of Georgia
+
+       Amendment No. 12: At the end of the bill (before the short 
+     title), insert the following:
+
+                 TITLE X--ADDITIONAL GENERAL PROVISIONS
+
+       Sec. 10001. None of the funds made available in this Act 
+     may be used for the Defense Prisoner of War/Missing Personnel 
+     Office of the Department of Defense until the Secretary of 
+     Defense submits to Congress a report assessing the level of 
+     cooperation and interaction of that Office with the National 
+     League of Families of American Prisoners and Missing in 
+     Southeast Asia and The Chosin Few (the organization of Korea/
+     Cold War Families) and the members of those organizations, 
+     particularly with respect to compliance with chapter 76 of 
+     title 10, United States Code, and other applicable provisions 
+     of law.
+```
