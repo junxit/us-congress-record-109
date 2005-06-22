@@ -1,0 +1,20 @@
+---
+granule: CREC-2005-06-22-pt1-PgH4964
+date: 2005-06-22
+edition: CREC
+section: HOUSE
+page: H4964
+citation: 151 Cong. Rec. H4964
+---
+
+# The SPEAKER pro tempore (Mr. Kuhl of New York). Under a previous order of the House, the gentleman from Indiana (Mr. Burton) is recognized for 5 minutes.
+
+```
+  The SPEAKER pro tempore (Mr. Kuhl of New York). Under a previous 
+order of the House, the gentleman from Indiana (Mr. Burton) is 
+recognized for 5 minutes.
+  (Mr. BURTON of Indiana addressed the House. His remarks will appear 
+hereafter in the Extensions of Remarks.)
+
+                          ____________________
+```
