@@ -1,0 +1,46 @@
+---
+granule: CRECB-2005-pt10-Pg14094-2
+date: 2005-06-22
+edition: CRECB
+section: EXTENSIONS
+page: 14094
+---
+
+# HONORING KEISHA CASON OF BROOKSVILLE, FLORIDA
+
+```
+             HONORING KEISHA CASON OF BROOKSVILLE, FLORIDA
+
+                                 ______
+                                 
+
+                         HON. GINNY BROWN-WAITE
+
+                               of florida
+
+                    in the house of representatives
+
+                        Wednesday, June 22, 2005
+
+  Ms. GINNY BROWN-WAITE of Florida. Mr. Speaker, I rise today to honor 
+Keisha Cason of Brooksville, Florida.
+  Keisha Cason is a high school senior, who was recently recognized by 
+the National Federation of Independent Business (NFIB) as a 2005 NFIB 
+Free Enterprise Scholars Award Program.
+  Created in 2002, the award identifies high school seniors from all 
+around the country who demonstrate scholarship and entrepreneurial 
+achievement. From the 2,100 applicants nominated by NFIB members, an 
+independent selection committee selected 378 rising scholars to each 
+receive a $1,000 scholarship.
+  Keisha Cason represents the future voice of small business in 
+America. As one of these gifted youth, she has displayed a sense of 
+scholarship and understanding of free enterprise far beyond her years. 
+As she makes the transition to college, she will continue to perform at 
+the highest standards.
+  Mr. Speaker, ambitious young men and women like Keisha Cole should be 
+congratulated for their accomplishments. It is truly a privilege to 
+honor Keisha Cason for her achievement as a National Federation of 
+Independent Business Free Enterprise Scholar.
+
+                          ____________________
+```
