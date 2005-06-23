@@ -1,0 +1,42 @@
+---
+granule: CREC-2005-06-23-pt1-PgH4989
+date: 2005-06-23
+edition: CREC
+section: HOUSE
+page: H4989
+citation: 151 Cong. Rec. H4989
+---
+
+# LET US DISCONNECT THE SPANISH-AMERICAN WAR TELEPHONE TAX
+
+**Speaking:** Poe, Ted (P000592) [R-TX]
+
+```
+                              {time}  1015
+        LET US DISCONNECT THE SPANISH-AMERICAN WAR TELEPHONE TAX
+
+  (Mr. POE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. POE. Mr. Speaker, I rise today to announce to all Americans that 
+the Spanish-American War of 1898 has ended. It has been 107 years since 
+the war was over and Teddy Roosevelt and the Rough Riders went up San 
+Juan Hill and we won that war. Yet 95 percent of all Americans are 
+still paying for it and do not even know it.
+  Introduced in 1898 was a phone tax, which established the concept of 
+a temporary luxury tax to defray costs on the Spanish-American War. It 
+started on 1,300 phones, a tax on telephones. Today more than 100 
+million American households across the Nation still are paying for this 
+excise tax to the tune of $5.6 billion a year on their phone services 
+such as land lines, cell phones, and dial-up Internet connection. This 
+tax strikes at every use of the telephone and burdens everyone, 
+especially those in lower incomes.
+  Initially, this tax was used to finance this 3-month Spanish-American 
+War, but it has been made permanent and was even raised in World War 
+II.
+  So I would like to commend the gentleman from California for 
+sponsoring legislation to get rid of this ``temporary tax.'' This tax 
+has proved there is no such thing as a temporary tax, and let us 
+disconnect the Spanish-American tax on telephones.
+
+                          ____________________
+```

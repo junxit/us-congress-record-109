@@ -1,0 +1,37 @@
+---
+granule: CREC-2005-06-23-pt1-PgH4988-4
+date: 2005-06-23
+edition: CREC
+section: HOUSE
+page: H4988
+citation: 151 Cong. Rec. H4988
+---
+
+# 150TH ANNIVERSARY TREATIES
+
+**Speaking:** Blumenauer, Earl (B000574) [D-OR]
+
+```
+                       150TH ANNIVERSARY TREATIES
+
+  (Mr. BLUMENAUER asked and was given permission to address the House 
+for 1 minute.)
+  Mr. BLUMENAUER. Mr. Speaker, this weekend marks the 150th anniversary 
+of the Treaty with the Tribes of Middle Oregon and today I have 
+introduced legislation to commemorate that event. There were a number 
+of important treaties signed in 1855 which included the Cayuse, 
+Umatilla, Walla Walla and ultimately the Warm Springs. These treaties 
+helped guide and shape the management of land, water, wildlife and 
+fisheries of the Pacific Northwest now and into the future. The 
+treaties were understood by their signers to ensure the unique quality 
+of life of native peoples in middle Oregon.
+  Unfortunately, the United States' history of honoring its commitments 
+to Native Americans leaves much to be desired. In honor of the 
+anniversary of these treaties, we should reaffirm and support the 
+promises made 150 years ago between the Pacific Northwest tribes and 
+the United States of America. Together, we have a rich legacy and a 
+bright future to protect, and I urge my colleagues in joining me in 
+supporting this resolution.
+
+                          ____________________
+```

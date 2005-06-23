@@ -1,0 +1,68 @@
+---
+granule: CREC-2005-06-23-pt1-PgE1323-2
+date: 2005-06-23
+edition: CREC
+section: EXTENSIONS
+page: E1323
+citation: 151 Cong. Rec. E1323
+---
+
+# NATIONAL ENDOWMENT FOR THE ARTS
+
+**Speaking:** McCollum, Betty (M001143) [D-MN]
+
+```
+                    NATIONAL ENDOWMENT FOR THE ARTS
+
+                                 ______
+                                 
+
+                          HON. BETTY McCOLLUM
+
+                              of minnesota
+
+                    in the house of representatives
+
+                        Wednesday, June 22, 2005
+
+  Ms. McCOLLUM of Minnesota. Mr. Speaker, as a member of the 
+Congressional Arts Caucus, I rise today in support of the amendment to 
+increase funds by $10 million to the National Endowment for the Arts 
+and $5 million to the National Endowment for the Humanities.
+  The value of Federal arts programs lies in their ability to nurture 
+the growth and artistic excellence of thousands of arts organizations 
+and millions of artists throughout the Nation, making a variety of 
+arts--performance, graphic, literature, and media--available to 
+millions of Americans.
+  The NEA is the Nation's largest annual funder of the arts, bringing 
+great art--both new and established--to all 50 States, including rural 
+communities, inner-city neighborhoods, schools, and military bases.
+  Support for the arts is a critical investment in the economic growth 
+of every community in this country. The nonprofit arts industry 
+generates $134 billion annually in economic activity, supports 4.85 
+million jobs, and returns $10.5 billion to the Federal government in 
+income taxes.
+  Minnesota's 4th Congressional District alone is home to over 1,200 
+arts-related businesses that employ nearly 9,000 people. These 
+businesses range from theaters, arts schools, museums, architecture 
+firms, and advertising agencies. In addition, unnumbered individual and 
+freelance artists call my district their home. I am proud to represent 
+these artists and their families.
+  I appreciate how the arts deeply enrich Minnesota. The educational, 
+cultural, and economic impact of the arts is very measurable. Not only 
+do 95% of Minnesotans believe that the arts are an important or 
+essential part of the education of Minnesota children, but 67% of 
+Minnesotans have attended an arts activity themselves within the past 
+year. In addition, the arts in Minnesota have over a $1 billion 
+economic impact annually.
+  Arts education has also been proven to help students increase 
+cognitive development, inspire creativity, and enhance problem-solving 
+skills. At a time when students are expected to take more high stakes 
+tests, we must support the activities, such as the arts, that encourage 
+their success.
+  It is with a commitment to the economic, social, and cultural well-
+being of my district, and of the Nation, that I rise today in support 
+of the National Endowment for the Arts.
+
+                          ____________________
+```

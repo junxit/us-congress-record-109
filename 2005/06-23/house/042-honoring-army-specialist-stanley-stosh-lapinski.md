@@ -1,0 +1,42 @@
+---
+granule: CREC-2005-06-23-pt1-PgH5074
+date: 2005-06-23
+edition: CREC
+section: HOUSE
+page: H5074
+citation: 151 Cong. Rec. H5074
+---
+
+# HONORING ARMY SPECIALIST STANLEY "STOSH" LAPINSKI
+
+**Speaking:** Brown-Waite, Ginny (B001247) [R-FL]
+
+```
+          HONORING ARMY SPECIALIST STANLEY ``STOSH'' LAPINSKI
+
+  (Ms. GINNY BROWN-WAITE of Florida asked and was given permission to 
+address the House for 1 minute and to revise and extend her remarks.)
+  Ms. GINNY BROWN-WAITE of Florida. Mr. Speaker, it is with a heavy 
+heart that I rise today to express condolences of a grateful Nation.
+  I rise to honor the life of Army Specialist Stanley, also known as 
+Stosh, Lapinski. Specialist Lapinski was a recent victim of a terrorist 
+roadside bomb.
+  During his last conversation before he was killed, Sergeant Lapinski 
+told his parents not to worry about him and he would be fine.
+  While Stosh did not make it home from Iraq, I am honored to join the 
+Lapinski family for his burial at Arlington National Cemetery next 
+week.
+  A grateful Nation has brought him home to the honors and accolades he 
+well deserves.
+  Nothing I could say today would heal the wounds of the Lapinski 
+family. After speaking to them, however, I can tell you that they want 
+their son's sacrifice to be remembered for the good and honorable 
+actions he was doing in Iraq.
+  His service showed the true American spirit. While the Lapinskis lost 
+their son, they know that he died preserving and fighting for 
+democracy.
+  Mr. Speaker, I ask all Americans to join me in honoring a true 
+American hero.
+
+                          ____________________
+```

@@ -1,0 +1,41 @@
+---
+granule: CREC-2005-06-23-pt1-PgH4990-5
+date: 2005-06-23
+edition: CREC
+section: HOUSE
+page: H4990
+citation: 151 Cong. Rec. H4990
+---
+
+# CELEBRATING ANNIVERSARY OF TITLE IX
+
+**Speaking:** Capps, Lois (C001036) [D-CA]
+
+```
+                  CELEBRATING ANNIVERSARY OF TITLE IX
+
+  (Mrs. CAPPS asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Mrs. CAPPS. Mr. Speaker, I rise to celebrate the 33rd anniversary of 
+Title IX and pay tribute to the significant advancements made for 
+women's educational and athletic opportunities. Not coincidentally, 
+this year is also the 33rd anniversary of the UC Santa Barbara Lady 
+Gauchos basketball team, this year's Big West Conference champions.
+  I hold a basketball signed by the team members of the 1997 team who 
+participated in the NCAA tournament here in Washington, DC. Any woman 
+who has played for this team can attest to the numerous benefits 
+afforded to them by receiving the same opportunity as men to 
+participate in college athletics.
+
+                              {time}  1030
+
+  There is a clear interest for women to play sports, and schools must 
+respond.
+  To anyone who disagrees, I would like you to know that the UCSB 
+women's basketball team sells more season tickets than the men's team.
+  So I am appalled that the Bush administration is trying to weaken the 
+enforcement of Title IX in our Nation's colleges and universities.
+  On this anniversary of Title IX, we must stand up and protect it.
+
+                          ____________________
+```

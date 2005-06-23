@@ -1,0 +1,39 @@
+---
+granule: CREC-2005-06-23-pt1-PgH4990-3
+date: 2005-06-23
+edition: CREC
+section: HOUSE
+page: H4990
+citation: 151 Cong. Rec. H4990
+---
+
+# TITLE IX AND SOCIAL SECURITY
+
+**Speaking:** Jackson Lee, Sheila (J000032) [D-TX]
+
+```
+                      TITLE IX AND SOCIAL SECURITY
+
+  (Ms. JACKSON-LEE of Texas asked and was given permission to address 
+the House for 1 minute and to revise and extend her remarks.)
+  Ms. JACKSON-LEE of Texas. Mr. Speaker, this morning I rise to speak 
+about two wrong-headed policies.
+  First of all, let me honor and celebrate Title IX: remember the U.S. 
+soccer team, women's soccer team, the WMBA; and then of course the 
+assault on Title IX to allow the schools to send an e-mail to determine 
+whether students, young women want to participate in sports. Do the 
+Members know what that means? No women's sports. I stand here today to 
+support a full funding of Title IX. Get rid of the loophole.
+  And then, Mr. Speaker, I want to say to my friends who think that we 
+are going to accept the smoke and mirrors on the new Social Security 
+plan, let us let me tell them that it is the same old plan. It 
+privatizes Social Security, raids the trust fund, and weakens Social 
+Security because what it does is it takes money from the trust fund and 
+puts it in private accounts. Democrats stand for a solvent Social 
+Security. Social Security is not a policy issue. It is a personal 
+issue. It is an umbrella. It is the wind beneath the wings of those who 
+work every day. Do not buy the smoke and mirrors of Social Security and 
+support Title IX with no changes.
+
+                          ____________________
+```

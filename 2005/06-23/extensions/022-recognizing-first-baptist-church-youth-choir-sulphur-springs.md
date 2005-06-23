@@ -1,0 +1,64 @@
+---
+granule: CREC-2005-06-23-pt1-PgE1323-3
+date: 2005-06-23
+edition: CREC
+section: EXTENSIONS
+page: E1323
+citation: 151 Cong. Rec. E1323
+---
+
+# RECOGNIZING FIRST BAPTIST CHURCH YOUTH CHOIR--SULPHUR SPRINGS, TX
+
+**Speaking:** Hall, Ralph M. (H000067) [R-TX]
+
+```
+   RECOGNIZING FIRST BAPTIST CHURCH YOUTH CHOIR--SULPHUR SPRINGS, TX
+
+                                 ______
+                                 
+
+                           HON. RALPH M. HALL
+
+                                of texas
+
+                    in the house of representatives
+
+                        Wednesday, June 22, 2005
+
+  Mr. HALL. Mr. Speaker, today I am honored to pay tribute to the First 
+Baptist Church Youth Choir in Sulphur Springs, Texas. The choir is made 
+up of 84 high school students. They have traveled to New York City, San 
+Diego, San Francisco, Washington DC, Canada, the Bahamas, Disney World, 
+Puerto Rico, Hawaii, Mexico, and this year will be traveling to 
+Ireland. On these trips, the choir performs concerts in areas approved 
+by the city, usually outdoors where anyone who is walking by can stop 
+and listen. While the students are performing, the adult sponsors talk 
+to those who are listening and distribute free Bibles to anyone who 
+asks for one. These high school students have been able to reach the 
+hearts of thousands of people in a variety of places.
+  The youth choir began in 1981 under the leadership of the Minister of 
+Music of First Baptist Church, Fred Randles, and his wife, Jane. The 
+students meet every Sunday evening for rehearsal. Throughout the year, 
+they perform at church services and at Holiday in the Park at Six Flags 
+over Texas to help them prepare for their summer trip. During the 
+spring, they begin to learn choreography for the songs they sing.
+  The choir has received certificates of appreciation from four 
+different Presidents, the U.S. Congress, and Disney World Entertainment 
+Industry. They have also been recognized by the Governor of Cozumel, 
+Mexico, and the Bahamas tourist board, and they have had appearances on 
+Good Morning America and The Early Show on CBS.
+  In addition to performing, the students also participate in a number 
+of ministry activities. In Hawaii, for example, they conducted Vacation 
+Bible School and Sports Camp, worked with people who needed help around 
+their house, helped at homeless missions, and shared the gospel with 
+people who live on the beach.
+  The First Baptist Church Youth Choir of Sulphur Springs, TX has not 
+only been blessed by the opportunities they have had, but also by the 
+people whom they have met and associated with in their travels, and in 
+turn the choir has been a blessing to their church and to multitudes of 
+people around the world. As they travel to Ireland in July, I ask my 
+colleagues to join me in recognizing these outstanding young people and 
+commending them for the great work they are doing.
+
+                          ____________________
+```

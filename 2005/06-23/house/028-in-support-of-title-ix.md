@@ -1,0 +1,41 @@
+---
+granule: CREC-2005-06-23-pt1-PgH4991-3
+date: 2005-06-23
+edition: CREC
+section: HOUSE
+page: H4991
+citation: 151 Cong. Rec. H4991
+---
+
+# IN SUPPORT OF TITLE IX
+
+**Speaking:** Bordallo, Madeleine Z. (B001245) [D-GU]
+
+```
+                         IN SUPPORT OF TITLE IX
+
+  (Ms. BORDALLO asked and was given permission to address the House for 
+1 minute.)
+  Ms. BORDALLO. Mr. Speaker, I rise today in strong support of the 
+Title IX program which created equality, equality for young men and 
+women in our Nation's schools.
+  As Title IX celebrates its 33rd anniversary today, I am concerned 
+with recent attempts to undermine the program that will reverse the 
+progress Title IX has made in enabling young women to participate in 
+sports.
+  The Department of Education recently issued its ``Additional 
+Clarification of Intercollegiate Athletics Policy: Three-Part Test, 
+Part Three'' which changes the way schools determine female interest in 
+athletics by making an e-mail survey the sole interest indicator.
+  This new policy harms the Title IX program because it prevents 
+schools from using a multi-method approach to assess female sports 
+programs. By deciding to base the future of women's athletic programs 
+on e-mail surveys, the Department of Education is denying women the 
+same opportunities as men to participate in sports.
+  Mr. Speaker, I urge my colleagues to continue to support equal rights 
+for men and women in every arena of public life, including sports. I 
+strongly urge the Department of Education to rescind its policy. Title 
+IX opened the doors for women; let us not close them now.
+
+                          ____________________
+```
