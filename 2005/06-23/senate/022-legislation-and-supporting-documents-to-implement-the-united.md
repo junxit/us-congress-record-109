@@ -1,0 +1,57 @@
+---
+granule: CRECB-2005-pt10-Pg14057-2
+date: 2005-06-23
+edition: CRECB
+section: SENATE
+page: 14057
+---
+
+# LEGISLATION AND SUPPORTING DOCUMENTS TO IMPLEMENT THE UNITED STATES- DOMINICAN REPUBLIC-CENTRAL AMERICAN FREE TRADE AGREEMENT--PM 14
+
+```
+  LEGISLATION AND SUPPORTING DOCUMENTS TO IMPLEMENT THE UNITED STATES-
+    DOMINICAN REPUBLIC-CENTRAL AMERICAN FREE TRADE AGREEMENT--PM 14
+
+  The PRESIDING OFFICER laid before the Senate the following message 
+from the President of the United States, together with an accompanying 
+report; which was referred to the Committee on Finance:
+
+To the Congress of the United States:
+  I am pleased to transmit legislation and supporting documents to 
+implement the Dominican Republic-Central America-United States Free 
+Trade Agreement (the ``Agreement''). The Agreement represents an 
+historic development in our relations with Central America and the 
+Dominican Republic and reflects the commitment of the United States to 
+supporting democracy, regional integration, and economic growth and 
+opportunity in a region that has transitioned to peaceful, democratic 
+societies.
+  In negotiating this Agreement, my Administration was guided by the 
+objectives set out in the Trade Act of 2002. Central America and the 
+Dominican Republic constitute our second largest export market in Latin 
+America and our tenth largest export market in the world. The Agreement 
+will create significant new opportunities for American workers, 
+farmers, ranchers, and businesses by opening new markets and 
+eliminating barriers. United States agricultural exports will obtain 
+better access to the millions of consumers in Central America and the 
+Dominican Republic.
+  Under the Agreement, tariffs on approximately 80 percent of U.S. 
+exports will be eliminated immediately. The Agreement will help to 
+level the playing field because about 80 percent of Central America's 
+imports already enjoy duty-free access to our market. By providing for 
+the effective enforcement of labor and environmental laws, combined 
+with strong remedies for noncompliance, the Agreement will contribute 
+to improved worker rights and high levels of environmental protection 
+in Central America and the Dominican Republic.
+  By supporting this Agreement, the United States can stand with those 
+in the region who stand for democracy and freedom, who are fighting 
+corruption and crime, and who support the rule of law. A stable, 
+democratic, and growing Central America and Dominican Republic 
+strengthens the United States economically and provides greater 
+security for our citizens.
+  The Agreement is in our national interest, and I urge the Congress to 
+approve it expeditiously.
+                                                      George W. Bush.  
+The White House, June 23, 2005.
+
+                          ____________________
+```
