@@ -1,0 +1,31 @@
+---
+granule: CREC-2005-06-28-pt1-PgH5258-3
+date: 2005-06-28
+edition: CREC
+section: HOUSE
+page: H5258
+citation: 151 Cong. Rec. H5258
+---
+
+# MESSAGE FROM THE SENATE
+
+**Measures:** S. 260, S. 1316
+
+```
+                        MESSAGE FROM THE SENATE
+
+  A message from the Senate by Mr. Monahan, one of its clerks, 
+announced that the Senate has passed bills of the following titles in 
+which the concurrence of the House is requested.
+
+       S. 260. An act to authorize the Secretary of the Interior 
+     to provide technical and financial assistance to private 
+     landowners to restore, enhance, and manage private land to 
+     improve fish and wildlife habitats through the Partners for 
+     Fish and Wildlife Program.
+       S. 1316. An act to authorize the Small Business 
+     Administration to provide emergency relief to shellfish 
+     growers affected by toxic red tide losses.
+
+                          ____________________
+```
