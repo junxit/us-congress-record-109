@@ -1,0 +1,23 @@
+---
+granule: CREC-2005-06-29-pt2-PgH5480
+date: 2005-06-29
+edition: CREC
+section: HOUSE
+page: H5480
+citation: 151 Cong. Rec. H5480
+---
+
+# DELETIONS OF SPONSORS FROM PUBLIC BILLS AND RESOLUTIONS
+
+**Measures:** H.R. 1449
+
+```
+        DELETIONS OF SPONSORS FROM PUBLIC BILLS AND RESOLUTIONS
+
+  Under clause 7 of rule XII, sponsors were deleted from public bills 
+and resolutions as follows:
+
+       H.R. 1449: Ms. Jackson-Lee of Texas.
+
+                          ____________________
+```
