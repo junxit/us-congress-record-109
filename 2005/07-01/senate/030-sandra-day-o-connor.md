@@ -1,0 +1,60 @@
+---
+granule: CREC-2005-07-01-pt1-PgS7902-3
+date: 2005-07-01
+edition: CREC
+section: SENATE
+page: S7902
+citation: 151 Cong. Rec. S7902
+---
+
+# SANDRA DAY O'CONNOR
+
+**Speaking:** Landrieu, Mary L. (L000550) [D-LA]
+
+```
+                          SANDRA DAY O'CONNOR
+
+  Ms. LANDRIEU. Mr. President, from the day she became the first woman 
+to sit on the U.S. Supreme Court, Sandra Day O'Connor has been an 
+inspiration for millions of Americans, particularly for women and 
+girls. I know this is true because she inspired me.
+
+[[Page S7903]]
+
+  I was a young woman in my twenties serving in the Louisiana State 
+Legislature when Justice O'Connor was appointed to the Supreme Court, 
+and I remember that day very clearly. I always knew I wanted to serve 
+the people of my country, and on that day I realized that there was no 
+limit to what one woman could do.
+  And today, 24 years later, I am a woman standing on the floor of the 
+U.S. Senate while the number of women in the Louisiana State 
+Legislature has grown from 2 to 24. We all owe a great debt to 
+pioneering women like Sandra Day O'Connor who broke the judicial glass 
+ceiling and paved the way for me and for millions of other women.
+  But O'Connor's legacy is not limited to the barriers she broke. 
+Throughout her 24 years of service, Justice O'Connor has proven herself 
+to be one of our Nation's leading legal scholars, consistently putting 
+the rule of law ahead of politics. She has been a champion of the law, 
+a champion for our rights, and a champion for our country.
+  Finding an appropriate successor to such a dedicated jurist is a 
+heavy task indeed.
+  To protect the rights and liberties of all Americans, there is 
+perhaps no more important decision a President makes than nominating a 
+Justice to the Supreme Court. I strongly urge President Bush to rise 
+above the partisan politics that have gripped recent judicial 
+confirmations and to reach out to both Republican and Democratic 
+Senators as he selects a nominee to succeed Justice O'Connor.
+  It is the Senate's constitutional duty to provide advice and consent. 
+To provide real advice and to grant real consent, every single Senator 
+must weigh the nomination carefully and consciously.
+  Senators from both sides of the aisle must come together to ensure 
+that the next member of the Supreme Court will uphold the rights of the 
+American people and base his or her decisions on the law and the 
+Constitution--not on political ideology.
+  I hope President Bush will join us in this partnership and allow us 
+to provide real advice at this historic time.
+  Working together, I am confident that we can find a suitable Justice 
+who will follow the great precedent of Sandra Day O'Connor.
+
+                          ____________________
+```

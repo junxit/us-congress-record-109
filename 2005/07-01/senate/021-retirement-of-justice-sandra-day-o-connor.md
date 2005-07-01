@@ -1,0 +1,107 @@
+---
+granule: CREC-2005-07-01-pt1-PgS7894
+date: 2005-07-01
+edition: CREC
+section: SENATE
+page: S7894
+citation: 151 Cong. Rec. S7894
+---
+
+# RETIREMENT OF JUSTICE SANDRA DAY O'CONNOR
+
+**Speaking:** McCain, John (M000303) [R-AZ]
+
+```
+               RETIREMENT OF JUSTICE SANDRA DAY O'CONNOR
+
+  Mr. McCAIN. Mr. President, today we have learned that one of our 
+Nation's finest jurists will step down from our highest court. Despite 
+her departure from the Supreme Court, Justice Sandra Day O'Connor will 
+leave a lasting mark on American jurisprudence characterized by 
+fairness, balance, and integrity.
+  Justice O'Connor's career and service to our Nation have been truly 
+remarkable. This country will miss her presence on the Supreme Court 
+dearly.
+  Some have said that no other individual in our Nation's history has 
+come to the Supreme Court under greater expectations. Not only did 
+Justice O'Connor meet these expectations, she far exceeded them. When 
+President Reagan nominated and the Senate unanimously confirmed Justice 
+O'Connnor in 1981, she became the first woman to sit on the Supreme 
+Court and, over time, she grew to be one of the crucial swing votes on 
+the court--her decisions driven both by her conservative sensibilities 
+and also by her practical nature.
+  Justice O'Connor grew up on the Lazy-B Cattle Ranch in southeastern 
+Arizona. She learned to drive at age 7 and could fire rifles and ride 
+horses by the time she turned 8. Perhaps it was her Arizona roots that 
+fueled both her pragmatism and her desire to succeed.
+  Mr. President, after high school, Justice O'Connor attended Stanford 
+University where she majored in economics and graduated with high 
+honors. A legal dispute over her family's ranch, however, inspired her 
+interest in law and her decision to enroll at Stanford Law School. 
+Justice O'Connor completed law school in only two years, but she still 
+managed to serve on the Stanford Law Review and receive highest honors. 
+O'Connor graduated third out of a class of 102. First in the class was 
+fellow Arizonan William H. Rehnquist. I suggest that maybe we should 
+turn to Arizona once again for a Supreme Court nominee, considering the 
+track records of Justices O'Connor and Rehnquist.
+  In law school, Justice O'Connor also met her future husband, John Jay 
+O'Connor, a fine man and husband.
+  Mr. President, Justice O'Connor faced a difficult job market after 
+leaving Stanford. No law firm in California wanted to hire her and only 
+one offered her a position as a legal secretary. Later, in Arizona, she 
+again found it difficult to obtain a position with any law firm, so she 
+started her own firm. It is truly remarkable to realize just how far 
+Justice O'Connor has risen during her life despite the adversity she 
+has faced.
+  After she gave birth to her second son, Justice O'Connor withdrew 
+from her professional life to care for her children. Nevertheless, she 
+became involved in many volunteer activities during this time. She also 
+began an involvement with the Arizona Republican Party. After five 
+years as a full-time mother, Justice O'Connor returned to work as an 
+assistant State Attorney General in Arizona. Arizona Governor Jack 
+Williams later appointed her to occupy a vacant seat in the Arizona 
+Senate. O'Connor successfully defended her Senate position for two more 
+terms and eventually became the majority leader. By rising to the 
+position of majority leader, Justice O'Connor achieved another first 
+for American women.
+
+  In 1974, Justice O'Connor ran and won a judgeship on the Maricopa 
+County Superior Court, which resulted in her service in all three 
+branches of Arizona government. A year later, she was nominated to 
+serve on to the Arizona Court of Appeals. Almost two years after that, 
+President Reagan nominated her to the Supreme Court to replace the 
+retiring Justice Potter Stewart. The Senate rightly confirmed 
+O'Connor's nomination unanimously and the Court soon abandoned its use 
+of ``Mr. Justice'' as the form of address. Justice O'Connor herself 
+described the significance of her nomination in the following way. She 
+said, ``A woman had never held a position at that level of our 
+government. And it was a signal that it was all right that women could 
+be in such positions. That they could do well in such positions.''
+  Mr. President, Justice O'Connor brought to her position on the 
+Supreme Court her remarkable life history characterized by 
+independence, perseverance, and achievement. Early in her tenure on the 
+Court, observers identified her as part of the Court's conservative 
+faction. The public often associated her with Justice Rehnquist because 
+of their shared roots and values. Over time, though, Justice O'Connor 
+combined her conservative sensibilities with a desire to find pragmatic 
+solutions based on sound legal interpretation. She approached each case 
+thoughtfully.
+  It will be difficult to fill the void that Justice O'Connor's 
+resignation has created, nor can anyone assume a similar place in 
+American history. There can be only one first, and Sandra Day O'Connor 
+was it.
+  Mr. President, very rarely do I presume to speak on behalf of all of 
+the citizens of my State of Arizona. But I know, with confidence, that 
+I do so now when from the bottom of our hearts we thank Justice 
+O'Connor for her magnificent service to her State and to her Nation. 
+She and her magnificent husband John will be in our thoughts and 
+prayers as they enter the struggle ahead. We are confident that with 
+her traditional courage, she will face this new challenge and emerge 
+victorious. We thank her for her service. We thank her for her family. 
+We are, most of all, confident that Americans and Arizonans will 
+remember her with great pride.
+  I yield the floor.
+  The PRESIDING OFFICER. The Senator from Massachusetts is recognized.
+
+                          ____________________
+```
