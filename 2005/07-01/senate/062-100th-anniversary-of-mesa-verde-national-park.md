@@ -1,0 +1,62 @@
+---
+granule: CRECB-2005-pt11-Pg15317-3
+date: 2005-07-01
+edition: CRECB
+section: SENATE
+page: 15317
+---
+
+# 100TH ANNIVERSARY OF MESA VERDE NATIONAL PARK
+
+```
+             100TH ANNIVERSARY OF MESA VERDE NATIONAL PARK
+
+  The resolution (S. Res. 190) was agreed to.
+  The preamble was agreed to.
+  The resolution, with its preamble, reads as follows:
+
+                              S. Res. 190
+
+       Whereas Mesa Verde National Park was created 100 years ago 
+     by an Act of Congress and signed into law by President 
+     Theodore Roosevelt on June 29, 1906, as the first National 
+     Park set aside to preserve the works of humankind;
+       Whereas the more than 5,000 archeological sites, including 
+     over 600 cliff dwellings, protected within the 52,000-acre 
+     boundary of Mesa Verde National Park represent some of the 
+     most spectacular and best-preserved prehistoric architecture 
+     in the world;
+       Whereas in 1928, Congress declared the natural resources of 
+     Mesa Verde National Park to be of such caliber as to be 
+     worthy of the same level of protection as the cultural 
+     resources therein;
+       Whereas 8,500 acres within Mesa Verde National Park were 
+     designated as wilderness by Congress on October 20, 1976;
+       Whereas on September 8, 1978, the United Nations 
+     Educational, Scientific, and Cultural Organization 
+     (``UNESCO'') declared Mesa Verde National Park to be 1 of 8 
+     original World Cultural Heritage Sites;
+       Whereas Mesa Verde National Park is part of our American 
+     heritage that is universally recognized and shared with the 
+     world;
+       Whereas Mesa Verde National Park is the primary driving 
+     force behind the economy of southwestern Colorado and the 
+     Four Corners Region;
+       Whereas the communities of Cortez, Dolores, Mancos, and 
+     Durango, Colorado, have come together to plan a year-long 
+     celebration worthy of this magnificent icon of the National 
+     Park System; and
+       Whereas 24 American Indian tribes recognize Mesa Verde as 
+     their ancestral home and contribute a rich cultural heritage 
+     to the experience of visitors to the region: Now, therefore, 
+     be it
+       Resolved, That the Senate--
+       (1) recognizes the 100th anniversary of Mesa Verde National 
+     Park; and
+       (2) urges all citizens of the United States to join in the 
+     Centennial Celebration of Mesa Verde National Park by 
+     participating in the many activities planned throughout the 
+     year in 2006.
+
+                          ____________________
+```

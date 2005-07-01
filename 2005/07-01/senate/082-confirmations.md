@@ -1,0 +1,31 @@
+---
+granule: CRECB-2005-pt11-Pg15336-5
+date: 2005-07-01
+edition: CRECB
+section: SENATE
+page: 15336
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate, Friday, July 1, 2005:
+
+
+                       DEPARTMENT OF AGRICULTURE
+
+       RICHARD A. RAYMOND, OF NEBRASKA, TO BE UNDER SECRETARY OF 
+     AGRICULTURE FOR FOOD SAFETY.
+
+
+                         DEPARTMENT OF JUSTICE
+
+       JAMES B. LETTEN, OF LOUISIANA, TO BE UNITED STATES ATTORNEY 
+     FOR THE EASTERN DISTRICT OF LOUISIANA FOR THE TERM OF FOUR 
+     YEARS.
+       ROD J. ROSENSTEIN, OF MARYLAND, TO BE UNITED STATES 
+     ATTORNEY FOR THE DISTRICT OF MARYLAND FOR THE TERM OF FOUR 
+     YEARS.
+```
