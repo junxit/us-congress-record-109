@@ -1,0 +1,26 @@
+---
+granule: CRECB-2005-pt11-Pg15373-2
+date: 2005-07-11
+edition: CRECB
+section: HOUSE
+page: 15373
+---
+
+# PERSONAL EXPLANATION
+
+```
+                          PERSONAL EXPLANATION
+
+  Ms. KILPATRICK of Michigan. Madam Speaker, personal business prevents 
+me from being present for legislative business scheduled for today, 
+Monday, July 11, 2005. Had I been present, I would have voted ``yea'' 
+on H. Con. Res. 168, a resolution condemning the Democratic People's 
+Republic of Korea for the abductions and continued captivity of 
+citizens of the Republic of Korea and Japan as acts of terrorism and 
+gross violations of human rights (rollcall No. 363); and ``yea'' on H. 
+Res. 333, a resolution supporting the goals and ideals of a ``National 
+Weekend of Prayer and Reflection for Darfur, Sudan'' (rollcall No. 
+364).
+
+                          ____________________
+```
