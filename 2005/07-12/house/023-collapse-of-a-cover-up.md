@@ -1,0 +1,40 @@
+---
+granule: CREC-2005-07-12-pt1-PgH5643-4
+date: 2005-07-12
+edition: CREC
+section: HOUSE
+page: H5643
+citation: 151 Cong. Rec. H5643
+---
+
+# COLLAPSE OF A COVER-UP
+
+**Speaking:** Inslee, Jay (I000026) [D-WA]
+
+```
+                         COLLAPSE OF A COVER-UP
+
+  (Mr. INSLEE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. INSLEE. Mr. Speaker, in the last 48 hours we have witnessed the 
+sad collapse of a cover-up. On September 29, 2003, Press Secretary 
+Scott McClellan said that he had spoken with the deputy chief of staff 
+of the White House and it was simply not true that he had anything to 
+do with the disclosure of the identity of a CIA agent. He characterized 
+it as ``totally ridiculous.'' And again on October 10, 2003, he said 
+the White House had nothing to do with this terrible disclosure.
+  The President was then asked on June 10, 2004, whether he would stand 
+by the promise to the American people to fire someone responsible for 
+this disclosure, and he answered with a simple ``yes.''
+  The American people do not want sensitivity training after this sad 
+disclosure of a CIA agent. They need full accountability. The jig is 
+up. The deputy chief of staff needs to come in front of Congress and 
+answer questions about this. And this is not just a matter of a simple 
+violation of Federal law. It is a sad violation of democracy to try to 
+punish a truth-teller, Joe Wilson, who blew the whistle on the ``yellow 
+cake'' false statement made by the President. We know that that is 
+wrong because Mr. McClellan said this is not the way the White House 
+operates. We beg to differ.
+
+                          ____________________
+```
