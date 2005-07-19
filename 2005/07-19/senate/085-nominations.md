@@ -1,0 +1,59 @@
+---
+granule: CREC-2005-07-19-pt1-PgS8501-5
+date: 2005-07-19
+edition: CREC
+section: SENATE
+page: S8501
+citation: 151 Cong. Rec. S8501
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate July 19, 2005:
+
+
+                              In the Army
+
+       THE FOLLOWING NAMED OFFICERS FOR APPOINTMENT IN THE UNITED 
+     STATES ARMY TO THE GRADE INDICATED UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                        To be brigadier general
+
+COL. MALINDA E. DUNN, 0000
+COL. CLYDE J. TATE III, 0000
+COL. MARC L. WARREN, 0000
+
+
+                            In the Air Force
+
+       THE FOLLOWING NAMED INDIVIDUALS FOR REGULAR APPOINTMENT IN 
+     THE GRADES INDICATED IN THE UNITED STATES AIR FORCE UNDER 
+     TITLE 10, U.S.C., SECTION 531.
+
+                        To be lieutenant colonel
+
+DAVID J. LUTHER, 0000
+KATE E. MATTHEWS, 0000
+
+                              To be major
+
+ERIC C. BURDGE, 0000
+MARCIA R. CANNONIER, 0000
+CARLOS A. DIAZLABOY, 0000
+MATTHEW I. GOLDBLATT, 0000
+ERIC F. HOLT, 0000
+MARTIN E. JORDAN, 0000
+KENN K. KANESHIRO, 0000
+ROBERT J. KOWALSKI, JR., 0000
+WILLIAM K. LIN, 0000
+CECELIA E. SCHMALBACH, 0000
+BRETT M. SCOTCH, 0000
+GUY M. SHOAF, 0000
+JAMES R. STRADER, JR., 0000
+YUANHONG WANG, 0000
+MERIDITH A. WARNER, 0000
+```
