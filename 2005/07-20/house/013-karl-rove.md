@@ -1,0 +1,48 @@
+---
+granule: CREC-2005-07-20-pt1-PgH6110-5
+date: 2005-07-20
+edition: CREC
+section: HOUSE
+page: H6110
+citation: 151 Cong. Rec. H6110
+---
+
+# KARL ROVE
+
+**Speaking:** Sanchez, Linda T. (S001156) [D-CA]
+
+```
+                               KARL ROVE
+
+  (Ms. LINDA T. SANCHEZ of California asked and was given permission to 
+address the House for 1 minute.)
+  Ms. LINDA T. SANCHEZ of California. Mr. Speaker, I rise today because 
+I just cannot help feeling remorse for what has happened to the truth 
+in America.
+  For more than a week, the American people have known that Karl Rove 
+was involved in the leaking of a covert CIA agent's name to the press. 
+He damaged our national security and put an agent at risk. This is not 
+the work of a patriot.
+  Of course, Rove did not admit to his treachery. Instead, the story 
+has come out through reporters who are getting their information from 
+Karl Rove's attorney.
+  Republicans, from the President on down, continue to say that they 
+will not comment until they know all the facts. Here is an idea: 
+President Bush should demand that Karl Rove come clean and tell the 
+American people everything.
+
+[[Page H6111]]
+
+  While Rove continues to hide behind his attorney, a grand jury is 
+investigating the matter. For some strange reason, Republicans claim 
+that Rove has been vindicated. Something tells me that if Rove really 
+believed he was innocent of wrongdoing, we would have already heard 
+from him by now.
+
+                              {time}  1015
+
+  The silence from both Rove and the White House is deafening, while 
+the truth continues to be obscured for political gain.
+
+                          ____________________
+```

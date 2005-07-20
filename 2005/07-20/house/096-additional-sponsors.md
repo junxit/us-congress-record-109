@@ -1,0 +1,213 @@
+---
+granule: CREC-2005-07-20-pt1-PgH6205-2
+date: 2005-07-20
+edition: CREC
+section: HOUSE
+page: H6205
+citation: 151 Cong. Rec. H6205
+---
+
+# ADDITIONAL SPONSORS
+
+**Measures:** H.R. 17, H.Res. 17, H.Res. 37, H.R. 95, H.R. 97, H.Con.Res. 137, H.Res. 137, H.Con.Res. 138, H.Res. 166, H.Con.Res. 179, H.Con.Res. 181, H.Con.Res. 187, H.Con.Res. 194, H.Con.Res. 202, H.Con.Res. 206, H.Con.Res. 210, H.Res. 220, H.R. 282, H.R. 297, H.R. 309, H.Res. 329, H.R. 341, H.Res. 366, H.R. 371, H.R. 379, H.R. 442, H.R. 552, H.R. 557, H.R. 613, H.R. 635, H.R. 662, H.R. 783, H.R. 819, H.R. 856, H.R. 867, H.R. 872, H.R. 896, H.R. 898, H.R. 925, H.R. 930, H.R. 934, H.R. 949, H.R. 998, H.R. 1039, H.R. 1124, H.R. 1141, H.R. 1167, H.R. 1182, H.R. 1202, H.R. 1204, H.R. 1241, H.R. 1246, H.R. 1259, H.R. 1307, H.R. 1366, H.R. 1405, H.R. 1431, H.R. 1443, H.R. 1498, H.R. 1505, H.R. 1526, H.R. 1548, H.R. 1602, H.R. 1648, H.R. 1652, H.R. 1668, H.R. 1696, H.R. 1714, H.R. 1729, H.R. 1736, H.R. 1772, H.R. 1791, H.R. 1823, H.R. 1849, H.R. 1898, H.R. 1977, H.R. 2121, H.R. 2177, H.R. 2181, H.R. 2193, H.R. 2209, H.R. 2238, H.R. 2356, H.R. 2363, H.R. 2412, H.R. 2456, H.R. 2498, H.R. 2526, H.R. 2533, H.R. 2560, H.R. 2669, H.R. 2717, H.R. 2727, H.R. 2780, H.R. 2793, H.R. 2794, H.R. 2803, H.R. 2828, H.R. 2842, H.R. 2874, H.R. 2952, H.R. 2963, H.R. 2964, H.R. 2981, H.R. 3050, H.R. 3061, H.R. 3098, H.R. 3108, H.R. 3111, H.R. 3127, H.R. 3132, H.R. 3135, H.R. 3142, H.R. 3160, H.R. 3165, H.R. 3167, H.R. 3184, H.R. 3187, H.R. 3194, H.R. 3200, H.R. 3251, H.R. 3252, H.R. 3268
+
+```
+                          ADDITIONAL SPONSORS
+
+  Under clause 7 of rule XII, sponsors were added to public bills and 
+resolutions as follows:
+
+       H.R. 17: Mr. Smith of Texas.
+       H.R. 95: Mr. Ramstad and Mrs. Myrick.
+       H.R. 97: Mr. Al Green of Texas and Ms. Kaptur.
+       H.R. 282: Mr. Pomeroy.
+       H.R. 297: Mr. Larson of Connecticut.
+       H.R. 309: Mr. Cole of Oklahoma.
+       H.R. 341: Mr. Boehlert.
+       H.R. 371: Mr. Kucinich.
+       H.R. 379: Mr. Pastor and Mr. Clay.
+       H.R. 442: Mr. Akin and Mr. Stearns.
+       H.R. 552: Mr. Davis of Kentucky, Mr. Sessions, and Mr. 
+     Peterson of Minnesota.
+       H.R. 557: Mr. Cunningham and Mr. Otter.
+       H.R. 613: Mr. Davis of Illinois.
+       H.R. 635: Mr. LaHood.
+       H.R. 662: Ms. Carson.
+       H.R. 783: Ms. Kilpatrick of Michigan.
+       H.R. 819: Mrs. Biggert.
+       H.R. 856: Mr. Souder, Mr. Porter, and Mr. Ryan of Ohio.
+       H.R. 867: Ms. Kilpatrick of Michigan.
+       H.R. 872: Mr. Kuhl of New York and Mr. Dicks.
+       H.R. 896: Mr. Pomeroy, Ms. Lee, Mr. Blumenauer, and Mr. 
+     Gerlach.
+       H.R. 898: Mrs. Bono and Mr. Reyes.
+       H.R. 925: Mr. Gingrey and Mr. Putnam.
+       H.R. 930: Mrs. Blackburn.
+       H.R. 934: Mr. Simpson.
+       H.R. 949: Ms. Ros-Lehtinen and Mr. Kildee.
+       H.R. 998: Mr. Gutknecht and Mrs. Johnson of Connecticut.
+       H.R. 1039: Mr. Boustany.
+       H.R. 1124: Mr. Ramstad.
+       H.R. 1141: Mr. Norwood, Mr. McNulty, and Ms. Wasserman 
+     Schultz.
+       H.R. 1167: Mr. Akin.
+       H.R. 1182: Mr. Stark.
+       H.R. 1202: Mr. Beauprez.
+       H.R. 1204: Mrs. Kelly and Mr. Carnahan.
+       H.R. 1241: Mr. Bishop of Utah.
+       H.R. 1246: Ms. Schwartz of Pennsylvania.
+       H.R. 1259: Mr. Fattah.
+       H.R. 1307: Mr. Smith of New Jersey, Mr. Holt, Mr. LoBiondo, 
+     and Mr. Pascrell.
+       H.R. 1366: Mr. Lincoln Diaz-Balart of Florida.
+       H.R. 1405: Mr. Peterson of Minnesota, Mr. Engel, and Ms. 
+     Lee.
+       H.R. 1431: Mr. Schwarz of Michigan and Mr. Honda.
+       H.R. 1443: Mr. Frank of Massachusetts, Mr. Reyes, and Mr. 
+     Snyder.
+       H.R. 1498: Mr. Frank of Massachusetts and Mr. Murphy.
+       H.R. 1505: Mr. Simpson.
+       H.R. 1526: Ms. Baldwin, Mrs. Lowey, Mr. Weiner, and Mr. 
+     McDermott.
+       H.R. 1548: Mrs. Capito.
+       H.R. 1602: Miss McMorris and Ms. Harris.
+       H.R. 1648: Mr. Cardin.
+       H.R. 1652: Mrs. Johnson of Connecticut, Ms. Loretta Sanchez 
+     of California, Mr. Delahunt, Mr. Thompson of California, Ms. 
+     Schwartz of Pennsylvania, and Mr. Engel.
+       H.R. 1668: Ms. DeLauro, and Mr. Hinchey.
+       H.R. 1696: Ms. Bean and Mr. Miller of North Carolina.
+       H.R. 1714: Mr. Cantor.
+       H.R. 1729: Mr. English of Pennsylvania.
+       H.R. 1736: Mr. Smith of Texas, Mr. Boehlert, and Ms. Zoe 
+     Lofgren of California.
+       H.R. 1772: Mr. Doolittle.
+       H.R. 1791: Mr. Strickland.
+       H.R. 1823: Mr. Honda.
+       H.R. 1849: Mr. Cardoza.
+       H.R. 1898: Mr. Boucher.
+       H.R. 1977: Mr. McDermott.
+       H.R. 2121: Mr. Fossella, Mr. Herger, Mrs. Johnson of 
+     Connecticut, and Mr. Butterfield.
+       H.R. 2177: Ms. DeGette and Mr. Holden.
+       H.R. 2181: Mr. English of Pennsylvania.
+       H.R. 2193: Mr. McIntyre.
+       H.R. 2209: Mr. Spratt.
+       H.R. 2238: Mr. Boozman.
+       H.R. 2356: Mr. Smith of Washington, Mr. Smith of New 
+     Jersey, Mr. Miller of North Carolina, Mr. Bachus, Mr. 
+     Salazar, Mr. Hinojosa, Mr. Westmoreland, Mr. Schiff, Mrs. 
+     Kelly, Mr. Clyburn, Ms. Schwartz of Pennsylvania, Mr. Jones 
+     of North Carolina, and Mr. Cuellar.
+       H.R. 2363: Mr. Gary G. Miller of California.
+       H.R. 2412: Mr. Schiff.
+       H.R. 2456: Mr. Meeks of New York.
+       H.R. 2498: Mr. Andrews, Mr. Gene Green of Texas, and Mr. 
+     Goode.
+       H.R. 2526: Ms. Schwartz of Pennsylvania.
+       H.R. 2533: Mr. McGovern.
+       H.R. 2560: Mrs. Jones of Ohio.
+       H.R. 2669: Mr. Miller of North Carolina, Mr. George Miller 
+     of California, Mr. Berman, Ms. Schakowsky, Mr. Owens, and Mr. 
+     Rangel.
+       H.R. 2717: Ms. Eshoo, Mr. McNulty, Mr. Rahall, Mr. Reyes, 
+     Mr. McIntyre, and Mr. Inslee.
+       H.R. 2727: Mrs. McCarthy, Mr. Strickland, Mr. King of New 
+     York, and Mr. Inslee.
+       H.R. 2780: Mr. McGovern, Ms. Velazquez, Ms. DeLauro, Ms. 
+     Schakowsky, Mr. Davis of Illinois, Mr. Emanuel, Mr. Crowley, 
+     Mrs. Maloney, and Mr. McNulty.
+       H.R. 2793: Mr. Putnam and Mr. Walsh.
+       H.R. 2794: Mr. Udall of Colorado, Mr. Foley, and Mr. 
+     Calvert.
+       H.R. 2803: Mr. Rogers of Alabama, Mr. McHugh, Mr. Wamp, Mr. 
+     Simmons, and Mr. Kuhl of New York.
+       H.R. 2828: Mr. Frank of Massachusetts.
+       H.R. 2842: Mr. English of Pennsylvania.
+       H.R. 2874: Mrs. Emerson.
+       H.R. 2952: Mr. Schiff, Mr. Berman, Mr. Cuellar, Mr. Waxman, 
+     Ms. Eddie Bernice Johnson of Texas, Ms. Baldwin, Mr. Wu, and 
+     Mr. Costa.
+       H.R. 2963: Mr. Brady of Pennsylvania.
+       H.R. 2964: Mr. Doggett, Mr. Rehberg, and Mr. McIntyre.
+       H.R. 2981: Mr. Renzi.
+       H.R. 3050: Mr. Calvert.
+       H.R. 3061: Mr. English of Pennsylvania.
+       H.R. 3098: Mr. Mica, Mr. Baca, Mr. Chocola, Mr. Feeney, Mr. 
+     Baker, Ms. Ginny Brown-Waite of Florida, Mr. Ross, Mr. 
+     Marshall, Ms. Hooley, Mrs. Tauscher, Ms. Granger, Mr. 
+     Crowley, Mr. Sessions, Mr. Wynn, Mr. Burgess, Mr. Spratt, 
+     Mr. Menendez, Mr. Ney, Mr. Cardin, Mr. English of 
+     Pennsylvania, and Mr. Barton of Texas.
+       H.R. 3108: Ms. Wasserman Schultz and Mr. Kirk.
+       H.R. 3111: Mr. Foley.
+       H.R. 3127: Mr. McCotter, Mr. Blumenauer, Mr. Holden, Mr. 
+     Wexler, Mr. Souder, Mr. Allen, Mr. Gallegly, Mr. Cleaver, Mr. 
+     Case, Mr. Waxman, Mr. Van Hollen, Mr. Honda, Ms. Pelosi, Mr. 
+     Ackerman, Mr. Price of North Carolina, Mr. Shays, Ms. Eddie 
+     Bernice Johnson of Texas, Mr. Leach, Mr. King of New York, 
+     Mr. Green of Wisconsin, Mr. Pence, Mr. Burton of Indiana, Mr. 
+     Berman, and Mr. Udall of Colorado.
+       H.R. 3132: Mr. Boustany, Mr. Terry, Mr. Kuhl of New York, 
+     Ms. Granger, and Mr. Wilson of South Carolina.
+       H.R. 3135: Mr. Obey.
+       H.R. 3142: Mr. Delahunt, Mr. Michaud, and Mr. Frank of 
+     Massachusetts.
+       H.R. 3160: Mr. Udall of Colorado.
+       H.R. 3165: Mr. Engel, Ms. Woolsey, Ms. Eddie Bernice 
+     Johnson of Texas, Mr. Sanders, and Mr. Berman.
+       H.R. 3167: Mr. Miller of Florida and Mr. Kolbe.
+       H.R. 3184: Mr. McCotter, Mr. Pence, Mr. Norwood, Mr. 
+     Chabot, Mr. McCaul of Texas, and Mr. Cardoza.
+       H.R. 3187: Ms. Woolsey, Mr. McHugh, Mr. Brown of Ohio, and 
+     Mr. Allen.
+       H.R. 3194: Mr. Owens, Ms. Wasserman Schultz, Mrs. McCarthy, 
+     Mr. Menendez, Mr. Al Green of Texas, and Mr. Peterson of 
+     Minnesota.
+       H.R. 3200: Mr. Filner, Ms. Herseth, Mr. Gutierrez, Mr. 
+     Strickland, Ms. Corrine Brown of Florida, Mr. Reyes, Ms. 
+     Hooley, and Mr. Buyer.
+       H.R. 3251: Ms. Corrine Brown of Florida.
+       H.R. 3252: Ms. Jackson-Lee of Texas, Mr. Wynn, Mr. Cardoza, 
+     Mr. Scott of Georgia, Ms. Moore of Wisconsin, Ms. Norton, Mr. 
+     Rangel, Mr. Rush, Mr. Lantos, Mr. Thompson of Mississippi, 
+     Mr. Schiff, Mr. Ford, Mr. Butterfield, and Mr. Peterson of 
+     Minnesota.
+       H.R. 3268: Mr. Linder and Mr. Carter.
+       H. Con. Res. 137: Mr. Capuano.
+       H. Con. Res. 138: Mrs. Lowey.
+       H. Con. Res. 179: Mr. Frank of Massachusetts, Mr. 
+     Faleomavaega, Mr. Abercrombie, Mr. Honda, Mr. McDermott, Mr. 
+     Case, Ms. Schwartz of Pennsylvania, Mr. Simmons, Ms. Matsui, 
+     Mr. McNulty, and Mr. Schiff.
+       H. Con. Res. 181: Mr. Simpson, Mr. Wamp, Ms. Wasserman 
+     Schultz, and Mr. Gillmor.
+       H. Con. Res. 187: Mr. Evans, Mr. Kucinich, and Ms. 
+     Schakowsky.
+       H. Con. Res. 194: Mr. McCotter and Mr. Bishop of Georgia.
+       H. Con. Res. 202: Mr. McNulty and Mr. Peterson of 
+     Minnesota.
+
+[[Page H6206]]
+
+       H. Con. Res. 206: Mr. Rangel and Mr. Flake.
+       H. Con. Res. 210: Mr. Doolittle, Ms. DeLauro, Mr. Porter, 
+     Mr. Meehan, Mr. Reyes, Mr. Brown of South Carolina, Mr. Moore 
+     of Kansas, Mr. Rothman, Mr. Miller of Florida, Mr. Wicker, 
+     and Mr. Cunningham.
+       H. Res. 17: Mr. Coble.
+       H. Res. 37: Mr. Kennedy of Minnesota.
+       H. Res. 137: Mr. Rogers of Kentucky.
+       H. Res. 166: Ms. Roybal-Allard.
+       H. Res. 220: Mr. Marchant, Ms. DeGette, Mr. Ramstad, Mrs. 
+     Wilson of New Mexico, Mr. Sullivan, Mr. Alexander, and Mr. 
+     Doyle.
+       H. Res. 329: Mr. Meehan, Mr. Stark, Mr. Owens, and Ms. 
+     Woolsey.
+       H. Res. 366: Mr. Stupak, Mr. Hoekstra, Mr. Ehlers, Mr. 
+     Camp, Mr. Kildee, Mr. Rogers of Michigan, Mr. Knollenberg, 
+     Mrs. Miller of Michigan, Mr. McCotter, Mr. Levin, Ms. 
+     Kilpatrick of Michigan, and Mr. Conyers.
+
+                          ____________________
+```

@@ -1,0 +1,33 @@
+---
+granule: CREC-2005-07-20-pt1-PgH6175-2
+date: 2005-07-20
+edition: CREC
+section: HOUSE
+page: H6175
+citation: 151 Cong. Rec. H6175
+---
+
+# HONORING ADMIRAL JAMES STOCKDALE
+
+**Speaking:** Cunningham, Randy (Duke) (C000994) [R-CA]
+
+```
+                    HONORING ADMIRAL JAMES STOCKDALE
+
+  (Mr. CUNNINGHAM asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. CUNNINGHAM. Mr. Speaker, I support CAFTA but I am here talking 
+about something both sides of the aisle can support. That is to honor 
+Jim Stockdale.
+  Admiral Stockdale is a true American hero. He died on July 5. He was 
+a prisoner of war for 5\1/2\ years. He was so brutally beaten his 
+shoulders were ripped out of their sockets. He was beaten by the 
+Vietnamese so bad, almost senseless, that Jeremiah Denton had to take 
+over his leadership of the camp at the Hanoi Hilton and of all POWs.
+  He was then moved in with our Congressman Sam Johnson just to 
+recover. It took him almost a year to do that. Admiral Stockdale and 
+his wife, Sybil, who support our MIAs and our POWs we honor here in 
+this body.
+
+                          ____________________
+```

@@ -1,0 +1,47 @@
+---
+granule: CREC-2005-07-20-pt1-PgS8548
+date: 2005-07-20
+edition: CREC
+section: SENATE
+page: S8548
+citation: 151 Cong. Rec. S8548
+---
+
+# HONORING OUR ARMED FORCES
+
+**Speaking:** Grassley, Chuck (G000386) [R-IA]
+
+```
+                       HONORING OUR ARMED FORCES
+
+
+              Tribute to Private First Class Eric P. Woods
+
+  Mr. GRASSLEY. Mr. President, I rise today to salute an extraordinary 
+native Iowan who has fallen in service to his country in support of 
+Operation Iraqi Freedom. PFC Eric P. Woods, of the 2nd Squadron, 3rd 
+Armored Cavalry Regiment, died on the 9th day of July, 2005, in Tal 
+Afar, Iraq, due to injuries sustained when an explosive device 
+detonated under his vehicle. Woods, a combat medic was killed en route 
+to aid an injured soldier. My prayers go out to his wife Jamie, his 3-
+year-old son Eric Scott, his parents Charles and Janis Woods, and his 
+many other friends and family.
+  Eric Woods grew up in Urbandale, IA, and was an active member in the 
+youth group at Westchester Evangelical Free Church. At Urbandale High 
+School he wrestled and played football and baseball before graduating 
+in 1997. While attending Iowa State University, he became manager of 
+Krause Gentle Company. After a move to Omaha, Eric became a medic in 
+the U.S. Army.
+  Private First Class Woods was a truly thoughtful soldier, requesting 
+packages from home containing soccer balls, candy, and toys to give out 
+to the children of Iraq. He will be remembered not only for his 
+sacrifice for freedom but also the way in which he served, giving his 
+life on the way to help an injured fellow soldier. Recently, his pastor 
+said of Eric: ``His motto was to charge, not retreat. He squeezed the 
+most out of life.'' Again my thoughts and prayers are with his family 
+and friends. I ask my colleagues in the Senate and all Americans to 
+remember with gratitude and admiration this courageous Iowan, PFC Eric 
+P. Woods.
+
+                          ____________________
+```

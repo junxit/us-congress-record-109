@@ -1,0 +1,43 @@
+---
+granule: CREC-2005-07-20-pt1-PgH6112-4
+date: 2005-07-20
+edition: CREC
+section: HOUSE
+page: H6112
+citation: 151 Cong. Rec. H6112
+---
+
+# DEMOCRACY DEPENDS ON FREE SPEECH AND DISSENT
+
+**Speaking:** Nadler, Jerrold (N000002) [D-NY]
+
+```
+              DEMOCRACY DEPENDS ON FREE SPEECH AND DISSENT
+
+  (Mr. NADLER asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. NADLER. Mr. Speaker, I heard the remarks of the majority leader a 
+few minutes ago. Democracy depends on free speech and dissent. Free 
+speech is stifled when dissent is labeled treason or is derided in time 
+of war as not supporting our troops.
+  We all support our troops. One can point out the mistakes or the 
+dishonesty of the administration while not stinting in supporting our 
+troops. Pointing out that the administration misled the country about 
+weapons of mass destruction in Iraq is not ``not supporting our 
+troops.''
+  Pointing out that Karl Rove appears to have participated in a 
+conspiracy to punish Ambassador Wilson for telling the truth about this 
+by revealing the Ambassador's wife's CIA role is not ``not supporting 
+our troops.''
+  Pointing out the administration's justification for keeping our 
+troops in harm's way in Iraq flip-flops by the season is not ``not 
+supporting our troops.''
+  Demanding proper investigation of evidence that the administration 
+has disgraced this country by evading our laws against torturing 
+prisoners is not ``not supporting our troops.''
+  A free society requires that all these accusations see the light of 
+day. Let the administration rebut them if they can. But do not use the 
+mantra of supporting our troops to stifle essential free speech.
+
+                          ____________________
+```

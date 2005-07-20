@@ -1,0 +1,54 @@
+---
+granule: CREC-2005-07-20-pt1-PgE1545-2
+date: 2005-07-20
+edition: CREC
+section: EXTENSIONS
+page: E1545
+citation: 151 Cong. Rec. E1545
+---
+
+# A TRIBUTE TO REAR ADMIRAL MICHAEL L. HOLMES
+
+**Speaking:** McIntyre, Mike (M000485) [D-NC]
+
+```
+              A TRIBUTE TO REAR ADMIRAL MICHAEL L. HOLMES
+
+                                 ______
+                                 
+
+                           HON. MIKE McINTYRE
+
+                           of north carolina
+
+                    in the house of representatives
+
+                        Wednesday, July 20, 2005
+
+  Mr. McINTYRE. Mr. Speaker, I rise today to recognize an outstanding 
+Naval Officer, Rear Admiral Michael L. Holmes. Admiral Holmes is a 
+member of the Lumbee Indian Tribe and hails from Lumberton, North 
+Carolina. After graduating from Pembroke State University in 1972, he 
+was commissioned as a Naval Officer and designated a Naval Aviator. 
+Admiral Holmes has served with distinction for nearly 32 years in the 
+Navy, including several tours in command of operational forces and 
+several important staff positions. Admiral Holmes is a person of 
+tremendous talent, determined drive, and rich personality. His record 
+of achievement is among the most remarkable on a long and distinguished 
+list of military officers hailing from the Tar Heel State. He displays 
+leadership that inspires others to give their all and puts them at ease 
+as they strive to excel. He embodies the core values of honor, courage, 
+and commitment. This great North Carolinian continues to bring great 
+credit and honor to his native state, to his people, and to his family. 
+As a nation, we are indeed honored by his long, faithful, and 
+productive service to our country.
+  Admiral Holmes will retire from the United States Navy on October 
+1st, 2005. Mr. Speaker, Mike Holmes and his wife, Vee, have made many 
+sacrifices during his long and illustrious career, and I offer a 
+profound thanks to him from the citizens of North Carolina's Seventh 
+Congressional District for his service. As they embark on the next 
+great adventure beyond their beloved Navy, may God's strength, joy, and 
+peace be with them both.
+
+                          ____________________
+```

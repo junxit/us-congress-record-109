@@ -1,0 +1,75 @@
+---
+granule: CREC-2005-07-20-pt1-PgE1545-3
+date: 2005-07-20
+edition: CREC
+section: EXTENSIONS
+page: E1545
+citation: 151 Cong. Rec. E1545
+---
+
+# RECOGNIZING MS. MELISSA FYE AND MR. JIM JENKINS
+
+**Speaking:** Wolf, Frank R. (W000672) [R-VA]
+
+```
+            RECOGNIZING MS. MELISSA FYE AND MR. JIM JENKINS
+
+                                 ______
+                                 
+
+                           HON. FRANK R. WOLF
+
+                              of virginia
+
+                    in the house of representatives
+
+                        Wednesday, July 20, 2005
+
+  Mr. WOLF. Mr. Speaker, I rise today to honor two outstanding 
+constituents and educators from the 10th Congressional District of 
+Virginia. Melissa Fye and Jim Jenkins are to be commended for their 
+extraordinary efforts to bring real scientific research to the 
+classroom.
+  Melissa Fye, elementary school teacher at Ashburn Elementary School 
+in Ashburn, VA, and Jim Jenkins, elementary school teacher at Mountain 
+View Elementary School in Purcellville, VA, were chosen by the National 
+Oceanic and Atmospheric Administration (NOAA) to participate in the 
+Teacher at Sea Program. This three-week-long research program involved 
+a trip to sea in the Pacific Ocean this spring. As Teachers at Sea, Ms. 
+Fye participated in coral reef research and Mr. Jenkins participated in 
+fisheries and ocean current research.
+  Ms. Fye embarked on NOAA Ship HI'IALAKAI in Honolulu, Hawaii, and 
+cruised in the waters of the south Pacific. Mr. Jenkins's cruise, on 
+the other hand, explored cold Alaskan waters, where he embarked on NOAA 
+Ship MILLER FREEMAN in Kodiak, Alaska, and disembarked in Dutch Harbor, 
+Alaska. While onboard, Ms. Fye and Mr. Jenkins wrote lesson plans, 
+maintained daily logs, took photographs, interviewed scientists, and 
+engaged in dialogue with their students, other teachers and students, 
+and the general public. Ms. Fye and Mr. Jenkins participated in the 
+Teacher at Sea experience in order to enrich their curriculum and 
+excite their students about the sciences.
+  In her final log, Ms. Fye wrote that she ``. . . wants [her] students 
+to know that life is not a collection of things, but a collection of 
+experiences . . . [and hopes] this trip--the resources and anecdotal 
+stories [she] brings back to the classroom--encourages them to explore 
+opportunities as they arise in their own lives.''
+  Mr. Jenkins engaged his students each day in daily e-mail messages. 
+In one message, Mr. Jenkins told his students that he has ``. . . been 
+impressed by the cooperative spirit of everyone on [NOAA ship] MILLER 
+FREEMAN,'' and, in turn, encouraged his students to work together as a 
+team while he was at sea.
+  Both Ms. Fye and Mr. Jenkins were supported by a partnership between 
+the Loudoun Education Foundation and the NOAA Teacher at Sea Program. I 
+commend the Loudoun Education Foundation, and also the Loudoun County 
+school district, for supporting the efforts of these two teachers to 
+promote scientific education in the classroom.
+  I congratulate Ms. Fye and Mr. Jenkins on their spirit of adventure 
+in the name of education, their willingness to try new things, and 
+their ability to bring this experience back into the classroom.
+
+[[Page E1546]]
+
+
+
+                          ____________________
+```
