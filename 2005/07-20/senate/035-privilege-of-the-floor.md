@@ -1,0 +1,71 @@
+---
+granule: CRECB-2005-pt12-Pg16642
+date: 2005-07-20
+edition: CRECB
+section: SENATE
+page: 16642
+---
+
+# PRIVILEGE OF THE FLOOR
+
+```
+                         PRIVILEGE OF THE FLOOR
+
+  Mr. BROWNBACK. Mr. President, I ask unanimous consent that Charles 
+Kane, a legal intern on the committee staff, be granted floor 
+privileges for the duration of today's proceedings.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. WARNER. Mr. President, I ask unanimous consent that Senator 
+McCain's legislative fellow, Navy CDR Shawn Grenier, be granted the 
+privilege of the floor during consideration of S. 1042, the National 
+Defense Authorization Act of 2006, which I hope will be brought up by 
+the leadership shortly.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. WARNER. Mr. President, I ask unanimous consent that Andrew 
+Feinberg, a military Fellow in my office, be granted floor privileges 
+for the duration of the debate on S. 1042.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. WARNER. Mr. President, I ask unanimous consent, on behalf of 
+Senator Snowe, that Mr. Christopher Krafft, a State Department Fellow, 
+have the privilege of the floor during the consideration of this bill, 
+S. 1042.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. LEVIN. Mr. President, I ask unanimous consent that Senator 
+Kennedy's Navy Fellow, Doug Thompson, be given floor privileges during 
+consideration of this bill.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. AKAKA. Mr. President, I ask unanimous consent Eileen Gross, my 
+legislative fellow, be allowed floor privileges for the remainder of 
+the debate on this bill.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. SESSIONS. Mr. President, I ask unanimous consent that Allison 
+Thompson, a marine fellow in Senator Dole's office, be allowed floor 
+privileges during consideration of S. 1042, the Defense authorization 
+bill.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. WARNER. Mr. President, I ask unanimous consent that privilege of 
+the floor be granted to the staff members of the Armed Services 
+Committee during consideration of S. 1042, as follows:
+
+       Judith A. Ansley, Richard D. DeBobes, Charles W. Alsup, 
+     June M. Borawski, Leah C. Brewer, Alison E. Brill, Jennifer 
+     D. Cave, Christine E. Cowart, Daniel J. Cox, Jr., Madelyn R. 
+     Creedon, Marie Fabrizio Dickinson, Regina A. Dubey, Gabriella 
+     Eisen, Evelyn N. Farkas, Richard W. Fieldhouse, Creighton 
+     Greene, William C. Greenwalt, Bridget W. Higgins, Ambrose R. 
+     Hock, Gary J. Howard, Jennifer Key, Gregory T. Kiley, Jessica 
+     Kingston, Michael J. Kuiken, Gerald J. Leeling, Peter K. 
+     Levine, Sandra E. Luff, Thomas L. MacKenzie, Michael J. 
+     McCord, Elaine A. McCusker, William G.P. Monahan, David M. 
+     Morriss, Lucian L. Niemeyer, Stan O'Connor, Cindy Pearson, 
+     Paula J. Philbin, Benjamin L. Rubin, Lynn F. Rusten, 
+     Catherine E. Sendak, Arun A. Seraphin, Joseph T. Sixeas, 
+     Robert M. Soofer, Scott W. Stucky, Kristine L. Svinicki, 
+     Diana G. Tabler, Mary Louise Wagner, Richard F. Walsh, 
+     Nicholas W. West, Pendred K. Wilson.
+
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The Senator from Utah is recognized.
+
+                          ____________________
+```
