@@ -1,0 +1,36 @@
+---
+granule: CRECB-2005-pt12-Pg16837-3
+date: 2005-07-21
+edition: CRECB
+section: SENATE
+page: 16837
+---
+
+# HONORING THE MASSACHUSETTS GENERAL HOSPITAL
+
+```
+              HONORING THE MASSACHUSETTS GENERAL HOSPITAL
+
+  Mr. KENNEDY. Mr. President, I join with President Bush and Project 
+Hope in commending the extraordinary work of the health professionals 
+from Massachusetts General Hospital who dropped everything and went to 
+Indonesia in January and February to provide medical care to survivors 
+of the tsunami disaster. I especially commend Dr. Laurence Ronan, the 
+group leader at MGH who did so much to organize the trip.
+  These dedicated health professionals answered the urgent call when 
+the disaster struck. As in the past when earthquakes devastated 
+Armenia, and El Salvador, and Iran, they volunteered their services and 
+skills on the USS Mercy, the Navy hospital ship sent to the coast of 
+Indonesia.
+  Massachusetts General Hospital sent the largest health team. More 
+than 60 doctors, nurses, and social workers each spent a month helping 
+on cases too complex to be treated by personnel already on the ground 
+in Indonesia. They had expertise in critical medical specialties such 
+as neurology, burns, lung disease, kidney disease, and pediatrics, and 
+they provided care to hundreds devastated by the tsunami.
+  Massachusetts is very very proud of MGH and the extraordinary health 
+professionals being honored today. Their dedication and caring have 
+served America and the world well.
+
+                          ____________________
+```
