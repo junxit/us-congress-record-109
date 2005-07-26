@@ -1,0 +1,64 @@
+---
+granule: CREC-2005-07-26-pt1-PgS9046
+date: 2005-07-26
+edition: CREC
+section: SENATE
+page: S9046
+citation: 151 Cong. Rec. S9046
+---
+
+# LAND CONVEYANCE TO FRANNIE, WYOMING
+
+**Measures:** S. 101
+
+```
+                  LAND CONVEYANCE TO FRANNIE, WYOMING
+
+  The bill (S. 101) to convey to the town of Frannie, Wyoming, certain 
+land withdrawn by the Commissioner of Reclamation, was read the third 
+time and passed, as follows:
+
+                                 S. 101
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. CONVEYANCE OF LAND TO THE TOWN OF FRANNIE, 
+                   WYOMING.
+
+       (a) Conveyance.--Subject to valid existing rights, the 
+     Secretary of the Interior shall
+
+[[Page S9047]]
+
+     convey by quitclaim deed, without consideration, all right, 
+     title, and interest of the United States in and to the parcel 
+     of land described in subsection (b) to the town of Frannie, 
+     Wyoming.
+       (b) Description of Land.--The parcel of land referred to in 
+     subsection (a) is the parcel of land withdrawn by the 
+     Commissioner of Reclamation--
+       (1) consisting of approximately 37,500 square feet;
+       (2) located in the town of Frannie, Wyoming; and
+       (3) more particularly described in the approved Plat of 
+     Survey of Frannie Townsite, Wyoming, as the North \1/2\ of 
+     Block 26, T. 58 N, R. 97 W.
+       (c) Reservation of Mineral Rights.--The conveyance under 
+     subsection (a) shall be subject to the reservation by the 
+     United States of any oil and gas rights.
+       (d) Revocations.--
+       (1) Special use permit.--The special use permit issued by 
+     the Commissioner of Reclamation, numbered O-LM-60-L1413, and 
+     dated April 20, 1990, is revoked with respect to the land 
+     described in subsection (b).
+       (2) Secretarial Orders.--The following Secretarial Orders 
+     issued by the Commissioner of Reclamation are revoked with 
+     respect to the land described in subsection (b):
+       (A) The Secretarial Order for the withdrawal of land for 
+     the Shoshone Reclamation Project dated October 21, 1913, as 
+     amended.
+       (B) The Secretarial Order for the withdrawal of land for 
+     the Frannie Townsite Reservation dated April 19, 1920.
+
+                          ____________________
+```
