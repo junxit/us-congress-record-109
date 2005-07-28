@@ -1,0 +1,42 @@
+---
+granule: CRECB-2005-pt14-Pg19013
+date: 2005-07-28
+edition: CRECB
+section: SENATE
+page: 19013
+---
+
+# DISCHARGED NOMINATIONS
+
+```
+                         DISCHARGED NOMINATIONS
+
+  The Senate Committee on Health, Education, Labor, and Pensions was 
+discharged from further consideration of the following nominations and 
+the nominations were confirmed:
+
+       THOMAS A. FUENTES, OF CALIFORNIA, TO BE A MEMBER OF THE 
+     BOARD OF DIRECTORS OF THE LEGAL SERVICES CORPORATION FOR A 
+     TERM EXPIRING JULY 13, 2005.
+       BERNICE PHILLIPS, OF NEW YORK, TO BE A MEMBER OF THE BOARD 
+     OF DIRECTORS OF THE LEGAL SERVICES CORPORATION FOR A TERM 
+     EXPIRING JULY 13, 2005.
+       KEVIN F. SULLIVAN, OF NEW YORK, TO BE ASSISTANT SECRETARY 
+     FOR COMMUNICATIONS AND OUTREACH, DEPARTMENT OF EDUCATION.
+       HENRY LOUIS JOHNSON, OF MISSISSIPPI, TO BE ASSISTANT 
+     SECRETARY FOR ELEMENTARY AND SECONDARY EDUCATION, DEPARTMENT 
+     OF EDUCATION.
+       TERRELL HALASKA, OF THE DISTRICT OF COLUMBIA, TO BE 
+     ASSISTANT SECRETARY FOR LEGISLATION AND CONGRESSIONAL 
+     AFFAIRS, DEPARTMENT OF EDUCATION.
+
+  The Senate Committee on Rules and Administration was discharged from 
+further consideration of the following nomination and the nomination 
+was confirmed:
+
+       DONETTA DAVIDSON, OF COLORADO, TO BE A MEMBER OF THE 
+     ELECTION ASSISTANCE COMMISSION FOR THE REMAINDER OF THE TERM 
+     EXPIRING DECEMBER 12, 2007.
+
+                          ____________________
+```
