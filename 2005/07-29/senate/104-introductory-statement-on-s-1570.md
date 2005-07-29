@@ -1,0 +1,118 @@
+---
+granule: CREC-2005-07-29-pt1-PgS9492
+date: 2005-07-29
+edition: CREC
+section: SENATE
+page: S9492
+citation: 151 Cong. Rec. S9492
+---
+
+# Introductory Statement on S. 1570
+
+**Speaking:** Roberts, Pat (R000307) [R-KS]
+
+**Measures:** S. 1570
+
+```
+      By Mr. ROBERTS (for himself and Mr. Kennedy):
+  S. 1570. A bill to promote employment of individuals with severe 
+disabilities through Federal Government contracting and procurement 
+processes, and for other purposes; to the Committee on Homeland 
+Security and Governmental Affairs.
+  Mr. ROBERTS. Mr. President, I ask unanimous consent that the text of 
+the bill be printed in the Record.
+  There being no objection, the bill was ordered to be printed in the 
+Record, as follows:
+
+                                S. 1570
+
+         Be it enacted by the Senate and House of Representatives 
+     of the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Employer Work Incentive Act 
+     for Individuals with Severe Disabilities''.
+
+     SEC. 2. PURPOSE.
+
+       The purpose of this Act is to promote employment 
+     opportunities for individuals with severe disabilities, by 
+     requiring Federal agencies to offer incentives to Government 
+     contractors and subcontractors that employ substantial 
+     numbers of individuals with severe disabilities.
+
+     SEC. 3. JOBS INITIATIVE FOR INDIVIDUALS WITH SEVERE 
+                   DISABILITIES.
+
+       (a) Preference for Contractors Employing Individuals With 
+     Severe Disabilities.--The Office of Federal Procurement 
+     Policy Act (41 U.S.C. 403 et seq.) is amended by adding at 
+     the end the following new section:
+
+[[Page S9493]]
+
+     ``SEC. 42. PREFERENCE FOR CONTRACTORS EMPLOYING INDIVIDUALS 
+                   WITH SEVERE DISABILITIES.
+
+       ``(a) Preference.--In entering into a contract, the head of 
+     an executive agency shall give a preference in the source 
+     selection process to each offeror that submits with its offer 
+     for the contract a written pledge that the contractor is an 
+     eligible business for purposes of this section.
+       ``(b) Uniform Pledge.--The Federal Acquisition Regulation 
+     shall set forth the pledge that is to be used in the 
+     administration of this section.
+       ``(c) Responsibility of the Secretary of Labor.--(1) The 
+     Secretary of Labor shall maintain on the Internet web site of 
+     the Department of Labor a list of contractors that have 
+     submitted the pledge as described in subsection (a).
+       ``(2) The head of each executive agency receiving a pledge 
+     as described in subsection (a) shall transmit a copy of the 
+     pledge to the Secretary of Labor.
+       ``(d) Definitions.--In this section:
+       ``(1)(A) The term `eligible business' means a nonprofit or 
+     for-profit business entity that--
+       ``(i) except as provided in subparagraph (B), demonstrates 
+     that it has established an integrated employment setting, as 
+     defined by the Secretary of Labor;
+       ``(ii) employs individuals with severe disabilities in not 
+     less than 25 percent of the full-time equivalent positions of 
+     the business, on average;
+       ``(iii)(I) pays wages to each of the individuals with 
+     severe disabilities at not less than the applicable rate 
+     described in section 6(a)(1) of the Fair Labor Standards Act 
+     of 1938 (29 U.S.C. 206(a)(1)), regardless of whether the 
+     individuals are engaged in supported employment, or training, 
+     under a contract with an executive agency or a program that 
+     receives Federal funds; and
+       ``(II) does not employ any individual with a severe 
+     disability pursuant to a special certificate issued under 
+     section 14(c) of the Fair Labor Standards Act of 1938 (29 
+     U.S.C. 214(c)); and
+       ``(iv) makes contributions for at least 50 percent of the 
+     total cost of the annual premiums for health insurance 
+     coverage for its employees.
+       ``(B) In the case of an entity that has a contract with an 
+     executive agency in effect on the date of enactment of the 
+     Employer Work Incentive Act for Individuals with Severe 
+     Disabilities, subparagraph (A)(i) shall not apply until 3 
+     years after that date of enactment.
+       ``(2)(A) The term `individual with a severe disability' 
+     means an individual who is a disabled beneficiary (as defined 
+     in section 1148(k)(2) of the Social Security Act (42 U.S.C. 
+     1320b-19(k)(2)) or an individual who would be considered to 
+     be such a disabled beneficiary but for having income or 
+     assets in excess of the income or asset eligibility limits 
+     established under title II or XVI of the Social Security Act, 
+     respectively (42 U.S.C. 401 et seq., 1381 et seq.).
+       ``(B) The term `individuals with severe disabilities' means 
+     more than 1 individual with a severe disability.''.
+       (b) Clerical Amendment.--The table of contents in section 
+     1(b) of such Act is amended by adding at the end the 
+     following new item:
+
+``Sec. 42. Preference for contractors employing individuals with severe 
+              disabilities.''.
+                                 ______
+```
