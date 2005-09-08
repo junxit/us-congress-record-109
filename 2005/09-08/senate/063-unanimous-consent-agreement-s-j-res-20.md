@@ -1,0 +1,28 @@
+---
+granule: CRECB-2005-pt15-Pg19932-3
+date: 2005-09-08
+edition: CRECB
+section: SENATE
+page: 19932
+---
+
+# UNANIMOUS CONSENT AGREEMENT--S.J. RES. 20
+
+```
+               UNANIMOUS CONSENT AGREEMENT--S.J. RES. 20
+
+  Mr. FRIST. Mr. President, I ask unanimous consent that on Monday, 
+September 12, at 5:30 p.m., the Senate proceed to a period for morning 
+business for 1 hour with the time equally divided between Senator 
+Inhofe or his designee and Senator Reid or his designee, and that 
+following the use or yielding back of time, the Senate proceed to a 
+vote on the motion to proceed to Calendar No. 167, S.J. Res. 20. I 
+further ask consent that if the motion to proceed is agreed to, the 
+statutory time limit be reduced to 2 hours equally divided, and that 
+following the use or yielding back of time, the joint resolution be 
+read a third time and the Senate proceed to a vote on passage of the 
+resolution.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```
