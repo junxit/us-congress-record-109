@@ -1,0 +1,19 @@
+---
+granule: CREC-2005-09-12-pt1-PgS9893-4
+date: 2005-09-12
+edition: CREC
+section: SENATE
+page: S9893
+citation: 151 Cong. Rec. S9893
+---
+
+# RESERVATION OF LEADER TIME
+
+```
+                       RESERVATION OF LEADER TIME
+
+  The PRESIDENT pro tempore. Under the previous order, the leadership 
+time is reserved.
+
+                          ____________________
+```

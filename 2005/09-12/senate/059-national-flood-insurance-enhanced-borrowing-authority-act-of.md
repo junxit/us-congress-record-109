@@ -1,0 +1,63 @@
+---
+granule: CREC-2005-09-12-pt1-PgS9941-9
+date: 2005-09-12
+edition: CREC
+section: SENATE
+page: S9941
+citation: 151 Cong. Rec. S9941
+---
+
+# NATIONAL FLOOD INSURANCE ENHANCED BORROWING AUTHORITY ACT OF 2005
+
+**Speaking:** Frist, William H. (F000439) [R-TN]
+
+**Measures:** H.R. 3669
+
+```
+   NATIONAL FLOOD INSURANCE ENHANCED BORROWING AUTHORITY ACT OF 2005
+
+  Mr. FRIST. Mr. President, I ask unanimous consent that the Senate 
+proceed to the immediate consideration of H.R. 3669, which was received 
+from the House.
+  The PRESIDING OFFICER. The clerk will report the bill by title.
+  The legislation clerk read as follows:
+
+       A bill (H.R. 3669) to temporarily increase the borrowing 
+     authority of the Federal Emergency Management Agency for 
+     carrying out the national flood insurance program.
+
+  There being no objection, the Senate proceeded to consider the bill.
+
+
+ =========================== NOTE =========================== 
+
+  
+  On page S9941, September 12, 2005, the following sentence 
+appeared: The PRESIDING OFFICER.
+  
+  The online version has been corrected to read: There being no 
+objection, the Senate proceeded to consider the bill.
+
+
+ ========================= END NOTE ========================= 
+
+
+[[Page S9942]]
+
+  Mr. FRIST. Mr. President, I ask unanimous consent that the bill be 
+read a third time and passed, the motion to reconsider be laid upon the 
+table, and that any statements relating to the bill be printed in the 
+Record.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The bill (H.R. 3669) was read the third time, and passed.
+  Mr. FRIST. Mr. President, this National Flood Insurance Enhanced 
+Borrowing Authority Act of 2005 is another example of the bills we are 
+bringing to the Senate floor and working on in a bipartisan way because 
+we are addressing quickly, responsively, and aggressively the natural 
+disaster hurricane and its aftermath. There have been several of these 
+bills over the last week, and we will continue to address them as they 
+are presented to us and as they come forward--again, working together 
+in a bipartisan way.
+
+                          ____________________
+```
