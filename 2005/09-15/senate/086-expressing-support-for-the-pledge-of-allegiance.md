@@ -1,0 +1,75 @@
+---
+granule: CREC-2005-09-15-pt1-PgS10148
+date: 2005-09-15
+edition: CREC
+section: SENATE
+page: S10148
+citation: 151 Cong. Rec. S10148
+---
+
+# EXPRESSING SUPPORT FOR THE PLEDGE OF ALLEGIANCE
+
+**Speaking:** Frist, William H. (F000439) [R-TN]
+
+**Measures:** S.Res. 244
+
+```
+            EXPRESSING SUPPORT FOR THE PLEDGE OF ALLEGIANCE
+
+  Mr. FRIST. Mr. President, I ask unanimous consent that the Senate 
+proceed to the immediate consideration of S. Res. 244, submitted 
+earlier today by Senator Salazar.
+  The PRESIDING OFFICER. The clerk will report the resolution by title.
+  The senior assistant bill clerk read as follows:
+
+       A resolution (S. Res. 244) expressing support for the 
+     Pledge of Allegiance.
+
+  There being no objection, the Senate proceeded to consider the 
+resolution.
+  Mr. FRIST. Mr. President, I ask unanimous consent that the resolution 
+and preamble be agreed to, en bloc, the motion to reconsider be laid 
+upon the table, with no intervening action or debate, and that any 
+statements relating to the resolution be printed in the Record as if 
+read.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The resolution (S. Res. 244) was agreed to.
+  The preamble was agreed to.
+  The resolution, with its preamble, reads as follows:
+
+                              S. Res. 244
+
+       Whereas Congress in 1954 added the words ``under God'' to 
+     the Pledge of Allegiance;
+       Whereas the Pledge of Allegiance has for more than 50 years 
+     included references to the U.S. flag, the country, to our 
+     country having been established as a union ``under God'' and 
+     to this country being dedicated to securing ``liberty and 
+     justice for all'';
+       Whereas the Congress in 1954 believed it was acting 
+     constitutionally when it revised the Pledge of Allegiance;
+       Whereas this Senate of the 109th Congress believes that the 
+     Pledge of Allegiance is not an unconstitutional expression of 
+     patriotism;
+       Whereas patriotic songs, engravings on U.S. legal tender, 
+     engravings on Federal buildings also contain general 
+     references to ``God''; and
+       Whereas the Congress expects that the U.S. Court of Appeals 
+     for the Ninth Circuit will review on appeal the decision of 
+     the District Court. Now, therefore, be it
+       Resolved,
+       Sec. 1. That the Senate strongly disapproves of the U.S. 
+     District Court ruling in Newdow v. the Congress of United 
+     States of America, et al., holding the Pledge of Allegiance 
+     unconstitutional.
+       Sec. 2. That the Senate authorize and instructs the Senate 
+     Legal Counsel to continue to cooperate fully with the 
+     Attorney General in this case in order to vigorously defend 
+     the constitutionality of the Pledge of Allegiance.
+
+[[Page S10149]]
+
+
+
+                          ____________________
+```
