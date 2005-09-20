@@ -1,0 +1,39 @@
+---
+granule: CREC-2005-09-20-pt1-PgE1899
+date: 2005-09-20
+edition: CREC
+section: EXTENSIONS
+page: E1899
+citation: 151 Cong. Rec. E1899
+---
+
+# PERSONAL EXPLANATION
+
+**Speaking:** Musgrave, Marilyn N. (M001152) [R-CO]
+
+**Measures:** H.Res. 473
+
+```
+                          PERSONAL EXPLANATION
+
+                                 ______
+                                 
+
+                        HON. MARILYN N. MUSGRAVE
+
+                              of colorado
+
+                    in the house of representatives
+
+                      Tuesday, September 20, 2005
+
+  Mrs. MUSGRAVE. Mr. Speaker, due to meetings during the series of 
+votes on Thursday, September 15, I did not make it back to the House 
+floor in time for the last vote (rollcall vote No. 475).
+  H. Res. 473 was to establish the Select Bipartisan Committee to 
+Investigate the Preparation for and Response to Hurricane Katrina.
+  Mr. Speaker, had I been present, I would have votes ``yes'' to 
+establish the hurricane commission.
+
+                          ____________________
+```
