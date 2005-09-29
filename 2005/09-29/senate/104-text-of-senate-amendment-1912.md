@@ -1,0 +1,75 @@
+---
+granule: CREC-2005-09-29-pt1-PgS10767-4
+date: 2005-09-29
+edition: CREC
+section: SENATE
+page: S10767
+citation: 151 Cong. Rec. S10767
+---
+
+# Text of Senate Amendment 1912
+
+**Speaking:** Bayh, Evan (B001233) [D-IN]
+
+```
+  SA 1912. Mr. BAYH submitted an amendment intended to be proposed by 
+him to the bill S. 1042, to authorize appropriations for fiscal year 
+2006 for military activities of the Department of Defense, for military 
+construction, and for defense activities of the Department of Energy, 
+to prescribe personnel strengths for such fiscal year for the Armed 
+Forces, and for other purposes; which was ordered to lie on the table; 
+as follows:
+
+       At the end of subtitle B of title I, add the following:
+
+     SEC. 114. TACTICAL WHEELED VEHICLES.
+
+       (a) Additional Amount for Other Procurement, Army.--
+       (1) In general.--The amount authorized to be appropriated 
+     by section 101(5) for other procurement for the Army is 
+     hereby increased by $360,800,000.
+       (2) Availability of amount.--Of the amount authorized to be 
+     appropriated by section 101(5) for other procurement for the 
+     Army, as increased by paragraph (1)--
+       (A) $247,100,000 may be available for the procurement of 
+     armored Tactical Wheeled Vehicles to reconstitute Army 
+     Prepositioned Stocks-5, including the procurement of armored 
+     Light Tactical Vehicles (LTVs), armored Medium Tactical 
+     Vehicles (MTVs), and armored Heavy Tactical Vehicles (HTVs) 
+     for purposes of equipping one heavy brigade, one infantry 
+     brigade, and two infantry battalions; and
+       (B) $113,700,000 may be available for the procurement of 
+     armored Tactical Wheeled Vehicles for the Joint Readiness 
+     Training Center at Fort Polk, Louisiana, including the 
+     procurement of armored Light Tactical Vehicles, armored 
+     Medium Tactical Vehicles, and armored Heavy Tactical Vehicles 
+     for purposes of equipping one infantry brigade combat team in 
+     order to permit such vehicles to be used for the training and 
+     preparation of troops, prior to deployment, on the use of 
+     such vehicles.
+       (b) Ballistics Engineering Program.--
+       (1) Additional amount for research, development, test, and 
+     evaluation, defense-wide.--
+       (A) In general.--The amount authorized to be appropriated 
+     by section 201(4) for research, development, test, and 
+     evaluation for Defense-Wide activities is hereby increased by 
+     $5,000,000.
+       (B) Availability of amount.--Of the amount authorized to be 
+     appropriated by section 201(4) for research, development, 
+     test, and evaluation for Defense-Wide activities, as 
+     increased by subparagraph (A), $5,000,000 may be available 
+     for the implementation of the ballistics engineering program 
+     established under paragraph (2).
+       (2) Ballistics engineering program.--
+       (A) Establishment.--The Secretary of Defense shall create a 
+     collaborative ballistics engineering program at two major 
+     research institutions.
+       (B) Purpose.--The purpose of the program established under 
+     subparagraph (A) shall be to advance knowledge and 
+     application of ballistics materials and procedures to improve 
+     the safety of land-based military vehicles, particularly from 
+     hidden improvised explosive devices, including through the 
+     training of engineers, scientists, and military personnel in 
+     ballistics materials and their use.
+                                 ______
+```

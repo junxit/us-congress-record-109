@@ -1,0 +1,58 @@
+---
+granule: CREC-2005-09-29-pt1-PgE1993-3
+date: 2005-09-29
+edition: CREC
+section: EXTENSIONS
+page: E1993
+citation: 151 Cong. Rec. E1993
+---
+
+# CONGRATULATIONS TO DeSOTO TRAIL ELEMENTARY SCHOOL IN TALLAHASSEE, FLORIDA
+
+**Speaking:** Boyd, Allen (B000716) [D-FL]
+
+```
+   CONGRATULATIONS TO DeSOTO TRAIL ELEMENTARY SCHOOL IN TALLAHASSEE, 
+                                FLORIDA
+
+                                 ______
+                                 
+
+                            HON. ALLEN BOYD
+
+                               of florida
+
+                    in the house of representatives
+
+                      Thursday, September 29, 2005
+
+  Mr. BOYD. Mr. Speaker, I would like to take this opportunity to 
+congratulate DeSoto Trail Elementary School in Tallahassee, Florida for 
+receiving the Blue Ribbon School award under the No Child Left Behind 
+program. As the home of the Trailblazers they have lived up to their 
+mascots name in earning this award. This is a testament to the quality 
+of education this school provides and to the hard work the 
+administrators, faculty and students have done to be one of only 
+thirteen schools in the entire State to win this award.
+  Many identify No Child Left Behind with efforts to improve failing 
+schools. However, schools like DeSoto Trail that go above and beyond 
+what is required by the law should not be forgotten. I am extremely 
+proud of not just the students who worked so hard, but also the faculty 
+and administrators whom spent so many hours helping the students become 
+better citizens through education.
+  DeSoto Trail Elementary is a model of excellence that will serve as 
+an example for every elementary school throughout the United States. 
+This school has proven that through hard work and dedication, academic 
+success is not out of reach for any student.
+  Therefore, I ask every member to please, join with me in 
+congratulating the children and teachers who have worked so hard to 
+achieve their goal. I would also like to congratulate Principal Janis 
+Johnson and Assistant Principal Hank McGrotha for providing this level 
+of excellence.
+  The future of this country depends on the success of our education 
+system. As the Representative of Tallahassee, Florida, I am honored and 
+proud to be on the floor today speaking about such students and the 
+parents who support them everyday.
+
+                          ____________________
+```
