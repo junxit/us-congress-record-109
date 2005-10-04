@@ -1,0 +1,26 @@
+---
+granule: CRECB-2005-pt16-Pg22234
+date: 2005-10-04
+edition: CRECB
+section: SENATE
+page: 22234
+---
+
+# ORDERS FOR WEDNESDAY, OCTOBER 5, 2005
+
+```
+                 ORDERS FOR WEDNESDAY, OCTOBER 5, 2005
+
+  Mr. FRIST. Mr. President, I ask unanimous consent that when the 
+Senate completes its business today, it adjourn until 10 a.m. on 
+Wednesday, October 5; I further ask that following the prayer and 
+pledge, the morning hour be deemed expired, the Journal of proceedings 
+be approved to date, the time for the two leaders be reserved, and the 
+Senate then resume consideration of H.R. 2863, the Defense 
+appropriations bill. I further ask unanimous consent the Senate stand 
+in recess from 12:30 to 2:15 p.m. to accommodate the weekly party 
+luncheons.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```
