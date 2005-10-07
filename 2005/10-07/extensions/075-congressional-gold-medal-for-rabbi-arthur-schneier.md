@@ -1,0 +1,57 @@
+---
+granule: CREC-2005-10-07-pt1-PgE2071-2
+date: 2005-10-07
+edition: CREC
+section: EXTENSIONS
+page: E2071
+citation: 151 Cong. Rec. E2071
+---
+
+# CONGRESSIONAL GOLD MEDAL FOR RABBI ARTHUR SCHNEIER
+
+**Speaking:** Maloney, Carolyn B. (M000087) [D-NY]
+
+```
+           CONGRESSIONAL GOLD MEDAL FOR RABBI ARTHUR SCHNEIER
+
+                                 ______
+                                 
+
+                        HON. CAROLYN B. MALONEY
+
+                              of new york
+
+                    in the house of representatives
+
+                        Friday, October 7, 2005
+
+  Mrs. MALONEY. Mr. Speaker, together with my colleagues Rep. Tom 
+Lantos and Michael Bilirakis, I am introducing a bill to award a 
+Congressional Gold Medal to Rabbi Arthur Schneier, in recognition of 
+his pioneering role in promoting religious freedom and human rights 
+throughout the world, for close to half a century.
+  A holocaust survivor, and the Founder and President of the Appeal of 
+Conscience Foundation, Rabbi Schneier has devoted his life to 
+overcoming the forces of hatred and intolerance.
+  He has been a pioneer in bringing together religious leaders to 
+address ethnic or religious conflicts. For example, in Bosnia in 1997, 
+he convened government and religious leaders to promote healing and 
+conciliation between Orthodox, Muslim and Jewish communities. In the 
+Balkans, the Caucasus and Central Asia he worked with the Orthodox 
+Patriarch and the Turkish Government to hold the Peace and Tolerance 
+Conference in 1994 and address religious and ethnic tensions in that 
+area. In the former Yugoslavia, he mobilized religious leaders to halt 
+the bloodshed of the early 1990s, holding the Religious Summit on the 
+Former Yugoslavia and the Conflict Resolution Conference to build 
+support and consensus among religious leaders of different faiths. 
+Since the early 1980s, he has led delegations of religious leaders to 
+China to open a dialogue on religious freedom.
+  Born in Vienna, Austria, in 1930, Rabbi Schneier lived under Nazi 
+occupation in Budapest during World War II and came to the United 
+States in 1947. He has been the Spiritual Leader of the Park East 
+Synagogue in New York City since 1962.
+  I hope my colleagues will join us in honoring this distinguished 
+pioneer of religious freedom with a Congressional Gold Medal.
+
+                          ____________________
+```
