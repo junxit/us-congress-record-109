@@ -1,0 +1,33 @@
+---
+granule: CREC-2005-10-18-pt1-PgS11501
+date: 2005-10-18
+edition: CREC
+section: SENATE
+page: S11501
+citation: 151 Cong. Rec. S11501
+---
+
+# ORDERS FOR WEDNESDAY, OCTOBER 19, 2005
+
+**Speaking:** Frist, William H. (F000439) [R-TN]
+
+**Measures:** H.R. 3058
+
+```
+                 ORDERS FOR WEDNESDAY, OCTOBER 19, 2005
+
+  Mr. FRIST. Mr. President, I ask unanimous consent that when the 
+Senate completes its business today, it adjourn until 9:30 a.m. on 
+Wednesday, October 19. I further ask that following the prayer and 
+pledge, the morning hour be deemed expired, the Journal of proceedings 
+be approved to date, the time for the two leaders be reserved, and 
+there then be a period of morning business for up to 60 minutes, with 
+the first 30 minutes under the control of the Democratic leader or his 
+designee and the final 30 minutes under the control of the Republican 
+leader or his designee, provided that following morning business the 
+Senate then resume consideration of H.R. 3058, the Transportation, 
+Treasury Appropriations bill.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```
