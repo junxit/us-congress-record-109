@@ -1,0 +1,28 @@
+---
+granule: CRECB-2005-pt17-Pg22985-2
+date: 2005-10-18
+edition: CRECB
+section: SENATE
+page: 22985
+---
+
+# PROGRAM
+
+```
+                                PROGRAM
+
+  Mr. FRIST. Mr. President, the Senate continued to work on the 
+Transportation--Treasury appropriations bill today. A number of 
+amendments have indeed been filed. I encourage Senators who are serious 
+about offering them to come down early in the day tomorrow to do just 
+that. We hope to dispose of the pending Kennedy amendment and an 
+alternative to that amendment at an early hour tomorrow.
+  The two managers were here all day and have been very patient. If 
+Senators do not come down in a timely manner to offer their amendments, 
+then I would encourage the managers to close out the bill to further 
+amendment and proceed to final passage. We will finish this bill this 
+week, either Wednesday or Thursday, or Friday, if necessary, and 
+therefore votes can be expected each day until we finish this bill.
+
+                          ____________________
+```
