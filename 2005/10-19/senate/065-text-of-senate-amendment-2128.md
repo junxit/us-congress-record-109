@@ -1,0 +1,28 @@
+---
+granule: CREC-2005-10-19-pt1-PgS11591-2
+date: 2005-10-19
+edition: CREC
+section: SENATE
+page: S11591
+citation: 151 Cong. Rec. S11591
+---
+
+# Text of Senate Amendment 2128
+
+**Speaking:** Frist, William H. (F000439) [R-TN]
+
+```
+  SA 2128. Mr. FRIST (for himself, Mrs. Dole, Ms. Stabenow, and Mrs. 
+Clinton) submitted an amendment intended to be proposed by him to the 
+bill H.R. 3058, making appropriations for the Departments of 
+Transportation, Treasury, and Housing and Urban Development, the 
+Judiciary, District of Columbia, and independent agencies for the 
+fiscal year ending September 30, 2006, and for other purposes; which 
+was ordered to lie on the table; as follows:
+
+       On page 310 line 11, strike the word ``and'' after the word 
+     ``LISC'' and insert ``,'' and on page 310 on line 12 after 
+     the words ``Enterprise Foundation'' insert ``, and the 
+     Habitat for Humanity''.
+                                 ______
+```
