@@ -1,0 +1,43 @@
+---
+granule: CREC-2005-10-21-pt1-PgS11748-5
+date: 2005-10-21
+edition: CREC
+section: SENATE
+page: S11748
+citation: 151 Cong. Rec. S11748
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate October 21, 2005:
+
+
+                         DEPARTMENT OF JUSTICE
+
+       JOHN F. CLARK, OF VIRGINIA, TO BE DIRECTOR OF THE UNITED 
+     STATES MARSHALS SERVICE, VICE BENIGNO G. REYNA, RESIGNED.
+
+
+                              IN THE NAVY
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT AS CHIEF OF 
+     NAVAL PERSONNEL, UNITED STATES NAVY, AND APPOINTMENT TO THE 
+     GRADE INDICATED WHILE ASSIGNED TO A POSITION OF IMPORTANCE 
+     AND RESPONSIBILITY UNDER TITLE 10, U.S.C., 601 AND 5141:
+
+                           To be vice admiral
+
+REAR ADM. JOHN C. HARVEY, JR., 0000
+
+
+                    DEPARTMENT OF HOMELAND SECURITY
+
+       GEORGE W. FORESMAN, OF VIRGINIA, TO BE UNDER SECRETARY FOR 
+     PREPAREDNESS, DEPARTMENT OF HOMELAND SECURITY, VICE FRANK 
+     LIBUTTI RESIGNED.
+
+                          ____________________
+```
