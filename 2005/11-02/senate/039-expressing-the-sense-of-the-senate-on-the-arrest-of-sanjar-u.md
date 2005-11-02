@@ -1,0 +1,90 @@
+---
+granule: CRECB-2005-pt18-Pg24648-2
+date: 2005-11-02
+edition: CRECB
+section: SENATE
+page: 24648
+---
+
+# EXPRESSING THE SENSE OF THE SENATE ON THE ARREST OF SANJAR UMAROV IN UZBEKISTAN
+
+```
+ EXPRESSING THE SENSE OF THE SENATE ON THE ARREST OF SANJAR UMAROV IN 
+                               UZBEKISTAN
+
+  Mr. BENNETT. Mr. President, I ask unanimous consent that the Senate 
+now proceed to the consideration of S. Res. 295, which was submitted 
+earlier today.
+  The PRESIDING OFFICER. The clerk will report the resolution by title.
+  The assistant legislative clerk read as follows:
+
+       A resolution (S. Res. 295) expressing the sense of the 
+     Senate on the arrest of Sanjar Umarov in Uzbekistan.
+
+  There being no objection, the Senate proceeded to consider the 
+resolution.
+  Mr. BENNETT. Mr. President, I ask unanimous consent that the 
+resolution be agreed to, the preamble be agreed to, and the motion to 
+reconsider be laid upon the table.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The resolution (S. Res. 295) was agreed to.
+  The preamble was agreed to.
+  The resolution, with its preamble, reads as follows:
+
+                              S. Res. 295
+
+       Whereas the United States supports the development of 
+     democracy, free markets, and civil society in Uzbekistan and 
+     in other states in Central Asia;
+       Whereas the rule of law, the impartial application of the 
+     law, and equal justice for all courts of law are pillars of 
+     all democratic societies;
+       Whereas Sanjar Umarov was reportedly arrested in Tashkent, 
+     Uzbekistan, on October 22, 2005;
+       Whereas Sanjar Umarov is a businessman and leader of the 
+     Uzbek opposition party, Sunshine Coalition;
+       Whereas Sanjar Umarov was reportedly taken into custody on 
+     October 22, 2005, during a crackdown on the Sunshine 
+     Coalition that included a raid of its offices and seizure of 
+     its records;
+       Whereas Sanjar Umarov was reportedly charged with grand 
+     larceny;
+       Whereas press accounts report that representatives of 
+     Sanjar Umarov claim that Mr. Umarov was drugged and abused 
+     while at his pretrial confinement center in Tashkent, 
+     Uzbekistan, but such accounts could not be immediately 
+     confirmed, and official information about the health, 
+     whereabouts, and treatment while in custody of Mr. Umarov has 
+     thus far been unavailable;
+       Whereas the United States has expressed its serious concern 
+     regarding the overall state of human rights in Uzbekistan and 
+     is seeking to clarify the facts of this case;
+       Whereas the European Union (EU) and the Organization for 
+     Security and Cooperation in Europe (OSCE) have expressed 
+     concern about the arrest and possible abuse of Sanjar Umarov; 
+     and
+       Whereas the Government of Uzbekistan is party to various 
+     treaty obligations, and in particular those under the 
+     International Covenant on Civil and Political Rights, which 
+     obligate governments to provide for due process in criminal 
+     cases: Now, therefore, be it
+       Resolved, That it is the sense of the Senate that--
+
+[[Page 24649]]
+
+       (1) the law enforcement and judicial authorities of 
+     Uzbekistan should ensure that Sanjar Umarov is accorded the 
+     full measure of his rights under the Uzbekistan Constitution 
+     to defend himself against any and all charges that may be 
+     brought against him, in a fair and transparent process, so 
+     that individual justice may be done;
+       (2) the Government of Uzbekistan should observe its various 
+     treaty obligations, especially those under the International 
+     Covenant on Civil and Political Rights, which obligate 
+     governments to provide for due process in criminal cases; and
+       (3) the Government of Uzbekistan should publicly clarify 
+     the charges against Sanjar Umarov, his current condition, and 
+     his whereabouts.
+
+                          ____________________
+```
