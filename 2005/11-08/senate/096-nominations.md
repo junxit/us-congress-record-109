@@ -1,0 +1,46 @@
+---
+granule: CREC-2005-11-08-pt1-PgS12552-3
+date: 2005-11-08
+edition: CREC
+section: SENATE
+page: S12552
+citation: 151 Cong. Rec. S12552
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate November 8, 2005:
+
+
+                              In the Army
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES ARMY TO THE GRADE INDICATED WHILE ASSIGNED TO A 
+     POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, 
+     U.S.C., SECTION 601:
+
+                        To be lieutenant general
+
+MAJ. GEN. KEITH W. DAYTON, 0000
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES ARMY TO THE GRADE INDICATED WHILE ASSIGNED TO A 
+     POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, 
+     U.S.C., SECTION 601:
+
+                        To be lieutenant general
+
+MAJ. GEN. JOHN R. WOOD, 0000
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES ARMY TO THE GRADE INDICATED WHILE ASSIGNED TO A 
+     POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, 
+     U.S.C., SECTION 601:
+
+                        To be lieutenant general
+
+MAJ. GEN. GARY D. SPEER, 0000
+```
