@@ -1,0 +1,61 @@
+---
+granule: CRECB-2005-pt19-Pg26252-4
+date: 2005-11-16
+edition: CRECB
+section: SENATE
+page: 26252
+---
+
+# MORLEY NELSON SNAKE RIVER BIRDS OF PREY NATIONAL CONSERVATION AREA ACT
+
+```
+ MORLEY NELSON SNAKE RIVER BIRDS OF PREY NATIONAL CONSERVATION AREA ACT
+
+  The bill (S. 761) to rename the Snake River Birds of Prey National 
+Conservation Area in the State of Idaho as the Morley Nelson Snake 
+River Birds of Prey National Conservation Area in honor of the late 
+Morley Nelson, an international authority on birds of prey, who was 
+instrumental in the establishment of this National Conservation Area, 
+and for other purposes, was read the third time and passed; as follows:
+
+                                 S. 761
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Morley Nelson Snake River 
+     Birds of Prey National Conservation Area Act''.
+
+     SEC. 2. RENAMING OF SNAKE RIVER BIRDS OF PREY NATIONAL 
+                   CONSERVATION AREA.
+
+       (a) Renaming.--Public Law 103-64 is amended--
+       (1) in section 2(2) (16 U.S.C. 460iii-1(2)), by inserting 
+     ``Morley Nelson'' before ``Snake River Birds of Prey National 
+     Conservation Area''; and
+
+[[Page 26253]]
+
+       (2) in section 3(a)(1) (16 U.S.C. 460iii-2(a)(1)), by 
+     inserting ``Morley Nelson'' before ``Snake River Birds of 
+     Prey National Conservation Area''.
+       (b) References.--Any reference in a law, map, regulation, 
+     document, paper, or other record of the United States to the 
+     Snake River Birds of Prey National Conservation Area shall be 
+     deemed to be a reference to the Morley Nelson Snake River 
+     Birds of Prey National Conservation Area.
+       (c) Technical Corrections.--Public Law 103-64 is further 
+     amended--
+       (1) in section 3(a)(1) (16 U.S.C. 460iii-2(a)(1)), by 
+     striking ``(hereafter referred to as the `conservation 
+     area')''; and
+       (2) in section 4 (16 U.S.C. 460iii-3)--
+       (A) in subsection (a)(2), by striking ``Conservation Area'' 
+     and inserting ``conservation area''; and
+       (B) in subsection (d), by striking ``Visitors Center'' and 
+     inserting ``visitors center''.
+
+                          ____________________
+```
