@@ -1,0 +1,50 @@
+---
+granule: CREC-2005-11-16-pt1-PgS13065-5
+date: 2005-11-16
+edition: CREC
+section: SENATE
+page: S13065
+citation: 151 Cong. Rec. S13065
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate November 16, 2005:
+
+
+                       Department of Agriculture
+
+       MARC L. KESSELMAN, OF TENNESSEE, TO BE GENERAL COUNSEL OF 
+     THE DEPARTMENT OF AGRICULTURE, VICE NANCY SOUTHARD BRYSON.
+
+
+                   Executive Office of the President
+
+       RICHARD T. CROWDER, OF VIRGINIA, TO BE CHIEF AGRICULTURAL 
+     NEGOTIATOR, OFFICE OF THE UNITED STATES TRADE REPRESENTATIVE, 
+     WITH THE RANK OF AMBASSADOR, VICE ALLEN FREDERICK JOHNSON, 
+     RESIGNED.
+
+
+                Department of Health and Human Services
+
+       DANIEL MERON, OF MARYLAND, TO BE GENERAL COUNSEL OF THE 
+     DEPARTMENT OF HEALTH AND HUMAN SERVICES, VICE ALEX AZAR II.
+
+
+                          Department of State
+
+       CLAUDIA A. MCMURRAY, OF VIRGINIA, TO BE ASSISTANT SECRETARY 
+     OF STATE FOR OCEANS AND INTERNATIONAL ENVIRONMENTAL AND 
+     SCIENTIFIC AFFAIRS, VICE JOHN F. TURNER, RESIGNED.
+
+
+                     National Labor Relations Board
+
+       PETER N. KIRSANOW, OF OHIO, TO BE A MEMBER OF THE NATIONAL 
+     LABOR RELATIONS BOARD FOR THE TERM OF FIVE YEARS EXPIRING 
+     AUGUST 27, 2008, VICE RONALD E. MEISBURG.
+```
