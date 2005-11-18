@@ -1,0 +1,75 @@
+---
+granule: CREC-2005-11-18-pt1-PgS13417-2
+date: 2005-11-18
+edition: CREC
+section: SENATE
+page: S13417
+citation: 151 Cong. Rec. S13417
+---
+
+# DRIVE SAFER SUNDAY
+
+**Speaking:** McConnell, Mitch (M000355) [R-KY]
+
+**Measures:** S.Res. 326
+
+```
+                           DRIVE SAFER SUNDAY
+
+  Mr. McCONNELL. Mr. President, I ask unanimous consent that the Senate 
+proceed to the consideration of S. Res. 326, which was submitted 
+earlier today.
+  The PRESIDING OFFICER. The clerk will report the resolution by title.
+  The legislative clerk read as follows:
+
+       A resolution (S. Res. 326) designating November 27, 2005 as 
+     ``Drive Safer Sunday.''
+
+  There being no objection, the Senate proceeded to consider the 
+resolution.
+  Mr. McCONNELL. Mr. President, I ask unanimous consent that the 
+resolution be agreed to, the preamble be agreed to, and the motion to 
+reconsider be laid upon the table.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The resolution (S. Res. 326) was agreed to.
+  The preamble was agreed to.
+  The resolution, with its preamble, reads as follows:
+
+                              S. Res. 326
+
+       Whereas motor vehicle travel is the primary means of 
+     transportation in the United States;
+       Whereas everyone on the roads and highways needs to drive 
+     more safely to reduce deaths and injuries resulting from 
+     motor vehicle accidents;
+       Whereas the death of almost 43,000 people a year in more 
+     than 6 million highway crashes in America has been called an 
+     epidemic by Transportation Secretary Norman Mineta;
+       Whereas according to the National Highway Transportation 
+     Safety Administration, wearing a seat belt saved 15,434 lives 
+     in 2004; and
+       Whereas the Sunday after Thanksgiving is the busiest 
+     highway traffic day of the year: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) encourages--
+       (A) high schools, colleges, universities, administrators, 
+     teachers, primary schools, and secondary schools to launch 
+     campus-wide educational campaigns to urge students to be 
+     careful about safety when driving;
+       (B) national trucking firms to alert their drivers to be 
+     especially focused on driving safely during the heaviest 
+     traffic day of the year, and to publicize the importance of 
+     the day using Citizen's band (CB) radios and in truck stops 
+     across the Nation;
+       (C) clergy to remind their members to travel safely when 
+     attending services and gatherings;
+       (D) law enforcement personnel to remind drivers and 
+     passengers to drive particularly safely on the Sunday after 
+     Thanksgiving; and
+       (E) everyone to use the Sunday after Thanksgiving as an 
+     opportunity to educate themselves about highway safety; and
+       (2) designates November 27, 2005, as ``Drive Safer 
+     Sunday''.
+
+                          ____________________
+```
