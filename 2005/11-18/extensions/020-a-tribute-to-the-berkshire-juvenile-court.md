@@ -1,0 +1,41 @@
+---
+granule: CRECB-2005-pt20-Pg27512
+date: 2005-11-18
+edition: CRECB
+section: EXTENSIONS
+page: 27512
+---
+
+# A TRIBUTE TO THE BERKSHIRE JUVENILE COURT
+
+```
+               A TRIBUTE TO THE BERKSHIRE JUVENILE COURT
+
+                                 ______
+                                 
+
+                           HON. JOHN W. OLVER
+
+                            of massachusetts
+
+                    in the house of representatives
+
+                       Friday, November 18, 2005
+
+  Mr. OLVER. Mr. Speaker, I wish to recognize and honor the Berkshire 
+Division of the Juvenile Court Department of the Trial Court of the 
+Commonwealth of Massachusetts, on this, National Adoption Day, for 
+their dedication to the hundreds of children in foster care in 
+Berkshire County, Massachusetts, and for their promotion of adoption, 
+which allows over 30 children per year to enter into loving and 
+nurturing families.
+  Today, in Pittsfield, Massachusetts, sixteen adoptions will be 
+performed in honor of National Adoption Day and in recognition of 
+November as Adoption Awareness Month throughout the United States.
+  I want to thank the Berkshire Juvenile Court, under the guidance of 
+the Honorable First Justice Paul E. Perachi, for their dedication and 
+commitment to the children and families of Berkshire County, 
+Massachusetts.
+
+                          ____________________
+```
