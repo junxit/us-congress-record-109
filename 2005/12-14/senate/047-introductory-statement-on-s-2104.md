@@ -1,0 +1,2743 @@
+---
+granule: CREC-2005-12-14-pt1-PgS13577
+date: 2005-12-14
+edition: CREC
+section: SENATE
+page: S13577
+citation: 151 Cong. Rec. S13577
+---
+
+# Introductory Statement on S. 2104
+
+**Speaking:** Lieberman, Joseph I. (L000304) [D-CT]
+
+**Measures:** S. 2104
+
+```
+      By Mr. REID (for Mr. Lieberman (for himself, Mr. Cochran, Mr. 
+        Carper, and Mrs. Hutchison)):
+  S. 2104. A bill to amend the Public Health Service Act to establish 
+the American Center for Cures to accelerate the development of public 
+and private research efforts towards tools and therapies for human 
+diseases with the goal of early disease detection, prevention, and 
+cure, and for other purposes; to the Committee on Health, Education, 
+Labor, and Pensions.
+
+[[Page S13578]]
+
+  (At the request of Mr. Reid, the following statement was ordered to 
+be printed in the Record.)
+  Mr. LIEBERMAN. Mr. President, today, Senator Cochran, Senator Carper, 
+Senator Hutchison, and I are introducing the American Center for CURES 
+Act of 2005, which would establish the American Center for Cures, 
+within the National Institutes of Health (NIH). The purpose of the 
+Center would be to bring promising and novel diagnostics, therapies, 
+drugs, and tools to treat disease faster to the public.
+  We continue to face significant health challenges. In the US today, 
+chronic diseases account for 7 out of 10 deaths, with the major killers 
+being heart attack, cancer and stroke. Seventy percent of the $1.7 
+trillion dollars we spend on healthcare each year goes to chronic 
+disease care. Around the world, HIV, tuberculosis, and malaria kill 4, 
+3, and 2 million people a year. On the horizon are emerging manmade and 
+natural threats such as SARS, flu and bioterrorism. There are other 
+diseases that we need better treatments and cures for, but that we do 
+not devote enough attention to. Diseases of social stigma, such as 
+depression, which is the most frequent reason people visit their 
+physician, and seizure disorder, which is the primary neurological 
+disorder in children, are often neglected. We have bacteria growing and 
+spreading in our hospitals that do not respond to our antibiotic 
+supply. These are the health challenges facing us in the 21st century.
+  Fortunately, the United States has no equal in the biomedical 
+sciences. This is due in large part to our nation's premier biomedical 
+research investment the--NIH, which receives $28 billion per year after 
+a doubling of their budget of $14 billion from 1998 to 2003. The NIH is 
+comprised of 27 major institutes and centers, leading the way for the 
+world in cancer, cardiovascular, infectious disease and allergy 
+advancements for health promotion and relief from the burdens of 
+disease. US biomedical advances are also due to our dynamic 
+biotechnology and pharmaceutical sectors.
+  In our search for answers to our pressing health problems, the NIH 
+has grown in the number of Institutes and Centers and in funding. At 
+the same time, Congress and others have wanted to ensure that we are 
+building on NIH's strengths to respond to complex health problems 
+requiring interdisciplinary and collaborative work. Therefore, Congress 
+commissioned the 2003 National Academy of Sciences report, ``Enhancing 
+the Vitality of the National Institutes of Health: Organizational 
+Change to Meet New Challenges'', that examined whether and how we could 
+optimize the NIH's organizational structure to meet our next set of 
+health challenges.
+  The report stated that ``no organization as important as NIH should 
+remain frozen in organization space''. At the same time, the report 
+cautioned that any changes in organizational structure to achieve 
+greater progress in chronic and emerging diseases were not without some 
+difficulty and risk. The NAS report made a number of recommendations 
+and our CURES legislation addresses the six major points.
+  First, CURES seeks to strengthen the clinical research process by 
+streamlining the clinical trials process by creating Centralized 
+Internal Review Boards (CIRB). CIRB's would focus on simplifying the 
+human subjects review processes for multi-institutional clinical 
+trials. CURES also significantly augments current NIH investments to 
+train the clinical research workforce of the future, and provides 
+additional funding for multidisciplinary teams of researchers examining 
+issues of quality and design of clinical trials. We need to continue to 
+bring safe and effective diagnostics and therapeutics, but more 
+efficiently.
+  Secondly, our proposal enhances and increases trans-NIH strategic 
+planning and funding. Currently, the NIH's 27 Centers and Institutes 
+each have their own directors and budgets and thus, operate 
+independently. The resulting structural and organizational stovepipes 
+are limited in their ability to capitalize on the NIH's collective 
+research capacity to address complex problems using the expertise of 
+multiple fields. For example, the problem of diabetic retinopathy could 
+be tackled by researchers in the Institutes of the Eye, Diabetes, 
+Digestive and Kidney disease, Biomedical Imaging and Bioengineering, 
+and Allergy Immunology and Infectious disease. However, there are few 
+mechanisms for such trans-Institute initiatives that could lead to a 
+cure or treatment. To address this problem, CURES has created multiple 
+funding mechanisms for trans-Institute research and cross-fertilization 
+of ideas. Strategic planning and prioritizing disease research is also 
+integral to achieving progress more quickly. Therefore, the American 
+Center for CURES Act would establish a CURES council, comprised of key 
+health stakeholders to produce a translational research agenda for the 
+Center based on research breakthroughs and areas of health need.
+  Thirdly, the American Center for CURES Act of 2005 strengthens the 
+Office of the NIH Director. Our legislation emphasizes the need for 
+greater budgetary support and flexibility in the area of translational 
+research. This follows much of the NIH Director's current efforts with 
+the NIH Roadmap. Our legislation further supports the spirit of the NIH 
+Roadmap with organizational and funding commitments that bring 
+translational research investment to a necessary and appropriate scale, 
+which has not been the case to date. The NIH Director, with the CURES 
+Advisory Council, would play a key role in these efforts by 
+recommending appointees for the Director of the American Center for 
+CURES to the President. The NIH Director will also be a co-chair of the 
+Center's Council and have a leading role in setting the research and 
+funding priorities for translational research projects at the NIH. The 
+NIH Director will also head other initiatives outlined in the 
+legislation, such as launching a publicly accessible electronic 
+database for all published NIH funded research.
+  Fourth, our legislation creates a Director's Special Projects 
+Program, called the Health Advanced Research Projects Agency (HARPA). 
+The NAS committee recommended the creation of a program to support 
+high-risk, high-potential payoff research. The Department of Defense 
+has had significant success with its Defense Advanced Research Program 
+Agency (DARPA), where a group of expert portfolio managers invest in 
+and oversee innovative, multidisciplinary, collaborative projects to 
+advance specific fields or to develop needed technologies. DARPA has 
+lead to the creation of stealth technology, satellite surveillance, 
+lasers, internet, and e-mail. Based on this model, HARPA would be 
+housed within the Center and would help lead breakthrough advances 
+using a translational ``challenge model'' in biomedical research. 
+Breakthroughs could include a vaccine or other treatment against HIV or 
+genetic probes pivotal to the elucidation of disease producing genes. 
+HARPA would also be the key funding mechanism for trans-Institute 
+research to prioritize and foster collaborative and trans-Institute 
+research initiatives.
+
+  Fifth, the NAS report recommended that the NIH intramural research 
+program be more unique, innovative, and risk-taking. In response, CURES 
+creates an Office of Intramural Risk Mapping, within the Office of 
+Technology Transfer, which will oversee NIH's intramural research 
+programs to help assure they are complementary to extramural and 
+private sector research. The Office will also ensure that intramural 
+research is also innovative and risk-taking to produce more novel and 
+promising biomedical breakthroughs. The office will also make funds 
+available to trans-Institute and center initiatives that focus on 
+health risk analysis and corresponding scientific risk opportunity.
+  Sixth, our legislation addresses the NAS report recommendation to 
+standardize data and information management systems. The report was 
+clear that the NIH must increase its capacity for data gathering and 
+reporting to meet its obligations ``. . . for effective management, 
+accountability, and transparency.'' Cures seek to improve the sharing 
+of information by providing funding to the National Library of Medicine 
+to create and maintain a publicly accessible database of all 
+publications resulting from NIH-funded research and by establishing a 
+national electronic registry and results database to increase 
+enrollment in public and private clinical trials and to share
+
+[[Page S13579]]
+
+efficacy and safety outcomes emanating from NIH-funded clinical 
+research endeavors. Cures focuses on the need to expand the NLM 
+facilities according to the demands of new scientific discoveries and 
+fields, especially within the areas of genomics and proteinomics.
+  In addition to the NAS report recommendations, other changes in the 
+biomedical research landscape demand more targeted investments in 
+promising and novel treatments. Our current response to research on 
+important health problems is arguably dichotomous. We invest public 
+money into the NIH or we hope the private market will produce essential 
+drugs and tools. However, there needs to be greater collaboration 
+between the private and public sectors. Private sector investment in 
+biomedical research has grown to approximately $46 billion per year--
+far more than our public sector investment in NIH. For new and 
+effective therapies to become available, we need to build better public 
+and private partnerships. Cures includes key provisions to accomplish 
+this. Cures promotes the innovative efforts of small to medium sized 
+biotechnology and bioengineering firms who require additional support 
+in key traditionally under-funded stages of product development--the so 
+called R&D ``Valley of Death.'' It expands the NIH's current small 
+business support and rapid access to interventional development 
+programs to move basic science through the product development pipeline 
+faster. These programs would facilitate NIH partnerships with private 
+industry in the preclinical stage of the R&D process so as to formulate 
+a plan for health research translation and commercialization from the 
+outset. Additionally, our legislation would move the NIH's Office of 
+Technology Transfer into the American Center for Cures, where it would 
+survey research being conducted in the private and public sectors to 
+avoid duplication, target promising research investments, and broker 
+more flexible and productive agreements for licensing and patents 
+between the public and private sectors. The HARPA entity within the 
+center is also designed to promote public-private joint R&D efforts.
+  Today, we are proposing the establishment of the American Center for 
+Cures, whose mission would be to promote more rapid translation of 
+public and private research into therapies, diagnostics and tools, 
+which can effectively treat and possibly cure diseases of critical 
+importance to domestic and global health. With more targeted investment 
+in translating our basic science research into diagnostics and 
+therapeutics, we hope to bring more tangible health benefits to 
+Americans and people all over the world.
+  I ask unanimous consent that explanatory materials on the legislation 
+including, ``Short Summary of the American Center for CURES Act of 
+2005,'' ``Explanation of How the American Center for CURES Act of 2005 
+Addresses the Findings of the 2003 National Academy of Sciences Report: 
+`Enhancing the Vitality of the National Institutes of Health: 
+Organizational Change to Meet New Challenges','' ``Section by Section 
+Summary of the American Center for CURES Act of 2005,'' the full text 
+of the legislation, and ``Quotes in Support of the American Center for 
+CURES Act of 2005'' be printed in the Record.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+      A Short Summary of the American Center for CURES Act of 2005
+
+       A bill to facilitate more rapid development of novel 
+     diagnostics, therapies, and cures
+       From 1998-2003, Congress doubled funding to the world's 
+     leader in biomedical research, the National Institutes of 
+     Health (NIH), to $28 billion per year. In order to meet 21st 
+     century health challenges and optimize the use of this public 
+     investment, Senators Lieberman and Cochran have introduced 
+     legislation to increase the capacity of the NIH to produce 
+     effective treatments, diagnostics and cures for our nation's 
+     most burdensome diseases using a novel approach to publicly 
+     funded research.
+       Cures will do the following:
+       Create an American Center for Cures (ACC) in the NIH to 
+     orchestrate focused research and development of solutions to 
+     pressing ailments. The ACC, led by a Center Director, will 
+     identify and promote translational research, which involves 
+     developing basic science research for application purposes, 
+     in the public and private sectors. The ACC will fund 
+     innovative and collaborative research, breakdown bottlenecks 
+     in clinical research, and facilitate information exchange.
+       Establish an advisory council comprised of key health 
+     experts and stakeholders to advise the ACC on national 
+     medical needs and novel developments in all sectors. To use 
+     public funds effectively, a centralized mechanism to track 
+     research on health threats is necessary. A Council will 
+     inform the ACC on biomedical needs, technical feasibility 
+     issues, and current research breakthroughs.
+       Create a Health Advanced Projects Agency for research 
+     promotion. A research projects agency will promote strategic 
+     risk-taking and follow a ``challenge model'' to support 
+     innovative multidisciplinary research between NIH Institutes, 
+     other federal agencies, grantees and business partners, for 
+     projects with the potential for significant health impact. 
+     Funding for projects will be flexible and outcomes based.
+       Promote the innovative efforts of small to medium sized 
+     biotechnology and bioengineering firms. The ACC will support 
+     firms requiring assistance in key traditionally underfunded 
+     stages of research and development, the R&D ``Valley of 
+     Death''. Funding will be available to assist companies with 
+     promising and novel therapeutics and diagnostics in both 
+     preclinical and clinical stages.
+       Strengthen the clinical research process. Clinical trials 
+     are essential to ensuring the safety and efficacy of new 
+     products. The ACC will streamline clinical trial protocols to 
+     supply the public with new treatments in a timelier, more 
+     efficient, and more economical way. It will augment NIH 
+     training funds to create a clinical research workforce of the 
+     future. It will establish a clinical trial registry and 
+     results database to promote information sharing and to avoid 
+     duplicative efforts.
+       Facilitate complete and efficient transfer of intellectual 
+     property from development at the molecular level to clinical 
+     trials and into production. Active participation of the 
+     commercial sector in development is critical. An Office of 
+     Technology Transfer in the ACC will catalog and disseminate 
+     the NIH translational research portfolio and oversee NIH 
+     intellectual property licensing.
+                                  ____
+
+
+Explanation of How the American Center for CURES Act of 2005 Addresses 
+     the Findings of the 2003 National Academy of Sciences Report: 
+    ``Enhancing the Vitality of the National Institutes of Health: 
+             Organizational Change to Meet New Challenges''
+
+
+                               Background
+
+       The health challenges facing the U.S. and the world today 
+     are a mix of infectious diseases, such as HIV, tuberculosis 
+     and malaria, long-standing chronic such as diabetes and 
+     cancer, and new emerging threats, such as SARS and avian 
+     influenza. In the context of these growing concerns, Congress 
+     commissioned the National Academy of Sciences (NAS) in 2001 
+     to report on ``whether the current structure and organization 
+     of NIH are optimally configured for the scientific needs of 
+     the 21st century.'' Indeed, NIH is America's premier public 
+     research investment and between 1998 and 2003, the NIH budget 
+     of $14 billion dollars doubled to $28 billion. By 
+     commissioning the NAS report, Congress asked how it might 
+     optimize its burgeoning research investment. Congress 
+     solidified its support for the NIH but simultaneously posed 
+     questions of NIH can best address domestic and global health 
+     needs:
+       Are the 27 NIH Institutes and Centers able to coordinate 
+     their research goals and priorities to reflect the 
+     multidisciplinary nature of today's health problems?
+       How is the NIH producing and sharing biomedical knowledge 
+     from multiple disciplines to spur the development of clinical 
+     tools, drugs, and other therapies to battle longstanding and 
+     emerging diseases?
+       Can the NIH respond effectively to acute health threats, 
+     such as to burgeoning HIV infection rates and the threat of a 
+     bioterrorism attack?
+       Is the NIH cultivating the next generation of researchers 
+     to build upon the great works of NIH past?
+       The end result was the 2003 NAS and Institute of Medicine 
+     (IOM) report, ``Enhancing the Vitality of the National 
+     Institutes of Health: Organizational Change to Meet New 
+     Challenges''. The report reinforced NIH successes over the 
+     last 50 years as the national and global leader in biomedical 
+     research. NIH accomplished this by developing a cutting edge 
+     internal research infrastructure and a democratic extramural 
+     grant program that almost single-handedly supports 
+     University-based research in the biological sciences. 
+     However, the report also cautioned that ``no organization as 
+     important as NIH should remain frozen in organizational 
+     space'' and any changes in organizational structure to 
+     achieve greater progress in chronic and emerging diseases, 
+     however essential, would face difficulty and risk.
+
+
+                          NAS Report Findings
+
+       The NAS report made a total of 14 recommendations. In the 
+     final analysis, the NAS report recommended maintaining the 
+     general structure of NIH to ensure NIH's strengths would be 
+     protected: conducting essential basic science, and disease, 
+     behavioral, organ, and system based research in its 
+     intramural program and funding peer-reviewed grants to 
+     University researches in its extramural program. However, the 
+     report also recognized the need for organizational changes 
+     which could help institutes work across their respective 
+     stovepipes, foster a culture of risk-taking and innovation, 
+     and
+
+[[Page S13580]]
+
+     give the NIH director, other leadership, and the public the 
+     power to prioritize NIH research to solve the Nation's most 
+     burdensome health problems. Collectively, these changes would 
+     enhance the capacity of the NIH to not only pursue 
+     fundamental knowledge about the nature and behavior of living 
+     systems, but to apply that knowledge to extend healthy life 
+     and reduce the burdens of illness and disability. This is 
+     NIH's mission.
+
+
+     CURES Addresses the Six Key Recommendations of the NAS Report
+
+       1. Strengthen Clinical Research: The NAS report recommended 
+     that the NIH ``pursue a new organizational strategy to better 
+     integrate leadership, funding, and management of its clinical 
+     research enterprise''. Senators Lieberman, Cochran, Carper, 
+     and Hutchison are introducing a proposal that creates the 
+     American Center for Cures (ACC), headed by a Cures Director. 
+     One of the new Director's key charges will be to promote and 
+     simplify the clinical research endeavor. The Director will 
+     establish a national electronic registry and results database 
+     for clinical trials in order to increase enrollment of 
+     research subjects and improve sharing efficacy and safety 
+     outcomes emanating from the clinical research endeavor. The 
+     Director will fund multidisciplinary clinical research teams 
+     in the academic and private sector, create Centralized 
+     Internal Review Boards (CIRB) to simplify the human subjects 
+     review processes for multi-institutional clinical trials, and 
+     augment NIH investments in training the clinical research 
+     workforce of the future.
+       2. Enhance and Increase Trans-NIH Strategic Planning and 
+     Funding: The 27 NIH Centers and Institutes with their own 
+     directors and budgets generally operate independently. The 
+     resulting structural and organizational stovepipes are 
+     limited in their ability to capitalize on the NIH's 
+     collective research capacity to address complex problems from 
+     different fields. For example, the problem of diabetic 
+     retinopathy could be tackled by researchers in the Institutes 
+     of the Eye, Diabetes, Digestive and Kidney disease, 
+     Biomedical Imaging and Bioengineering, and Allergy Immunology 
+     and Infectious disease. To address this problem, Cures funds 
+     innovative multidisciplinary collaborative research across 
+     NIH institutes and centers. NIH Institute and Center 
+     Directors on the Cures Council will be entrusted to 
+     coordinate the intramural research agenda with that of the 
+     ACC.
+       3. Strengthen the Office of the NIH Director: The NAS 
+     report emphasizes the need for the NIH Director to have more 
+     budgetary support and flexibility. Dr. Zerhouni's office has 
+     taken these steps with the NIH Roadmap. The Cures legislation 
+     further supports the spirit of the NIH Roadmap with 
+     organizational and funding commitments that bring the 
+     translational research investment to necessary and 
+     appropriate scale. The NIH Director and the Cures Advisory 
+     Council will recommend appointees for the Cures Director to 
+     the President. The NIH Director will be a co-chair of the ACC 
+     Council that will set the research and funding priorities for 
+     translational research projects at the NIH. The NIH Director 
+     will head efforts to establish a publicly accessible 
+     electronic database for all published NIH funded research, 
+     among other initiatives.
+       4. Create a Director's Special Projects Program: The NAS 
+     committee recommended the creation of a program to support 
+     high-risk, high-potential payoff research. The Department of 
+     Defense has had significant success with its Defense Advanced 
+     Research Program Agency (DARPA), where a group of expert 
+     portfolio managers invest in and oversee innovative, 
+     multidisciplinary, collaborative projects to advance specific 
+     fields or to develop needed technologies. DARPA has lead to 
+     the creation of the stealth technology, satellite 
+     surveillance, lasers, internet, and email. A Health Advanced 
+     Research Program Agency (HARPA) will be established within 
+     the ACC to help lead breakthrough advances, using a 
+     translational ``challenge'' model in biomedical research, 
+     such as a vaccine against HIV or genetic probes pivotal to 
+     the elucidation of disease producing genes.
+       5. Promote Innovation and Risk-Taking in Intramural 
+     Research: The NAS report recommended that the NIH intramural 
+     research portfolio be distinct from that of the extramural 
+     program and private sector. Cures creates an Office of 
+     Intramural Risk Mapping which will oversee the intramural 
+     research programs of the NIH to be certain they are 
+     complementary to extramural and private programs. The office 
+     will make funds available to groups of institutes and centers 
+     to promote engagement in multi-institute projects that focus 
+     on health risk analysis and corresponding scientific risk 
+     opportunity.
+       6. Standardize Data and Information Management Systems: The 
+     NAS committee recommended that the NIH must increase its 
+     capacity for data gathering and reporting to meet its 
+     obligations ``. . . for effective management, accountability, 
+     and transparency''. Cures seeks to improve the sharing of 
+     information by providing funding to the National Library of 
+     Medicine to create and maintain a publicly accessible 
+     database of all publications resulting from NIH-funded 
+     research and by establishing a national electronic registry 
+     and results database to increase enrollment in public and 
+     private clinical trials and to share efficacy and safety 
+     outcomes emanating from the clinical research endeavor. Cures 
+     focuses on the need to grow the NLM facilities according to 
+     the demands of new scientific discoveries and fields, 
+     especially within the areas of genomics and proteinomics.
+
+
+                     CURES Build on the NIH Roadmap
+
+       In response to the NAS report, NIH Director Dr. Elias 
+     Zerhouni launched the NIH Roadmap in FY 2004 with $128 
+     million in funding from existing NIH budget allocations. 
+     Funding increases every year until FY 2009 and tops out at 
+     $507 million. The NIH Roadmap consists of:
+       New Pathways to Discovery to obtain a deeper understanding 
+     of biological systems based on new models.
+       Research Teams of the Future to facilitate collaboration 
+     across institutes by awarding grants to support institutional 
+     partnerships and cutting-edge research.
+       Re-engineering the Clinical Research Enterprise reforms the 
+     clinical trial process to allow for broader participation 
+     from community-level patients and providers.
+       While the NIH roadmap addresses some of the concerns of the 
+     NAS report, it does not address key provisions including 
+     increasing the power of the NIH Director, establishing an 
+     advanced research projects agency, and establishing a new 
+     leadership that can facilitate the research essential to 
+     moving products faster from bench to bedside. Unlike CURES, 
+     the roadmap relies on traditional academic-government 
+     relationships. CURES builds on the Roadmap to cultivate new 
+     relationships between NIH researchers and innovative 
+     industrial partners. Unlike the roadmap, which asks the NIH 
+     to focus on new priorities with old tools and funds, Cures 
+     provides much higher levels of funding for a Center uniquely 
+     devoted to translating research to produce new therapies and 
+     even cures to the most important diseases.
+                                  ____
+
+
+Section by Section Summary of the American Center for CURES Act of 2005
+
+   A bill to facilitate more rapid development of novel diagnostics, 
+       therapies and cures critical to national and global health
+
+     Background
+       When it comes to investments and advancements in biomedical 
+     research, the United States has no equal. Its National 
+     Institutes of Health (NIH) is the world's largest public 
+     source of biomedical research funding with an annual budget 
+     of over $28 billion. The NIH is comprised of 27 major 
+     institutes and centers, leading the way in cancer, 
+     cardiovascular, infectious disease and allergy advancements 
+     for health promotion and relief from the burdens of disease.
+       The private sector is also investing substantial resources 
+     in increasing both longevity and quality of life. These 
+     companies now invest more than the federal government in 
+     biomedical research and development (R&D). Potent 
+     pharmaceuticals and cutting edge medical devices provide 
+     health care professionals with a therapeutic arsenal that has 
+     increased lifespan seven years since 1960 and dropped 
+     neonatal mortality four fold. Partnerships between NIH and 
+     private industry are not often recognized for their key roles 
+     in bringing new treatments to the public, but are of great 
+     importance as they have led to life-changing therapies from 
+     to Taxol to Claritin to HIV anti-retrovirals.
+       But how can biomedical R&D proceed even faster? How can 
+     partnerships between NIH's Institutes and Centers, disease-
+     based NGO's, biotech companies and small and large 
+     pharmaceuticals occur even more frequently? Towards which 
+     diseases should our resources be prioritized in the first 
+     place? How can NIH and the private sector be more responsive 
+     to emerging public health threats such as bioterrorism, an 
+     avian flu pandemic, antibiotic resistance, and a waning 
+     vaccine supply?
+     Center for Cures
+       In response to these pressing questions and the capacity of 
+     the NIH to address our health needs, Senators Lieberman, 
+     Cochran, Carper and Hutchison are proposing a $5 billion 
+     dollar annual investment to create the American Center for 
+     Cures (ACC). The mission of this new NIH Center will be to 
+     promote more rapid translation of public and private research 
+     into therapies, diagnostics and tools, which can effectively 
+     treat and possibly cure diseases of critical importance to 
+     domestic and global health. The ACC will enhance NIH's 
+     ability to not only pursue fundamental knowledge about the 
+     nature and behavior of living systems, but to apply that 
+     knowledge to extend healthy life and reduce the burdens of 
+     illness and disability. This is NIH's mission.
+     Specifically, the American Center for Cures will:
+       (1) Direct new resources towards the world's most 
+     burdensome diseases and towards biomedical, bioengineering, 
+     and biotechnological research with the greatest therapeutic 
+     impact and promise.
+       (2) Create an ACC national advisory board consisting of key 
+     health experts and stakeholders, who will help identify the 
+     critical diseases and health threats requiring greater public 
+     and private investment.
+       (3) Create a special Health Advanced Research Projects 
+     Agency (HARPA) to support innovative multidisciplinary 
+     collaborate research between NIH Institutes, between NIH and 
+     other federal agencies and between NIH grantees and business 
+     partners, for projects with the potential for significant 
+     health impact.
+       (4) Create health-centered Federally Funded Research and 
+     Development Centers (FFRDC) which will bring together 
+     interdisciplinary teams of experts including scientists, 
+     clinicians, epidemiologists, and
+
+[[Page S13581]]
+
+     pharmacists for a time limited period to focus on developing 
+     therapeutic breakthroughs for important disease entities.
+       (5) Invest further in the development of an expert 
+     workforce which will augment the nation's translational 
+     research capacity. Such an effort will include training new 
+     clinical researchers and bioinformatics professionals.
+       (6) Promote risk-taking and collaboration between NIH 
+     Institutes and Centers.
+       (7) Streamline the clinical research process essential to 
+     determining if new treatments are effective and safe.
+       (8) Promote the innovative efforts of small to medium sized 
+     biotechnology and bioengineering firms who require additional 
+     support in key traditionally under-funded stages of product 
+     development--the so called R&D ``Valley of Death''.
+       (9) Facilitate NIH partnerships with private industry in 
+     the preclinical stage of the R&D process so as to formulate a 
+     plan for health research translation and commercialization 
+     from the outset.
+       (10) Standardize NIH information management systems and 
+     reporting requirements of publicly funded research to improve 
+     information sharing between the applied science, 
+     translational research and business communities.
+     A section by section summary of the legislation is included 
+     below.
+       Section 1: Short title.
+       Section 2: Table of contents.
+       Section 3: Findings.
+       Section 4: Amends Title IV of the Public Health Services 
+     Act to establish a new Center at the National Institutes of 
+     Health (NIH) called the American Center for Cures (ACC).
+
+
+                   Part J--American Center for Cures
+
+       Section 499A: Definitions.
+       Section 499B(a): States the mission of the proposed 
+     American Center for Cures (ACC), which is to increase the 
+     capacity of the NIH to promote translational research between 
+     its Institutes and Centers, between the NIH and other Federal 
+     agencies and between NIH grantees and business partners so as 
+     to speed the development of effective diagnostics, therapies 
+     and cures essential to human health and well being.
+       The ACC shall formulate and implement a strategy for the 
+     nation's translational research investment based on (1) a 
+     prioritization of biomedical research based on disease burden 
+     and research promise, and (2) funding for innovative, multi-
+     disciplinary, and collaborative research.
+       The ACC will be guided in part by a series of ``Grand 
+     Challenges'' or strategic challenges that direct the health 
+     research community towards multi-staged projects with the 
+     potential to transform the healthcare landscape. Examples 
+     include: the creation of laboratory diagnostics that enable 
+     the country to detect quickly and accurately to acute health 
+     threats, such as an avian flu pandemic or a bioterrorism 
+     attack; a commitment by researchers and manufacturers from 
+     public and private sectors to develop vaccines for the 
+     world's most deadly infectious diseases including HIV, 
+     tuberculosis, and malaria. Other examples are provided in 
+     this section.
+       Section 499B(b): Establishes a Director of Cures (to be 
+     called in this document the ``Director'') who will administer 
+     the ACC. The President of the United States will appoint the 
+     Director. The NIH Director in consultation with the Cures 
+     Advisory Council (Section 499B(c)) will recommend candidates 
+     for the Director to the President. The NIH Director will work 
+     with the Director to promote the nation's translational 
+     research efforts.
+       The Director will have at his disposal an annual 
+     acceleration fund of $5 billion dollars to provide support 
+     for research and development of breakthrough biomedical 
+     discoveries and to carry out the purposes of the ACC. No less 
+     than one half of the acceleration fund will be allocated to a 
+     Health Advanced Research Projects Agency described in Subpart 
+     II.
+       Section 499B(c): Establishes a Cures Council to advise and 
+     direct the translational research efforts of the ACC. The 
+     Council will be co-chaired by the Director of Cures and the 
+     Director of NIH. Membership will include NIH Institute and 
+     Center Directors; leaders from at least 9 federal agencies 
+     including the Director of the Agency for Healthcare Research 
+     and Quality (AHRQ), the Director of the Defense Advanced 
+     Research Projects Agency (DARPA), and the President of the 
+     Institute of Medicine (IOM); no fewer than three leaders from 
+     the small business community; three leaders from large 
+     pharmaceutical or biotechnology companies; and three leaders 
+     from academia. All Council members will be appointed by the 
+     President.
+       The Council shall establish subcommittees including one of 
+     NIH Institute and Center Directors to coordinate research 
+     priorities in, and ensure sharing of research agendas among, 
+     the Institutes and Centers. The subcommittee shall also 
+     coordinate the ACC research agenda with that of the NIH 
+     Institutes and Centers.
+       The Council will make recommendations that help the 
+     Director set research priorities for the ACC. The Council 
+     shall consider risk and burden of disease as well as lines of 
+     research uniquely poised to deliver effective diagnostics and 
+     therapies.
+       The Council shall be aided by the Office of Intramural Risk 
+     Opportunity and Mapping of the Office of Technology Transfer 
+     established in subpart V.
+       The Council shall conduct an annual assessment of ACC 
+     priorities and progress and make this available to the public 
+     in written and electronic forms.
+       Section 499B(d): The Director of Cures shall prepare and 
+     submit, directly to the President for review and transmittal 
+     to Congress, an annual budget estimate for the Center.
+       The Director will receive directly all funds appropriated 
+     by Congress for obligation and expenditure by the Center.
+
+
+      Subpart 1--Federally Funded Research and Development Centers
+
+       Section 499C: Federally Funded Research and Development 
+     Centers (FFRDC's) will serve as sites for multidisciplinary 
+     and cross-scientific research within particular areas of 
+     health. The Director may establish one or more FFRDC's to 
+     carry out activities related to the mission of the ACC. These 
+     Centers will establish, as appropriate, technology test beds 
+     and incubators, utilize cooperative agreements with the 
+     private sector, and conduct large-scale multi-disciplinary 
+     translational research projects in health or disease areas 
+     which are essential to medical advancement, but lack adequate 
+     private sector funding.
+       The FFRDC's shall consult widely with representatives from 
+     private industry, institutions of higher education, nonprofit 
+     institutions, other federal governmental agencies, and other 
+     federally funded research and development centers.
+       The Director shall ensure that competitive mechanisms are 
+     used to select and to promote the ongoing quality and 
+     performance of the FFRDC's.
+       Contracts between the ACC and FFRDC's shall be for no 
+     longer than 7 years, after which time refunding shall be 
+     contingent upon approval by the Director and the Cures 
+     Council.
+       Each FFRDC shall biannually submit a report on the 
+     activities carried out by the Centers under this section to 
+     the Director and the appropriate committees of Congress.
+       For any fiscal year, the Director may use not more than 25 
+     percent of the funds available in the Director's Acceleration 
+     Fund for FFRDC's.
+
+
+          Subpart 2--Health Advanced Research Projects Agency
+
+       Section 499d. Technological and scientific innovations 
+     often require strategic risk taking and significant funding 
+     streams that are rapid and are outcomes based. Funds must 
+     also encourage expert multidisciplinary collaboration. This 
+     section establishes at the ACC a Health Advanced Research 
+     Projects Agency (HARPA) for these purposes.
+       HARPA will be headed by a Director of the Research Projects 
+     Agency who will be appointed by the Director of Cures.
+       HARPA shall be composed of not more than 100 expert 
+     portfolio managers in key health areas, as determined by the 
+     Director of HARPA in conjunction with the Director and Cures 
+     Council.
+       HARPA shall undertake the grand challenges formulated by 
+     the Center and encourage innovative, multidisciplinary, and 
+     collaborative research between NIH Institutes and Centers, 
+     between the NIH and other Federal agencies, and between NIH 
+     grantees and business partners.
+       Management and organizing principles include an agency 
+     which is small, flexible, entrepreneurial, and non-
+     hierarchical; which empowers portfolio managers to foster 
+     research opportunities free from bureaucratic impediments; 
+     which seeks to employ the strongest scientific and technical 
+     talent in the Nation; which rotates a significant portion of 
+     the staff every 3-5 years, which leverages comparable 
+     matching investment from other NIH institutes and centers, 
+     federal agencies, and from the private and non profit 
+     sectors; which creates a translational research model that 
+     supports fundamental research breakthroughs, early and late 
+     stage applied development, prototyping, knowledge diffusion, 
+     and technology deployment; which establishes metrics to 
+     evaluate research success; which ensures that revolutionary 
+     research dominates HARPA's agenda and portfolio. Other 
+     management and organizing principles are provided.
+       HARPA activities will include supporting basic and applied 
+     research to promote revolutionary technology changes which 
+     address health needs. It will advance the development, 
+     testing, evaluation, prototyping and deployment of critical 
+     health products. Multiple other activities are provided.
+       HARPA will have flexible hiring practices as described in 
+     the Strom Thurmond National Defense Authorization Act, 1999.
+       HARPA will have the authority to flexibly fund projects, 
+     including the prompt awarding, releasing, enhancing and 
+     withdrawal of monies.
+       HARPA will be funded through the Director's acceleration 
+     fund at a minimum of $2.5 billion dollars annually.
+
+
+                       Subpart 3--Clinical Trials
+
+       Clinical trials are an essential part of the research and 
+     development process. This is where the effectiveness and 
+     safety of products are scientifically and systematically 
+     investigated. However, clinical trials are complex, 
+     expensive, and time-consuming, making it difficult for 
+     individuals to perform all the functions necessary to 
+     successfully organize and implement clinical trials. This 
+     subpart improves how clinical trials are conducted and how 
+     their results are disseminated. It also promotes the 
+     development of a future clinical research workforce.
+       Section 499E. Increasing Research Study Participation: The 
+     Director of NIH shall create a national electronic clinical 
+     trial registry with the National Library of Medicine
+
+[[Page S13582]]
+
+     (NLM) as specified in Subpart 6, Section 499H (b). The ACC 
+     shall publicize the registry with special attention given to 
+     minority groups, who are frequently underrepresented in 
+     clinical trials.
+       Section 499E-1. Grants for Quality Clinical Trial and 
+     Execution: The Director shall provide grants for clinical 
+     trial design and execution to academic centers or to private 
+     firms with highly promising therapeutic entities to fund 
+     multidisciplinary clinical research teams, whose members may 
+     include project managers, clinicians, epidemiologists, and 
+     nursing staff.
+       Section 499E-2. Streamlining the Regulatory Process 
+     Governing Clinical Research: This section streamlines the 
+     regulatory process governing clinical research, which has 
+     become increasingly unwieldy due to necessary but complex 
+     patient privacy and safety rules. The ACC shall establish a 
+     series of Centralized Institutional Review Boards (CIRB) to 
+     ensure human subject safety and well-being for multi-
+     institutional clinical trials. CIRB's shall be established in 
+     accordance with professional best practices and Good Clinical 
+     Practice (GCP) guidelines.
+       A CIRB shall be housed at the Institute or Center with 
+     expertise on the subject of the clinical trial or outside of 
+     the NIH in a public or private institution with comparable 
+     expertise and organizational capacity.
+       CIRB's will be available at the request of public or 
+     private institutions and funded through user fees or Center 
+     funds.
+       The CIRB shall act on behalf, in whole or in part, of the 
+     bodies ordinarily responsible for the safety of research 
+     subjects in a locality, on a contractual basis.
+       The CIRB will review and package research applications for 
+     facilitated electronic review by local IRB's participating in 
+     multi-center clinical trials. Local IRB review can be 
+     performed by a subcommittee that is empowered to make 
+     decisions in a timely manner. Local IRB's can either accept 
+     or reject the CIRB review.
+       Local IRB's which are part of the CIRB network shall be 
+     responsible for taking into consideration local 
+     characteristics such as educational level of research 
+     subjects to assure sound selection of research subjects and 
+     to minimize risks to vulnerable populations.
+       Each CIRB shall regularly communicate important information 
+     electronically to the local institutional review boards.
+       Section 499E-3. Training Clinical Researchers of the 
+     Future: The ACC will augment NIH's investment into programs 
+     developing the nation's clinical research workforce. These 
+     programs include: the NIH's Mentored Patient-oriented 
+     Research Career Development Award, NIH grants to help 
+     institutions develop curricula for clinical researchers, and 
+     NIH grants to fund participants in clinical science programs, 
+     which shall include but not be limited to clinical science 
+     certificates or clinical science Masters' Degrees.
+       Section 499E-4. Clinical Research Study and Clinical Trial: 
+     The Director shall commission the Institute of Medicine (IOM) 
+     to study the regulations protecting patient safety and 
+     anonymity so that in a contemporary clinical research 
+     context, a more realistic balance can be achieved between 
+     clinical research promotion and regulatory requirements 
+     governing research subject safety and privacy. The IOM will 
+     issue a written report within eighteen months of the passage 
+     of the Cures act which shall consider changes to the current 
+     Health Insurance Portability and Accountability Act (HIPAA) 
+     to further promote the clinical research endeavor.
+       Section 499E-5. Authorization of Appropriations from the 
+     Directors Acceleration Fund. $100 million dollars for 
+     Sections 499E-1(1), $50 million dollars for Section 499E-2, 
+     $200 million dollars for Section 499E-3, $2.5 million dollars 
+     for Section 499E-4.
+
+
+                       Subpart 4--Valley of Death
+
+       Small businesses are major drivers of innovation. Facile, 
+     motivated, numerous, and creative, these small businesses can 
+     extend the limits of R&D in a way large companies with secure 
+     product lines are unable to do. However, small businesses 
+     often encounter difficulty securing capital in the so called, 
+     ``Valley of Death''--the period between a research idea with 
+     possible application to the time the safety and efficacy of a 
+     product is demonstrated in human clinical trials. Common end-
+     pathways within the Valley of Death include development of 
+     pharmacological assays, scale-up of production from lab-scale 
+     to clinical-trials scale, development of suitable 
+     formulations, evaluation of chemical stability, evaluation of 
+     materials testing for durability or reactivity, undertaking 
+     initial toxicology studies, and planning and implementation 
+     of clinical trials.
+       Section 499F. Small Business Partnerships: The Small 
+     Business Innovation Research (SBIR) and Small Business 
+     Technology Transfer (STTR) programs are effective major 
+     investments in promoting the R&D portfolios of small 
+     businesses. SBIR and STTR receive 2.5% and 0.3% of the 
+     budgets, respectively, of federal agencies with R&D budgets 
+     greater than $100 million dollars. SBIR/STTR grants and 
+     contracts consist of three phases. Phase I plans for product 
+     development and procurement. Phase II addresses 
+     implementation of the plan. Phase III involves 
+     commercialization yet by law is ineligible for SBIR/STTR 
+     funding. Management and orientation of SBIR/STTR programs at 
+     the NIH can be improved.
+       This section moves the NIH's SBIR and STTR programs from 
+     the Extramural Research Office to the new Office of 
+     Bioscientific Enterprise Development (OBED) in the ACC Office 
+     of Technology Transfer (OTT).
+       The NIH currently awards its SBIR and STTR grants and 
+     contracts through a peer review process. Now, not less than 
+     35% of SBIR and STTR grants and contracts shall be rewarded 
+     on a competitive basis by an OBED program manager with 
+     significant managerial, technical, and translational research 
+     experience to expertly assess the quality of a SBIR or STTR 
+     proposal.
+       Program managers will place special emphasis on partnering 
+     grantees with potential purchasers or investors of technology 
+     from the start of the research and development process with 
+     potential purchasers or investors including federal agencies 
+     such as the NIH.
+       ACC shall reduce the time between Phase I and Phase II 
+     funding to 6 months or less. Currently, grantees can wait up 
+     to 5 years to learn whether or not they are a recipient of a 
+     phase II grant.
+       An SBIR/STTR project manager may petition the OTT for Phase 
+     III funding from the Director's acceleration fund for 
+     projects requiring a supplementary funds to finalize product 
+     commercialization. The maximum funding for Phase III funding 
+     of a project shall be $2,000,000 for a maximum of 2 years.
+       All recipients of SBIR/STTR funding are required to report 
+     to the OTT whether there was eventual commercial success of 
+     the product. OTT shall keep a publicly accessible electronic 
+     record of all SBIR/STTR investments in research and 
+     development. The record shall include at minimum the 
+     following information: the grantee, a description of the 
+     funded research, the amount of money awarded in each phase of 
+     SBIR/STTR research, and if applicable, the nature of the 
+     products developed.
+       For each fiscal year, the two grants program managers who 
+     have had the greatest success in helping to commercialize 
+     products may be awarded a bonus up to $10,000.
+       Section 499F-1. Rapid Access to Intervention Development: 
+     The National Cancer Institute of the NIH has a successful 
+     translational research program called RAID (Rapid Access to 
+     Interventional Development). RAID lends essential expertise 
+     and resources including access to laboratories and facilities 
+     to researchers outside of the NIH. OTT shall expand upon this 
+     program and establish other RAID programs, designed to 
+     accelerate the process of bringing promising and novel 
+     discoveries from the laboratory to the pre-clinical trial 
+     stage.
+       RAID awardees have traditionally been selected to receive 
+     access to laboratories, facilities and other NIH supports for 
+     the pre-clinical development of drugs, biologics, diagnostics 
+     and devices, using the peer review process. Now, not less 
+     than 35% of RAID awards shall be awarded on a competitive 
+     basis by a program manager with significant managerial, 
+     technical, and translational research experience to 
+     adequately assess the quality of a project proposal.
+       Eligible awardees include university researchers, non-
+     profit research organizations, and firms of less than 100 
+     employees in collaboration with one or more university or 
+     non-profit organizations.
+       The Office may discontinue support at any point when the 
+     entity fails to meet commercialization success criteria 
+     established by the Office.
+       Examples of RAID support are given. These include advice 
+     regarding the investigational new drug or investigational new 
+     device filing with the Food and Drug Administration.
+       The Office shall not support products past proof-of-
+     principle clinical trials.
+       Section 499F-2. Toxicity Studies: Toxicity studies are 
+     essential to the development of any drug therapy, but are 
+     difficult to stage. The Center for Cures shall support 
+     ongoing research into the most efficient methods of screening 
+     for human toxicity, including using cell-based and animal 
+     model technologies.
+       OTT may offer support for toxicity studies to private 
+     companies licensing NIH intellectual property.
+       Section 499F-3. Additional funding sources and models: The 
+     Director of the Center for Cures may provide acceleration 
+     funds for flexible contracts for translational research 
+     development to entities that license intellectual property 
+     from NIH where such contracts support innovation and 
+     commercialization.
+       Section 499F-4. Authorization of Appropriations from the 
+     Directors Acceleration Fund. $400 million dollars for 
+     Sections 499F for $100 million dollars for 499F-1.
+
+
+                Subpart 5--Office of Technology Transfer
+
+       The Office of Technology Transfer (OTT) should be one of 
+     the NIH's most active entities. It is within the process of 
+     technology transfer where basic science research informs 
+     applications to health and where ideas are brought from bench 
+     to bedside and back to the bench. The OTT should be a library 
+     of innovation administered by experts who have experience in 
+     linking the translational research community with industry. 
+     This subpart improves upon the current research translation 
+     authorities of NIH's OTT.
+       Section 499G. Restructuring: The NIH Office of Technology 
+     Transfer in the NIH Director's Office shall be transferred to 
+     a new OTT Office in the American Center for Cures.
+       Section 499G-1. Marketing Function: The OTT office shall 
+     create a program for transfer management & support that 
+     cultivates industry interest in NIH funded research, reaches 
+     out to potential industry partners, coordinates patents from 
+     different NIH Institutes and Centers, and manages Cooperative 
+     Research and Development Agreements (CRADA's), biological 
+     licensing agreements,
+
+[[Page S13583]]
+
+     material transfer agreements, and intellectual property 
+     licensing.
+       To promote government-industry partnerships, the OTT shall 
+     create an electronic database within the National Library of 
+     Medicine that tabulates translational research efforts 
+     occurring at the NIH. The OTT shall hold an annual 
+     translational research conference the bring together public 
+     and private stakeholders.
+       The OTT shall develop a program for transfer management & 
+     support which will be familiar with the NIH's intramural and 
+     extramural research portfolio as well as with the interests 
+     of small and large biotech and pharmaceutical industries. For 
+     those Institutes or Centers with their own OTT offices, the 
+     new OTT program for transfer management & support will work 
+     closely with those offices to coordinate industry outreach 
+     efforts.
+       As appropriate, OTT shall register CRADA's within a 
+     publicly accessible electronic database maintained by NLM.
+       Section 499G-2. Office of Intramural Risk Opportunity and 
+     Mapping: An Office of Intramural Risk Mapping within OTT 
+     shall oversee the intramural research programs of the NIH to 
+     be certain they are complementary, non-duplicative, and 
+     distinct from extramural and private programs.
+       The Office shall identify and map health risks and 
+     scientific opportunities and update the data on these topics 
+     as necessary to ensure they are current. This information is 
+     to be provided to the Cures Council on a biannual basis to 
+     help them prioritize the nation's translational research 
+     investment.
+       The Office shall make funds available to groups of NIH 
+     Institutes and Centers to promote multidisciplinary projects 
+     that focus on health risk analysis and corresponding 
+     scientific risk opportunity. Preference will go to projects 
+     that demonstrate a high degree of collaboration and which 
+     address diseases with the great burden or research promise, 
+     and that are most likely to result in the development of a 
+     diagnostic or therapeutic prototype.
+       $150 million dollars is authorized to be appropriated from 
+     the Director's Acceleration Fund to fund the Office.
+       Section 499G-3. Patenting and Licensing Incentives: The OTT 
+     shall make every effort to increase licensing to stimulate 
+     the availability of products for clinical use. The OTT shall 
+     recommend to the Director incentives that create private 
+     sector, financial, commercial, and academic interest in the 
+     NIH's IP portfolio. These incentives may include extensions 
+     of NIH health patents, restoration of NIH health patents, and 
+     partnering options to pursue exclusive and nonexclusive 
+     licensing to one or multiple partners in the government, 
+     industrial, and/or academic sectors.
+       The Director shall encourage OTT to develop flexible models 
+     for contracts that fulfill the needs of industry and the 
+     public.
+       Section 499G-4. Translational Researcher Development: The 
+     Director shall oversee development of a curriculum for 
+     internships in translational research encompassing rotations 
+     through multiple NIH Institutes and Centers, the clinical 
+     trial design process, the NLM, and other related disciplines 
+     with an emphasis on practical experience.
+       Tuition grants for extramural translational research 
+     programs shall be administered under the supervision of the 
+     Director.
+       The ACC shall train interdisciplinary scientists in the 
+     science of risk analysis & mapping through a program of 
+     internships and fellowships.
+       Section 499G-6. Translational Research Training Program: 
+     The NIH Director shall ensure that each NIH Institute or 
+     Center establishes a translational research training program.
+
+
+               Subpart 6--Developing Information Systems
+
+       The NIH's National Center for Biotechnology Information 
+     (NCBI) at the NLM provides essential information resources to 
+     scientists worldwide and is the underpinning of much of NIH 
+     conducted biomedical research. The NCBI's databases and 
+     computational and linkage tools nurture information sharing 
+     and are critical to identifying interconnections, developing 
+     insights, and accelerating biomedical breakthroughs.
+       Section 499H. Advancing National Health Information 
+     Infrastructure.
+       The NLM shall develop new computational methods to assist 
+     in the processing of genomic data. There is authorized to be 
+     appropriated $2.5 million dollars to support the 
+     computational infrastructure and $5.5 million dollars to hire 
+     expert biologists and computer scientists trained in 
+     bioinformatics.
+       Secretary of Health and Human Services acting through the 
+     Director of NIH will work with the NLM to construct a 
+     clinical trial registry and clinical results database 
+     tracking all phase III clinical trials taking place in the 
+     United States. This registry and database will expand upon 
+     the NLM's current information system and database.
+       The registry of clinical trials shall include at least the 
+     following: clinical trial title, description of the product 
+     under study, the hypothesis to be tested, brief description 
+     of the intervention, the study design, methodology, duration 
+     and location, participation criteria, contact information and 
+     sponsoring organization.
+       The databank of clinical trial results shall consist of at 
+     least the following: trial start date and completion date, 
+     summary of the results of the trial, summary data tables with 
+     respect to the primary and secondary outcome measures, 
+     information on the statistical significance of the results, 
+     links to publications in peer reviewed journals relating to 
+     the trial, a description of the process used to review the 
+     results of the trial, and safety data concerning the trial.
+       Public or private entities shall register a phase III 
+     clinical trial not later than 3 months after submitting the 
+     Food and Drug Administration (FDA) approves the clinical 
+     trial protocol and report phase III clinical trial results 
+     not later than 3 months after completing the trial. 
+     Information provided to the NLM must be accurate and updated.
+       Penalties for not registering clinical trials or reporting 
+     clinical trial results can be loss of future public funding 
+     or in cases where an entity does not receive public funding, 
+     a fine of up to $2,000,000 dollars.
+       The Secretary may waive clinical trial submission 
+     requirements upon a written request from the responsible 
+     person if the Secretary determines that providing the waiver 
+     is in the public's interest or consistent with protection of 
+     the public's health.
+       Section 499H-1. Publication Requirement for Research: The 
+     Director of the NIH shall require that for any research 
+     funded by the NIH, Centers for Disease Control and Prevention 
+     (CDC), and the Agency for Healthcare Research and Quality 
+     (AHRQ), there will be a standardized report of this research 
+     for public viewing. Department of Health and Human Services 
+     (DHHS) grantees shall provide the NLM an electronic copy of 
+     the final version of all peer-reviewed manuscripts accepted 
+     for publication for display on their digital library archive, 
+     PubMed Central, within 6 months from the date of its 
+     publication.
+       Failure to submit required information to the NLM within 6 
+     months from the date of publication may result in loss of 
+     public funding for investigators.
+       Section 499H-2. Informatics Training and Workforce 
+     Development. 21st Century technologies for analyzing DNA, 
+     RNA, proteins, and other biologically important molecules are 
+     generating a ``tsunami of data'' which are far beyond the 
+     understanding of unaided human cognition, but hold the key to 
+     improved understanding of human health and disease. Training 
+     of individuals in ``clinical bioinformatics''--translational 
+     research that applies computerized analytic methods of 
+     molecules, cells, tissues, and body systems to the 
+     prevention, diagnosis and treatment of human disease--will be 
+     pivotal to fostering this emerging and important data-
+     intensive field.
+       The NIH shall develop a multi-faceted approach to 
+     increasing the number of persons trained in clinical 
+     bioinformatics. This shall include but not be limited to 
+     augmenting secondary school science programs, undergraduate 
+     degree programs in Bioinformatics, NIH bioinformatics 
+     graduate training programs, and Centers of Excellence in 
+     Clinical Bioinformatics.
+       Authorization of Appropriations from the Cures Acceleration 
+     Fund is $50 million dollars for this section.
+       Section 499H-3. NLM Expansion of Facilities. In 2002, 
+     Congress authorized an expansion of the NLM. These facilities 
+     may be essential to the NLM's capacity to fill its numerous 
+     informatics functions. The Director will commission the IOM 
+     to report to Congress on the impact of not funding the 
+     expansion of facilities.
+
+
+                       Subpart 7--Research Tools
+
+       Innovation requires proper tools for discovery. These 
+     include animal models that can be surrogates for human 
+     systems and markers that illuminate otherwise invisible 
+     cells, DNA, proteins and viruses. Arguably, the development 
+     of research tools is subject to the same market forces as 
+     more common end products--drugs, medical devices, and 
+     vaccines.
+       Section 499I. NIH Research Tool Inventory: The Director of 
+     NIH shall direct the head of each NIH Institute and Center to 
+     perform an annual review of its research tool inventory for 
+     the specific purpose of enabling each Institute and Center to 
+     understand processes for research tool distribution, 
+     frequency of use, IP status, and utility. Each NIH Institute 
+     and Center shall also describe in its review the type and 
+     quantity of research tools it desires to obtain in order to 
+     better fulfill its R&D goals.
+       The ACC shall enter this inventory into an electronic 
+     research tool database and use this database to oversee the 
+     prioritization and funding of new projects to fulfill 
+     pressing needs and to encourage promising technologies.
+       Section 499I-1. Exceptions to Tool Guidelines: The Director 
+     of NIH may advise the OTT to provide exceptions to 
+     prohibition against patenting and licensing research tools 
+     under some appropriate circumstances when exclusive or non-
+     exclusive licensing provides the swiftest, and most 
+     efficacious final development of an important health care 
+     technology.
+                                  ____
+
+
+                                S. 2104
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``American Center for Cures 
+     Act of 2005''.
+
+     SEC. 2. TABLE OF CONTENTS.
+
+       The table of contents for this Act is as follows:
+
+
+[[Page S13584]]
+
+
+Sec. 1. Short title.
+Sec. 2. Table of contents.
+Sec. 3. Findings.
+Sec. 4. American Center for Cures.
+
+                  ``Part J--American Center for Cures
+
+``Sec. 499A. Definitions.
+``Sec. 499B. Establishment of American Center for Cures.
+
+
+     ``Subpart 1--Federally Funded Research and Development Centers
+
+``Sec. 499C. Federally Funded Research and Development Centers.
+
+
+             ``Subpart 2--Health Advanced Research Projects
+
+``Sec. 499D. Health Advanced Research Projects Agency.
+
+
+                      ``Subpart 3--Clinical Trials
+
+``Sec. 499E. Increasing research study participation.
+``Sec. 499E-1. Grants for quality clinical trial design and execution.
+``Sec. 499E-2. Streamlining the regulatory process governing clinical 
+              research.
+``Sec. 499E-3. Training clinical researchers of the future.
+``Sec. 499E-4. Clinical research study and clinical trial.
+``Sec. 499E-5. Authorization of appropriations.
+
+
+                      ``Subpart 4--Valley of Death
+
+``Sec. 499F. Small business partnerships.
+``Sec. 499F-1. Rapid access to intervention development.
+``Sec. 499F-2. Toxicity studies.
+``Sec. 499F-3. Additional funding sources and models.
+``Sec. 499F-4. Authorization of appropriations.
+
+
+               ``Subpart 5--Office of Technology Transfer
+
+``Sec. 499G. Restructuring.
+``Sec. 499G-1. Marketing function.
+``Sec. 499G-2. Office of Intramural Risk Opportunity and Mapping.
+``Sec. 499G-3. Patenting and licensing incentives.
+``Sec. 499G-4. Translational researcher development.
+``Sec. 499G-5. Translational research training program.
+
+
+              ``Subpart 6--Developing Information Systems
+
+``Sec. 499H. Advancing national health information infrastructure.
+``Sec. 499H-1. Public access requirement for research.
+``Sec. 499H-2. Informatics training and workforce development.
+``Sec. 499H-3. National Library of Medicine expansion of facilities.
+
+
+                      ``Subpart 7--Research Tools
+
+``Sec. 499I. NIH research tool inventory.
+``Sec. 499I-1. Exceptions to tool guidelines.
+
+     SEC. 3. FINDINGS.
+
+       Congress finds the following:
+       (1) The National Institutes of Health (referred to in this 
+     section as the ``NIH'') is the United States premier 
+     biomedical research investment with annual appropriations 
+     exceeding $28,000,000,000.
+       (2) The mission of the NIH is science in pursuit of 
+     fundamental knowledge about the nature and behavior of living 
+     systems and the application of that knowledge to extend 
+     healthy life and reduce the burdens of illness and 
+     disability.
+       (3) The pace of knowledge application to promote health and 
+     reduce disease can be influenced through strategic funding 
+     and reorganization of some aspects of the traditional 
+     research endeavor. This process is known as translational 
+     research investment.
+       (4) The United States translational research investment 
+     will be key to the Nation responding effectively--
+       (A) to acute man-made or natural health threats;
+       (B) to the complexity and multi-disciplinary nature of 
+     chronic diseases, which are responsible for 7 out of every 10 
+     deaths in the United States and for more than 70 percent of 
+     the $1,700,000,000,000 spent in the United States on health 
+     care each year; and
+       (C) to research and development vacuums in the private for-
+     profit market, such as in the fields of vaccine and 
+     antibiotic production, drugs for Third World diseases, and 
+     medical tools for pediatric populations.
+       (5) Key components of the translational research process 
+     include research prioritization, an expert workforce, multi-
+     disciplinary collaborative work, facilitated information 
+     exchange, strategic risk taking, support of small innovative 
+     businesses caught along common pathways in the research and 
+     development Valley of Death, simplification and promotion of 
+     the clinical research endeavor, and involvement of private 
+     entities early on in the translational research endeavor that 
+     are skilled in the manufacturing and marketing process.
+
+     SEC. 4. AMERICAN CENTER FOR CURES.
+
+       (a) American Center for Cures.--Title IV of the Public 
+     Health Service Act (42 U.S.C. 281 et seq.) is amended by 
+     adding at the end the following:
+
+                  ``PART J--AMERICAN CENTER FOR CURES
+
+     ``SEC. 499A. DEFINITIONS.
+
+       ``In this part:
+       ``(1) Center.--The term `Center' means the American Center 
+     for Cures established under section 499B.
+       ``(2) Council.--The term `Council' means the Cures Council 
+     established under section 499B.
+       ``(3) Director.--The term `Director' means the Director of 
+     the American Center for Cures.
+       ``(4) Incubator.--The term `incubator' means an economic 
+     development organization designed to accelerate the growth 
+     and success of entrepreneurial individuals, concepts, and 
+     companies.
+       ``(5) Research tool.--The term `research tool' means a 
+     resource that scientists use in their laboratories that has 
+     no immediate therapeutic or diagnostic value, including cell 
+     lines, monoclonal antibodies, reagents, laboratory equipment 
+     and machines, databases, and computer software.
+       ``(6) Test bed.--The term `test bed' means the pilot 
+     environment to prototype innovation.
+       ``(7) Translational research.--The term `translational 
+     research' means investigation in which knowledge obtained 
+     from fundamental research such as with genes, cells, or 
+     animals, is transformed through early and late stage 
+     development prototyping and testing into diagnostic or 
+     therapeutic interventions that can be applied to the 
+     treatment or prevention of disease or frailty.
+
+     ``SEC. 499B. ESTABLISHMENT OF AMERICAN CENTER FOR CURES.
+
+       ``(a) In General.--There is established within the National 
+     Institutes of Health an American Center for Cures--
+       ``(1) whose mission shall be to increase the capacity of 
+     the National Institutes of Health to promote translational 
+     research, including between the institutes and centers of the 
+     National Institutes of Health, between the National 
+     Institutes of Health and other Federal agencies, and between 
+     grantees and business partners of the National Institutes of 
+     Health, so as to speed the development of effective 
+     therapies, diagnostics, and cures essential to human health 
+     and well being;
+       ``(2) that shall formulate and implement a strategy for the 
+     Nation's translational research investment, which strategy 
+     shall include--
+       ``(A) a prioritization of biomedical research on diseases 
+     based on disease burden and research promise; and
+       ``(B) funding for innovative, multidisciplinary, and 
+     collaborative research across the institutes and centers of 
+     the National Institutes of Health, across Federal agencies, 
+     and between public and private partners of the National 
+     Institutes of Health;
+       ``(3) that shall be guided, in part, by a series of `Grand 
+     Challenges' formulated through collaboration between the 
+     Director of Cures and the Council, that shall be strategic 
+     challenges that direct the public and private health research 
+     community towards collaborative multi-staged projects that 
+     have the potential to transform the healthcare environment, 
+     such as--
+       ``(A) the creation of laboratory diagnostics that enable 
+     the Nation to detect quickly and accurately acute health 
+     threats such as an avian flu pandemic or a bioterrorism 
+     attack;
+       ``(B) a focus on therapeutic delivery systems targeting 
+     individual viruses or hard to reach cells in the body, such 
+     as the brain, using advances in nanotechnology;
+       ``(C) accelerated research into the potential of stem cells 
+     to replace the form and function of tissues lost to patients 
+     suffering from diseases such as spinal cord injury, 
+     Parkinson's disease, and insulin-dependent diabetes;
+       ``(D) creation of a biomedical informatics infrastructure 
+     that can organize the human genome and the proteins for which 
+     the genome codes in ways that scientists can better 
+     understand the genetic contribution to phenotypic disease;
+       ``(E) the elaboration of adjuvant technology that can 
+     bolster the effectiveness of vaccines;
+       ``(F) development of antigen sparing vaccines such as those 
+     based on triggering the innate immune response;
+       ``(G) development of rapid vaccine manufacturing capacity 
+     from new production methods such as viral cell culture or 
+     bioengineering technology;
+       ``(H) creation of a fast track clinical trial 
+     infrastructure that incorporates a national doctor and 
+     patient registry, centralized investigational review boards, 
+     electronic medical records, and other health information 
+     technologies;
+       ``(I) a focus on addressing less profitable conditions for 
+     which research and development efforts are insufficient, such 
+     as--
+       ``(i) orphan, small population, and third world diseases;
+       ``(ii) antibiotic resistance;
+       ``(iii) a threat of a flu epidemic or pandemic;
+       ``(iv) diseases associated with social stigma such as 
+     depression and seizure disorders; or
+       ``(v) other comparable problems;
+       ``(J) a commitment by researchers and manufacturers from 
+     all sectors to develop vaccines for the world's most deadly 
+     infectious diseases, including HIV, tuberculosis, and 
+     malaria; and
+       ``(K) other appropriate challenges; and
+       ``(4) that shall have other appropriate purposes.
+       ``(b) Director of the Center and the Director of NIH.--
+       ``(1) In general.--The Center shall be administered by a 
+     Director of Cures who shall be appointed by the President 
+     with the advice and consent of the Senate. The Director of 
+     the NIH, in consultation with the Council, shall recommend 
+     candidates for the Director of Cures to the President.
+       ``(2) Activities.--
+       ``(A) Director of nih.--The Director of NIH shall--
+       ``(i) work with the Director of Cures to promote 
+     translational research efforts; and
+       ``(ii) serve as a co-chair of the Council.
+
+[[Page S13585]]
+
+       ``(B) Director of cures.--
+       ``(i) Acceleration fund.--
+
+       ``(I) In general.--The Director of Cures shall have at the 
+     Director's disposal an annual acceleration fund to provide 
+     support for research and development of breakthrough 
+     biomedical discoveries and to carry out the purpose of the 
+     Center. Amounts in the fund may be available through grants, 
+     contracts, and cooperative agreements to public sector 
+     entities, private sector entities, and non-governmental 
+     organizations. The Director of Cures shall allocate not less 
+     than \1/2\ of the acceleration funds to the Health Advanced 
+     Research Projects Agency described in subpart 2. The 
+     remainder of such funds shall be available to the Federally 
+     Funded Research and Development Centers described in subpart 
+     1 and other activities of the Center.
+       ``(II) Authorization of appropriations.--There are 
+     authorized to be appropriated to fund the acceleration fund 
+     under subclause (I) $5,000,000,000 for fiscal year 2007 and 
+     each succeeding fiscal year.
+
+       ``(ii) Direct other offices.--The Director of Cures shall 
+     direct other offices within the Center that are established 
+     under this part.
+       ``(c) Council.--
+       ``(1) Establishment.--There is established within the 
+     Center a Cures Council that shall convene not less frequently 
+     than twice a year to help advise and direct the translational 
+     research efforts of the Center.
+       ``(2) Membership.--
+       ``(A) In general.--The Council shall be composed of the 
+     following members:
+       ``(i) The Director of NIH and the Director of Cures who 
+     shall be Council co-chairs.
+       ``(ii) The heads of the institutes and centers of the 
+     National Institutes of Health.
+       ``(iii) Heads from not less than 9 Federal agencies, 
+     including--
+
+       ``(I) the Administrator for the Substance Abuse and Mental 
+     Health Services Administration;
+       ``(II) the Under Secretary for Science and Technology of 
+     the Department of Homeland Security;
+       ``(III) the Commanding General for the United States Army 
+     Medical Research and Materiel Command;
+       ``(IV) the Director of the Centers for Disease Control and 
+     Prevention;
+       ``(V) the Commissioner of Food and Drugs;
+       ``(VI) the Director of the Office of Science of the 
+     Department of Energy;
+       ``(VII) the President of the Institute of Medicine;
+       ``(VIII) the Director of the Agency for Healthcare Research 
+     and Quality; and
+       ``(IX) the Director of the Defense Advanced Research 
+     Projects Agency.
+
+       ``(B) Other members.--Membership of the Council shall also 
+     include not fewer than 3 leaders from the small business 
+     community, 3 leaders from large pharmaceutical or 
+     biotechnology companies, and 3 leaders from academia, all of 
+     whom shall be appointed by the President.
+       ``(3) Subcommittees.--The Council or the Council co-chairs 
+     may form subcommittees of the Council as needed.
+       ``(4) Recommendations; coordination.--The Council shall 
+     make recommendations that help the Director of Cures set 
+     research priorities for the Center. In making 
+     recommendations, the Council shall consider risk and burden 
+     of disease as well as lines of research uniquely poised to 
+     deliver effective diagnostics and therapies. The Council 
+     shall also coordinate research priorities in, and ensure 
+     sharing of research agendas among, the institutes and centers 
+     of the National Institutes of Health.
+       ``(5) Office of intramural risk opportunity and mapping.--
+     The Council shall be aided by the Office of Intramural Risk 
+     Opportunity and Mapping of the Office of Technology Transfer 
+     of the Center established in subpart 5.
+       ``(6) Annual assessment.--The Council shall make an annual 
+     assessment of the priorities and progress of the Center and 
+     shall make the assessment available to the public in written 
+     and electronic form.
+       ``(d) Budget and Funds.--The Director of Cures shall--
+       ``(1) prepare and submit, directly to the President for 
+     review and transmittal to Congress, an annual budget estimate 
+     for the Center, after reasonable opportunity for comment (but 
+     without change) by the Secretary, the Director of NIH, and 
+     the Council; and
+       ``(2) receive from the President and the Office of 
+     Management and Budget directly all funds appropriated by 
+     Congress for obligation and expenditure by the Center.
+
+     ``Subpart 1--Federally Funded Research and Development Centers
+
+     ``SEC. 499C. FEDERALLY FUNDED RESEARCH AND DEVELOPMENT 
+                   CENTERS.
+
+       ``(a) In General.--The Director of Cures is authorized to 
+     establish 1 or more Federally Funded Research and Development 
+     Centers that shall carry out activities related to the 
+     mission of the Center, as described in section 499B(a)(1).
+       ``(b) Duties.--
+       ``(1) In general.--The Federally Funded Research and 
+     Development Centers shall serve as sites for the performance 
+     of multidisciplinary and cross-disciplinary research and 
+     shall--
+       ``(A) establish, as appropriate, technology test beds and 
+     incubators;
+       ``(B) utilize cooperative agreements with the private 
+     sector; and
+       ``(C) conduct large-scale multidisciplinary translational 
+     research projects in health or disease areas that are 
+     essential to medical advancement but lack adequate private 
+     sector funding.
+       ``(2) Consultation.--In carrying out the duties described 
+     in paragraph (1), the Federally Funded Research and 
+     Development Centers shall consult widely with representatives 
+     from private industry, institutions of higher education, 
+     nonprofit institutions, other Federal governmental agencies, 
+     and other federally funded research and development centers.
+       ``(c) Competition.--The Director of Cures shall ensure that 
+     competitive mechanisms are used to select and to promote the 
+     ongoing quality and performance of the Federally Funded 
+     Research and Development Centers.
+       ``(d) Term of Funding.--Federally Funded Research and 
+     Development Centers shall be funded for not more than 7 
+     years, after which time the Federally Funded Research and 
+     Development Centers' re-funding shall be contingent upon 
+     approval by the Director of Cures and the Council.
+       ``(e) Reports.--Each Federally Funded Research and 
+     Development Center receiving funding under this section shall 
+     submit a biannual report to the Director and the appropriate 
+     committees of Congress on the activities carried out by the 
+     Federally Funded Research and Development Center under this 
+     section.
+       ``(f) Funding for Support.--For any fiscal year, the 
+     Director of Cures may use not more than 25 percent of the 
+     funds available to the Director under the acceleration fund 
+     under section 499B(b)(2)(B)(i)(II) to establish Federally 
+     Funded Research and Development Centers under this section.
+
+             ``Subpart 2--Health Advanced Research Projects
+
+     ``SEC. 499D. HEALTH ADVANCED RESEARCH PROJECTS AGENCY.
+
+       ``(a) Establishment.--There is established within the 
+     Center a Health Advanced Research Projects Agency (referred 
+     to in this section as the `Research Projects Agency') that 
+     shall--
+       ``(1) carry out activities related to the mission of the 
+     Center, as described in section 499B(a)(1); and
+       ``(2) be headed by a Director of the Research Projects 
+     Agency who is appointed by the Director of Cures.
+       ``(b) Composition.--The Research Projects Agency shall be 
+     composed of not more than 100 portfolio managers in key 
+     health areas, which areas are determined by the Director of 
+     the Research Projects Agency in conjunction with the Director 
+     of Cures and the Council.
+       ``(c) Guidance.--The Research Projects Agency shall be 
+     guided by and shall undertake grand challenges formulated by 
+     the Center that encourage innovative, multi-disciplinary, and 
+     collaborative research across institutes and centers of the 
+     National Institutes of Health, across Federal agencies, and 
+     between public and private partners of the National 
+     Institutes of Health.
+       ``(d) Management Guidance.--The Research Projects Agency 
+     shall be guided by the following management and organizing 
+     principles in directing the Research Projects Agency:
+       ``(1) Keep the Research Projects Agency small, flexible, 
+     entrepreneurial, and non-hierarchical, and empower portfolio 
+     managers with substantial autonomy to foster research 
+     opportunities with freedom from bureaucratic impediments in 
+     administering the manager's portfolios.
+       ``(2) Seek to employ the strongest scientific and technical 
+     talent in the Nation in research fields in which the Research 
+     Projects Agency is working.
+       ``(3) Rotate a significant portion of the staff after 3 to 
+     5 years of experience to ensure continuous entry of new 
+     talent into the Research Projects Agency.
+       ``(4) Use whenever possible research and development 
+     investments by the Research Projects Agency to leverage 
+     comparable matching investment and coordinated research from 
+     other institutes and centers of the National Institutes of 
+     Health, from other Federal agencies, and from the private and 
+     non-profit research sectors.
+       ``(5) Utilize supporting technical, contracting, and 
+     administrative personnel from other institutes and centers of 
+     the National Institutes of Health in administering and 
+     implementing research effort to encourage participation, 
+     collaboration, and cross-fertilization of ideas across the 
+     National Institutes of Health.
+       ``(6) Utilize a challenge model in Research Projects Agency 
+     research efforts, creating a translational research model 
+     that supports fundamental research breakthroughs, early and 
+     late stage applied development, prototyping, knowledge 
+     diffusion, and technology deployment.
+       ``(7) Establish metrics to evaluate research success and 
+     periodically revisit ongoing research efforts to carefully 
+     weigh new research opportunities against ongoing research.
+       ``(8) Tolerate risk-taking in research pursuits.
+       ``(9) Ensure that revolutionary and breakthrough technology 
+     research dominates the Research Projects Agency's research 
+     agenda and portfolio.
+       ``(e) Activities.--Using the funds and authorities provided 
+     to the Director of Cures, and the authorities provided to the 
+     Director of NIH, the Research Projects Agency shall carry out 
+     the following activities:
+       ``(1) The Research Projects Agency shall support basic and 
+     applied health research to promote revolutionary technology 
+     changes that promote health needs.
+
+[[Page S13586]]
+
+       ``(2) The Research Projects Agency shall advance the 
+     development, testing, evaluation, prototyping, and deployment 
+     of critical health products.
+       ``(3) The Research Projects Agency, consistent with 
+     recommendations of the Council, with the priorities of the 
+     Director of Cures, and with the need to discuss challenges 
+     described in section 499B(a)(3), shall emphasize--
+       ``(A) translational research efforts, including efforts 
+     conducted through collaboration with the private sector, that 
+     pursue--
+       ``(i) innovative health products that could significantly 
+     and promptly address acute health threats such as a flu 
+     pandemic, spread of antibiotic resistant hospital acquired 
+     infections, or other comparable problems;
+       ``(ii) remedies for diseases afflicting lesser developed 
+     countries;
+       ``(iii) remedies for orphan and small population diseases;
+       ``(iv) alternative technologies with significant health 
+     promise that are not well-supported in the system of health 
+     research, such as adjuvant technology or technologies for 
+     vaccines based on the innate immunological response; and
+       ``(v) fast track development, including development through 
+     accelerated completion of animal and human clinical trials, 
+     for emerging remedies for significant public health problems; 
+     and
+       ``(B) other appropriate translational research efforts for 
+     critical health issues.
+       ``(4) The Research Projects Agency shall utilize funds to 
+     provide support to outstanding research performers in all 
+     sectors and encourage cross-disciplinary research 
+     collaborations that will allow scientists from fields such as 
+     information and computer sciences, nanotechnology, chemistry, 
+     physics, and engineering to work alongside top researchers 
+     with more traditional biomedical backgrounds.
+       ``(5) The Research Projects Agency shall provide selected 
+     research projects with single-year or multi-year funding and 
+     require researchers for such projects to provide interim 
+     progress reports to the Research Projects Agency on not less 
+     frequently than a biannual basis.
+       ``(6) The Research Projects Agency shall award competitive, 
+     merit-reviewed grants, cooperative agreements, or contracts 
+     to public or private entities, including businesses, 
+     federally-funded research and development centers, and 
+     universities.
+       ``(7) The Research Projects Agency shall provide advice to 
+     the Director of Cures concerning funding priorities.
+       ``(8) The Research Projects Agency may solicit proposals 
+     for competitions to address specific health vulnerabilities 
+     identified by the Director and award prizes for successful 
+     outcomes.
+       ``(9) The Research Projects Agency shall periodically hold 
+     health research and technology demonstrations to improve 
+     contact among researchers, technology developers, vendors, 
+     and acquisition personnel.
+       ``(10) The Research Projects Agency shall carry out other 
+     activities determined appropriate by the Director of Cures.
+       ``(f) Employees.--
+       ``(1) Hiring.--The Research Projects Agency, in hiring 
+     employees for positions with the Research Projects Agency, 
+     shall have the same hiring and management authorities as 
+     described in section 1101 of the Strom Thurmond National 
+     Defense Authorization Act for Fiscal Year 1999 (5 U.S.C. 3104 
+     note).
+       ``(2) Term.--
+       ``(A) In general.--Except as provided in subparagraph (B), 
+     the term of such appointments for employees of the Research 
+     Projects Agency may not exceed 5 years.
+       ``(B) Extension.--The Director of the Research Projects 
+     Agency may, in the case of a particular employee of the 
+     Research Projects Agency, extend the term to which employment 
+     is limited under subparagraph (A) by up to 2 years if the 
+     Director of the Research Projects Agency determines that such 
+     action is necessary to promote the efficiency of the Research 
+     Projects Agency.
+       ``(g) Flexibility.--The Research Projects Agency shall have 
+     the authority to flexibly fund projects, including the prompt 
+     awarding, releasing, enhancing, or withdrawal of monies in 
+     accordance with the assessment of the Research Projects 
+     Agency and project manager.
+       ``(h) Funding.--The Research Projects Agency shall utilize 
+     funds received from the acceleration fund, described in 
+     section 499B(b)(2)(B)(i), for the Agency's research and 
+     development activities. There is authorized to be 
+     appropriated from such fund $2,500,000,000 to carry out the 
+     activities of the Research Projects Agency.
+
+                      ``Subpart 3--Clinical Trials
+
+     ``SEC. 499E. INCREASING RESEARCH STUDY PARTICIPATION.
+
+       ``The Director of NIH shall establish a national clinical 
+     study registry within the National Library of Medicine of the 
+     National Institutes of Health in accordance with section 
+     499H. The Center shall publicize the registry, with attention 
+     given to minority groups that are frequently underrepresented 
+     in clinical trials.
+
+     ``SEC. 499E-1. GRANTS FOR QUALITY CLINICAL TRIAL DESIGN AND 
+                   EXECUTION.
+
+       ``The Director of Cures--
+       ``(1) shall award grants for clinical trial design and 
+     execution to academic centers to fund multi-disciplinary 
+     clinical research teams, which clinical research teams may be 
+     composed of members who include project managers, clinicians, 
+     epidemiologists, social scientists, and nursing staff; and
+       ``(2) may award grants for clinical trial design and 
+     execution to researchers from small firms with highly 
+     promising novel therapeutic entities.
+
+     ``SEC. 499E-2. STREAMLINING THE REGULATORY PROCESS GOVERNING 
+                   CLINICAL RESEARCH.
+
+       ``(a) Establishment of Centralized Institutional Review 
+     Boards.--
+       ``(1) In general.--The Director of Cures shall establish a 
+     series of Centralized institutional Review Boards (referred 
+     to in this section as `CIRBs') to serve as human subject 
+     safety and well being custodians for multi-institutional 
+     clinical trials that are funded partially or in full by 
+     public research dollars.
+       ``(2) Existing guidelines and best practices.--CIRBs shall 
+     be established in accordance with professional best practices 
+     and Good Clinical Practice (GCP) guidelines so that 
+     institutions involved in multi-institutional studies may--
+       ``(A) use joint review;
+       ``(B) rely upon the review of another qualified 
+     institutional review board; or
+       ``(C) use similar arrangements aimed to avoid duplication 
+     of effort and to assure a high quality of expert oversight.
+       ``(b) Housed.--Each CIRB shall be housed--
+       ``(1) at the institute or center of the National Institutes 
+     of Health with expertise on the subject of the clinical 
+     trial; or
+       ``(2) at a public or private institution with comparable 
+     organizational capacity, such as the Department of Veterans 
+     Affairs.
+       ``(c) Service.--The use of CIRBs shall be available, as 
+     appropriate, at the request of public or private institutions 
+     and shall be funded through user fees of the CIRBs or the 
+     Center's funds.
+       ``(d) Review Process.--
+       ``(1) In general.--Each CIRB shall review research 
+     protocols and informed consent to ensure the protection and 
+     safety of research participants enrolled in multi-
+     institutional clinical trials.
+       ``(2) Process.--The CIRB review process shall consist of 
+     contractual agreements between the CIRB and the study sites 
+     of multi-institutional clinical trials. The CIRB shall act on 
+     behalf, in whole or in part, of the bodies ordinarily 
+     responsible for the safety of research subjects in a 
+     locality. In the case in which a locality does not have such 
+     a body, the locality shall depend solely on the CIRB to 
+     oversee the protection of human subjects and the CIRB shall 
+     assume responsibility for ensuring adequate assessment of the 
+     local research context.
+       ``(e) Research Applications.--
+       ``(1) In general.--Each CIRB shall review and package 
+     research applications for facilitated electronic review by 
+     local institutional review boards participating in a multi-
+     institutional clinical trial.
+       ``(2) Local review.--Local institutional review board 
+     review may be performed by a subcommittee of the local 
+     institutional review board that is empowered to make 
+     decisions in a timely manner.
+       ``(3) CIRB review.--A local institutional review board may 
+     accept or reject a CIRB review. In the case in which a local 
+     institutional review board accepts a CIRB review, the CIRB 
+     shall assume responsibility for annual, amendment, and 
+     adverse event reviews.
+       ``(f) Work in Concert.--In the case in which a local 
+     institutional review board works in concert with a CIRB, the 
+     local institutional review board shall be responsible for 
+     taking into consideration local characteristics (including 
+     ethnicity, educational level, and other demographic 
+     characteristics) of the population from which research 
+     subjects will be drawn, which influence, among other things, 
+     whether there is sound selection of research subjects or 
+     whether adequate provision is made to minimize risks to 
+     vulnerable populations.
+       ``(g) Communication of Important Information.--Each CIRB 
+     shall regularly communicate important information in 
+     electronic form to the local institutional review boards or, 
+     in cases where a local institutional review board does not 
+     exist, to the principal investigator, including regular 
+     safety updates or changes in research protocol to improve 
+     safety.
+       ``(h) Coordination.--Each CIRB shall fully coordinate with 
+     the institute or center of the National Institutes of Health 
+     that has specialized knowledge of the research area of the 
+     clinical trial. Other Federal agencies and private entities 
+     undertaking clinical trials may contract with the Center to 
+     use a CIRB.
+
+     ``SEC. 499E-3. TRAINING CLINICAL RESEARCHERS OF THE FUTURE.
+
+       ``The Center shall augment the National Institutes of 
+     Health's investment into programs dedicated to developing the 
+     clinical research workforce for tomorrow. The programs shall 
+     include:
+       ``(1) The National Institutes of Health's Mentored Patient-
+     Oriented Research Career Development Award to support the 
+     career development of investigators who have made a 
+     commitment to focus their research endeavors on patient-
+     oriented research.
+       ``(2) The National Institutes of Health's award to 
+     encourage mentorship among particularly talented early- and 
+     mid-career investigators doing clinical research who want to 
+     train new investigators.
+       ``(3) The National Institutes of Health grants to help 
+     institutions develop curricula for clinical researchers 
+     leading to a clinical science certificate or master's degree.
+       ``(4) The National Institutes of Health grants to fund 
+     participants in clinical science programs, including clinical 
+     science certificates or clinical science masters' degrees.
+
+[[Page S13587]]
+
+     ``SEC. 499E-4. CLINICAL RESEARCH STUDY AND CLINICAL TRIAL.
+
+       ``The Director of NIH shall--
+       ``(1) commission the Institute of Medicine of the National 
+     Academies to study the rules that protect patient safety and 
+     anonymity so that in a contemporary clinical research 
+     context, a better balance can be achieved between clinical 
+     research promotion and regulatory requirement governing 
+     research subject safety and privacy; and
+       ``(2) request that the Institute of Medicine issue a 
+     written report not later than 18 months after the date of 
+     enactment of this part that shall--
+       ``(A) consider changes to the Health Insurance Portability 
+     and Accountability Act of 1996 (Public Law 104-191) and the 
+     amendments made by such Act that further promote the clinical 
+     research endeavor; and
+       ``(B) include recommendations for changes that shall not be 
+     limited to legislation but shall include changes to health 
+     care systems and to researcher practice that facilitate the 
+     clinical research endeavor.
+
+     ``SEC. 499E-5. AUTHORIZATION OF APPROPRIATIONS.
+
+       ``There are authorized to be appropriated from the 
+     acceleration fund of the Director of Cures described in 
+     section 499B(b)(2)(B)(i)--
+       ``(1) $100,000,000 to carry out section 499E-1(1) for 
+     fiscal year 2007 and each succeeding fiscal year;
+       ``(2) $50,000,000 to carry out section 499E-2 for fiscal 
+     year 2007 and each succeeding fiscal year;
+       ``(3) $200,000,000 to carry out section 499E-3 for fiscal 
+     year 2007 and each succeeding fiscal year; and
+       ``(4) $2,500,000 to carry out section 499E-4.
+
+                      ``Subpart 4--Valley of Death
+
+     ``SEC. 499F. SMALL BUSINESS PARTNERSHIPS.
+
+       ``(a) Establishment of the Office of Bioscientific 
+     Enterprise Development.--
+       ``(1) Establishment.--There is established within the 
+     Office of Technology Transfer of the Center (as established 
+     in subpart 5) an Office of Bioscientific Enterprise 
+     Development (referred to in the subpart as the `OBED').
+       ``(2) Transfers.--
+       ``(A) In general.--The OBED shall include the functions 
+     (including related personnel and resources) of the following 
+     programs of the Office of Extramural Research in the Office 
+     of the Director of the National Institutes of Health:
+       ``(i) The Small Business Innovation Research program 
+     (referred to in this subpart as the `SBIR').
+       ``(ii) The Small Business Technology Transfer program 
+     (referred to in this subpart as the `STTR').
+       ``(B) Time for transfers.--The Secretary shall ensure that 
+     the programs described in subparagraph (A) are transferred to 
+     the OBED not later than 6 months after the date of enactment 
+     of this part.
+       ``(b) SBIR and STTR Grants and Contracts.--
+       ``(1) In general.--Not less than 35 percent of the grants 
+     and contracts awarded by the SBIR and STTR shall be awarded 
+     on a competitive basis by an OBED program manager with 
+     sufficient managerial, technical, and translational research 
+     expertise to expertly assess the quality of a SBIR or STTR 
+     proposal. The OBED, through such project manager, shall place 
+     special emphasis on SBIR and STTR grant and contract 
+     applications that identify from the onset products with 
+     commercial potential that influence human health.
+       ``(2) Potential purchasers or investors.--The OBED shall 
+     administer non-peer reviewed grants and contracts under this 
+     subsection through program managers who shall place special 
+     emphasis on partnering grantees and entities awarded 
+     contracts from the very beginning of the research and 
+     development process with potential purchasers or investors of 
+     the products, including large pharmaceutical or biotechnology 
+     companies, venture capital firms, and Federal agencies 
+     (including the National Institutes of Health).
+       ``(3) Phase i and ii.--The OBED shall reduce the time 
+     period between Phase I and Phase II funding of grants and 
+     contracts under the SBIR and STTR to--
+       ``(A) 6 months; or
+       ``(B) less than 6 months if the grantee or entity awarded a 
+     contract demonstrates that the grantee or entity awarded a 
+     contract has interest from third parties to buy or fund the 
+     product developed with the grant or contract.
+       ``(4) Phase iii.--
+       ``(A) Funding.--A program manager under this subsection may 
+     petition the Director of Cures for Phase III funding of the 
+     grant or contract for a project that requires a boost to 
+     finalize procurement of a product. The maximum funding for 
+     Phase III funding of a project shall be $2,000,000 for a 
+     maximum of 2 years. Such Phase III funding shall come from 
+     the acceleration fund, as described in section 
+     499B(b)(2)(B)(i), of the Director of Cures.
+       ``(B) Report success.--Each recipient of a SBIR or STTR 
+     grant or contract, as a condition of receiving such grant or 
+     contract, shall report to the OBED whether there was eventual 
+     commercial success of the product developed with the 
+     assistance of the grant or contract.
+       ``(5) Record.--
+       ``(A) In general.--The OBED shall keep a publicly 
+     accessible electronic record of all SBIR or STTR investments 
+     in research and development.
+       ``(B) Contents.--The record described in subparagraph (A) 
+     shall include, at minimum, the following information:
+       ``(i) The grantee or entity awarded a contract.
+       ``(ii) A description of the research being funded.
+       ``(iii) The amount of money awarded in each phase of SBIR 
+     or STTR funding.
+       ``(iv) If applicable, the purchaser of the product, current 
+     use of the product, and estimated annual revenue resulting 
+     from the procurement.
+       ``(6) Bonus.--For each fiscal year, for the non-peer 
+     reviewed SBIR and STTR grants or contracts, the 2 program 
+     managers who are most successful in terms of the number of 
+     grantees or entities awarded a contract who complete Phase 
+     III shall each be awarded a $10,000 bonus.
+
+     ``SEC. 499F-1. RAPID ACCESS TO INTERVENTION DEVELOPMENT.
+
+       ``(a) Establishment of Office.--The Office of Technology 
+     Transfer of the Center shall establish an Office of Rapid 
+     Access to Intervention Development (referred to in this 
+     subpart as the `RAID') that--
+       ``(1) is designed to assist translating promising, novel, 
+     and scientifically meritorious therapeutic interventions to 
+     clinical use by providing support to help investigators 
+     navigate the product development pipeline;
+       ``(2) shall aim to remove barriers between laboratory 
+     discoveries and clinical trials of new molecular therapies, 
+     technologies, and other clinical interventions;
+       ``(3) shall aim to progress, augment, and complement the 
+     innovation and research conducted in private entities to 
+     reduce duplicative and redundant work using public funds; and
+       ``(4) shall coordinate with the offices of the National 
+     Institutes of Health that promote translational research in 
+     the pre-clinical phase across the National Institutes of 
+     Health.
+       ``(b) Projects.--
+       ``(1) In general.--The RAID, in collaboration with the 
+     Director of Cures, shall carry out a program that shall 
+     select, in accordance with paragraph (2), projects of 
+     eligible entities that shall receive access to laboratories, 
+     facilities, and other support resources of the National 
+     Institutes of Health for the pre-clinical development of 
+     drugs, biologics, diagnostics, and devices.
+       ``(2) Selection.--Not less than 35 percent of the projects 
+     selected under paragraph (1) shall be selected on a 
+     competitive basis by a program manager with sufficient 
+     managerial, technical, and translational research expertise 
+     to adequately assess the quality of a project proposal. 
+     Projects under paragraph (1) may also be selected from a peer 
+     review process.
+       ``(3) Eligible entities.--In this subsection, the term 
+     `eligible entity' means--
+       ``(A) a university researcher;
+       ``(B) a nonprofit research organization; or
+       ``(C) a firm of less than 100 employees in collaboration 
+     with 1 or more universities or nonprofit organizations.
+       ``(4) Discontinue support.--The RAID may discontinue 
+     support of a project if the project fails to meet 
+     commercialization success criteria established by the RAID.
+       ``(c) Discoveries From Lab to Clinic.--The program under 
+     subsection (b) shall accelerate the process of bringing 
+     discoveries from the laboratory to the clinic through--
+       ``(1) the development of pharmacological assays;
+       ``(2) the scale-up of production from lab scale to 
+     clinical-trials scale;
+       ``(3) the development of suitable formulations;
+       ``(4) the evaluation of chemical stability;
+       ``(5) the evaluation of materials testing for durability or 
+     reactivity;
+       ``(6) undertaking initial toxicology studies;
+       ``(7) planning clinical trials; and
+       ``(8) advice regarding the investigational new drug or 
+     investigational new device filing with the Food and Drug 
+     Administration.
+       ``(d) Ongoing Review.--The RAID shall review, on an ongoing 
+     basis, potential products and may not support products past 
+     the proof-of-principle stage.
+
+     ``SEC. 499F-2. TOXICITY STUDIES.
+
+       ``(a) Ongoing Research.--The Center shall support ongoing 
+     research into the most efficient methods of screening for in 
+     vivo toxicity, including using cell-based and animal model 
+     technologies.
+       ``(b) Offer of Studies.--The Director of Cures shall direct 
+     the Office of Technology Transfer of the Center to offer 
+     toxicity studies as an available feature to precede 
+     completion of licensing agreement contracts because toxicity 
+     studies are expensive and rate-limiting barriers to the 
+     licensing of intellectual property from the National 
+     Institutes of Health.
+
+     ``SEC. 499F-3. ADDITIONAL FUNDING SOURCES AND MODELS.
+
+       ``The Director of Cures may provide acceleration funds, 
+     described in section 499B(b)(2)(B)(i), for innovative custom 
+     contracts for translational research development to entities 
+     that license intellectual property from the National 
+     Institutes of Health where such contracts support innovation 
+     and new models of cooperation and commercialization.
+
+     ``SEC. 499F-4. AUTHORIZATION OF APPROPRIATIONS.
+
+       ``There are authorized to be appropriated from the 
+     acceleration fund of the Director of Cures described in 
+     section 499B(b)(2)(B)(i)--
+       ``(1) $400,000,000 to carry out section 499F for fiscal 
+     year 2007 and each succeeding fiscal year; and
+
+[[Page S13588]]
+
+       ``(2) $100,000,000 to carry out section 499F-1 for fiscal 
+     year 2007 and each succeeding fiscal year.
+
+               ``Subpart 5--Office of Technology Transfer
+
+     ``SEC. 499G. RESTRUCTURING.
+
+       ``(a) Establishment.--There is established within the 
+     Center an Office of Technology Transfer (referred to in this 
+     subpart as the `OTT').
+       ``(b) Transfers.--The OTT shall include the functions (and 
+     related personnel and resources) of the Office of Technology 
+     Transfer in the Office of the Director of the National 
+     Institutes of Health.
+
+     ``SEC. 499G-1. MARKETING FUNCTION.
+
+       ``(a) In General.--The OTT shall establish a program that--
+       ``(1) cultivates industry interest in funded research of 
+     the National Institutes of Health;
+       ``(2) reaches out to potential industry partners;
+       ``(3) coordinates patents from the other institutes and 
+     centers of the National Institutes of Health; and
+       ``(4) manages Cooperative Research and Development 
+     Agreements, biological licensing agreements, material 
+     transfer agreements, and intellectual property licensing.
+       ``(b) Promotion.--The program under subsection (a) shall 
+     assist in promoting the success of government and industry 
+     partnerships for the development of new technologies by 
+     soliciting involvement of the private sector from the 
+     beginning of the translational research process, including by 
+     creating an electronic database within the National Library 
+     of Medicine, which shall be updated regularly, that tabulates 
+     translational research efforts occurring at the National 
+     Institutes of Health. The OTT shall hold an annual national 
+     translational research conference that brings together 
+     researchers and industry representatives from across fields 
+     from both the private and public sectors.
+       ``(c) Transfer Management and Support.--The OTT shall 
+     develop a program for transfer management and support that is 
+     familiar with the National Institutes of Health's intramural 
+     and extramural research portfolio, which program's mission is 
+     to reach out to potential industry partners to cultivate 
+     interest in collaboration with public researchers with the 
+     goal of product development and procurement. For those 
+     Institutes or Centers with their own Office of Technology 
+     Transfer Offices, the OTT shall work closely with those 
+     offices to coordinate industry outreach efforts. Those 
+     offices, on a biannual basis, shall meet with the OTT and 
+     shall submit a report to the OTT describing the translational 
+     research efforts of the Center or Institute and corresponding 
+     efforts to attract commercial interest in their research 
+     portfolio.
+       ``(d) Management.--
+       ``(1) In general.--The OTT shall manage the Cooperative 
+     Research and Development Agreements between industry and 
+     public research partners.
+       ``(2) Registration.--The OTT shall--
+       ``(A) as appropriate, register the agreements within a 
+     publicly accessible electronic database maintained by the 
+     National Library of Medicine of the National Institutes of 
+     Health; and
+       ``(B) oversee the collaborative process in terms of pre-
+     determined outputs, negotiating problems that may occur 
+     between collaborating entities, and assuring intellectual 
+     property protections necessary for successful product 
+     development.
+
+     ``SEC. 499G-2. OFFICE OF INTRAMURAL RISK OPPORTUNITY AND 
+                   MAPPING.
+
+       ``(a) Establishment.--There is established in the Office of 
+     Technology Transfer of the Center, an Office of Intramural 
+     Risk Opportunity and Mapping that shall oversee the 
+     intramural research programs of the National Institutes of 
+     Health to be certain they are complementary and distinct from 
+     extramural and private programs.
+       ``(b) Reviews and Reports.--The Office of Intramural Risk 
+     Opportunity and Mapping shall--
+       ``(1) conduct regular reviews of the intramural research 
+     programs of the National Institutes of Health; and
+       ``(2) report every 2 years on such reviews.
+       ``(c) Health Risks and Opportunities.--The Office of 
+     Intramural Risk Opportunity and Mapping shall--
+       ``(1) identify and map public health risks and scientific 
+     opportunities and keep data on such topics current and 
+     updated; and
+       ``(2) provide the information described in paragraph (1) to 
+     the Council on a biannual basis to help the Council 
+     prioritize the Nation's translation research investment.
+       ``(d) Trans-NIH Collaborative Research.--
+       ``(1) In general.--The Office of Intramural Risk 
+     Opportunity and Mapping shall make, in coordination with the 
+     Director of Cures and the Director of NIH, funds available to 
+     groups of institutes and centers of the National Institutes 
+     of Health to promote engagement in multi-institute projects 
+     that focus on translational research endeavors.
+       ``(2) Funding.--Funding levels and periods of funding under 
+     paragraph (1) shall be flexible as necessary to achieve 
+     trans-institute project objectives. Preference for funding 
+     shall be given to projects that promote high levels of cross-
+     disciplinary collaboration, that address diseases with the 
+     greatest burden or research promise, and that are most likely 
+     to result in the development of a diagnostic or therapeutic 
+     prototype.
+       ``(3) Authorization of appropriations.--There is authorized 
+     to be appropriated, from the acceleration fund of the 
+     Director of Cures described in section 499B(b)(2)(B)(i), to 
+     carry out this subsection $150,000,000.
+
+     ``SEC. 499G-3. PATENTING AND LICENSING INCENTIVES.
+
+       ``(a) In General.--The OTT shall make every effort to 
+     increase licensing throughput in order to stimulate the 
+     availability of useful products for patients.
+       ``(b) Incentives.--The OTT shall develop incentives that 
+     create private sector, financial, commercial, and academic 
+     interest in the National Institutes of Health's intellectual 
+     property portfolio, which incentives may include the 
+     following:
+       ``(1) The patent extension of National Institutes of 
+     Health's health patents, in which there is an extension of 
+     the time during which the licensee has exclusive right to the 
+     intellectual property.
+       ``(2) The patent restoration of National Institutes of 
+     Health's health patents, in which there is restoration of the 
+     full patent life, or another agreed upon term, of a 
+     technology to the licensee from the time of Food and Drug 
+     Administration passage or other agreed upon milestone.
+       ``(3) Partnering options, which are options to pursue 
+     exclusive and nonexclusive licensing to 1 or more partners in 
+     the government, industrial, or academic sectors.
+       ``(c) Customized Models.--The Director of Cures shall 
+     encourage the OTT to cultivate customized models for 
+     contracts that fulfill the needs of industry and the public.
+
+     ``SEC. 499G-4. TRANSLATIONAL RESEARCHER DEVELOPMENT.
+
+       ``(a) In General.--The Director of Cures shall oversee the 
+     development of a curriculum for internships in 
+     interdisciplinary research that will encompass rotations 
+     through multiple institutes and centers of the National 
+     Institutes of Health (including the National Library of 
+     Medicine), the clinical trial design process, and other 
+     related disciplines with an emphasis on practical experience.
+       ``(b) Tuition Grants.--The Director of Cures shall award 
+     tuition grants for extramural interdisciplinary research 
+     programs.
+       ``(c) Training.--The Center shall train interdisciplinary 
+     scientists in the science and art of risk analysis and 
+     mapping through a program of internships and fellowships.
+
+     ``SEC. 499G-5. TRANSLATIONAL RESEARCH TRAINING PROGRAM.
+
+       ``The Director of NIH shall ensure that each institute and 
+     center of the National Institutes of Health has established, 
+     or contracted for the establishment of, a translational 
+     research training program at the institute or center.
+
+              ``Subpart 6--Developing Information Systems
+
+     ``SEC. 499H. ADVANCING NATIONAL HEALTH INFORMATION 
+                   INFRASTRUCTURE.
+
+       ``(a) Genomic Data.--
+       ``(1) In general.--The National Center for Biotechnology 
+     Information of the National Library of Medicine of the 
+     National Institutes of Health shall develop new computational 
+     methods to aid in the processing of genomic data by novice 
+     and experienced researchers.
+       ``(2) Authorization of appropriations.--There is authorized 
+     to be appropriated, from the acceleration fund of the 
+     Director of Cures described in section 499B(b)(2)(B)(i), to 
+     carry out paragraph (1) $8,000,000, of which--
+       ``(A) $2,500,000 is authorized to be appropriated to 
+     support the program's computational infrastructure; and
+       ``(B) $5,500,000 is authorized to be appropriated for 
+     hiring biologists and computer scientists who are trained in 
+     bioinformatics.
+       ``(b) Database.--The Secretary, acting through the Director 
+     of NIH, shall undertake, in collaboration with the National 
+     Library of Medicine of the National Institutes of Health, 
+     construction of a clinical study registry and results 
+     database that may expand upon the National Library of 
+     Medicine's information system and database.
+       ``(c) Clinical Trial Information.--
+       ``(1) In general.--
+       ``(A) In general.--The clinical study registry and results 
+     database, described in subsection (b), shall consist of a 
+     registry of phase III clinical trials taking place in the 
+     United States and a database of their results.
+       ``(B) Clinical study registry.--Participation in the 
+     clinical study registry shall be mandatory for both public 
+     and private entities.
+       ``(C) Results database.--Participation in the clinical 
+     trial results database shall be mandatory for both public and 
+     private entities. The clinical trial results database shall 
+     include even negative studies, which demonstrate no 
+     therapeutic effect.
+       ``(2) Registry of clinical trials.--The registry of 
+     clinical trials shall include not less than the following:
+       ``(A) The clinical trial title.
+       ``(B) A description of the product under study.
+       ``(C) The hypothesis to be tested.
+       ``(D) The intervention.
+       ``(E) The study design, methodology, duration, and 
+     location.
+       ``(F) Participation criteria.
+       ``(G) Contact information.
+       ``(H) Sponsoring organization.
+       ``(3) Clinical trial results.--The database of clinical 
+     trial results shall consist of not less than the following:
+       ``(A) The trial start date and completion date.
+       ``(B) A summary of the results of the trial in a standard, 
+     non-promotional summary format.
+
+[[Page S13589]]
+
+       ``(C) Summary data tables with respect to the primary and 
+     secondary outcome measures.
+       ``(D) Information on the statistical significance of the 
+     results and publications in peer reviewed journals relating 
+     to the trial, with, when available, an electronic link to the 
+     journal article.
+       ``(E) A description of the process used to review the 
+     results of the trial, including a statement about whether the 
+     results have been peer reviewed by reviewers independent of 
+     the trial sponsor.
+       ``(F) Safety data concerning the trial, including a summary 
+     of all adverse events specifying the number and type of 
+     events.
+       ``(G) Reference information to the clinical trial in the 
+     clinical registry.
+       ``(d) Registration of Trials and Reporting of Results.--
+       ``(1) Website publication.--Each principal investigator of 
+     a public clinical trial or responsible person for a private 
+     clinical trial shall register phase III clinical trials in 
+     accordance with paragraph (2) and report phase III clinical 
+     trial results in accordance with paragraph (2) with the 
+     National Library of Medicine of the National Institutes of 
+     Health. The National Library of Medicine shall make the 
+     information available for viewing on the Library's Website, 
+     www.clinicaltrials.gov. The National Library of Medicine 
+     shall electronically link each registered clinical trial with 
+     its database of results and link each database of results 
+     with its registered clinical trial.
+       ``(2) Timeline of registration.--
+       ``(A) In general.--An entity described in paragraph (1) 
+     shall register a clinical trial not later than 3 months after 
+     the Food and Drug Administration has approved the entity's 
+     clinical trial protocol and report clinical trial results not 
+     later than 3 months after completing the clinical trial, 
+     which shall be defined as the point where the specified trial 
+     duration has been surpassed and the analysis of the data is 
+     complete or the trial is stopped because of vital positive or 
+     negative findings, or as the point determined by the judgment 
+     of the Secretary. All information submitted to the National 
+     Library of Medicine shall be accurate and updated
+       ``(B) Loss of funding.--In the case in which an entity 
+     described in paragraph (1) does not register a clinical trial 
+     or report on clinical trial results in accordance with 
+     subparagraph (A), the Secretary may--
+       ``(i) not award a grant, contract, cooperative agreements, 
+     or any other award to the principal investigators of such 
+     entity until the principal investigators comply with the 
+     requirements under subparagraph (A); and
+       ``(ii) in the case of an entity that does not receive 
+     Federal funding for the clinical trial, fine the entity 
+     $10,000 a day for a sum not to exceed $2,000,000 until the 
+     responsible person for the clinical trial complies with the 
+     requirements under subparagraph (A).
+       ``(C) Waiver.--The Secretary may waive the requirements of 
+     subparagraph (A) upon a written request from the responsible 
+     person if the Secretary determines that extraordinary 
+     circumstances justify the waiver and that providing the 
+     waiver is in the public's interest or consistent with the 
+     protection of public health.
+
+     ``SEC. 499H-1. PUBLIC ACCESS REQUIREMENT FOR RESEARCH.
+
+       ``(a) In General.--The Secretary shall require all funded 
+     investigators, whether direct employees of the Department of 
+     Health and Human Services or recipients of grants, contracts, 
+     or other support of the National Institutes of Health, the 
+     Centers for Disease Control and Prevention, or the Agency for 
+     Healthcare Research and Quality, to submit to the National 
+     Library of Medicine of the National Institutes of Health 
+     (referred to in this section as the `National Library of 
+     Medicine'), upon acceptance for publication in a journal or 
+     other publication included in the PubMed directory, final 
+     manuscripts resulting from research in which direct costs are 
+     supported in whole or in part by the National Institutes of 
+     Health, the Centers for Disease Control and Prevention, or 
+     the Agency for Healthcare Research and Quality.
+       ``(b) Public Availability.--
+       ``(1) In general.--The National Library of Medicine shall 
+     include all such manuscripts described in subsection (a), 
+     after peer review, for display in the National Library of 
+     Medicine's digital library archive, PubMed Central. The 
+     copyright holder of a manuscript described in subsection (a) 
+     may request the author's manuscript be replaced with final 
+     published text.
+       ``(2) Timeline.--A manuscript described in subsection (a) 
+     shall become publicly available on the Internet through 
+     PubMed Central not later than 6 months after the date of 
+     publication of the manuscript.
+       ``(3) Loss of funding for failure to submit on time.--
+     Failure to submit required information under this section to 
+     the National Library of Medicine within 6 months of the date 
+     of publication of the manuscript involved shall be considered 
+     by the Secretary in the context of grant compliance review 
+     and may result in the loss of public funding for the 
+     investigators involved as determined appropriate by the 
+     agency involved.
+
+     ``SEC. 499H-2. INFORMATICS TRAINING AND WORKFORCE 
+                   DEVELOPMENT.
+
+       ``(a) In General.--The Director of NIH shall develop a 
+     multi-faceted approach to increasing the number of persons 
+     trained in clinical bioinformatics by implementing 
+     appropriate programs, including the programs described in 
+     subsection (b).
+       ``(b) Programs.--The programs under this subsection are the 
+     following:
+       ``(1) K-12 science program.--The National Library of 
+     Medicine of the National Institutes of Health shall develop 
+     with the National Science Foundation a kindergarten through 
+     grade 12 clinical informatics education curriculum that shall 
+     include an assessment component. The National Library of 
+     Medicine shall award not more than 500 schools each $30,000 
+     to implement the curriculum.
+       ``(2) Undergraduate degree programs in bioinformatics.--The 
+     National Library of Medicine of the National Institutes of 
+     Health shall--
+       ``(A) award grants to academic health centers and graduate 
+     training programs to collaborate with an undergraduate 
+     institution of higher education's department of biology, 
+     chemistry, or computer science to develop curricula leading 
+     to a bachelor's degree in bioinformatics; and
+       ``(B) encourage grantees to form an inter-institutional 
+     consortium.
+       ``(3) Increasing the number of nih bioinformatics graduate 
+     training programs.--The National Library of Medicine of the 
+     National Institutes of Health shall increase the number of 
+     bioinformatics graduate training programs through funding 
+     existing graduate training programs of the National 
+     Institutes of Health to meet the expanding needs for training 
+     and outreach to the biomedical community. The programs shall 
+     focus on the skills needed to apply bioinformatics methods 
+     specifically to problems of human health and disease. The 
+     Director of NIH shall hire 12 individuals with a doctorate in 
+     molecular biology and expertise in training and developing 
+     educational programs to assist in carrying out the programs 
+     under this paragraph.
+       ``(4) Centers of excellence in clinical bioinformatics.--
+     The National Library of Medicine of the National Institutes 
+     of Health, through the Center, shall establish Centers of 
+     Excellence in Clinical Bioinformatics that shall have state-
+     of-the-art computational methods and tools applicable to 
+     human disease prevention, diagnosis, and treatment. The 
+     Centers of Excellence in Clinical Bioinformatics shall 
+     provide graduate student and postdoctoral support, through 
+     distinguished faculty, in order to contribute to the highest 
+     level of training in the bioinformatics workforce pipeline.
+       ``(c) Authorization of Appropriations.--There is authorized 
+     to be appropriated, from the acceleration fund of the 
+     Director of Cures described in section 499B(b)(2)(B)(i), to 
+     carry out this section $50,000,000 for fiscal year 2007 and 
+     each succeeding fiscal year of which--
+       ``(1) $15,000,000 is authorized to be appropriated for 
+     fiscal year 2007 and each succeeding fiscal year to carry out 
+     subsection (b)(1); and
+       ``(2) $2,000,000 is authorized to be appropriated to carry 
+     out subsection (b)(3).
+
+     ``SEC. 499H-3. NATIONAL LIBRARY OF MEDICINE EXPANSION OF 
+                   FACILITIES.
+
+       ``(a) Sense of Congress.--It is the sense of Congress that 
+     Congress should make special effort to fund the expansion of 
+     facilities of the National Library of Medicine of the 
+     National Institutes of Health. These facilities are essential 
+     to the National Library of Medicine being able to fulfill its 
+     many informatics functions, which include providing essential 
+     informational resources to scientists worldwide and advancing 
+     the underpinning of much of the National Institutes of Health 
+     conducted biomedical research.
+       ``(b) Report.--The Director shall request that the 
+     Institute of Medicine of the National Academies report to 
+     Congress on the impact of not providing funding for the 
+     expansion of facilities described in subsection (a).
+
+                      ``Subpart 7--Research Tools
+
+     ``SEC. 499I. NIH RESEARCH TOOL INVENTORY.
+
+       ``(a) Annual Review.--The Director of NIH shall direct the 
+     head of each institute and center of the National Institutes 
+     of Health to perform an annual review of the institute or 
+     center's research tool inventory for the specific purpose of 
+     enabling each institute or center to understand the research 
+     tool distribution, frequency of use, intellectual property 
+     status, and utility. Each institute and center of the 
+     National Institutes of Health shall describe in the institute 
+     or center's annual review the type and quantity of research 
+     tools the institute or center desires to obtain to better 
+     fulfill the institute or center's research and development 
+     goals.
+       ``(b) Database.--The Director of Cures shall--
+       ``(1) enter the information obtained from the annual review 
+     under subsection (a) into an electronic research tool 
+     database; and
+       ``(2) use such database to oversee the prioritization and 
+     funding of new projects to fulfill pressing needs and 
+     promising technologies.
+
+     ``SEC. 499I-1. EXCEPTIONS TO TOOL GUIDELINES.
+
+       ``The Director of Cures may advise the Office of Technology 
+     Transfer of the Center to provide exceptions to prohibitions 
+     against patenting and licensing research tools under some 
+     circumstances of customized contracts when exclusive or non-
+     exclusive licensing provides the swiftest and most 
+     efficacious final development of an important health care 
+     technology.''.
+       (b) Conforming Amendment.--Section 401(b)(1) of the Public 
+     Health Service Act (42 U.S.C. 281(b)(1)) is amended by adding 
+     at the end the following:
+       ``(S) The American Center for Cures.''.
+
+[[Page S13590]]
+
+     
+                                  ____
+     Quotes in Support of the American Center for CURES Act of 2005
+
+       ``The American Center for Cures will be a tremendous 
+     addition to our nation's valuable tradition of biomedical 
+     research. By emphasizing translational and applications 
+     research as well as discovery of diagnostic markers, the ACC 
+     will bring the hope of basic science discovery to the reality 
+     of patient care. The mandate and goal will be to prevent, 
+     early diagnose, or cure the diseases that cause such 
+     suffering to humanity. This effort will promote health 
+     diplomacy that will bring the genius and resources of our 
+     nation to better the health of all Americans.''--Secretary 
+     Tommy Thompson, Former Secretary, Department of Health and 
+     Human Services, Former Governor, State of Wisconsin.
+       ``The need for a federal focus on finding cures has long 
+     been a top priority for all of us who seek the rapid 
+     translation of scientific advances into personal health 
+     benefits. With their landmark legislative proposal, Senators 
+     Cochran and Lieberman have taken a critical step along our 
+     path to cures.''--S. Robert Levine MD, Chairman of the Health 
+     Priorities Project of the Progressive Policy Institute.
+       ``As Governors around the country look to transform our 
+     complex health care system, we must seek new cost-effective 
+     solutions that continue to improve our overall health and 
+     productivity,'' said Michigan Governor Jennifer M. Granholm. 
+     ``The American Center for Cures represents a bi-partisan 
+     effort to devote significant and lasting resources toward an 
+     innovative approach to disease treatment and management, 
+     offering Americans grappling with chronic and debilitating 
+     diseases the lasting gift of hope.''--Governor Jennifer 
+     Granholm, Michigan.
+       ``Finding cures will improve the health of mankind. As an 
+     example, by simply delaying the onset of Alzheimer's disease 
+     by five years, the health and productivity of older Americans 
+     will be enhanced. Developing cures will provide American 
+     families with a better quality of health care that can be 
+     sustained over a longer period of time. That is why I urge 
+     the establishment of the American Center for Cures.''--
+     Governor Tom Vilsack, Iowa.
+       The American Center for Cures is a timely and creative 
+     proposal for tackling an urgent national challenge: the 
+     skyrocketing costs of treating and preventing chronic 
+     diseases. The confluence of such diseases and a graying 
+     population not only threatens to make health care 
+     unaffordable, but also jeopardizes prospects for healthy and 
+     successful aging. The Center would focus the prodigious 
+     talents of our scientific community on specific strategies to 
+     cure disease, saving lives and money over the long run.--Will 
+     Marshall, President, Progressive Policy Institute.
+       ``The American Center for Cures is a simple, bold, 
+     breakthrough idea: A can-do country ought to have the 
+     capacity to solve chronic problems, not just treat them.''--
+     Bruce Reed, President, Democratic Leadership Council.
+       ``I think this goes a long way toward improving NIH's 
+     ability to do large projects across institutes and to 
+     facilitate translational research. I am happy to support this 
+     concept . . . there are already a lot of good ideas here.''--
+     Leland Hartwell, Ph.D., Nobel Laureate, Medicine and 
+     Physiology, President, Fred Hutchinson Cancer Research 
+     Center.
+       ``I believe the American Center for Cures (ACC) is a 
+     wonderful effort that focuses physicians and scientists on 
+     bringing the discoveries of the laboratory to the patient. 
+     The lives of many Americans will be improved by having the 
+     ACC bring to bear new resources in the fight against chronic 
+     neurological diseases such as Alzheimer's, Parkinson's, 
+     multiple sclerosis, and other neurodegenerative disorders. I 
+     enthusiastically support the American Center for Cures and 
+     hope that my colleagues in biomedical research will join 
+     me.''--Stanley Prusiner, M.D., Nobel Laureate, Medicine and 
+     Physiology, University of California, San Francisco.
+       ``The proposed ACC offers a blend of existing federal 
+     activities in health research with several new initiatives, 
+     all aimed at speeding the move from discovery to products 
+     that help human health. The proposal has multiple components 
+     including strengthening existing NIH authorities in support 
+     of small business. When enacted and in operation the results 
+     of this new focused activity should be very visible with 
+     improvements to the public health that would not be possible 
+     without this new money with mandates on how it is spent.''--
+     Robert Day, M.D., Ph.D., M.P.H., Emeritus Professor and Dean, 
+     University of Washington School of Public Health and 
+     Community Medicine, Emeritus Professor and Director, Fred 
+     Hutchinson Cancer Research Center, Member, Public Health 
+     Sciences, Member, National Cancer Advisory Board, National 
+     Cancer Policy Board.
+       ``The establishment of an American Center for Cures with 
+     its emphasis, prominence and integration into the rest of the 
+     United States organization of health care related ventures 
+     would represent an enormous step forward. The focus of the 
+     Center on translation of basic science initiatives to the 
+     clinical arena will benefit those whose support has taken us 
+     to the present date. I applaud the initiative.''--Fritz H 
+     Bach, M.D., Lewis Thomas Distinguished Professor, Harvard 
+     Medical School.
+       ``Medical discoveries over the past century have greatly 
+     increased the quality and quantity of human life. New 
+     insights into biology will make even more advances possible. 
+     The American Center for Cures will make the translation of 
+     biological discoveries to the patient occur not only faster 
+     but much more likely to happen. It is hard to imagine another 
+     investment that would extend the quality and quantity of life 
+     than fully funding the American Center for Cures.''--James O. 
+     Armitage, M.D., Joe Shapiro Professor of Medicine, University 
+     of Nebraska College of Medicine, Member, National Cancer 
+     Advisory Board.
+       ``I am pleased to support the American Center for Cures 
+     (ACC) proposed legislation that you introduced to the United 
+     Sates Senate on Wednesday, December 7. This legislation is 
+     critical and in the translation of advances in fundamental 
+     biomedical science to improvements in the care of people. 
+     Please let me know if I can help make this dream a 
+     reality.''--Lee Goldman, M.D., MPH, Julius R. Krevans 
+     Distinguished Professor and Chair, Associate Dean for 
+     Clinical Affairs, University of California San Francisco 
+     School of Medicine, President, Association of Professors of 
+     Medicine.
+       ``I enthusiastically support The American Center for Cures 
+     (ACC) Senate legislation. The ACC will focus our nation's 
+     scientists and doctors on applying basic scientific 
+     discoveries to help the patient. This critical approach to 
+     research will not only help our friends and loved ones with 
+     their health, it will be the 21st Century American approach 
+     to solving the health care financial crisis. By eliminating 
+     or reducing certain diseases for all Americans, the looming 
+     federal and state Medicare and Medicaid financial tsunami 
+     will be markedly reduced. There is no time to lose. I urge 
+     the immediate passage of the ACC legislation.'' --Stephen 
+     Gleason, D.O., Ph.D., Former CEO Mercy Clinics, Former VP 
+     Medical Operations for Catholic Health Initiatives, Former 
+     White House advisor, Former chief of staff, Governor Tom 
+     Vilsack, Former Presidential Representative to the World 
+     Health Organization, Assistant Professor, Mayo Graduate 
+     School of Medicine.
+       ``The American Center for Cures will be the engine that 
+     brings basic science discoveries and apply them to the 
+     patient. It has been said that women and minorities are not 
+     dying from the lack of research, they are dying from the lack 
+     of research being applied to them. The ACC will focus the 
+     talent of the greatest scientists and clinicians for one 
+     singular purpose: to cure, prevent, or diagnose earlier 
+     diseases that afflict so many in the world. As a mother, 
+     nurse, researcher, and educator, I believe that the ACC will 
+     bring better health to all of us. The time is now . . . let 
+     us not waste another moment.''-- Sandra Underwood, RN, PhD, 
+     University of Wisconsin School of Nursing.
+       ``The American Center for Cures is a remarkable idea that 
+     will be the bridge between the promise of scientific 
+     opportunities and the reality of our nation's health needs--
+     to deliver cures. Americans deserve a center that is totally 
+     dedicated to finding cures for our most devastating and 
+     debilitating chronic diseases. The ACC is the natural 
+     extension of the doubling of the NIH budget. Now we must have 
+     as a top national priority an accountable, mission-driven 
+     Center for Cures to rapidly identify ``cure opportunities'' 
+     already created by federal, academic and private research 
+     laboratories and proactively accelerate and rapidly translate 
+     these opportunities into real cures.
+       In an era of expanding needs, exploding knowledge of the 
+     biomedical sciences, and demands of the public to have the 
+     knowledge applied to their loved ones' ailments, the American 
+     Center for Cures offers new hope and dynamic reality to 
+     Americans. The American Center for Cures is the opportunity 
+     to commit the American genius, resources, and ethic to a 
+     greater cause in a ``moonshot'' approach to diseases.''--
+     Richard J. Boxer, M.D., Clinical Professor, Health Policy, 
+     Medical College of Wisconsin, Clinical Professor, Family and 
+     Community Medicine, Medical College of Wisconsin, Clinical 
+     Professor, Surgery/Urology, University of Wisconsin-Madison.
+       ``Having reviewed the material you so kindly sent me, I 
+     want to applaud this pioneering, entrepreneurial approach 
+     which will undoubtedly accelerate the process by which we 
+     discover and implement cures for diseases and improve and 
+     enrich the quality of life of tens of millions of Americans. 
+     I hope that this bold solutions-oriented approach will have 
+     overwhelmingly bi-partisan support in Congress and that it 
+     will be signed into law by the President at the earliest 
+     possible moment.''--Steve Grossman, Former Chair, Democratic 
+     National Committee, C.E.O. Massachusetts Envelope Company.
+       ``The American Center for Cures is the best new idea in 
+     Washington DC in a generation. It is timely, creative and 
+     compelling.''--Joe Andrew, Former Chair, Democratic National 
+     Committee, Sonnenschein, Nath and Rosenthal, LLP.
+       ``The combination of NIH and industry-supported research, 
+     combined with venture capital, has been very successful in 
+     bringing new drugs based on fundamental biological 
+     discoveries into commercial reality. In areas that combine 
+     fundamental biology and physical science and engineering--
+     biomedical devices, analytical, genomic, and diagnostic 
+     tools, bioinformation systems, tissue engineering--the 
+     current system works substantially less well.''--George 
+     Whitesides, Ph.D., Professor of Chemistry, Harvard Medical 
+     School, (given in 2004).
+       ``The concept of the new institute is exciting.''--Arthur 
+     W. Nienhuis, M.D., Director,
+
+[[Page S13591]]
+
+     St. Jude Children's Research Hospital, (given in 2004).
+       ``The concept and its underlying philosophy are right on 
+     target. We need to open cancer research in prevention, early 
+     diagnosis, and cure to scientists in diverse fields that 
+     include physicists, chemists, computer scientists and 
+     mathematicians.''--Frederick P. Li, M.D., Director, Division 
+     of Cancer Epidemiology and Control, Dana-Farber Cancer 
+     Institute, (given in 2004).
+       ``The 20th Century saw a 100-percent increase in worldwide 
+     life expectancy--one of the greatest achievements in history. 
+     Today's children face different challenges, including a 
+     higher risk of dying from cancer and other diseases of aging 
+     than their grandparents did. In the 21st Century, our 
+     challenge is to use incredible advancements in information 
+     technology and biology to defeat such diseases as cancer, 
+     Alzheimer's, diabetes, Parkinson's and many other afflictions 
+     that take years of quality life from our loved ones. The 
+     most-important benefit will be reduced human suffering. And 
+     the value to our economy will be measured in trillions of 
+     dollars. The American Center for Cures (ACC) legislation 
+     recognizes and responds to the imperative of defeating these 
+     deadly diseases in our lifetimes. I believe we can do that if 
+     we summon the will to change the way we pursue new medical 
+     solutions. FasterCures supports passage of the ACC 
+     legislation and urges its rapid implementation. There is not 
+     a moment to lose.''--M. Millken, Chairman, FasterCures/The 
+     Center for Accelerating Medical Solutions.
+       ``The American Center for Cures will be extraordinarily 
+     important for all Americans, and indeed all humanity. The new 
+     Center will combine scientific disciplines that have 
+     previously not been brought to bear upon biomedical problems. 
+     This is a unique and desperately needed approach will break 
+     through the impasse and finally bring the formidable power of 
+     all science to focus and solve the diseases that plague the 
+     world. The American Center for Cures has been designed to 
+     bring accountability and responsibility for ultimate cures. 
+     Its success will be measured by cures and cures alone. As a 
+     father, husband, entrepreneur, and one who has seen too much 
+     suffering, I believe it is incumbent upon us to take a bold 
+     approach to biomedical research that will make our children 
+     and future generations free of the diseases that have 
+     afflicted us and our ancestors. Let our descendents look back 
+     at our generation and say, `They reached for the stars, and 
+     found they were capable of conquering old paradigms, fears, 
+     and diseases.' ''--Lou Weisbach, C.E.O. Stadium Capital 
+     Associates, Founder, HA-LO Industries, Inc.
+       ``Oscar Wilde once wrote, ``Morality, like art, begins with 
+     a line being drawn someplace.'' With tremendous suffering and 
+     disease so prevalent in our country, the American Center for 
+     Cures' (ACC) proposed legislation being introduced by 
+     Senators Lieberman and Cochran draws a line in the sand for 
+     health and extending the lifetime of every individual. From a 
+     religious point of view, this certainly responds to the 
+     notion that we are identified with life affirmation. I 
+     heartily endorse this legislation.''--Rabbi Steven B. Jacobs, 
+     Temple Kol Tikvah, Woodland Hills, CA--Rabbi Michael Lerner, 
+     Editor, Tikkun Magazine, Rabbi, Beyt Tikkun Synagogue, San 
+     Francisco, California.
+
+                          ____________________
+```
