@@ -1,0 +1,29 @@
+---
+granule: CRECB-2005-pt21-Pg28539-7
+date: 2005-12-15
+edition: CRECB
+section: SENATE
+page: 28539
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate December 15, 2005:
+
+
+                             THE JUDICIARY
+
+       STEPHEN G. LARSON, OF CALIFORNIA, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE CENTRAL DISTRICT CALIFORNIA, VICE 
+     ROBERT J. TIMLIN, RETIRED.
+
+
+                         DEPARTMENT OF JUSTICE
+
+       TERRANCE P. FLYNN, OF NEW YORK, TO BE UNITED STATES 
+     ATTORNEY FOR THE WESTERN DISTRICT OF NEW YORK FOR THE TERM OF 
+     FOUR YEARS, VICE MICHAEL A. BATTLE, RESIGNED.
+```
