@@ -1,0 +1,14176 @@
+---
+granule: CREC-2005-12-20-pt1-PgS14073-3
+date: 2005-12-20
+edition: CREC
+section: SENATE
+page: S14073
+citation: 151 Cong. Rec. S14073
+---
+
+# DEFICIT REDUCTION ACT OF 2005--CONFERENCE REPORT
+
+**Speaking:** Durbin, Richard J. (D000563) [D-IL], Conrad, Kent (C000705) [D-ND], Baucus, Max (B000243) [D-MT], Gregg, Judd (G000445) [R-NH], Chambliss, Saxby (C000286) [R-GA], Kennedy, Edward M. (K000105) [D-MA], Schumer, Charles E. (S000148) [D-NY], Allard, Wayne (A000109) [R-CO], Stabenow, Debbie (S000770) [D-MI], Stevens, Ted (S000888) [R-AK], Murkowski, Lisa (M001153) [R-AK], Harkin, Tom (H000206) [D-IA], Cornyn, John (C001056) [R-TX], Dorgan, Byron L. (D000432) [D-ND], Coburn, Tom (C000560) [R-OK], McCain, John (M000303) [R-AZ], Salazar, Ken (S001163) [D-CO], Specter, Arlen (S000709) [R-PA], Byrd, Robert C. (B001210) [D-WV], Ensign, John (E000194) [R-NV], Wyden, Ron (W000779) [D-OR], Grassley, Chuck (G000386) [R-IA], Clinton, Hillary Rodham (C001041) [D-NY], Talent, Jim (T000024) [R-MO], Rockefeller, John D., IV (R000361) [D-WV], Kerry, John F. (K000148) [D-MA], Brownback, Sam (B000953) [R-KS], Boxer, Barbara (B000711) [D-CA], Sessions, Jeff (S001141) [R-AL], Kyl, Jon (K000352) [R-AZ], Bond, Christopher S. (B000611) [R-MO], Levin, Carl (L000261) [D-MI], Reid, Harry (R000146) [D-NV], Cantwell, Maria (C000127) [D-WA], Hutchison, Kay Bailey (H001016) [R-TX], Enzi, Michael B. (E000285) [R-WY], Obama, Barack (O000167) [D-IL], Feinstein, Dianne (F000062) [D-CA], Reed, Jack (R000122) [D-RI], Akaka, Daniel K. (A000069) [D-HI], Bingaman, Jeff (B000468) [D-NM], Frist, William H. (F000439) [R-TN]
+
+**Measures:** S. 105, H.Res. 315, S. 1716, H.R. 1815, S. 1891, S. 1932, S. 2074, S. 2082, H.R. 2863, H.R. 2963, H.R. 4241
+
+```
+            DEFICIT REDUCTION ACT OF 2005--CONFERENCE REPORT
+
+  The ACTING PRESIDENT pro tempore. Under the previous order, the 
+Senate will resume consideration of the conference report.
+  The clerk will report.
+  The legislative clerk read as follows:
+
+       Conference report to accompany S. 1932, an act to provide 
+     for reconciliation pursuant to section 202(a) of the current 
+     resolution on the budget for fiscal year 2006.
+
+  The ACTING PRESIDENT pro tempore. The Senator from Illinois.
+  Mr. DURBIN. Mr. President, I am not sure of the exact order of 
+procedure on the floor, whether the ranking member is yielding time on 
+this bill at this point.
+  Mr. CONRAD. That is correct.
+  Mr. DURBIN. I would like to be yielded 5 minutes to speak.
+  Mr. BAUCUS. Mr. President, I ask the leader, the ranking member, that 
+I be recognized after that.
+  Mr. CONRAD. Mr. President, I would be happy to yield 5 minutes to the 
+Senator from Illinois. And then how much time would the Senator from 
+Montana like?
+  Mr. BAUCUS. About 25 minutes.
+  Mr. CONRAD. I ask unanimous consent that after the Senator from 
+Illinois, we go to the Senator from Montana for 25 minutes.
+  The ACTING PRESIDENT pro tempore. Is there objection?
+  The Chair hears none, and it is so ordered.
+  The Senator from Illinois is recognized for 5 minutes.
+  Mr. DURBIN. Mr. President, those who followed the conversation on the 
+floor of the Senate this morning are aware of the fact we are still in 
+session, as the House has left at least for the time being. Of course, 
+we are close to the holiday season, when most Members assumed they 
+would be home with their families, where we want to be. But instead we 
+are here. I think it is worth noting why we are here.
+  At the risk of hurting some muscle in my body here, I want to lift 
+what we are now considering in the Senate in the closing hours: 4,000 
+pages--4,000 pages--that come to us at the close of the session; 989 
+pages on the appropriations for the Department of Defense, about 1,628 
+pages on the Defense authorization bill, and roughly 1,400 pages on the 
+Deficit Reduction Act.
+  I can tell you, having been around Congress for a few years, that 
+within these pages are things which will come to embarrass us. Some of 
+them we know. Some of them we will learn after we leave. Of course, 
+people who are following this debate say: Well, Senator, haven't you 
+sat down to read all this? The honest answer is, it is physically 
+impossible because good craftsmen of legislation realize that changing 
+punctuation in the law can change the meaning of the law, and so what 
+appears to be just a cosmetic change on a page here turns out to have 
+dramatic consequences. So we try our best. My staff has been working 
+straight through since many of these bills have been produced to try to 
+come up with an understanding of what is included in these bills.
+  But there are several things we do know about these bills. We know, 
+for one thing, that the Defense bills are the last bills in the 
+session, which is a dramatic change from the past. Historically, the 
+Defense bills are passed early in the session, for obvious reasons. The 
+argument is, for goodness' sake, before you get embroiled in a 
+political controversy, take care of the troops. So historically we 
+would pass a Defense authorization bill and a Defense appropriations 
+bill early in the session and be done with them. That did not happen 
+this time.
+  The Defense authorization bill was taken off the calendar by the 
+Republican leadership in July so they could make room for special 
+interest legislation from the gun lobby on the question of liability. 
+So that bill was intentionally delayed by the Republican leadership, 
+the bill for our troops. Now, here, in the closing hours of the 
+session, the bill comes back in the form of an authorization bill of 
+some 1,600 pages, at the close of the session.
+  The Defense appropriations bill has historically been a bill we 
+considered first. It is the bill in which we want to make sure we take 
+care of the troops, take care of the Department of Defense, and meet 
+our obligation. Why is it last? Why is this 1,000-page bill coming at 
+us at the last moment? I will tell you why. Because Senators have come 
+to understand this bill has to pass. So they put some of the most 
+controversial provisions, some of the most outrageous provisions in the 
+bill for our troops and for our national defense.
+  There is a provision in here which is well known now and well 
+reported, put in by the Senators from Alaska, for drilling in the 
+Arctic National Wildlife
+
+[[Page S14074]]
+
+Refuge. That is put in the Department of Defense appropriations bill. 
+Why? Why in the world would you put that provision, that controversial 
+provision, in a bill which has to pass for our troops? Well, it is high 
+noon. It is a showdown. It is a question about who will flinch first. 
+If you load up the bill that has to pass with these outrageous and 
+controversial provisions, the Senators who put them in there are 
+defying the membership of the Senate to stand up and say no. And they 
+want to be prepared to say: Oh, you are going to vote against the 
+Department of Defense appropriations bill or hold it up. That is just 
+an outrage.
+  I will tell you what is an outrage. An outrage is using this bill, 
+which is designed for our troops and our soldiers, as a political 
+vehicle.
+  There are things in here which are nothing short of amazing--not only 
+this Arctic National Wildlife Refuge drilling, which has been debated 
+for years around here, but an allocation of the resources from that 
+drilling to the State of Alaska, and others, in ways that are very 
+generous to that State, at the expense of other States and at the 
+expense of the Treasury. There is a provision in this bill about the 
+liability of pharmaceutical companies when they manufacture vaccines. 
+That is in the Department of Defense appropriations bill.
+  Of course, there are provisions in here for Katrina victims. I am 
+glad they are in here. I thought they would be part of some emergency 
+appropriation, but it just shows you that this bill, and all its 
+complications, is an example of why we are still here this week. It is 
+a failure of leadership. It is a failure to really address the issues 
+that present themselves to the Senate in a forthright manner.
+  I yield the floor.
+  The PRESIDING OFFICER (Mr. Thune). The Senator's time has expired.
+  Under the consent agreement, the Senator from Montana is recognized 
+for 25 minutes.
+  Mr. BAUCUS. Mr. President, I echo a lot of the same concerns just 
+voiced by the Senator from Illinois. We have all been here a few years, 
+and we see some things that are questionable. But the actions taken by 
+the majority in this session of this Congress are beyond questionable. 
+In many cases, I think they are outrageous, and I am very glad the 
+Senator from Illinois brought the Senate's attention to them.
+  Mr. President, I am here to speak on the pending legislation, and 
+that is the budget reconciliation bill that is before us. I oppose this 
+budget reconciliation bill, and I do so for a couple of very basic 
+reasons.
+  First of all, this bill would cause many of America's poorest 
+citizens to go without needed medical treatment. Just think of that: 
+some of the poorest citizens in our country to go without needed 
+medical treatment. It would make it harder for many of America's 
+neediest citizens to move off of welfare and on to work. It would make 
+it harder, not easier, to get off of welfare and on to work. It would 
+also deprive many single parents help in getting child support from 
+their deadbeat spouses. It makes it harder to get child support from 
+deadbeat spouses. That is what this bill does, and I will explain later 
+why that is the case. And this bill would undercut American lumber 
+workers in their dispute with Canadian lumber.
+  There is a better way. The better way is something much more similar 
+to what the Senate passed here, although I opposed it because I thought 
+it was so draconian, and I opposed it because I felt it would lay the 
+seeds for just what is happening here today, and that is a conference 
+report that is much, much worse than the Senate-passed bill.
+  I think the Senate should vote down this bill. We do not have to pass 
+it this year. This is not an appropriations bill. This is not a tax 
+bill. It does not have to be passed this year. It should be voted down 
+so we can get to work next year and cut the budget in a more fair and 
+more moderate way, rather than this draconian way contained in this 
+bill.
+  There is a right way and a wrong way, for example, to control health 
+care spending. We all know health care costs are high, but let's just 
+reflect a little bit and try to figure out what is the right way to cut 
+health care costs to address that situation and do that rather than the 
+wrong way.
+  Well, I might say, we in this body included some of the right way in 
+the Senate-passed reconciliation bill. What is that? We included 
+provisions to put us on the road to paying for performance and quality 
+in health care. That is the right way to control health care costs; 
+that is, to reimburse providers--doctors and hospitals--a little bit 
+more when they show their outcomes are a little better, they are doing 
+a better job. That means health care costs will come down because the 
+quality will increase and we will not be providing, in many cases, 
+health care that is irrespective of quality. We have to start 
+addressing quality in health care. The Senate-passed bill started to 
+address that. The conference report hardly even touches that. I will 
+explain that a little bit later, too.
+  What does this bill do? Instead, this bill merely cuts holes in the 
+safety net. It cuts holes in the safety net. It does not shore it up 
+and try to figure out ways to address the problems; it cuts holes and 
+makes things worse. How? Well, it raises Medicaid copayments for those 
+least able to pay. It raises costs for people on Medicaid. It also 
+allows States to cut Medicaid benefits below existing minimum benefits. 
+That is the wrong way to control health care costs. The better way is 
+to address paid performance and quality. The wrong way is to just 
+willy-nilly cutting expenditures for the poorest of our Americans; that 
+is, for the Medicaid Program.
+  We have also seen how the wrong way works, not in theory but in 
+practice. Increasing costs for poor people forces them not to seek 
+health care when they need it. It has that effect. When the poor people 
+in our country have to pay that much more for health care, what do they 
+do? They don't get the health care. What happens? They live a little 
+bit more with the illness they have. What is the consequence of that? 
+They come back to the emergency room later when their condition gets 
+worse. The system ends up spending more on health care rather than 
+less. The burden of uncompensated care grows. You and I and all the 
+rest of us who pay for health care end up paying still more for health 
+care because of the increased uncompensated care because the poorer 
+people will not be seeking the health care they need but put it off 
+and, therefore, go to emergency rooms, and we end up paying more. That 
+is the way the wrong way works. That is the way provided for in this 
+bill.
+  Furthermore, this bill is not a moderate package. Far from it. The 
+Senate-passed bill was more moderate. Instead, the bill before us hews 
+largely to the House-passed bill which is not moderate. It is extreme. 
+It is draconian. The bill before us, which hews mostly to the House 
+side, would impose nearly $2 billion in increased cost sharing on 
+Medicaid beneficiaries or about 80 percent of the cost-sharing 
+increases in the House bill. What else? The bill would also allow State 
+Medicaid Programs to offer Medicaid beneficiaries an ``actuarially 
+equivalent'' benefit package. What does that mean? I will tell you what 
+it means. It means reduced benefits. It is a fancy euphemism for 
+reduced benefits for Medicaid beneficiaries. States will also be able 
+to impose new premiums for coverage and to drop individuals from 
+Medicaid if they can't pay.
+  Last week I offered a motion to instruct participants of this 
+conference not to harm Medicaid beneficiaries by passing a budget 
+reconciliation bill that resembles the House-passed bill. The Senate 
+overwhelmingly supported that motion. The vote was 75 to 16. I was 
+heartened. I felt good about that action. The Senate was speaking 
+clearly and strongly not to let the conferees impose draconian cuts. 
+Senators who supported that motion should stick to their guns. They 
+should remain consistent in their support of Medicaid. They should vote 
+against this reconciliation conference report in view of what the 
+Congress has done juxtaposed to that 75-to-16 vote.
+  I am disappointed with many of the provisions included in this budget 
+reconciliation bill. I am also disappointed with provisions that were 
+not included in this bill. The conference report does not include 
+meaningful pay-for-performance and quality provisions. We live in a 
+country that spends twice as much as any other country on health care 
+per capita. Yet our country ranks
+
+[[Page S14075]]
+
+37th in the world on quality. Think of that. We spend twice as much per 
+capita as any other country in the world and yet we rank 37th in the 
+world on quality. Our country leaves almost 16 percent of our 
+population with no health care coverage at all.
+  We are not getting good value for our health care dollar. The value 
+that each health care dollar buys varies widely from patient to 
+patient. Consider recent research from Dartmouth that looked at large 
+hospitals in California.
+  That research found that per-person Medicare spending on health care 
+in the last 2 years of life ranged from $20,000 to almost $90,000. The 
+more expensive patients were not sicker. That is the point. They did 
+not receive higher quality care. That is also the point. But they cost 
+the Medicare Program over four times more.
+  I was proud to work with the chairman of the Finance Committee, Mr. 
+Grassley, to write legislation bringing quality improvement and 
+accountability to Medicare. We worked hard on that. We got a bill 
+passed out of committee. Under our Medicare Value Purchasing Act, 
+Medicare providers would be held accountable for the care they provide. 
+And the best providers would be rewarded accordingly.
+  Doesn't that make sense, that we reward quality? Shouldn't we do that 
+in the health care system? We don't today in America. Most every other 
+industry is rewarded for quality, but our health care service by and 
+large is not. The Senate included our pay-for-performance legislation 
+in the budget reconciliation bill that passed this Chamber last month. 
+I did not support the larger bill, but I was pleased that our Medicare 
+quality legislation was included in the package. But our quality bill 
+has mostly been stripped in the conference report.
+  The conference report expands existing quality reporting requirements 
+for hospitals. It sets up minimal reporting requirements for some home 
+health. The report includes a study on pay for performance in hospitals 
+and some minimal payment changes to discourage a couple of hospital-
+acquired infections. These provisions are only for hospitals and are 
+mostly at the discretion of the Secretary.
+  Moreover, these provisions are delayed until years after the 
+independent Medicare Payment Advisory Commission recommended that 
+Medicare providers would be ready to be paid for quality. I am 
+disappointed to see Congress setting the bar so low because we have so 
+little time in which to address the increasing costs of health care and 
+all the problems that creates. I oppose this conference report because 
+it doesn't begin to address what could and should be done. I remain 
+fully committed to seeing Medicare pay-for-performance become law.
+
+  I also supported a motion to instruct conferees related to TANF, the 
+Nation's welfare program. Offered by Senator Carper, this motion 
+instructed conferees not to reauthorize TANF through the budget 
+reconciliation process. That was the motion offered by the Senator from 
+Delaware. That passed by a large vote.
+  What happened? First, let's remember that Congress enacted the TANF 
+Program back in 1996. It was enacted to help welfare recipients get 
+work skills and to help low-income families become economically self-
+sufficient. I supported it in 1996. Many Democrats did not, but I 
+thought it was a good way to get people off of welfare and a fair way 
+to get people back to work. What has happened? Welfare reform has 
+mostly succeeded. That 1996 bill was a good bill. States have adopted 
+creative policies to support low-income families making the transition 
+from welfare to work, and millions have moved to self-sufficiency. It 
+is not great, but it is a lot better than what it was prior to 1996.
+  The TANF law expired in 2002. Senator Grassley, chairman of the 
+committee, and I worked diligently on the TANF reauthorization bill 
+this year. It was a compromise that enjoyed near unanimous support in 
+the committee. We could not get that bill up in the full Senate. There 
+were a few willful Senators who opposed it, even though it had the near 
+unanimous support of the Finance Committee. It was a moderate 
+reauthorization of TANF.
+  Let's also remember policy changes to TANF--and they are quite 
+pervasive and significant--do not belong in the fast-track budget 
+reconciliation process. It does not belong there. The Presiding Officer 
+knows that, as does everybody in this body. That process was designed 
+to reduce the deficit, not to reauthorize important safety net programs 
+such as TANF or other major policy issues. That is particularly true 
+given the nature of the TANF provisions in this bill. This conference 
+report contains strict new work requirements in TANF. Not only is it a 
+reauthorization, it has provisions that make the program not work, make 
+it worse. It is not moderate. It makes it worse. It is in this 
+conference report.
+  This report undermines the State flexibility necessary to meet the 
+standards of their most vulnerable citizens. This conference report 
+provides only $1 billion in childcare funds, even though we need $12.4 
+billion in childcare funding to keep up with inflation. How miserly is 
+that? Only $1 billion in childcare, when we really need 12 billion. 
+Let's compromise, maybe 6, $7 billion; that is a compromise. That is 
+midway between what this bill provides and what inflation calls for. 
+But no, there is only $1 billion in this bill.
+  The report also foists a set of unfunded mandates on States, mandates 
+that would harm low-income families. Let's not forget these families 
+are playing by the rules right now. They are trying to do what is 
+right. They are trying to work their way off of welfare and trying to 
+get into sustainable employment. But this conference report eliminates 
+the State flexibility that has made the TANF Program a resounding 
+success.
+  We should reauthorize TANF. We should improve the program to focus on 
+reducing poverty as well as welfare caseloads. And we should ensure 
+that more people can leave welfare for sustainable work.
+  This conference report does just the opposite. More families will 
+lose assistance. And our State partners will lose the flexibility that 
+they need to support families in their time of need.
+  Speaking of families, what about the child support enforcement 
+provisions in this bill? This conference report includes a $5 billion 
+cut in Federal funding for child support enforcement efforts. That's 
+right, a $5 billion cut.
+  States use these funds to track down absent parents, to establish 
+legally enforceable child support orders, and to collect and distribute 
+child support owed to families. These cuts will take billions of 
+dollars out of the pockets of mothers and children who are owed child 
+support. This cut is simply indefensible.
+  This bill also fails to adequately address the health needs of 
+Katrina victims. It has been nearly 4 months since Katrina hit, 
+resulting in over a thousand deaths, the displacement of over a million 
+people, and a reconstruction bill that may exceed a couple hundred 
+billion dollars. The Katrina disaster was unprecedented. It required an 
+unprecedented response by Congress. That's why I worked with Chairman 
+Grassley in the days following the hurricane to write S. 1716, the 
+Emergency Health Care Relief Act.
+  That bill would have provided 5 months of temporary Medicaid coverage 
+for Katrina evacuees in poverty.
+  That bill would have shored up State Medicaid programs overwhelmed by 
+Katrina evacuees. That bill would have reimbursed providers for 
+uncompensated care provided to Katrina evacuees. And that bill would 
+have helped States with the unprecedented burden on Gulf State welfare 
+programs.
+  But the Senate did not pass that bill. The Senate could not even take 
+it up.
+  We tried to take it up many times. We stood on the floor many times 
+and asked unanimous consent to bring up the bill, but we were opposed 
+by a band of two or three or four Senators, but we cannot understand 
+why. I think, basically, they are doing it at the behest of the White 
+House, the President. The President didn't want to help people down 
+there with their health care needs, and the congressional leadership 
+did his bidding.
+  I appreciate Chairman Grassley's efforts to help Katrina victims. He 
+fought to pass S. 1716 legislation against the wishes of the White 
+House and his congressional leadership. I want him to know that I 
+appreciate his efforts.
+  When the Senate eventually passed this budget reconciliation measure, 
+it included some Katrina relief. It was an
+
+[[Page S14076]]
+
+insufficient amount. And I could not support it. It was so paltry, it 
+was an insult. As for this conference report before us today, it is 
+still insufficient. Moreover, its Katrina funding comes in the form of 
+a block grant.
+  So States affected by Katrina, as well as States treating Katrina 
+evacuees, are given $2 billion for their Katrina health-care needs, 
+whether that is a sufficient amount or not. Both the House and Senate 
+bills had provided for 100 percent federal financing over the short 
+term for all States with Katrina-related Medicaid costs.
+  Finally, I want to briefly mention an important trade issue. This 
+bill repeals the Continued Dumping and Subsidy Offset Act, also known 
+as the Byrd amendment. This repeal could not come at a worse time for 
+the American lumber industry. The industry has recently suffered a 
+series of setbacks in its long-running dispute with Canada on imports 
+of Canadian softwood lumber.
+  The Byrd amendment is one of the few tools the industry still has to 
+encourage Canada to settle the lumber dispute once and for all. 
+Repealing the Byrd amendment now pulls the rug right out from under the 
+industry. I won't do that. And I urge my colleagues who are friends of 
+the lumber industry to join me in supporting the industry by voting 
+against this bill.
+  We don't have to pass this bill this year, Mr. President. There is no 
+need. None. So let's not pass it and do what is right in a subsequent 
+reconciliation bill.
+  Mr. President, there is a great deal to be disappointed about in this 
+spending reconciliation legislation. It does not meet the health and 
+welfare needs of Katrina victims. It makes health care for the poorest 
+among us more expensive and lets well-heeled people off the hook.
+  It puts forth an unreasonably austere welfare program in a vehicle 
+where it doesn't belong. It fails to advance the Medicare quality 
+agenda that many of us have worked so hard to make reality. And it 
+undermines the U.S. lumber industry at the worst possible moment.
+  In short, Mr. President, the Senate should reject this bill. The 
+Senate can do better. I urge my colleagues to do better by the American 
+people by voting ``no.''
+  Mr. President, I ask unanimous consent to have printed in the Record 
+a lengthy list of all of the groups that oppose this bill.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+       The following organizations have urged a ``no'' vote on the 
+     spending reconciliation bill:
+       AARP; Academy for Educational Development; AFL-CIO; AIDS 
+     Alliance for Children, Youth & Families; AIDS Alliance for 
+     Children, Youth, & Families; AIDS Institute; Alliance for 
+     Children and Families; Alliance for Retired Americans; 
+     Alliance of Louisiana Developmental Centers Families & 
+     Friends; American Academy of Child and Adolescent Psychiatry; 
+     American Academy of Pediatrics; American Academy of Physical 
+     Medicine and Rehabilitation; American Association of 
+     Community Colleges; American Association of People with 
+     Disabilities; American Association of State Colleges and 
+     Universities; American Association on Mental Retardation; 
+     American College of Nurse Practitioners; American Congress of 
+     Community Supports and Employment Services; American Council 
+     of the Blind; American Council on Education.
+       American Diabetes Association; American Federation of 
+     State, County and Municipal Employees; American Federation of 
+     Teachers; American Foundation for the Blind; American Medical 
+     Student Association; American Network of Community Options 
+     and Resources; American Nurses Association; American Public 
+     Health Association; American Therapeutic Recreation 
+     Association; Americans for Democratic Action; APSE: The 
+     Network on Employment; Asian American Justice Center; 
+     Association for the Mentally Retarded at Agnews; Association 
+     of Academic Physiatrists; Association of American 
+     Universities; Association of Community College Trusts; 
+     Association of Jesuit Colleges and Universities; Association 
+     of University Centers on Disabilities; Bazelon Center for 
+     Mental Health Law; Beatrice State Development Center Family 
+     and Friends Association.
+       B'nai B'rith International; Brain Injury Association of 
+     America; Catholic Charities USA; Campaign for Mental Health 
+     Reform (coalition of 16 national organizations); Center for 
+     Adolescent Health & the Law; Center for Advocacy for the 
+     Rights and Interests of the Elderly; Center for Public Policy 
+     Priorities; Center on Disability and Health; Child Welfare 
+     League of America; Child Welfare League of America; 
+     Children's Cause for Cancer Advocacy; Children's Defense 
+     Fund; Clearbrook Parents and Guardians Association; Coalition 
+     on Human Needs; Community Catalyst; Community HIV/AIDS 
+     Mobilization Project/CHAMP; Concerned Citizens For The 
+     Mentally Retarded; Consortium for Citizens with 
+     Disabilities; Consumers Union; Council for Exceptional 
+     Children.
+       Council for Higher Education Accreditation; Council of 
+     State Administrators of Vocational Rehabilitation; Council of 
+     Women's and Infants' Specialty Hospitals; Democratic 
+     Governors Association; Dever Association for the Retarded, 
+     Inc.; Disability Service Providers of America; District of 
+     Columbia Primary Care Association; Division for Early 
+     Childhood of the Council for Exceptional Children; Dixon 
+     Association For Retarded Citizens; Easter Seals; Epilepsy 
+     Foundation; Evangelical Lutheran Church in America; Families 
+     USA; Fight Crime: Invest in Kids (2,500 Police Chiefs, 
+     Sheriffs, and Prosecutors); Gay Men's Health Crisis; General 
+     Board of Church and Society of the United Methodist Church; 
+     Generations United; Gray Panthers California; Guttmacher 
+     Institute; Health and Disability Advocates in Chicago.
+       HIV Medicine Association; Housing Works, Inc.; Hudson 
+     Health Plan; Human Rights Campaign; Hyacinth AIDS Foundation; 
+     IDEA Infant Toddler Coordinators Association; Institute for 
+     Reproductive Health Access; International Association of 
+     Business, Industry and Rehabilitation; International Union, 
+     United Automobile, Aerospace & Agricultural Implement Workers 
+     of America--UAW; Jewish Association for Services for the 
+     Aged; Jewish Council for Public Affairs; Jewish Federation of 
+     Metropolitan Chicago; Learning Disabilities Association of 
+     America; Legal Action Center; Lutheran Services in America; 
+     Massachusetts Coalition of Families and Advocates for the 
+     Retarded; Medicare Rights Center; Mental Retardation 
+     Association of Utah; Mount St. Joseph Association; National 
+     Academy of Elder Law Attorneys.
+       National Advocacy Center of the Sisters of the Good 
+     Shepherd; National Alliance of State and Territorial AIDS 
+     Directors; National Alliance on Mental Illness; National 
+     Alliance to End Homelessness; National Asian American Pacific 
+     Islander Mental Health Association; National Asian Pacific 
+     American Women's Forum; National Association for Children's 
+     Behavioral Health; National Association for the Advancement 
+     of Orthotics and Prosthetics; National Association of 
+     College and University Business Officers; National 
+     Association of Councils on Developmental Disabilities; 
+     National Association of County Behavioral Health and 
+     Developmental Disability Directors; National Association 
+     of Health Advocacy Programs; National Association of 
+     Independent Colleges and Universities; National 
+     Association of Mental Health Planning and Advisory 
+     Councils; National Association of Pediatric Nurse 
+     Practitioners; National Association of People with AIDS; 
+     National Association of School Psychologists; National 
+     Association of Social Workers; National Association of 
+     State Head Injury Administrators; National Association of 
+     State Long-Term Care Ombudsman Programs.
+       National Association of State Universities and Land-Grant 
+     Colleges; National Association of Student Financial Aid 
+     Administrators; National Citizens' Coalition for Nursing Home 
+     Reform; National Committee to Preserve Social Security and 
+     Medicare; National Council for Community Behavioral 
+     Healthcare; National Council of La Raza; National Council on 
+     Aging; National Council on Independent Living; National 
+     Disability Rights Network; National Down Syndrome Congress; 
+     National Family Planning and Reproductive Health Association; 
+     National Health Council; National Health Law Program; 
+     National Immigration Law Center; National Indian Health 
+     Board; National Latina Institute for Reproductive Health; 
+     National Mental Health Association; National Multiple 
+     Sclerosis Society; National Nursing Centers Consortium; 
+     National Organization of Social Security Claimants' 
+     Representatives.
+       National Partnership for Women & Families; National 
+     Partnership for Women and Families; National Respite 
+     Coalition; National Senior Citizens Law Center; National 
+     Spinal Cord Injury Association; National Women's Health 
+     Network; National Women's Law Center; NETWORK, a National 
+     Catholic Social Justice Lobby; NISH; Oregon Center for Public 
+     Policy; Paralyzed Veterans of America; Parent Hospital 
+     Association, Sonoma Developmental Center; Parents & Friends 
+     of Hammond Developmental Center Association; Physicians for 
+     Social Responsibility; Presbyterian Church (U.S.A.) 
+     Washington Office; Presbyterian Church of Christ; ProCare3; 
+     Project Inform; Protestants for the Common Good; Providence 
+     Health System.
+       Research Institute for Independent Living; RESULTS; San 
+     Francisco AIDS Foundation; School Social Work Association of 
+     America; Service Employees International Union; Society 
+     for Adolescent Medicine; St. Mary's Residential Training 
+     School; State Associations of Addiction Services; State 
+     PIRGs Higher Education Project; The Arc of the United 
+     States; The Episcopal Church; The Well Project; Tourette 
+     Syndrome Association; Treatment Access Expansion Project; 
+     Tuberous Sclerosis Alliance; UHCAN Ohio; United Cerebral 
+     Palsy; United Church of Christ; United Food and Commercial 
+     Workers International Union; United Methodist Church.
+       United Spinal Association; United States Psychiatric 
+     Rehabilitation Association;
+
+[[Page S14077]]
+
+     United States Conference of Catholic Bishops; USAction; Voice 
+     of the Retarded; Voices for America's Children; Volunteers of 
+     America; Welfare Law Center; YWCA USA.
+       The following organizations have expressed concerns about 
+     the bill:
+       Alzheimer's Association; Ambulatory Pediatric Association; 
+     America Dental Hygienists' Association; American Association 
+     Medical Colleges; American Baptist Churches USA; American Bar 
+     Association; American Cancer Society; American Dental 
+     Education Association; American Dental Hygienists' 
+     Association; American Friends of Service Committee; American 
+     Orthopsychiatric Association; American Pediatric Society; 
+     Association of Medical School Pediatric Department Chairs; 
+     B'nai B'rith International; Call to Renewal; Child Neurology 
+     Society; Children's Health Fund; Church Women United; 
+     Churches of the Brethren Witness/Washington Office; Council 
+     of Women's and Infants' Specialty Hospitals.
+       First Candle; International Hearing Society; LCCR; March of 
+     Dimes; National Academy of Elder Law Attorneys; National 
+     Assembly on School-Based Health Care; National Association 
+     for the Advancement of Colored People (NAACP); National 
+     Association of Community Health Centers (NACHC); National 
+     Association of Police Organizations (NAPO); National Council 
+     of Churches; National Council on Independent Living; National 
+     League of Cities; National Puerto Rican Coalition; Union of 
+     Reform Judaism.
+
+  Mr. BAUCUS. This is a lengthy list. I don't have time to read them 
+all.
+  The groups that start with A, such as AARP, for example, are at the 
+head of the list. This is seven pages. Let me guess how many groups per 
+page. It is about 30 groups per page at least, in groups of seven. So 
+30 times 7 is a couple hundred groups that are opposed to this bill--
+for good reason. This is not something they willy-nilly just came up 
+with; they have looked at this bill. They have concluded, as I have, 
+that we should not pass this bill. We don't have to pass it now. We can 
+do it next year. We should go home for Christmas.
+  This is some Christmas present. This bill cuts Medicaid to people, 
+pulls the rug out from under the lumber industry, and it hurts low-
+income people trying to get to work and off of welfare. Some Christmas 
+present. We should go home for Christmas and not pass this legislation 
+and then come back next year and do the right thing.
+  I yield the floor.
+  The PRESIDING OFFICER. The Senator from New Hampshire is recognized.
+  Mr. GREGG. Mr. President, I understand Senator Chambliss is on his 
+way over. I will yield when he gets here. I want to respond briefly to 
+what the Senator from Montana said. I have respect for the Senator. He 
+is one of the Members who is always constructive in trying to move the 
+process forward in a way that is usually very bipartisan. But I do 
+believe on the issue of the Medicaid accounts, he is inconsistent with 
+where we ended up.
+  The Medicaid issue is really at the essence of this effort to reduce 
+debt through this deficit reduction bill. Why is that? Well, because we 
+know as we look into the outyears, the biggest problem we have as a 
+Federal Government from the standpoint of fiscal policy is that we have 
+these huge obligations. Yesterday I said it was $44 trillion. I am told 
+by the staff that the Comptroller's office said it is $51 trillion of 
+unfunded liability that the American people--especially our children 
+and our children's children--are going to have to pay in order to 
+support the retired population that is now called the baby boom 
+generation. Of that $51 trillion--a trillion dollars is an impossible 
+number to conceive, and $51 trillion is absolutely inconceivable. But 
+of that number, the vast majority of it, up to $30 trillion, is health 
+care costs in two accounts, Medicare and Medicaid.
+  Why is that? It is because the retiring generation is so huge that 
+the demands it is going to put on the system are so dramatic that 
+essentially it is going to bankrupt our children if we do not do 
+something about addressing it. We know that by the year 2030, under the 
+present flow of spending, the Federal Government, which today takes 
+about 20 percent of the gross national product for everything we do--
+national defense, education, laying out roads, environmental 
+protection, health care, and veterans care--because of this retiring 
+generation, 20 percent of the gross national product will have to be 
+spent on 3 accounts: Social Security, Medicare, and Medicaid. There is 
+no way you can tax your way out of this unless you are willing to 
+dramatically increase the taxes on our children and our children's 
+children. You have to reform these programs.
+  This bill put our toe in the water, hopefully up to our ankles, on 
+one of those three major entitlement accounts, specifically Medicaid. 
+The proposals on this bill on Medicaid were proposals that essentially 
+came to us as a Congress from the Governors in a bipartisan commission. 
+The Governors got together and said, How can we improve the Medicaid 
+Program? How can we give more services to more children but do it more 
+effectively, thus costing less money and having the rate of growth of 
+Medicaid slow a little bit. They came forward with a number of 
+proposals which we have essentially adopted in this bill.
+  The practical effect of that is we will expand coverage to children. 
+It is expected that about a million children who are not covered today 
+under Medicaid will be picked up under this bill as a result of giving 
+the Governors more flexibility.
+  As the Senator from Montana said, the concept that we are savaging 
+the Medicaid accounts during the Christmas season is not defensible on 
+its face. We will spend $1.2 trillion over this next 5 years on 
+Medicaid. We are talking about reducing Medicaid spending during that 
+period by $5 billion.
+  To give you a chart that reflects what type of reduction that is, the 
+green line is Medicaid spending. The red line is Medicaid spending 
+after this event, after this passes. There can be no difference because 
+Medicaid spending goes up so dramatically during this period. When you 
+reduce it by $5 billion, you literally are not dramatically reducing 
+the Medicaid benefits--literally. The numbers still go up. You cannot 
+even calculate it in terms of a digit. For example, Medicaid spending 
+is going to go up 40 percent during the next 5 years. After this bill, 
+Medicaid spending is going to go up 40 percent in the next 5 years. So 
+this representation that we are doing some sort of terrible event to 
+Medicaid is absurd on its face because the numbers don't defend it. 
+What is in this bill that is important to Medicaid is the new policy 
+which is going to give the Governors more flexibility, which is going 
+to keep Medicaid from being abused and gamed by people, people who are 
+worth a million dollars or hundreds of thousands of dollars, basically 
+taking their obligations to pay for their retirement and putting it on 
+the American taxpayer generally. That will end. Call it spend down. 
+Governors will be given flexibility to try to reorganize their Medicaid 
+Programs so they can deliver more services to more people.
+  I have to disagree strongly with the representation that somehow we 
+have cut Medicaid. We have not cut it. The facts are that Medicaid is 
+going to grow 40 percent over the 5-year period. I wanted to get a 
+little more of a reduction in the rate of growth. I wanted to see us do 
+$15 billion, but we compromised, as a result of a lot of different 
+influences around here, at $5 billion on a $1.1 trillion base. It does 
+not even show up as a statistical change over those 5 years.
+
+  But what is important in this bill is the policy, the policy which in 
+later years, and hopefully as we move through this period, will allow 
+Governors to deliver this program more effectively to more people at 
+less of a rate of growth. We have to address this. We can continue to 
+bury our heads in the sand, and we have done that now for 8 years. We 
+have not addressed the entitlement accounts for 8 years. This is the 
+first time we tried to step on this area, which represents 60 percent 
+of Federal spending, but if we continue to bury our heads in the sand 
+and not pass this small step forward in the area of trying to put 
+better policy in place for these health care programs, all we are doing 
+is saying to our children we don't have the courage to step up and try 
+to give you a chance to have a decent lifestyle. We are going to take 
+advantage of you. We are going to tax you so when you want to send your 
+kids to college, you will not be able to afford it or when you want to 
+buy a house, you won't be able to afford it because your tax burden 
+will be so high to support this generation, it will be so huge.
+  It is not right for policymakers to take this position. We should 
+step onto this turf called entitlement spending. That is what this bill 
+does and that is why I think we should pass it.
+
+[[Page S14078]]
+
+  I do not think Senator Chambliss has arrived, so I yield the floor.
+  The PRESIDING OFFICER. The Senator from North Dakota.
+  Mr. CONRAD. Mr. President, in many ways the chairman has made my 
+case, because the hard reality here is this bill does virtually nothing 
+to address the deficit and debt crisis we face as a Nation. This bill 
+has $40 billion of cuts over 5 years. The first year the cut is $5 
+billion in a budget of $2.5 trillion.
+  According to the math I learned growing up in Bismarck, ND, that is 
+reducing the spending by 1/500 of the budget. Of course this is only 
+chapter 1 of reconciliation. Chapter 2 is going to cut taxes, either, 
+according to the Senate version, $70 billion, or the House version, $95 
+billion. In the House version in the first year they would cut the 
+spending $5 billion and cut taxes $21 billion. Guess what. The deficit 
+is not reduced. The deficit is increased. The deficit is increased, not 
+reduced by this package of reconciliation.
+  But it is not just the first year or the 5 years; the thing nobody is 
+paying any attention to is the growth of the debt. Last year the 
+deficit was $319 billion, but that is not how much the debt increased. 
+The debt increased by $551 billion. Under this budget plan over the 
+next 5 years, the debt of this country is going up $600 or $700 billion 
+a year, each and every year. We are going from a total debt in this 
+country of $7.9 trillion at the end of last year to a projection, by 
+those who are the advocates of this plan, of $11.3 trillion 5 years 
+from now.
+  Is anybody paying attention? This is a budget that is going to 
+increase the debt of the country, according to its own advocates, by 
+$3.4 trillion. There will be $3.4 trillion of added debt. And they have 
+a title of ``deficit reduction''? No. That is not going to pass any 
+test. It is not deficit reduction we are talking about in this budget 
+plan we are now in the final steps of considering.
+  Mr. President, I notice Senator Chambliss is on the floor. He is 
+supposed to be having this time. I will alert colleagues--is Senator 
+Chambliss prepared to proceed?
+  Mr. CHAMBLISS. Yes, I am.
+  Mr. CONRAD. Why don't we go to Senator Chambliss. My understanding is 
+the Senator will take 15 minutes; is that correct?
+  Mr. CHAMBLISS. Probably not that long, but certainly no more than 
+that.
+  Mr. CONRAD. Whatever time the Senator consumes, we will go to Senator 
+Kennedy for 15 minutes and then to Senator Schumer, so colleagues have 
+an understanding of where we are headed. Then my understanding is we 
+try to slot in Senator Stabenow, and then Senator Allard, we have been 
+told, would like to speak at 11:30, and then Senator Stevens at noon.
+  We have not gotten a formal agreement on that, but that is the 
+informal agreement at this point. If Senator Gregg has a need to 
+respond to something in between, he would certainly have that right.
+  Mr. GREGG. Mr. President, that is a good outline. I note that if 
+Members want to speak, it would be nice if they would give us a call 
+and tell us they want to speak, and we will make sure they have time to 
+speak. We want to make sure everybody has the time they need to get 
+their points across.
+  Do I understand that the Senator is yielding time off the bill on his 
+side to Senator Chambliss?
+  Mr. CONRAD. Mr. President, on his side I think will be the most 
+appropriate.
+  Mr. GREGG. Mr. President, I yield whatever time Senator Chambliss 
+uses.
+  Mr. CHAMBLISS. Mr. President, I will say nice things about the 
+Senator from North Dakota, so it can come from either side.
+  I rise in support of S. 1932, the Deficit Reduction Omnibus 
+Reconciliation Act of 2005. Yet I must express some serious concern 
+about the final results of the agriculture title which was negotiated 
+by the House and Senate leadership. It was ultimately decided upon, 
+frankly, by the leadership of the other body, but we would not be where 
+we are today without the leadership of Senator Gregg as chairman of the 
+Budget Committee.
+  This has been a long and very arduous process that we have gone 
+through. It has taken us literally almost 12 months to get to where we 
+are today. I think, at the end of the day, we are hopefully going to 
+pass a meaningful deficit reduction package that, while not perfect, 
+does move us down the road to getting our fiscal house in order.
+  I say to Senator Conrad, who is a member of the Agriculture 
+Committee, that while he didn't agree with what we were doing relative 
+to budget reductions in the agriculture title of the bill, during the 
+committee markup, he was very cooperative and allowed the committee to 
+expeditiously report our title to the budget committee. That is a sign 
+of leadership where, even when we disagree, we can still do what is 
+best and that is bring up issues such as this for debate. For that I 
+commend Senator Conrad and thank him for his cooperation in that 
+regard.
+  The good news is that the reductions contained in the conference 
+report will reduce the Federal Government's overall deficit and 
+borrowing. Unfortunately, the reductions in the agriculture title are 
+not balanced nor fair. I stated throughout the reconciliation process 
+that my ultimate goal was for all components of the farm bill--
+commodities, conservation, and nutrition--to be fairly treated. This 
+package does not accomplish that goal.
+  I am pleased the final package maintained the Senate position of no 
+reduction in the Food Stamp Program. At the end of the day, we decided 
+that was fair and equitable because the Food Stamp Program benefits not 
+just those people who need food stamps, but it is also extremely 
+beneficial to farmers.
+  However, continued insistence of no extension of the commodity title 
+of the farm bill by the leadership of the other body, the White House, 
+and the U.S. Department of Agriculture has resulted in a package that 
+now contains obvious inequities.
+  The Senate strived to preserve the agriculture baseline for all farm 
+bill programs with temporary cuts over multiple years. In doing so, 
+commodity programs, conservation, research, and rural development would 
+have contributed in an equitable manner to deficit reduction. These 
+options, along with the extension of the farm bill, would have 
+protected the baseline, treated all components of the farm bill 
+equally, and provided security for farmers in future years. However, 
+the leadership of the other body insisted on concentrating deep 
+temporary cuts in the 2006 crop-year only, rather than slight 
+multiyear, across-the-board cuts to commodities which would allow us to 
+have several options to extend the commodity program baseline as with 
+conservation.
+  I cannot agree to impose such a heavy financial burden that hits 
+producers still reeling from a season of crop loss and double costs for 
+irrigation, fertilizer, and diesel. Until the bitter end, the 
+leadership of the other body rejected several Senate alternatives, 
+forcing the conference committee to drop multiple-year commodity 
+program reductions.
+  The imbalance of this package is apparent on its face. While the 
+baseline is preserved for some conservation programs through extension 
+in the law, the House Agriculture Committee opposed similar treatment 
+for the commodity title. This final package contains a short-term 
+reprieve from cutting crop payments, which means commodities will not 
+be protected like conservation during reauthorization. This will be a 
+big problem for farmers as Congress begins to write the farm bill in 
+2007. The constant critics of agricultural programs will blame farmers 
+for escaping their share of deficit reductions, as commodity support 
+programs are about to be considered for reauthorization.
+  In addition, budgetary pressures on the next farm bill will be 
+enhanced just as negotiations should be concluded in the World Trade 
+Organization. We have already seen our trading partners and 
+nongovernmental organizations target one commodity, cotton, which is 
+widely grown in my home State of Georgia, with many other commodities 
+within their target sights. With little shared sacrifice in budget 
+reconciliation, I am concerned that critics at home and abroad will 
+note that the United States has not moved forward on true reform and 
+will call for deeper and more binding commitments in order to enforce 
+the minimal amount of discipline.
+  We cannot say with the same vigor as we did when the Senate passed S. 
+1932
+
+[[Page S14079]]
+
+that the United States is already reducing the overall level of trade-
+distorting domestic support. Those who have successfully challenged our 
+farm programs will be given added incentive to attack other 
+commodities, and this may, and likely will, have an even more serious 
+and severe impact on family farms across the country.
+  The conference agreement includes reductions for fiscal years 2006 
+through 2010 for commodities, conservation, energy, research, and rural 
+development programs. Specifically, it includes no extension of 
+commodity programs and no across-the-board cuts for commodity programs. 
+It reduces direct advance payments to 40 percent for the 2006 crop-year 
+and to 22 percent for the 2007 crop-year. The Cotton Step 2 Program is 
+terminated effective August 1, 2006.
+
+  The Milk Income Loss Contract Program is extended for 2 years at a 
+cost of $998 million but is not subject to the 2.5-percent reduction 
+offered and proposed by the Senate.
+  The Environmental Quality Incentives Program is extended in law to 
+2010, but the funding is reduced $1.27 billion in fiscal years 2007 
+through 2009. It is increased to $1.3 billion in fiscal year 2010.
+  The Conservation Security Program is extended in law to 2011, but 
+baseline funding is kept at $1.954 billion for fiscal years 2006 
+through 2010 and at $5.65 billion for fiscal years 2006 through 2015.
+  Additionally, funding for the Small Watershed Rehabilitation Program 
+is rescinded.
+  The Renewable Energy Systems and Energy Efficiency Improvements 
+Program is limited to $3 million in fiscal year 2007. Unspent obligated 
+funds from prior years from the Value-Added Agricultural Product Market 
+Development Grant Program and the Enhanced Access to Broadband 
+Telecommunications Services in Rural Areas Program are rescinded.
+  Funding for the Rural Business Investment Program and the Rural 
+Strategic Investment Program and the Rural Firefighters and Emergency 
+Personnel Grant Program are also rescinded.
+  Authorized funding for the Initiative for Future Agriculture and Food 
+Systems is eliminated for fiscal years 2007 through 2009.
+  Had the commodity title shared more equitably in the deficit 
+reductions, these programs that are being rescinded, would not have 
+experienced such deep cuts.
+  My deepest disappointment is with the lost opportunity of this 
+negotiation. We had the opportunity to reaffirm our commitment to 
+balancing the equities among all interests involved in the farm bill 
+and establishing the trust that will be needed to reauthorize the farm 
+bill in 2007. However, this process, once again, confirms my steadfast 
+admiration for America's farmers and ranchers who are willing to share 
+in reducing the deficit burden on their children and their 
+grandchildren.
+  I want to reiterate my intent in reauthorizing the next farm bill to 
+provide a balance to all of America's agricultural interests and end 
+with a product that protects all of agriculture in rural America.
+  I close with one quick comment on the WTO negotiations which 
+concluded in Hong Kong over the weekend but are not totally concluded 
+at this point in time.
+  I commend Ambassador Rob Portman, our U.S. Trade Representative, and 
+his staff, particularly his Chief of Staff, Rob Lehman, who have worked 
+so hard since Ambassador Portman was appointed to this position to try 
+to ensure that while American agriculture participated in the 
+discussions relative to trade-distorting issues at the WTO, he never, 
+ever made a commitment that would sacrifice the interests of American 
+agriculture.
+  It is unfortunate that once Ambassador Portman put a meaningful 
+proposal on the table to end the discussions with the European Union, 
+the European Union made a conscience decision that they did not want to 
+see any change in their substantive program from an agricultural 
+perspective. Therefore, the European Union basically brought down the 
+talks leading up to Hong Kong, and I do not think we could say in any 
+way that anything meaningful came out of the discussions that were 
+concluded in Hong Kong over the weekend.
+  It is my hope that the European Union will go back to the table and 
+engage in meaningful discussions that hopefully will lead to some 
+agreements that will be of benefit both to farmers in the European 
+Union and obviously, from a parochial standpoint, farmers in the United 
+States. I firmly believe that the future of American agriculture lies 
+in our ability to export what we know to be the finest agricultural 
+products grown anywhere in the world.
+  I yield the floor to the Senator from North Dakota.
+  The PRESIDING OFFICER. The Senator from North Dakota.
+  Mr. CONRAD. How much time does the Senator from Massachusetts seek?
+  Mr. KENNEDY. Mr. President, I expect maybe about 12 minutes. If I 
+could get 15 I will try and yield some back.
+  Mr. CONRAD. I am happy to yield 15 minutes to the Senator from 
+Massachusetts.
+  The PRESIDING OFFICER. The Senator from Massachusetts.
+  Mr. KENNEDY. Mr. President, I thank the Senator from North Dakota. I 
+hope both our colleagues, and Americans, will have a chance to listen 
+carefully to his assessment of the whole budget process that we have 
+been faced with in the Senate. It has very important implications for 
+the American people. It will impact the financial condition of our 
+Nation and of Americans and its relationship to the world economy. Most 
+of all, I hope our colleagues and friends have listened to him 
+carefully, talking about what the issue is before us in the Senate 
+today before we vote.
+  As I have said previously, the budget is a question of priorities. 
+The Republican proposal is going to give $95 billion in tax giveaways, 
+the vast majority of which will benefit the wealthiest individuals, 
+with just crumbs for individuals who earn below the $100,000. And who 
+is paying for it? The neediest people in our country.
+  The conference report leaves the tax cuts for the rich under the 
+Christmas tree but leaves middle-class families out in the cold. This 
+is what we are talking about: families who make over $1 million will 
+get $32,000 and families with incomes under $100,000 will get $29.
+  Now we have to ask, where will we get those resources? How are we 
+going to come up with that money? Those who have been the most 
+vulnerable in our society are the ones who will be penalized, 
+particularly the elderly and needy who rely on the Medicaid Program and 
+also the young people who rely on the student financial aid program.
+  The portion of the Senate bill reported by the Health, Education, 
+Labor and Pensions Committee passed on a very strong bipartisan basis, 
+unanimous on the education features of it. The bill included $12 
+billion in new student aid and benefits, $8 billion of this was put to 
+need-based aid, which would be available to young people, to 
+effectively raise the Pell grant, which is so important for more than 5 
+million families in this country, from $4,050 to $4,500. The bill also 
+provided some additional assistance for those who were focusing on the 
+study of math, science, and high-need foreign languages, basically a 
+recognition and a response to the need to keep America competitive with 
+China and India, and globally, in terms of engineering and other math 
+and science graduates. So we decided to provide some stimulus and 
+additional help to encourage people to study math and science. But we 
+did it in addition to providing an increase for all needy students.
+  Most of the hearings that we have had in our committee, under the 
+chairmanship of Senator Enzi, have focused on college access and 
+affordability--and I pay tribute to him both for his leadership in 
+getting this proposal through the Senate, and also for battling for any 
+help for students in the conference.
+  We passed, in the budget resolution last January, a very significant 
+increase for education that would have helped all needy students. The 
+Senate Republicans and Democrats went on record to say in our Nation's 
+budget we want to allocate additional resources to education. We 
+increased it by $5.4 billion, and that was struck down by the 
+Republican leadership over in the House of Representatives and 
+completely lost in the conference report to
+
+[[Page S14080]]
+
+that bill. So this has been a long battle to try and provide some 
+additional help.
+  What has come back from the conference in this reconciliation bill is 
+no different. It is completely unsatisfactory. The conference 
+completely struck our $450 increase for Pell students, putting the 
+maximum Pell grant right back down to $4,050, where it has been for 
+four years. The conference included some increase for individuals who 
+are going to study math and science. As I mentioned, math and science 
+is important, but we cannot focus on it at the expense of all other 
+students. Most thoughtful educators believe that one has to begin with 
+math and science in the very early grades. We are going to do something 
+about math and science, and we have a bipartisan group that want to 
+improve math and science education, but the approach in this 
+legislation is not the answer to the challenge faced by our Nation.
+  This year, over 5 million students rely on the Pell grant to afford 
+the cost of college. In the Senate bill, we gave additional aid to 
+every one of those students. The bill that returned from the partisan 
+meetings with the House takes that aid away from millions of students. 
+In order to qualify for the additional aid in this report, students 
+have to attend full time. Over 40 percent of the students who attend 
+public 4-year colleges in a degree-granting program attend part time, 
+so they will see none of the assistance that is provided in this bill. 
+Those are hard-working students who have to work 25, 30 hours a week or 
+more, one or two jobs, in order to put themselves through school. They 
+will see no help from this bill.
+  To get any of this additional assistance, the students must maintain 
+a B average. Is this the message we want to send to the students, that 
+their aid disappears if they slip to a B-minus? How does this help the 
+students? To get any additional grant aid in their junior or senior 
+year, they must major in math, science, or engineering.
+  I strongly support and encourage more students to study math and 
+science but not at the expense of other students. What does this say to 
+the young people who want to be teachers? You are out of luck. What 
+does it say to the millions of people we need to be nurses? You are out 
+of luck. You do not benefit one cent with this particular program.
+  The Senate bill took a balanced approach, and made sure that all the 
+children who needed our help got an increase in aid. That is not what 
+came out of conference.
+  I think that is sending a message to young people: Don't bother 
+spending your time being a teacher anymore, don't try to study to 
+become a nurse because that extra aid and assistance will not be there.
+  Federal need-based aid was established to help all low-income 
+students afford the higher education of their choice. That was the 
+need. That was the reason for it. We said as a country that we have 
+young people of talent and ability who can gain entrance into the best 
+schools and colleges, but they cannot quite put it all together because 
+their families can't afford it along with rest of their basic needs. We 
+said, OK. They are able to gain entry into the schools and colleges of 
+their choice, and we will help them afford it. Through a combination of 
+the grants and aid programs, work-study programs, and their summer 
+income, they will be able to continue through their degree. Not only 
+did these individuals gain, but the Nation gained. The whole country 
+reaped the benefit, because we said that every student matters and 
+every student deserves our help. That is not what this conference 
+report says.
+  During this holiday season, we should be focused on the true meaning 
+of Christmas and the special thoughts that Americans of many faiths 
+have at this time of year for their families, their friends and 
+neighbors, and peoples everywhere. We're reminded that each of us as an 
+obligation to care for one another and to help those in need--to lend a 
+hand to the least of those in our midst. As the Bible teaches us, we 
+should ``Love thy neighbor as thyself.''
+  But this budget reconciliation bill does the opposite. It robs from 
+the poor to make room for tax giveaways to the rich. Wealthy Americans, 
+banks and drug companies are big winners under this deal. Those who 
+need hope and help are the big losers. It's a bill Scrooge would love.
+  Sadly, as we complete this measure at Christmastime, it will indeed 
+be the neediest members of our society who have to tighten their belts. 
+Republicans have decided to leave tax giveaways for the wealthy under 
+the Christmas tree, while leaving middle-class families out in the 
+cold. Those with incomes over $1 million will receive an average of 
+$32,000 in tax cuts. But those with incomes under $100,000 will receive 
+an average of only $29. Bah humbug.
+  Children and families struggling to pay for health care will be among 
+those who are hurt the most, and 46 million Americans lack health 
+insurance, but this bill will increase costs and cut health benefits 
+for millions of low-income families. It slashes Medicaid funding by 
+$6.9 billion over the next five years, and $28.4 billion over 10 years.
+  Under this administration, the number of uninsured has already risen 
+to historic levels. But this Republican bill will send the level even 
+higher, by raising costs and cutting benefits for low-income families 
+who rely on Medicaid for needed health care.
+  The conference report is actually Worse than the Republican House 
+bill in many respects. It would take away the guaranteed benefits for 
+the 25 million children who receive health care through Medicaid by 
+creating an ambiguous new state option called ``flexible benefits.'' It 
+hurts seniors by increasing the prescription drug co-payments beyond 
+those in the House bill, allowing states to charge up to 20 percent of 
+the cost of each drug, beyond the means of many low-income Medicaid 
+families. It indexes cost-sharing to medical inflation, a much higher 
+rate of increase than family wages. It allows states to increase cost-
+sharing up to four times the amount allowed under current law.
+  The majority of the savings from these provisions don't come from the 
+actual co-payments and premiums paid by Medicaid enrollees. They result 
+from families using fewer medical services, because the increased costs 
+will put the health services they need beyond their reach.
+  Unlike the Senate bill, which made the majority of its cuts by 
+reducing overpayments to drug companies and HMOs, the conference report 
+cuts Medicaid by limiting the access of low-income families to needed 
+health care. Instead of getting rid of the outrageous slush fund for 
+Medicare HMOs, it cuts health care for poor children.
+  The Republican Congress is telling hard-working Americans everywhere 
+that they don't care about the hardships they face. Their policies 
+encourage failure, not hope for a better life.
+  This bill means that mothers trying to hold down a job and put food 
+on their table will go without the child care assistance and child 
+support they need and deserve.
+  Behind closed doors, Republicans also have added a welfare 
+reauthorization in this bill despite their repeated efforts to block 
+debate on the reauthorization in the Senate. Democrats supported moving 
+forward, but Republican reluctance to spend money on our most 
+vulnerable citizens kept the leadership from bringing the bill to the 
+floor.
+  So House Republican leaders decided to avoid the standard legislative 
+process by unfairly slipping their welfare bill into this massive 
+budget reconciliation bill.
+  The bill includes new work requirements without adequate child care 
+funding. By eliminating the current caseload reduction credit, the bill 
+requires over half the States to increase the number of welfare 
+recipients in federal work activities by two-thirds in 2007, unless 
+they have a substantial drop in their welfare caseload over the next 
+year. Despite this increase in required work, the bill fails to allow 
+child care funds to keep pace with inflation. The bill under-funds 
+child care by $11 billion in terms of what is needed to maintain 
+current purchasing power and to meet the increased work requirements. 
+  In Massachusetts alone, 13,500 children are already on waiting lists 
+to receive these essential services. Under this bill, the situation can 
+only get worse.
+  The bill will make life harder for poor children who rely on child 
+support to survive. It greatly weakens enforcement efforts to make 
+dead-beat dads
+
+[[Page S14081]]
+
+live up to their responsibilities and provide for their children. Under 
+the Republican plan, nearly $2.9 billion will be lost in child support 
+payments over the next five years and $8.4 billion in over the next ten 
+years.
+  In Massachusetts, $58 million in child support payments will be lost 
+over the next five years, and $170 million over the next ten years.
+  These are the Nation's poorest children. They are vulnerable and in 
+need. But the Republican plan would abandon them. Merry Christmas. 
+  Families having to choose between putting food on the table and 
+keeping warm this winter are also big losers under this bill.
+  In Massachusetts, the Low Income Home Energy Assistance Program, 
+LIHEAP, serves 134,000 needy families. These families it will receive a 
+maximum benefit of $765 for the current heating season. This is enough 
+for only one tank of oil. It takes at least two to four tanks to make 
+it through the winter.
+  Unfortunately, under this bill, low income families struggling to 
+make it through the winter won't see any additional funds until fiscal 
+year 2007. The bill cruelly ignores the obvious fact that the heating 
+crisis is here now.
+  They claim that they have provided for LIHEAP in other bills. But 
+when you add up the numbers, they've only provided $2.4 billion in 
+regular funds and $1.6 billion in emergency funds. The emergency funds 
+are given out at the discretion of the President, so it's possible that 
+states will see little to none of the $1.6 billion this year. 
+Obviously, the Republican majority had no intention of fully funding 
+LIHEAP at its authorized level of $5.1 billion.
+  Republicans mouth the same old rhetoric about wanting to help our 
+neediest citizens. But when it comes to putting their money where their 
+mouth is they fall short--very short--and it's the nation's poor who 
+suffer.
+  Students struggling to get a college degree are the big losers as 
+well. We know that education is the key to keeping America strong, 
+secure, and competitive. Now, more than ever, we must embrace and 
+invest in education to advance America in the years ahead. 
+  To do so requires a commitment to educational opportunity for all--
+especially for talented youth who have so much potential, but need help 
+affording a college degree.
+  The cost of tuition and fees at public colleges has skyrocketed in 
+recent years and Pell grants have fallen far behind. Under current law, 
+this will be the fourth year in a row that the maximum Pell grant has 
+not been increased.
+  For countless families, the gap is so great that college is out of 
+reach. Over 400,000 talented, qualified students each year can't go to 
+a 4-year college because they can't afford it, 170,000 don't attend 
+college at all. That's unacceptable.
+  But in the face of this crisis, the Republican budget deal abandons 
+the Senate provisions that increased the maximum Pell grant by $450.
+  It includes the biggest cuts in student loan programs ever, in order 
+to pay for $13 billion in tax giveaways for the richest Americans.
+  The Senate bill included $8 billion to increase grant aid for all 
+Pell grant recipients. In contrast, the small amount of funding for 
+student aid included in this Conference report--$13 billion for tax 
+cuts and only $3.75 billion for students--will only be available for a 
+very small number of students eligible for Pell Grants.
+  This bill abandons the government's long-time commitment to ensuring 
+that the neediest students get the most help. It imposes so many 
+hurdles to new aid that it is sure to leave behind those who need our 
+help the most to stay in school.
+  Under this proposal, a single mother who can attend college only 
+part-time because she has to work 40 hours a week to put food on the 
+table will not be eligible for a penny in new grant aid.
+  Under this proposal, a student who did not have the opportunity to 
+take rigorous courses in high school because this administration 
+underfunded the No Child Left Behind Act would not be eligible for a 
+penny in new grant aid.
+  Under this proposal, a student who decides that the best road to a 
+good job is to pursue a credential, such as a dental hygiene 
+certificate, would not be eligible for a penny in new grant aid.
+  In today's global economy, we need stronger incentives for students 
+to study math and science, and the Senate bill did that.
+  We also need to address the broader crisis of hundreds of thousands 
+of qualified students who never go to college, because the costs are 
+too high and student aid is too low. All qualified students should get 
+the help they need to achieve the American dream. 
+  Take the case of Carli, from Hampton, NH. She's a junior at a public 
+college in the State, and she already has $25,000 of debt. She relies 
+on her Pell grant, but even with that, she has to work 20 hours a week 
+during the school year and 40 hours a week in the summer.
+  She writes, ``This is not a question of not working hard enough. It 
+has been an uphill battle to put myself through school. I am happy to 
+do it, but I just want to know that when I'm through, there is a place 
+for me in the American Dream too.''
+  Becky, from Holyoke, MA is a junior in college and is already in 
+$24,000 of debt. She's alarmed at how high her debt will be when she 
+graduates.
+  She writes, ``We students are the future of the USA. By putting us at 
+risk and in a financial crisis, Bush and his cronies are putting the 
+future of the USA at risk.''
+  In addition to abandoning so many students who so desperately need 
+our help, this bill also rejects our Senate-passed proposals to 
+increase competition in the federal loan programs. As a result, private 
+lenders will still have their unfair advantage over the more cost-
+efficient federal loan program. The end result will be increased costs 
+to taxpayers.
+  The actions taken today hand the keys of the student loan program 
+over to profit-hungry banks and lenders. Congress missed the 
+opportunity to say students, not banks, should be given a break.
+  American students deserve better. America deserves better. 
+  Mr. President, I ask unanimous consent to have printed in the Record 
+this letter signed by over 146 organizations that are against the 
+reconciliation report.
+  Also, I ask unanimous consent to have printed in the Record a letter 
+from the U.S. Conference of Catholic Bishops that finds that this is 
+basically an immoral, unfair, and unjust budget.
+  I also ask unanimous consent to have printed in the Record a letter 
+from a the educational groups who oppose this report.
+  There are even more groups than these who have joined in to oppose 
+this bill. I have not seen groups as united as these in their 
+opposition to the way this report fails to prioritize the needs of the 
+American family. And they speak loudly and clearly.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+                                          United States Conference
+
+
+                                          of Catholic Bishops,
+
+                                Washington, DC, December 13, 2005.
+     U.S. Senate,
+     Washington, DC.
+       Dear Senator: Last February in my capacity as President of 
+     the United States Conference of Catholic Bishops, I wrote 
+     asking you to give priority attention to the needs of poor 
+     and vulnerable people as you developed a budget for our 
+     nation. Congress is now nearing completion of the budget with 
+     reconciliation bills that reflect not only economic policy 
+     preferences but basic moral choices as well. As Congress 
+     prepares to resolve the differences between the House and 
+     Senate versions of the spending reconciliation package, I 
+     wish to express deep concerns and disappointment on the 
+     impact of certain proposed cuts on our most vulnerable 
+     brothers and sisters. At the same time, the Bishops' 
+     Conference is grateful that both bills take steps toward 
+     helping those who have suffered due to Hurricane Katrina.
+       In my previous letter, I urged you on behalf of the 
+     Bishops' Conference to develop a budget plan that would 
+     guarantee adequate funding to assist those who are struggling 
+     to move beyond welfare, to educate their children, to gain 
+     access to health care or to overcome hunger and homelessness. 
+     Unfortunately, the budget proposal developed by the House of 
+     Representatives includes provisions that fall well short of 
+     that standard. We urge you to choose the Senate's approach, 
+     and not include these provisions in the final bill.
+       We urge you to oppose harmful cuts to the Food Stamp 
+     program included in the House bill that will result in taking 
+     food away from children and others who are being helped now. 
+     According to the Congressional Budget Office the House 
+     proposal would result in over 250,000 children and adults 
+     losing access to Food Stamps. Just under one-third of those 
+     would be legal permanent residents
+
+[[Page S14082]]
+
+     who will lose eligibility if the five year waiting period is 
+     extended by two years. The Bishops' Conference strongly 
+     supported President Bush's successful effort to expand access 
+     to Food Stamps for legal immigrants in the last farm bill. We 
+     strongly oppose retreating by making legal immigrants wait an 
+     additional two years for eligibility.
+       The Bishops' Conference strongly recognizes and affirms the 
+     sanctity of human life from conception to natural death. 
+     Access to adequate health care is a basic human right and an 
+     essential measure of respect for human life and dignity. No 
+     one should be denied access to needed health care because of 
+     the inability to pay. Allowing states to increase the burden 
+     of copayments, deductibles and premiums on Medicaid 
+     beneficiaries-including some children and pregnant women--and 
+     to erode federal standards of core benefits will have that 
+     effect. We urge you to reject including these proposals from 
+     the House bill in the final package. Attempts to save money 
+     by making it harder for low-income and vulnerable people to 
+     get the health care they need is simply unacceptable.
+       The House bill also includes provisions to reauthorize the 
+     Temporary Assistance for Needy Families (TANF) welfare 
+     program. The Conference has not supported earlier iterations 
+     of the House TANF proposal because of concerns about how it 
+     could impact low-income families and children, given that it 
+     increases work requirements, including for mothers of 
+     children under 6 years old; fails to provide sufficient child 
+     care funding; and fails to restore TANF benefit eligibility 
+     to recently-arrived legal immigrants. TANF reauthorization 
+     should be considered on its own terms to allow full review of 
+     these and other important policy decisions, instead of 
+     including it in a budget-cutting exercise.
+       The House bill, by cutting federal funding for state child 
+     support services, will make it harder for states to collect 
+     child support for low and moderate-income families and result 
+     in $21 billion less in child support being collected for 
+     children and families than under current law, according to 
+     the Congressional Budget Office. This proposal is not good 
+     for children or families, and we urge you to reject it. Child 
+     support payments are crucial to the economic viability of 
+     some families, keeping them out of poverty and off public 
+     programs. They can also encourage parental responsibility and 
+     help to maintain the connection between children and their 
+     non-custodial parent.
+       In addition to these areas where we ask you to follow the 
+     Senate bill, we are concerned with the approach both bills 
+     take in important areas of agriculture policy. First, the 
+     bishops have stated that protecting God's creation must be a 
+     central goal of agricultural policies, and we support 
+     programs that promote soil conservation, improve water 
+     quality, protect wildlife, and maintain biodiversity. We 
+     oppose proposals in both bills to reduce spending on key 
+     agriculture conservation programs.
+       Second, we are also deeply disappointed that neither bill 
+     begins the process of limiting U.S. farm supports and 
+     targeting them to those who need them the most--small and 
+     moderate-sized farms facing periodic price shocks or 
+     unpredictable natural disasters. Such a policy is needed so 
+     poor farmers around the world can sell their products and 
+     support their families, and to help family farms remain 
+     competitive in a volatile market.
+       Finally, the Bishops' Conference is pleased that both the 
+     House and Senate bills call for 100% federal financing for 
+     health care for victims of Katrina. The House provision goes 
+     farther than the Senate bill, providing for full federal 
+     Medicaid funding not only for Katrina victims and evacuees, 
+     wherever they now live, but for all residents of Louisiana, 
+     Mississippi and the most affected counties in Alabama. We 
+     urge you to support the more generous House language.
+       The federal budget is more than a matter of accounting: it 
+     reflects our values and priorities as a nation. The budget 
+     choices you make in the coming days will directly affect the 
+     lives of real people, especially ``the least of these'' in 
+     our midst. This is a time for a genuinely bipartisan 
+     commitment to focus on the common good of all, and on the 
+     special needs of the poor and vulnerable in particular. On 
+     behalf of the United States Conference of Catholic Bishops, I 
+     urge you to make that commitment by working for a budget that 
+     does not neglect the needs of the most vulnerable among us.
+           Sincerely,
+                                    Most Rev. William S. Skylstad,
+     Bishop of Spokane, President.
+                                  ____
+
+
+
+                                American Council on Education,
+
+                                Washington, DC, December 19, 2005.
+       Dear Senator: The higher education associations listed 
+     below, representing the nation's two- and four-year public 
+     and private colleges and research universities and the 
+     students who attend them, strongly oppose the conference 
+     report to S. 1932, the FY 2006 budget reconciliation 
+     legislation. The decisions made regarding federal student 
+     loans in the conference committee pay for deficit reduction 
+     by sending the bill directly to America's college students 
+     and their parents.
+       Fully $12.7 billion--or nearly one-third--of the $41 
+     billion in cuts contained in the reconciliation bill are 
+     derived from the student loan programs. This is the biggest 
+     cut in the history of the federal student loan program.
+       In addition, the legislation creates a new source of 
+     competition for scarce Pell Grant and campus-based aid grant 
+     funds, while simultaneously destabilizing the delivery of the 
+     federal student loan funds. This happens as a result of the 
+     bill's transfer of the ``Section 458'' administrative funds 
+     from the mandatory to the discretionary portion of the 
+     budget, a $600 million annual expenditure.
+       On the plus side, the bill uses a small portion of the 
+     student loan cuts to create two new grants for students 
+     majoring in math, science, and foreign languages; reduce loan 
+     origination fees; provide a modest increase in borrowing 
+     limits; and make improvements in the need analysis system. 
+     Ultimately, however, these provisions are too small, and in 
+     the case of one of the grant programs, far too complex and 
+     restrictive to offset the damaging consequences of the cuts 
+     to student loans. We are also extremely disappointed that the 
+     Senate's ``ProGAP'' program, which stood a real chance to 
+     expand college access by increasing need-based grant aid 
+     funding, was dropped in the conference agreement.
+       At a time when the nation's future economic prospects are 
+     tied more closely than ever before to a college-educated and 
+     highly-skilled workforce, it is shortsighted to ask college 
+     students and their families to bear so much of the burden of 
+     deficit reduction. Student aid programs, including student 
+     loans, are an investment in America's future workforce, and 
+     now is the time when our nation should be investing more in 
+     the higher education of its citizens.
+       We urge you to vote against the budget reconciliation 
+     conference report.
+           Sincerely,
+                                                       David Ward,
+                                                        President.
+       On behalf of: American Association of Community Colleges, 
+     American Association of State Colleges and Universities, 
+     American Council on Education, Association of American 
+     Universities, Association of Community College Trustees, 
+     Association of Jesuit Colleges and Universities, Council for 
+     Higher Education Accreditation, National Association of 
+     College and University Business Officers, National 
+     Association of Independent Colleges and Universities, 
+     National Association of State Universities and Land-Grant 
+     Colleges, National Association of Student Financial Aid 
+     Administrators, The State PIRGs Higher Education Project.
+                                  ____
+
+                                                December 19, 2005.
+     U.S. Senate,
+     Washington, DC.
+       Dear Senator: The undersigned organizations are writing to 
+     voice our concern about provisions in the conference report 
+     on the reconciliation bill. On behalf of the 53 million 
+     Americans who rely on Medicaid for their health and long-term 
+     care supports and services, we urge the Senate to reject the 
+     conference report. In particular, we strongly oppose the 
+     provisions of the conference report that would result in 
+     higher cost-sharing and fewer benefits for low-income 
+     Medicaid beneficiaries.
+       Congress now has the opportunity to take a stand for 
+     America's most vulnerable populations and reject the 
+     conference report because it harms low-income beneficiaries. 
+     The needs of millions of low-income children, seniors, people 
+     with disabilities and working families hang in the balance. 
+     We are depending on you to vote ``no'' on the conference 
+     report in order to keep health care accessible, affordable 
+     and comprehensive for Medicaid beneficiaries.
+           Sincerely,
+         AFL-CIO, AIDS Alliance for Children, Youth & Families, 
+           Alliance for Children and Families, Alliance for 
+           Retired Americans, Alliance of Louisiana Developmental 
+           Centers Families & Friends, American Academy of Child 
+           and Adolescent Psychiatry, American Academy of 
+           Pediatrics, American Academy of Physical Medicine and 
+           Rehabilitation, American Association of People with 
+           Disabilities, American Association on Mental 
+           Retardation, American College of Nurse Practitioners, 
+           American Congress of Community Supports and Employment 
+           Services, American Federation of State, County and 
+           Municipal Employees, American Federation of Teachers, 
+           American Medical Student Association, American Network 
+           of Community Options and Resources, American Nurses 
+           Association, American Public Health Association, 
+           American Therapeutic Recreation Association, Americans 
+           for Democratic Action.
+         Asian American Justice Center, Association for the 
+           Mentally Retarded at Agnews, Association of Academic 
+           Physiatrists, Association of University Centers on 
+           Disabilities, Bazelon Center for Mental Health Law, 
+     Beatrice State Development Center Family and Friends 
+     Association, B'nai B'rith International, Brain Injury 
+     Association, Center for Adolescent Health & the Law, 
+     Center for Advocacy for the Rights and Interests of the 
+     Elderly, Center for Public Policy Priorities, Center on 
+     Disability and Health, Child Welfare League of America, 
+     Children's Cause for Cancer Advocacy, Children's Defense 
+     Fund, Clearbrook Parents and Guardians Association, 
+     Coalition on Human Needs, Community Catalyst, Community 
+     HIV/AIDS Mobilization Project/CHAMP, Concerned Citizens 
+     For The Mentally Retarded.
+         Consumers Union, Council for Exceptional Children, 
+           Council of Women's and Infants' Specialty Hospitals, 
+           Dever Association for the Retarded, Inc.,
+
+[[Page S14083]]
+
+            Disability Service Providers of America, District of 
+           Columbia Primary Care Association, Division for Early 
+           Childhood of the Council for Exceptional Children, 
+           Dixon Association For Retarded Citizens, Easter Seals, 
+           Epilepsy Foundation, Families USA, Gay Men's Health 
+           Crisis, General Board of Church and Society of the 
+           United Methodist Church, Generations United, Gray 
+           Panthers California, Guttmacher Institute, Health and 
+           Disability Advocates in Chicago, HIV Medicine 
+           Association, Housing Works, Inc., Hudson Health Plan.
+         Human Rights Campaign, Hyacinth AIDS Foundation, IDEA 
+           Infant Toddler Coordinators Association, Institute for 
+           Reproductive Health Access, Jewish Association for 
+           Services for the Aged, Jewish Council for Public 
+           Affairs, Jewish Federation of Metropolitan Chicago, 
+           Learning Disabilities Association of America, Legal 
+           Action Center, Lutheran Services in 
+     America, Massachusetts Coalition of Families and Advocates 
+     for the Retarded, Medicare Rights Center, Mental 
+     Retardation Association of Utah, Mount St. Joseph 
+     Association, National Advocacy Center of the Sisters of 
+     the Good Shepherd, National Alliance of State and 
+     Territorial AIDS Directors, National Alliance to End 
+     Homelessness, National Asian American Pacific Islander 
+     Mental Health Association, National Asian Pacific American 
+     Women's Forum, National Association for Children's 
+     Behavioral Health.
+         National Association for the Advancement of Orthotics and 
+           Prosthetics, National Association of Councils on 
+           Developmental Disabilities, National Association of 
+           County Behavioral Health and Developmental Disability 
+           Directors, National Association of Health Advocacy 
+           Programs, National Association of Mental Health 
+           Planning and Advisory Councils, National Association of 
+           Pediatric Nurse Practitioners, National Association of 
+           People with AIDS, National Association of School 
+           Psychologists, National Association of Social Workers, 
+           National Association of State Head Injury 
+           Administrators, National Citizens' Coalition for 
+           Nursing Home Reform, National Committee to Preserve 
+           Social Security and Medicare, National Council for 
+           Community Behavioral Healthcare, National Council of La 
+           Raza, National Council on Aging, National Council on 
+           Independent Living, National Disability Rights Network, 
+           National Down Syndrome Congress, National Family 
+           Planning and Reproductive Health Association, National 
+           Health Council.
+         National Health Law Program, National Immigration Law 
+           Center, National Indian Health Board, National Latina 
+           Institute for Reproductive Health, National Mental 
+           Health Association, National Multiple Sclerosis 
+           Society, National Nursing Centers Consortium, National 
+           Partnership for Women & Families, National Respite 
+           Coalition, National Senior Citizens Law Center, 
+           National Women's Health Network, National Women's Law 
+           Center Network, a National Catholic Social Justice 
+           Lobby, Oregon Center for Public Policy, Parent Hospital 
+           Association, Sonoma Developmental Center, Parents & 
+           Friends of Hammond Developmental Center 
+     Association, Physicians for Social Responsibility, 
+     Presbyterian Church (U.S.A.) Washington Office, ProCare3, 
+     Project Inform.
+         Protestants for the Common Good, Providence Health 
+           System, RESULTS, San Francisco AIDS Foundation, School 
+           Social Work Association of America, Service Employees 
+           International Union, Society for Adolescent Medicine, 
+           St. Mary's Residential Training School, State 
+           Associations of Addiction Services, The Arc of the 
+           United States, The Well Project, Tourette Syndrome 
+           Association, Treatment Access Expansion Project, U.S. 
+           Psychiatric Rehabilitation Association, UHCAN Ohio, 
+           United Cerebral Palsy, United Food and Commercial 
+           Workers International Union, USAction, Voice of the 
+           Retarded, Voices for America's Children, YWCA USA, 
+           Welfare Law Center.
+                                  ____
+
+
+
+                                                         AARP,
+
+                                                December 19, 2005.
+     Hon. Bill Frist,
+     Majority Leader, U.S. Senate,
+     Washington, DC.
+       Dear Majority Leader Frist: AARP strongly opposes the 
+     budget reconciliation conference agreement scheduled to come 
+     before the Senate for a vote today. Rather than reflecting 
+     the rational provisions of the Senate reconciliation bill, 
+     the final conference agreement is irresponsible policy.
+       The final conference agreement does not ask for shared 
+     sacrifice to achieve budgetary savings. Rather it protects 
+     the pharmaceutical industry, the managed care industry, and 
+     other providers at the expense of low-income Medicaid 
+     beneficiaries and Medicare beneficiaries who will foot the 
+     bill.
+       AARP members and your other constituents will question why 
+     members of the Senate would vote for a bill that would:
+       Make it harder for Americans needing long-term care to 
+     qualify for Medicaid;
+       Force some Americans to forfeit their homes in order to pay 
+     for long-term care services;
+       Require all Medicare Part B beneficiaries to pay higher 
+     premiums;
+       Reopen the MMA, not to make improvements in the new drug 
+     benefit, but to require those with more income to pay higher 
+     Part B premiums sooner; and
+       Force low-income Medicaid recipients to pay more for their 
+     care--and if they cannot afford to do so--to potentially be 
+     denied care entirely.
+       The conference agreement systematically undermines the 
+     critical protections built into both the Medicaid and 
+     Medicare programs. If the conference agreement becomes law, 
+     then over the course of the next few weeks and months we will 
+     make sure that our members across the country fully 
+     understand the impact of this conference agreement on them 
+     and on their families.
+       We urge the Senate to oppose the reconciliation conference 
+     package and urge Congress to instead return to the fair and 
+     responsible policies of the original Senate package.
+           Sincerely,
+                                               William D. Novelli.
+
+  Mr. KENNEDY. If you are concerned about children, the children's 
+groups are strongly opposed to this. If you are concerned about 
+education, virtually the whole education community is strongly opposed 
+to it.
+  If you care about those in poverty and the problems our needy 
+families face, all those groups that combat poverty are strongly 
+opposed to it.
+  I hope my colleagues will look at what is in this report, listen to 
+the grave concerns of all of these organizations, and join me in 
+strongly opposing this legislation. I hope my colleagues will stand up 
+for the American family and vote against this conference report.
+  The PRESIDING OFFICER. The Senator from New Hampshire.
+  Mr. GREGG. Mr. President, we are going have a series of speakers.
+  I wish to respond quickly to the point of the Senator from 
+Massachusetts on a couple of areas.
+  First, the purpose of the deficit reduction bill is to slow the rate 
+of growth of entitlement programs. It is a net bill. In this bill, 
+there are very major initiatives, especially in the area of education, 
+which are new and fully paid for. There is $40 billion in debt 
+reduction, but the actual reductions in the bill exceed that by a 
+considerable amount.
+  The new programmatic activity which is fully paid for in the student 
+area is $9 billion of additional funds for student activity.
+  The Senator from Massachusetts says we should have the best and the 
+brightest have an opportunity to participate and go to good colleges. 
+We agree with that. In fact, we are doing something about it. We are 
+following the proposals of John Adams, a Massachusetts individual of 
+note who helped our country get started and who considered public 
+education and education generally to be the essence of how the American 
+dream is going to be fulfilled. He was totally committed to a 
+meritocracy.
+  We are essentially saying in this bill, by creating this new program 
+called SMART, if you are a low-income student and you are focusing on 
+math and science, we are going to give you a lot of help. If you can 
+perform well in those two areas, you are going to get an opportunity to 
+really succeed in this country. But we are going to give you the 
+support you need to succeed. We are going to give you $4,000 a year on 
+top of your Pell grant, on top of scholarships, on top of your 
+borrowing capabilities. You are potentially getting $4,000 a year in 
+college if you study math and science and have a low income.
+  We forgive $4 billion in student loans. We are going to reduce 
+student loan taxes and fees by $4 billion, and we are going to provide 
+$1.9 billion of loan forgiveness for people who go into special areas 
+that we consider important, specifically teaching, primarily in these 
+special education areas. This bill structures a $17,500 loan 
+forgiveness program for people who go into special education teaching. 
+We recognize special education teachers are, first, needed, and second, 
+they are put under tremendous stress. If we can encourage people to go 
+into that field, we want to.
+  This bill has some very good policy in the area of education. Sure, 
+it isn't as strong as what left the Senate, which was actually worked 
+out within the HELP Committee. That happened with the House. The House 
+was zero, we were at eight, and we ended up essentially at four. This 
+so-called compromise in that $4 billion is a lot of good initiatives in 
+the area of the SMART Program.
+  I yield to the Senator if he has a question. For the purposes of a 
+question, I will yield time off his time, of course.
+  Mr. KENNEDY. Mr. President, I reclaim a minute of my time.
+  The PRESIDING OFFICER. The Senator is recognized.
+
+[[Page S14084]]
+
+  Mr. KENNEDY. Mr. President, if the Senator would outline the $9 
+billion of additional aid and assistance to students, if he would 
+outline those figures, they are in complete conflict with the 
+information we have about what is and what is not in this bill. I hope 
+he's not referring to the higher loan limits that students have been 
+given which will result in increased profits for the banks. Is he 
+taking into account the higher origination fees that students in the 
+Direct Loan program may have to pay under this proposal? What about the 
+fact that only 10 percent of the total need-based population is going 
+to benefit at all from the math and science program? If he wants to 
+provide it sometime, or list it, we would be enormously grateful. 
+That's not what our calculations say.
+  Mr. GREGG. Should I charge this to the Senator's time? Essentially, I 
+am clarifying the Senator's point. I will do this on my time.
+  Essentially, the origination fees are being eliminated under this 
+bill.
+  I point out that the initiatives which are in this bill are 
+initiatives which had bipartisan support, the SMART Program 
+specifically. But the new grant and aid for low-income college students 
+is about $3.7 billion in this bill. Lower fees charged to students will 
+cause students to gain about $4 billion in this bill. The program which 
+extends the loan forgiveness program, as I just mentioned, to a number 
+of different categories will generate about $1.9 billion in this bill. 
+That adds up to about $9 billion of initiative in this bill.
+  We think this bill has some pretty positive initiatives.
+  As to the loan rates, I didn't insist on staying at this loan rate. I 
+think that came from the other side of the aisle. Did it not? I believe 
+it did. I think the Senator from Massachusetts is the person who 
+basically has locked us into this fixed rate when it should be a 
+variable rate. The variable rate would save our students a lot more 
+money. Unfortunately, my idea of going to the variable rate was 
+rejected in committee by, I believe, the Senator from Massachusetts, 
+who wanted to stay at the fixed rate. That costs how many billions? 
+Over $5 billion, according to my staff. Now, that is a back-of-the-
+envelope guess, but that is probably in the ballpark.
+
+  As to rates, I note to the Senator from Massachusetts, I disagree 
+with the policy in the bill, yes. I wish we had gone to my policy and 
+saved another $5 billion. That would be up to $14 billion to save 
+students.
+  Mr. KENNEDY. I will include it in the Record at the appropriate time. 
+I thank the Senator for trying to make a good case of a bad record. I 
+will include the responses to each of those areas in my remarks.
+  I thank the Senator.
+  Mr. GREGG. Does the Senator want to outline who he thinks is speaking 
+next?
+  Mr. CONRAD. Mr. President, we have Senator Schumer next, who will 
+consume 10 minutes. Then we have Senator Allard, who probably will be 
+here at that point. We will go to Senator Allard for half an hour. Then 
+we would like to go to Senator Stabenow for 10 minutes. At 
+approximately noon, Senator Stevens for half an hour, followed by 
+Senator Murkowski from 12:30 to 12:50. We hope to slot Senator Harkin 
+from 12:50 to approximately 1:30.
+  Mr. GREGG. And Senator Coburn.
+  Mr. CONRAD. And Senator Coburn after that.
+  We are trying to put colleagues on notice. That is basically the 
+speaking order.
+  At this point we yield 10 minutes to the Senator from New York, 
+Senator Schumer.
+  The PRESIDING OFFICER (Mr. Sununu). The Senator from New York.
+
+
+                   Unanimous Consent Request--S. 2082
+
+  Mr. SCHUMER. Mr. President, I thank my colleague from North Dakota 
+for extending the courtesy to me.
+  I rise today to talk about the U.S. PATRIOT Act. There has been a lot 
+of talk on the subject. With all the smoke and mirrors, let's go to the 
+simple facts.
+  First, every single Democratic Senator wants to extend the present 
+PATRIOT Act for 3 months. Every single Democratic Senator, in fact, has 
+cosponsored or supports--everyone but one, and Senator Feingold 
+supports--the legislation introduced by the Presiding Officer, the 
+Senator from New Hampshire, that extends the PATRIOT Act by 3 months. 
+We also have a number of Republican Senators, led by Senator Sununu of 
+New Hampshire, who also want to extend the act for 3 months. In fact, 
+no Member of the Senate wants the PATRIOT Act to expire. That is why 
+100 Senators supported a measure to reauthorize the act this summer. It 
+spanned the gap from the most conservative Republican to the most 
+liberal Democrat, which shows the consensus on this very important 
+issue is very achievable.
+  The simple fact is if we extend the PATRIOT Act for 3 months, it 
+won't end. So the act's fate is in the President's hands. We say to the 
+President: Extend it, don't end it. It is as simple as that. Let me 
+repeat: Extend it, don't end it. That is our position on the PATRIOT 
+Act.
+  Lately, based on the comments of some of my friends across the aisle, 
+I feel we are characters in the book ``1984.'' It is vintage Orwellian 
+doublespeak to say when 49 Senators from both parties, a near majority, 
+are eager to extend the PATRIOT Act, that they are causing it to 
+expire. In fact, if either the President or the majority leader of the 
+Senate today were to say they are for extending the act for 3 months, 
+my guess is it would get an overwhelming majority of both parties in 
+the Senate.
+  These Senators have agreed to extend the PATRIOT Act in its current 
+form so we can take 3 months to get it in better form. On the one hand, 
+I want to give a lot of credit to my colleagues from Pennsylvania and 
+Vermont. Their compromise and the bill before the Senate is an 
+improvement over present law. It is a significant improvement over the 
+House bill. It comes a lot closer to the Senate bill than many of my 
+colleagues even on my side of the aisle, at least in my opinion, are 
+giving it credit for.
+  I have two principal problems related to the conference report. First 
+and foremost, I have real concerns we did not correct the formula in 
+terms of distributing aid, which hurts my State of New York. We have to 
+give law enforcement not just judicial tools and prosecutorial tools 
+but financial tools, as well. Every day when I ride over the Brooklyn 
+Bridge, whether by car or on my bicycle, I see police cars at either 
+end. New York has an undue burden in terms of security. New York and 
+other places that are at greater risk should get a greater share of the 
+funding. The House bill readjusted the formula, much to the relief of 
+New Yorkers, but the Senate bill did not.
+  If we took 3 months, we could keep the present PATRIOT Act on the 
+books and make a real attempt to adjust the formula on the basis of 
+need.
+  Second, the revelations from last week about warrantless wiretapping 
+have also given me pause. If this Government will discard a law that 
+has worked well for over 30 years without a whit of discussion or 
+notice, for sure we better be certain we have safeguards on that 
+Government. I am extremely troubled the administration, which claims to 
+value strict construction of the laws and Constitution, has used the 
+September 11, 2001, congressional resolution authorizing the use of 
+military force to justify secret wiretapping of Americans.
+  I have not read the whole record, but I daresay the word 
+``wiretapping'' never came up in that debate. Certainly I, who voted 
+for that resolution, never thought it applied to wiretapping. I don't 
+think anyone else did as well. To say when we authorized the President 
+to use force, that allows him to wiretap American citizens without a 
+warrant is stretching it, to say the least.
+  The balance between security and liberty is a delicate one. I agree 
+with the President. Most Americans put security first. It has to be. 
+But liberty and privacy, in particular, are very important to 
+Americans, as well. It is very high on the list. Therefore, this Senate 
+and the Government should make every effort to have both security and 
+liberty.
+  We came very close. The Senate bill, as I said, had a 100-to-0 vote, 
+from the most liberal Democrat to the most conservative Republican. The 
+compromise Senator Specter shepherded through was a good attempt. But 
+in these crucial areas we can do better. If we simply extend the 
+PATRIOT Act--not end
+
+[[Page S14085]]
+
+it, extend it--we can try to make it better.
+  I tend to be fairly hawkish on these types of things. However, there 
+is one thing for sure: When you are dealing with the delicate balance 
+between liberty and security, there ought to be discussion. There ought 
+to be debate. The President, whether he be a Democrat or a Republican, 
+should not simply appropriate it to himself to change the law with the 
+flick of a pen. That is what our Nation stands for.
+  In light of these problems and concerns, let me say again, when it 
+comes to the PATRIOT Act, my position and that of every Member of the 
+Democratic Party in the Senate and a good number of our Republican 
+colleagues is extend it, don't end it.
+  Why are we talking about ending it if we have so many people who want 
+to extend it? The majority leader has opposed extending the present 
+PATRIOT Act. The President has threatened to veto an extension of the 
+PATRIOT Act.
+  So here we are, on the brink, with 16 important provisions about to 
+sunset. If that happens, make no mistake about it, it will be because 
+the distinguished Republican leader has allowed it to happen. It will 
+be because the President has allowed it to happen. The choice is not 
+the present compromise or no PATRIOT Act. There are three choices: The 
+present compromise, which does not have enough support in the Senate to 
+pass as of now, with bipartisan opposition, letting it lapse, or 
+extending it for 3 months.
+  If even in the President's and the majority leader's eyes, they 
+cannot get the first, isn't extending it better than ending it? The 
+choice is in their hands. So if it does happen, if the PATRIOT Act is 
+allowed to sunset, despite unanimous support for its extension in one 
+form or another, I would ask the President to explain why we are 
+without the PATRIOT Act, why he would not allow a bipartisan measure to 
+extend it. It is almost surreal.
+  Can it be that the majority leader of the Senate, the President of 
+the United States, who at every turn has talked about the importance of 
+security, who has talked about the importance of the sunsetting PATRIOT 
+Act provisions, will force its expiration?
+  Certainly, they have the option of extending it for 3 months so that 
+disagreements, which I say can be resolved, will be. And if they then 
+persist in opposition to the 3-month extension and complain, it will be 
+similar to the child who killed his parents and then complained that he 
+was an orphan.
+  So let us all be reasonable for a day, as we approach our citizens' 
+most sacred time of year, and do the mature thing, the logical thing, 
+the right thing.
+  Therefore, Mr. President, I ask unanimous consent that the Judiciary 
+Committee be discharged from further consideration of S. 2082, the 3-
+month extension of the PATRIOT Act, that the Senate proceed to its 
+immediate consideration, the bill be read a third time and passed, and 
+the motion to reconsider be laid upon the table.
+  The PRESIDING OFFICER. Is there objection?
+  Mr. GREGG. Reserving the right to object, is it the Senator's 
+position that if the unanimous consent request was amended to be a 1-
+year extension, the Senator would support that unanimous consent 
+request?
+  Mr. SCHUMER. Well, it is something I would consider. I think 1 month 
+would be--right now we have support--
+  Mr. GREGG. One year.
+  Mr. SCHUMER. I understand. Right now we have support for 3 months. It 
+is something that could probably be negotiated. My point is, we should 
+extend it.
+  Mr. GREGG. Reserving the right to object.
+  The PRESIDING OFFICER. The Senator from New Hampshire.
+  Mr. GREGG. Reserving the right to object, if there is an orphan on 
+the floor today, or in this city today, I would suggest it is the 
+Senator from New York. As I made the point yesterday, if he wished to 
+get to a vote on the PATRIOT Act it could have occurred. But the 
+Senator from New York would not allow cloture to be invoked. And now 
+the Senator from New York and the leadership of the Democratic Party 
+are coming to the floor claiming that because they would not allow the 
+PATRIOT Act to be voted on, they are prejudiced and that they should 
+not be accused of killing the PATRIOT Act.
+  Well, obviously they killed the PATRIOT Act when they did not allow 
+it to be voted on. That is a situation such as you referred to, where 
+the individual killed his parents and then threw himself on the mercy 
+of the court claiming he was an orphan. So if the Senator does not wish 
+to extend the act for a year, then I would say his statements are 
+Pyrrhic.
+  Mr. SCHUMER. Will my colleague yield?
+  Mr. GREGG. First, I am going to object, and then I will yield. But I 
+will not yield on my time. I will yield on the time of the Senator from 
+North Dakota.
+  The PRESIDING OFFICER. Is there objection?
+  Mr. GREGG. There is an objection.
+  The PRESIDING OFFICER. Objection is heard.
+  Under the previous order, the Senator's time has expired, and the 
+Senator from Colorado----
+  Mr. SCHUMER. Mr. President, I ask unanimous consent that I be given 1 
+minute to respond to my colleague from New Hampshire.
+  The PRESIDING OFFICER. Is there objection?
+  The Senator from New Hampshire.
+  Mr. GREGG. As long as the time comes off the bill on the Democratic 
+side.
+  Mr. CONRAD. I am happy to yield the minute.
+  The PRESIDING OFFICER. Without objection, it is so ordered. The 
+Senator is recognized for 1 minute.
+  Mr. SCHUMER. Thank you, Mr. President.
+  The point is, we do have large numbers of people who want to extend 
+the PATRIOT Act, not end it, whether it is 3 months or something more 
+than 3 months. That is the point that I think is salient. I would hope 
+my colleague would support 3 months, as his colleague from New 
+Hampshire--he and his colleague from New Hampshire generally see things 
+the same way--has asked for. But the idea stated by the President and 
+the majority leader, that they would not be for any extension--1 year, 
+3 months or anything in between--is what is stymieing us here.
+  The bottom line is very simple. The choice is a simple one. Right now 
+we cannot get the PATRIOT Act through the way the Senator from New 
+Hampshire would like it. There are not enough votes by the rules of the 
+Senate. Do you take your marbles and go home and let it expire or do 
+you try to work out an extension, as opposed to saying: I am upset. I 
+am going to end it. We are urging an extension. Right now, the Senator 
+from New Hampshire, who has led the charge on this--not my colleague 
+who is managing this bill, but the Presiding Officer, Senator Sununu--
+has suggested 3 months. I, for one, am not locked into a specific time. 
+But I am locked in and very eager to see us extend the act, not kill 
+it, simply because the compromise does not have the votes to prevail.
+  The PRESIDING OFFICER. The Senator's time has expired.
+  The Senator from New Hampshire.
+  Mr. GREGG. Mr. President, at this point, I will yield to the Senator 
+from Colorado.
+  Mr. CONRAD. Mr. Chairman, I ask unanimous consent for 30 seconds on 
+this subject.
+  Mr. GREGG. Well, I guess we can certainly give you 30 seconds. But I 
+may take a minute and a half back.
+  The PRESIDING OFFICER. Is there objection?
+  Without objection, it is so ordered. The Senator is recognized for 30 
+seconds.
+  Mr. CONRAD. Mr. President, it has been suggested that the PATRIOT Act 
+has been killed. The PATRIOT Act has not been killed. The PATRIOT Act 
+is alive and well until December 31. So the fact is, we have time to 
+get this right. And if we cannot get it right before December 31, then 
+we have the potential to extend it, whether it is 3 months or 6 months 
+or 9 months or some other time.
+  The point is, no one has killed the PATRIOT Act. The PATRIOT Act is 
+still on the books. It is alive and well until December 31. So this 
+issue has not yet been decided.
+  The PRESIDING OFFICER. The Senator from New Hampshire.
+  Mr. GREGG. Mr. President, prior to yielding to the Senator from 
+Colorado, I am going to take a minute and a half, which would be the 
+minute Senator Schumer had and the half minute
+
+[[Page S14086]]
+
+which we so graciously gave the Senator from North Dakota.
+  I would simply point out that the Democratic leader said:
+
+       We killed the Patriot Act.
+
+  So that is where the body lies. It does not lie on this side of the 
+aisle. It does not lie at the White House. The body lies right there 
+because of the fact that we were not allowed to go to a vote on final 
+passage. That is the way the institution works. The Senator from New 
+York said: Well, we are taking our marbles and leaving. We are not 
+taking our marbles and leaving. We had 50-plus votes willing to 
+continue the PATRIOT Act under the new law, as it has been drafted, as 
+it has gone through the committee process. Fifty-plus votes, that is a 
+majority.
+  What happened, however, was the other side of the aisle did not get 
+it exactly the way they wanted it, so they are going to kill it. That 
+is where the body lies.
+  Mr. SCHUMER. Will my colleague yield for a question?
+  Mr. GREGG. I think we have continued this long enough. We actually do 
+not have the PATRIOT Act inside the Deficit Reduction Act yet, but it 
+is possible we could end up there before we finish.
+  Senator Allard has been very gracious in allowing us to take from his 
+time. I yield to Senator Allard as much time as he may use.
+  The PRESIDING OFFICER. The Senator from Colorado is recognized for as 
+much time as he may consume.
+  Mr. ALLARD. Mr. President, thank you very much.
+  Mr. President, I thank the chairman of the Budget Committee for 
+yielding and also express my appreciation for his leadership.
+  Through these budget issues, there has been delay and obstruction all 
+along the route. We are seeing delay and obstruction at the end of the 
+session. We have just seen some of the debate going on as it applies to 
+the PATRIOT Act. I do not want to debate the PATRIOT Act. But what I 
+would like to do is talk about the budget because this is very 
+important. It is a very critical piece of legislation.
+  This is the first time in 8 years Congress has attempted to control 
+the rate of growth in entitlement spending. I have had an opportunity 
+to deal with budget issues, both here and as a Member of the House. I 
+was elected to the House of Representatives in 1990. Shortly 
+thereafter, I was able to get on the Budget Committee.
+  I was fortunate enough to get on the Budget Committee when I came 
+over to the Senate. I have seen a disturbing trend in our spending 
+habits in the Congress. If we look at the 1990 fiscal year, when I 
+first began to really look at the budget seriously as a policymaker, we 
+had 48 percent in entitlement and mandatory spending. Another 23 
+percent was defense discretionary, and then we had some 29 percent or 
+so that fell into interest, as well as nondefense discretionary. As the 
+years have gone by, in 2000 we find our entitlements and mandatory 
+spending are up to 55 percent from 48 percent in 1990. We see that 
+defense discretionary is actually down to 19 percent from 23 percent. 
+We see that our nondefense discretionary net interest rates are staying 
+close to the same.
+  The real problem is in the future. As we look at 2010, we see that 
+our entitlements are projected to go up to 58 percent--with another 17 
+percent on defense discretionary and nondefense discretionary and net 
+interest is staying pretty close to the same range. This spells out 
+problems for future generations. I want my children, who are now in 
+their thirties, as well as my grandkids, to have an opportunity for 
+economic growth. If we continue to push these obligations back and 
+continue to allow entitlement spending to grow, it is going to take 
+away from their discretionary spending. They are not going to have the 
+opportunities my generation had. My wife and I have had wonderful 
+opportunities. We were able to start a small business by ourselves. We 
+were able to see our local community grow and the State grow, and we 
+grew with them. If we continue to spend in the Federal budget as we are 
+now, that opportunity is going to go away.
+  The budget reconciliation passed by the Congress earlier this year 
+had a requirement of $34.7 billion in savings over 5 years. That is not 
+much of a reduction in the rate of increase. Remember, these are all 
+still increases that are happening. We only have reductions in the rate 
+of increase.
+  Finally, we have a bill before us that is looking to save close to 
+$40 billion. We have improved it. But you have to remember that this is 
+actually just a reduction in the rate of increase. We are not cutting 
+or eliminating any programs; we are just reducing the rate of 
+increases. Only in Washington, DC, is a reduction in the rate of growth 
+called a cut. In reality, year after year, you see spending increase. I 
+have seen that happen in my experience in the House and now in the 
+Senate. We have Members complaining about the cuts that are happening 
+in the budget. Yet you look at all these budgets year after year, and 
+they gradually increase. They are just not increasing as much as some 
+Members want. It is like a kid saying, I want to have my allowance 
+increased from $1 a week to $1.50 a week, and you say, No, I will 
+increase it from $1 to $1.25. They would say that is a 25-percent cut. 
+In reality, it is a 25-percent increase in the amount of money they are 
+going to receive to spend. So the Senate needs to bring common sense to 
+the budget process.
+  Mr. CONRAD. Will the Senator yield for an inquiry?
+  Mr. ALLARD. Yes, on the Senator's time.
+  Mr. CONRAD. Yes, sir. For management of the floor purposes--and I 
+apologize to the Senator for interrupting him--it would be helpful for 
+us to know, because of the time constraints, does the Senator intend to 
+take about 30 minutes?
+  Mr. ALLARD. I have probably about 15 more minutes or so.
+  Mr. CONRAD. That is very helpful.
+  I indicate to the Chair and all colleagues, the intention would be to 
+go to Senator Stabenow next. There is not a formal agreement in place, 
+but that is the informal understanding, that after Senator Allard, 
+Senator Stabenow would be next.
+  I thank the Senator very much. Again, I apologize for interrupting.
+  Mr. ALLARD. I thank the Senator. I certainly don't mind working with 
+him in lining up speakers as they come down. It is important to give 
+Members adequate notice.
+  So, again, only in Washington is a reduction in the rate of growth 
+actually called a cut. The conference report we have before us suggests 
+that we reduce spending by some $40 billion. This is a reduction in the 
+rate of increase over a 5-year period. For too long the Government has 
+been on automatic pilot for mandatory programs. We have done a few 
+things in an attempt to reduce spending in some of the entitlement 
+programs--a very small amount. These entitlement programs are going to 
+continue to grow, at least at the rate of inflation. We have begun to 
+address the rate of spending and brought it down so that the rate of 
+increase will be less.
+  If we look at the total budget, the entitlements take up a large 
+percentage of the budget. Discretionary spending--it gets a lot of 
+attention in the media, I might add--that part of the budget only runs 
+close to 30 percent. Sixty percent or so--better than 60 percent is 
+going into entitlement spending. Mainly, that is Medicare and Medicaid. 
+I was astounded by the figure that Chairman Gregg put out in his 
+comments when he was opening the debate this morning on the Senate 
+floor. He noted that we have $51 trillion in unfunded liability. Much 
+of that is Medicaid and Medicare. This doesn't paint a good picture for 
+my grandkids when they are going to grow up and look at starting a 
+business.
+  One of the big costs I had as an employer was the amount of taxes I 
+had to pay toward Medicare and Medicaid and Social Security. As these 
+costs get higher and higher--and they are going to if we don't control 
+spending--it is going to be more difficult for small businesspeople 
+like myself to get started in business. It will be more difficult for 
+them to prosper and grow and to create an opportunity for their kids 
+and generation after generation. So we need to make some decisions.
+  I don't think these are tough decisions, by the way. These decisions 
+should be relatively easy. We have a large budget that we passed, and a 
+$40 billion reduction over 5 years is a very small amount of reduction 
+in the rate of increase. Mandatory spending is growing at an 
+unsustainable rate.
+
+[[Page S14087]]
+
+  Entitlements are the fastest growing part of the Federal Government. 
+Unless Congress takes steps to address mandatory spending, future 
+generations will be left with an unsustainable program. The Comptroller 
+General estimated unfunded liability somewhere around $51 trillion, as 
+I mentioned.
+  The Deficit Reduction Act provides a downpayment toward hurricane and 
+recovery costs.
+  The act also takes steps to reform outdated, inefficient, and overly 
+costly entitlement programs.
+  Medicaid is reformed to expand flexibility of State Medicaid benefit 
+packages, expanded home and community-based services, and expanded 
+services for disabled children.
+  Education for low-income students is strengthened through new grant 
+aid for low-income students and extending certain loan forgiveness.
+  The point is that we have to set priorities, and I think one of the 
+top priorities of this Congress should be an attempt to reduce the 
+ever-escalating costs in spending, particularly on the mandatory 
+entitlement spending side. We need to work on all areas, by the way. In 
+discretionary spending, there are things we can do to bring in more 
+efficiency. But the areas where we are seeing the greatest growth, and 
+the areas that are going to cause the greatest liability for 
+generations, is the growth in entitlement spending.
+  The other side is constantly complaining about not doing enough to 
+hold down spending. Here is an opportunity to hold down spending. I 
+hope they will join the Republican side in getting the Deficit 
+Reduction Act passed, the bill we have before us right now.
+  The argument that comes from the other side is basically that they 
+want to increase taxes, they want to increase Federal spending, and 
+they believe that we will all be better off. But that doesn't work. We 
+have seen the President's economic plan work very well in the last few 
+years. We have seen the economy rebound. You can look at all the 
+economic figures you want, but you have to come to the conclusion, 
+whether you look at employment or growth of the economy, interest 
+rates, or disposable income, it has all been a good picture. The 
+President's economic growth package has worked, which says that we cut 
+back on taxes.
+  The reason that works is because we allow small businesses, similar 
+to what I had, or individuals to keep more money in their pocket. More 
+money in their pocket means they can buy cars, they will buy homes, 
+they will buy whatever disposable items they have. This keeps our 
+economy turning. If you take that away from them, then it slows 
+economic growth.
+  Time and time again, we have seen in our country's history, whether 
+it started with President John F. Kennedy, Ronald Reagan, or now 
+President Bush, that when we have a high tax burden, and we reduce that 
+tax burden, it is going to cause economic growth. In return that means 
+more money coming in to State and local governments, and it means more 
+money coming in to the Federal Government.
+  State and local governments around the country are now experiencing 
+an unexpected return in revenues, and that means they can begin to 
+address the needs of their communities and State.
+  We are seeing that there is an increase in the amount of revenue 
+coming in to the Federal Government. Revenue is increasing because we 
+cut taxes to keep the economy going. In spite of the fact we have had 
+high energy costs, the economy is strong. When it has had to deal with 
+high energy costs and the cost of the war, it is still showing growth 
+figures, which is remarkable. It speaks strongly of an economic package 
+that has been passed out of this Senate, out of the Congress, and 
+pushed by President Bush.
+  We need to continue that effort. We should not backtrack. This bill 
+keeps us on track. It says we have to look at holding down spending. 
+The Federal Government doesn't create jobs. It does not create new 
+wealth in this country. New wealth comes mainly from the small business 
+sector. It comes from families who own businesses. It comes from 
+individuals who own businesses who are innovative, who try to develop 
+new ways to get into the market. That is where all our new technology 
+comes from. We need to make sure we do everything possible to give them 
+an opportunity to do that. When we increase the burden of Government on 
+small business, we make it more difficult for them to make the 
+investment they need to grow. When they grow, they pay more taxes, and 
+that is going to mean more revenue to Government.
+  The problem is not tax cuts but spending. Tax receipts are growing. 
+Yet we continue to have deficits because spending is growing even 
+faster. The current Federal deficit is too high and out of control. 
+Mandatory spending is threatening the economic security of future 
+generations. This conference report will help keep the U.S. economy 
+strong and growing. I urge my colleagues to join me in voting for the 
+Deficit Reduction Act of 2005 conference report. It will make a 
+difference. It is a step in the right direction.
+  Mr. President, I yield the floor.
+  The PRESIDING OFFICER. The Senator from Michigan.
+  Ms. STABENOW. Mr. President, I ask unanimous consent to speak for up 
+to 10 minutes off the time on the Democratic side, as agreed to before.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+
+                              PATRIOT Act
+
+  Ms. STABENOW. Mr. President, I rise today to discuss the PATRIOT Act 
+reauthorization. Our Nation's Founding Fathers could never have 
+foreseen the kinds of threats we face today from America's enemies, nor 
+could they have imagined the technologies we use to anticipate attacks 
+on our country and to prevent them with cell phones, computers, 
+electronic bank reports, and other kinds of efforts. But they did 
+foresee the threats of unchecked Government power on the civil 
+liberties of each of us as Americans.
+  The fourth amendment was adopted as a protection against the 
+widespread invasions of privacy experienced by American colonists at 
+the hands of the British Government. That is part of our history. That 
+is why this debate is so important. That is why we are standing in this 
+Chamber, just 11 days before the PATRIOT Act expires, to debate this 
+reauthorization. And that is why my colleagues and I on both sides of 
+the aisle are fighting to extend the current PATRIOT Act for 3 months 
+while we work to get agreement on the right balance between our 
+security and our right to privacy and due process.
+  I want to particularly say congratulations and lend my admiration to 
+the Senator currently occupying the Chair in this Chamber and thank him 
+for his leadership on this issue. We have come together in a bipartisan 
+way under his leadership and other colleagues on both sides of the 
+aisle. I am very grateful for the Chair's leadership.
+  We all agree that we need to protect our homeland, but we also have 
+an obligation to protect the civil liberties that are the birthright of 
+every American. It is important that we get the PATRIOT Act right, not 
+just insist on getting it done right now. That is why we say extend it, 
+don't end it. Extend it, don't end it.
+  This is a critical debate. The terrorist threat to our country is 
+very real, and it is vital that we provide the Government with the law 
+enforcement tools necessary to protect our Nation, to protect our 
+families.
+  I am proud to have offered provisions in the PATRIOT Act to protect 
+against money laundering. My provision, section 325, gives the Treasury 
+Department the ability to better monitor anonymous bank accounts which 
+can be used to move terrorist funds. This is an important provision 
+that can be used to prevent terrorist attacks in the United States.
+  We need to use every tool possible to fight terrorism and to protect 
+our citizens at home. At the same time, the threat to civil liberties 
+is also very real in America today. Last week we were alarmed to learn 
+that under a secret order signed by the President of the United States, 
+the Government has been monitoring the international telephone calls 
+and e-mail messages from people inside the United States, American 
+citizens, without court approval. This is not something that is 
+authorized by the PATRIOT Act or by any act of Congress but, instead, 
+is being conducted under a secret Presidential order.
+  This debate is not about whether the Government should have the tools 
+that it needs to protect the American people. Of course, it should. 
+Nobody in this
+
+[[Page S14088]]
+
+Chamber disagrees with that. That is why the PATRIOT Act passed 
+overwhelmingly 4 years ago.
+  The Senate's bipartisan reauthorization bill passed unanimously in 
+July. It was an extraordinary effort by leaders on both sides of the 
+aisle. I am very proud of what we did back in July in unanimously 
+passing an improved version of the PATRIOT Act.
+  This debate is not about whether the PATRIOT Act should suddenly 
+expire. Of course, it should not. That is why we say, ``Extend it, 
+don't end it.'' That is why we have offered a bipartisan bill to extend 
+the PATRIOT Act for 3 months to give Congress time to reach a 
+bipartisan compromise--again, authored by the Senator from New 
+Hampshire, who is currently chairing this August body.
+  This extension has 47 cosponsors and counting from both sides of the 
+aisle. This debate is about balance. It is about ensuring the safety of 
+the American people while at the same time protecting our rights and 
+keeping the Government accountable for its actions. These are not 
+mutually exclusive goals. Again, we need to amend the PATRIOT Act, not 
+end it.
+  The PATRIOT Act reauthorization conference report does make some 
+important improvements and I want to thank Senator Specter and Senator 
+Leahy for their hard work and leadership on this bill. The conference 
+report contains the 4-year sunsets in the Senate bill instead of the 
+original 10 years in the House bill. It no longer contains a provision 
+that would have made it a crime merely to disclose the receipt of a 
+national security letter. However, there is a lot more to be done 
+before we should be passing this bill and sending it to the President.
+  Under section 215 of the PATRIOT Act, known as the library provision, 
+the Government can obtain a secret order to access personal records of 
+Americans without probable cause of a crime. That means the Government 
+can get copies of Americans' medical or financial records, library 
+records, gun ownership records, purchase records. It also prohibits the 
+keeper of this information, such as a librarian, from telling anyone 
+that they have handed over these records to the Government. Before the 
+PATRIOT Act, the FBI had access only to certain kinds of business 
+records such as hotel and rental car receipts and they had to meet a 
+higher legal standards before a court in order to obtain this 
+information.
+  The PATRIOT Act did away with these limitations and lowered the 
+standard for obtaining these personal records. The Senate version of 
+the reauthorization bill reestablished a significant check on this 
+power, and that is very important. Under the Senate bill, relevance to 
+an authorized investigation is not enough. The Government must also 
+show some connection between the records they are seeking and a 
+suspected terrorist or spy. Unfortunately, this basic protection is not 
+in the final conference report. The Senate bill also included basic 
+protections for the recipients of a section 215 letter to allow them to 
+challenge the automatic permanent gag order and these protections were 
+left out of the conference report.
+  The conference report's treatment of national security letters, or 
+NSLs, also needs significant improvement. NSLs are documents issued by 
+the Federal Government that allow the Government to seize a wide 
+variety of business and financial records without the approval of a 
+judge, a grand jury, or a prosecutor. This has been raised as a concern 
+by the U.S. Chamber, other business organizations and others throughout 
+the country. Like section 215, a person who receives an NSL is under a 
+permanent gag order without any judicial review.
+  Last month, The Washington Post reported that the FBI issues more 
+than 30,000 NSLs per year. That is a hundredfold increase over past 
+practices.
+  Lastly, the conference report weakened the critical sneak-and-peek 
+protections that were in the Senate bill. Under section 213 of the 
+PATRIOT Act, the Government can conduct secret searches in criminal 
+investigations. With a section 213 warrant, investigators can enter 
+someone's home or their office, conduct a search, take pictures, seize 
+items, without telling the person for weeks, months, or in some cases 
+more than a year. The Senate bill replaced this standard with a 7-day 
+rule, permitting the Government to obtain additional 90-day extensions 
+when necessary. The conference committee changed that.
+  Our Founding Fathers may not have foreseen the threats we face from 
+our enemies today, but they did foresee the threats of unchecked 
+Government power on the civil liberties and freedoms of all Americans. 
+Protecting Americans from unlawful search and seizure is one of the 
+Nation's founding principles. To ignore that is to undermine our 
+identity as Americans and our American Constitution. We owe it to the 
+people of America to get this right, and that is why I support an 
+extension.
+
+
+                       Unanimous Consent Request
+
+  That is why I ask unanimous consent that the Judiciary Committee be 
+discharged from further consideration of Senator Sununu's bill, S. 
+2082, extending the PATRIOT Act for 3 months; that the Senate proceed 
+to its immediate consideration; that the bill be read a third time and 
+be passed, and the motion to reconsider be laid upon the table.
+  The PRESIDING OFFICER. Is there objection?
+  Mr. GREGG. Reserving the right to object.
+  The PRESIDING OFFICER. The Senator from New Hampshire.
+  Mr. GREGG. I move to amend the unanimous consent request as follows: 
+That we call up the PATRIOT Act which is pending at the desk, have 2 
+hours of debate, and go to final passage.
+  The PRESIDING OFFICER. Does the Senator from Michigan consent?
+  Ms. STABENOW. I would object.
+  The PRESIDING OFFICER. Objection is heard to the modification.
+  Is there objection to the consent request?
+  Mr. GREGG. Mr. President, reserving the right to object, I notice 
+that in the middle of the debate on the deficit reduction bill we are 
+hearing a number of people debating what has been debated to 
+a considerable degree, which is the issue of the fact that the PATRIOT 
+Act, which is pending at the desk, will not be allowed to go to a final 
+vote by the Democratic membership of the Senate. I would simply say 
+this, that I guess it brings to mind the Shakespearean line, I think it 
+was from ``Julius Caesar''--it might have been one of his other 
+wonderful plays--methinks he doth protest too much.
+
+  The corpse lies on their side of the aisle. They are the ones who 
+have killed the PATRIOT Act, if they do not agree to vote it, which is 
+sitting at the desk, which has gone through the committee process, 
+which has been amended, which has been brought forward, and which has a 
+majority of the Senate in favor of it. So I suppose it is a diversion 
+from the deficit bill, which we should be debating, to bring these 
+items up, but I think it is more simply an attempt to try to move the 
+blame for the responsibility for what looks like is going to be the 
+ending of the PATRIOT Act at the end of this year. I think that is 
+unfortunate.
+  The PRESIDING OFFICER. Is there objection?
+  Ms. STABENOW. Mr. President, reserving the right to object.
+  The PRESIDING OFFICER. The Senator from Michigan.
+  Ms. STABENOW. Mr. President, in response to my colleague, I simply 
+say we have unanimous support on this side of the aisle to extend the 
+PATRIOT Act for 3 months while working out the areas of concern to 
+millions of Americans. I also find it rather curious, in watching this 
+debate with the distinguished Senator, one distinguished Senator from 
+New Hampshire speaking to another distinguished Senator from New 
+Hampshire, who is in the chair, who is a Republican author, with 
+another also distinguished colleague from Idaho who is another author 
+of the extension. This is clearly a bipartisan effort on our part to do 
+the right thing, to create the right balance to extend, not end, the 
+PATRIOT Act at the end of the year. The choice is in the majority as to 
+whether to join us to extend the PATRIOT Act, not end it.
+  I would object to bringing up the bill one more time that, in fact, 
+has been voted on at this point. Procedurally, we have said no to this 
+conference report. We want to extend the PATRIOT Act for 3 months, not 
+end it, so that we
+
+[[Page S14089]]
+
+can go back to the great work done unanimously by the Senate, 
+unanimously by this body.
+  Mr. GREGG. Reserving the right to object.
+  The PRESIDING OFFICER. A consent request has been made. Is there 
+objection?
+  Mr. GREGG. Reserving the right to object, which is my right.
+  The PRESIDING OFFICER. Is there objection?
+  Mr. GREGG. I am reserving my right to object.
+  The PRESIDING OFFICER. Under the rules, there is no formal right to 
+object. The Senator from New Hampshire has been heard. Does he wish to 
+be heard further on the point?
+  Mr. GREGG. The Chair has an obligation, I believe, to allow me to 
+speak.
+  The PRESIDING OFFICER. The Senator is recognized to speak further on 
+the point, without objection.
+  Mr. GREGG. I will object.
+  The PRESIDING OFFICER. Objection is heard.
+  The Senator from Michigan has the floor. Has she concluded her 
+remarks? Has she yielded the floor?
+  Ms. STABENOW. Mr. President, in conclusion, we have an opportunity to 
+reinforce the great work done back in July by the unanimous Senate. We 
+have bipartisan agreement that this conference report does not include 
+the balance necessary and we have come together in a bipartisan way, 
+with every single person on our side of the aisle and great leadership 
+on the other side of the aisle, to say: Extend the PATRIOT Act, don't 
+end it. We know we can work together to get this right on behalf of the 
+American people.
+  The PRESIDING OFFICER. The Senator from New Hampshire.
+  Mr. GREGG. Mr. President, the PATRIOT Act has been inserted into this 
+debate, which is unfortunate, but I do think it is important to make a 
+couple of points in response to the Senator from Michigan because there 
+is misrepresentation here, in my opinion, as to the characterization of 
+the activity.
+  The majority of the Senate has said it wants to pass the PATRIOT Act 
+which is at the desk. The Senator from Michigan has refused to allow us 
+to take up that act, as has the vast majority of her party--although 
+there were a couple of folks on our side who I believe voted that way. 
+So the issue is not that the majority of the Senate is opposed to the 
+PATRIOT Act at the desk; the issue is the minority of the Senate is not 
+going to allow the PATRIOT Act to come to a vote in the Senate and thus 
+the PATRIOT Act will expire. The only reasonable analysis of that 
+situation is the expiration is a result of the minority of the Senate, 
+led by a fairly large number of the Democratic membership of the 
+Senate, desiring to put form over substance and not allow the PATRIOT 
+Act to a final vote and, as a result, forcing the expiration of the 
+PATRIOT Act.
+  They cannot now come to the floor and say, Oh, but we didn't mean it. 
+We killed the PATRIOT Act, but we didn't mean it.
+  The fact is, this bill which is at the desk has bipartisan support, 
+has gone through the committee process, and is the proper way to deal 
+with the PATRIOT Act.
+  I suppose we can stay here all day and debate the PATRIOT Act, but 
+actually this is a deficit reduction act and I hope we will get back to 
+it.
+  At this point, do you have any speakers?
+  Mr. CONRAD addressed the Chair.
+  The PRESIDING OFFICER. The Senator from North Dakota.
+  Mr. GREGG. Mr. President, I have not yielded the floor yet.
+  The PRESIDING OFFICER. The Senator from New Hampshire retains the 
+floor.
+  Mr. GREGG. I ask if we are going to return to speakers?
+  Mr. CONRAD. I was going to take some time at this moment on the same 
+subject. I, too, regret we have gotten onto the PATRIOT Act, but since 
+we have, I feel a need to take on a couple of these points.
+  Mr. GREGG. Senator Stevens is here to speak. How much time do you 
+require?
+  Mr. CONRAD. I will not take long.
+  Mr. GREGG. So we can get it fixed up so we can get a time agreement?
+  Mr. CONRAD. No, no, I will be very brief and then we will go to 
+Senator Stevens.
+  Mr. GREGG. All right.
+  Mr. CONRAD. Mr. President, we are on the budget.
+  The PRESIDING OFFICER. The Senator from North Dakota is recognized.
+  Mr. CONRAD. We are on the Budget Reconciliation Act. But people have 
+come to the floor, as is their right, to discuss other issues. Now we 
+have gotten into a discussion of the PATRIOT Act.
+  I have great respect for the chairman of the Budget Committee, but I 
+must say on this issue I profoundly disagree. The Senator from New 
+Hampshire says there is a majority in the Senate who support the 
+PATRIOT Act provisions that have come back from conference committee. 
+That is true.
+  It is also true that earlier this year on a unanimous vote the Senate 
+version of the PATRIOT Act was approved. The House had very different 
+provisions, and when the conference between the House and the Senate 
+was concluded, they came back with PATRIOT Act provisions that could 
+not command the votes necessary to pass the PATRIOT Act. That is a 
+fact. There are not sufficient votes to pass the version of the PATRIOT 
+Act that came back from the conference between the House and the 
+Senate, and on a bipartisan basis--there were those who supported that 
+version of the PATRIOT Act and on a bipartisan basis there were votes 
+against that version of the PATRIOT Act. So let's be very clear.
+  Now we may face a circumstance in which the PATRIOT Act would fail, 
+would not be extended. It is still alive today. It is alive until the 
+31st of this month, so all the talk that we killed the PATRIOT Act--no, 
+the PATRIOT Act has not been killed. The PATRIOT Act is still in force. 
+If we cannot reach agreement on something to make permanent, for 
+goodness sake, in the Nation's security interest we should be able to 
+agree on a time of extension.
+  The Senator from Michigan has offered 3 months. The Senator from New 
+York, Senator Schumer, earlier offered 3 months. The Senator from New 
+Hampshire has talked about a year. I don't know which is exactly right. 
+I frankly think 3 months may be too little; I think a year may be too 
+long because we do want to keep pressuring our colleagues to actually 
+reach agreement on something that might be more long lasting. But the 
+one thing on which we should all agree, since every single one of us 
+voted on the PATRIOT Act provisions that passed the Senate back in 
+July--the one thing on which we should absolutely be able to agree is 
+we do not allow the PATRIOT Act to lapse. That is one thing in this 
+Chamber, deeply divided, that we certainly should be able to agree on. 
+I hope before this week is ended we have found a way to extend the 
+PATRIOT Act for some amount of time.
+  Let's be clear. There are not the votes sufficient to pass the 
+version of the PATRIOT Act that came back from the House. That is 
+clear. It is also clear that earlier this year this body, on a 
+unanimous vote, approved the Senate version of the PATRIOT Act and that 
+every single Member of this body now wants some version of the PATRIOT 
+Act to go forward. The details have not yet been agreed to. So there is 
+an opportunity in these final hours to either get the PATRIOT Act in a 
+fashion that can command sufficient votes to pass or that we extend the 
+PATRIOT Act for some period of time so this Nation remains protected.
+
+  I hope very much the cooler heads are going to prevail here and that 
+we are going to find a way to keep the PATRIOT Act in force--modified, 
+to be certain; that is what happens in the legislative process. None of 
+us quite gets all he wants. But we should not be in a circumstance in 
+which it is allowed to lapse completely.
+  With that, Senator Stevens is waiting to speak. We are ready to turn 
+to the Senator from Alaska.
+  The PRESIDING OFFICER (Mr. DeMint). The Senator from Alaska.
+  Mr. STEVENS. Mr. President, I am sure it will come to no one's 
+surprise that I desire to use this time to discuss the appropriations 
+bill, the Defense appropriations bill that is before the Senate in the 
+form of a conference report.
+  Over the night I have been thinking--as a matter of fact, too many 
+nights I have been thinking about this conference report. As I thought 
+about it, I thought about some of the comments that have been made that 
+this is something new; that people should not put--
+
+[[Page S14090]]
+
+I should not put a nongermane portion into this conference report 
+because it is a violation of the rules.
+  I remember the times we discussed Senator Byrd's steel loan 
+guarantees or the mountaintop mining problem. I remember Senator Conrad 
+coming to me in a conference report dealing with the great problems of 
+disaster funding in South Dakota and the Devils Lake issue. I remember 
+Senator Dorgan on that one, too. I remember Senator Harkin coming to me 
+and asking me to deal with the multibillion-dollar environmental 
+program and agriculture authorization program in an appropriations 
+bill. I remember Senators Jeffords, Kohl, and Leahy asking me to deal 
+with the Northeast dairy compact. I remember Senator Bill Nelson 
+telling me about the terrible problems of the shuttle disaster and 
+ensuring key operations at the Kennedy Space Center.
+  For Northeast Senators on LIHEAP, in this bill, at my urging, there 
+is a provision for $2 billion as emergency funds for LIHEAP. The House 
+was further reluctant to agree to that until we worked out the funding 
+mechanisms for repayment of that money on an emergency basis when the 
+funds come in from the sale of spectrum.
+  Similarly, it went to the Budget Committee. They agreed that the 
+estimate in the bill for ANWR of $2.5 billion for revenues from bidding 
+was low and they, in fact, have agreed that there will be approximately 
+$5 billion coming in.
+  But they can't, under the procedures, change the estimate under the 
+Budget Act.
+  In this bill, we have allocated that money to repay emergency funding 
+for other programs, emergency funding that the House would not agree to 
+before including the $1.1 billion for homeland security.
+  Some people say to me: What you are doing is dragging this in front 
+of people. You want them to vote with you. I haven't talked to anyone 
+in connection with what I have done in this bill and said I will do 
+this if you will vote for this bill. I have done it because I believe 
+those things are right to do. If the Senate believes they are right to 
+do, they are going to vote for cloture on the conference report. If 
+they want to send it back to the House, they will vote against the 
+cloture on the conference report or they will vote in favor of a point 
+of order against the conference report. And then it goes back to the 
+House, the House has to reconstitute itself, and we have to appoint new 
+conferees.
+  The House has sent word this morning to forget about that. They heard 
+what I said, and they said we will ask for a continuing resolution for 
+the Defense Department appropriations until we all come back. Our 
+people have gone home for Christmas, they say. I don't know whether 
+they will.
+  But all I know is we are at a crucial juncture of a series of things, 
+and one of them is, in fact, the subject I have dealt with now for 25 
+years since Senator Jackson and Senator Tsongas came to me and said 
+stop the filibuster against the bill called ANILCA in 1980. President 
+Clinton wanted it very much. And they said we will set aside 1.5 
+million acres of the Arctic as you have requested, and it will be open 
+to oil and gas development until that process is finished. It will not 
+became part of the Arctic National Wildlife Refuge until that is over.
+  For 25 years now, I have tried to get that commitment fulfilled. We 
+passed a bill and Clinton vetoed it. We have had it before several 
+Senate sessions, and it has always been filibustered on the other side. 
+This year, we are successful in getting it in the reconciliation bill, 
+which is the bill before the Senate right now, at urging of a 
+bipartisan group in the House. They urged me to allow them to defeat 
+that so there would be easy passage for this bill over there. It was 
+passed very quickly, and it is before us now. They said put the 
+amendment on the Defense appropriations bill and we will help you get 
+it passed in the House. They did that. An overwhelming majority voted 
+for it.
+  Now we hear all sorts of things--I am getting tired of being accused 
+of so many things--outrageous, cantankerous Senator who is responsible 
+for the bridges. I wasn't responsible for the bridges. They arose in 
+the House. But I did defend them here in the Senate.
+  As a practical matter, history is behind us now, and we have before 
+us a bill which is the Defense bill.
+  I have managed this bill, or the Senator from Hawaii has managed this 
+bill, since 1981. I don't think there are any two Senators who know any 
+more about funding for the Department of Defense than the two of us. We 
+pride ourselves in doing a good job, and we have done the best possible 
+job we can now. We have I think two of the best staff directors in the 
+Senate. Sid Ashworth sits beside me now and Charles Houy is always 
+beside Senator Inouye.
+  We have a bill before the Senate now and a conference report that 
+provides $446.7 billion to the Department of Defense. It has a $50 
+billion contingency for Defense. It is a conference report which should 
+be voted on.
+  I hear some people say they are going to oppose cloture on the 
+conference report. I can't imagine anyone voting against cloture on a 
+conference report for Defense. You can argue about some of the 
+amendments that were attached to it. That is fine. They can be voted on 
+individually by points of order. But the conference report on Defense 
+is for the troops. The conference report on Defense really goes far 
+beyond the amendments that are on this bill.
+  Those who vote against this conference report must know that what 
+they are doing is they are setting up a delay in the process of getting 
+money to the troops.
+  I have argued since July that this bill should not be delayed. I am 
+not responsible for the delay. What I am responsible for now, since 
+this the last bill, is attaching three important amendments to it.
+  One deals with Avian flu. That issue was raised by Senator Harkin. 
+When I managed the bill on the floor, I first said that is extraneous, 
+and we shouldn't put it in the bill. The more I thought about it, I 
+went to him and said: You are right. Let us take this to conference and 
+see what we can do.
+  We took it to conference and what resulted was not only money for 
+avian flu, but the money for avian flu was approximately the same as 
+Senator Harkin sought.
+  But we have added liability compensation provisions to it. This is a 
+stronger amendment now than Senator Harkin asked me to add to the bill.
+  I ask: Are we going to vote against getting ready for the pandemic? 
+If this bill falls, we will go back into conference. But a point of 
+order against this bill under rule XXVIII, as I understand it--I will 
+explain that in a minute--will take all of those, and it is a matter 
+for the Senate to decide.
+  If a rule XXVIII point of order is raised against the conference 
+report, the conference report in its entirety collapses. Rule XXVIII 
+does not act similar to the Byrd rule and the offending provisions are 
+taken out of the bill. A brandnew conference will have to be convened 
+and new conferees will have to be appointed by each House. When the 
+conference convenes, the conferees have to be circumspect about 
+including any matter not committed to the bill by each bill from the 
+House.
+  In other words, we will go back and be in conference, and we will 
+come back and still be right where we are now. The items for the avian 
+flu would be added. It may be that ANWR would be deleted.
+  I have to tell you, if we are going to a new conference, I am going 
+to argue to put it back in. It should be there, and the votes in the 
+conference are there to put it back in.
+  We are going to face up to ANWR either now, or Christmas Day, or New 
+Year's Eve, or sometime--however long we stay in. We are going to face 
+the question of should we keep the commitment made by Senator Jackson 
+and Senator Tsongas.
+  This bill goes beyond, though, in terms of the subject matter that 
+should be discussed.
+  We have to realize that ANWR is germane to the bill. Nothing is more 
+germane and essential to national defense than energy. Our Department 
+of Defense consumes 110 to 112 million barrels of oil. I have a chart 
+concerning that. That is the consumption of Department of Defense.
+  The consumption during this global war on terror has risen to 133 
+million barrels of oil. This is a 20-percent increase in demand due to 
+the general war on terror.
+  ANWR supports national security because it unquestionably will 
+increase the national supply.
+
+[[Page S14091]]
+
+  So when you vote on the question of whether this is beyond the scope, 
+sure it was not in either bill, but is it germane?
+  Is it part of national defense? Listen to what Senator Jackson said 
+at the time we debated the oil pipeline amendment, which Senators will 
+remember was passed by one vote when the Vice President of the United 
+States broke the tie.
+  In almost every issue I have been involved in since I have been here 
+about Alaska, it has been a narrow vote. Why? Because extreme 
+environmentalists think it is their playground, that they should set 
+the policies for Alaska.
+  Here is what Senator Jackson said as chairman of the Energy 
+Committee. This involves national security. It is a national security 
+issue. He said this:
+  It involves national security. There is no serious question today 
+that it is urgently in the national interest to start North Slope oil 
+flowing to markets. Today we have a pipeline. I ask unanimous consent 
+this report be printed in the Record following my remarks. It is titled 
+``Prudhoe Decline Highlights U.S. Oil Dependence.''
+
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  (See exhibit 1)
+  Mr. STEVENS. It shows Alaska's oil has decreased. Here are the 
+figures. At one time we went up to 1.885 million. We actually have an 
+ultimate capacity of 2.1 million. There were some surges where we 
+transported more than 2 million barrels a day. Its design capacity is 
+more than 2 million barrels a day. Now, throughput is 935,000. I was 
+informed recently that the amount going through at this time, the 
+average production, is down to 381,000. We have a pipeline designed to 
+carry 2 million barrels of oil and it is running at a little over 30 
+percent throughput.
+  Where is the oil to come from? ANWR. It should have come from ANWR. 
+If President Clinton had not vetoed our bill in 1995, it would be 
+coming through now.
+  I urge my colleagues to think about what ANWR means and why we are 
+here. We are here because every time we have been here, we have been 
+frustrated by filibuster. Is it unethical to try to find a way around a 
+filibuster, to try and find a way so we can fulfill our constitutional 
+right--that is, to have an issue decided by a majority vote? All I am 
+asking is to have an issue decided by majority vote.
+  Cloture is a creature of the Senate. The concept of unlimited debate 
+is a creature of the Senate. I abide by it. I believe in it. However, 
+we also have the process to curb that; that is, to have cloture on a 
+bill. Now it is cloture on a Defense bill. I don't ever recall having 
+to get cloture on a Defense appropriations bill.
+  As I said, in the 1973 timeframe when we had the Alaska oil pipeline 
+built, a most controversial bill at that time, there was not one 
+Senator who suggested a filibuster. We all knew oil was a matter of 
+national security. It was agreed it would be an up-or-down vote. As a 
+matter of fact, we had two votes. We had the first vote, and because 
+one person was off the floor, we then had a second vote. That person 
+came back to the Senate. He was standing right outside the door. When 
+he voted, it created a tie. The Vice President then broke the tie.
+  We are at the point now where we should recognize what we have done 
+is to finally have found a way to get a vote on the basic issue in the 
+Senate in a way that will take the bill to the President. It is a DOD 
+bill. It is a bill the President will sign, I am certain. But keep in 
+mind what else is in this bill.
+  Before I get to that, I have to remember my good friend Judge James 
+Buckley. I said before in the Senate, he was one of the first ones to 
+oppose drilling in the Arctic Wildlife Refuge. In January of this year 
+he sent me a letter, unsolicited. He says this in the final paragraph:
+
+       Having visited the Arctic on nine occasions over the past 
+     13 years (including a recent camping trip to Alaska's North 
+     Slope), I don't think I can be accused of being insensitive 
+     to the charms of the Arctic qua Arctic. I just don't see any 
+     threat to the values I cherish.
+
+  He changed his mind. He said, do your best to get it drilled.
+  I ask unanimous consent to have his letter printed in the Record at 
+the conclusion of my remarks.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  (See exhibit 2)
+  Mr. STEVENS. Mr. President, beyond that, we have a series of problems 
+I would like to mention in closing. Then I will be back. That is the 
+question of the point of order.
+  In 1996, we overturned a point of order on the aviation bill. It was 
+a question of the FAA conference report, conference on the FAA. Senator 
+Hollings, my great friend, Fritz Hollings, offered an amendment to that 
+bill. The Chair ruled that Senator Hollings' amendment exceeded the 
+scope of the conference. The Senate voted 56 to 39 to overturn the 
+ruling of the Chair. I was part of that debate and in support of 
+Senator Hollings. There are still in the Senate a series of people who 
+voted to overturn that Chair. Senator Chafee's father, the former 
+Senator Chafee did, Senator Conrad did, Senator DeWine did, Senator 
+Domenici did, Senator Feinstein did. We have a whole series of people. 
+My great friend, brother, Senator Inouye did, Senator Jeffords did. We 
+have a series of Members who did. Senator McConnell did. Senator 
+Pryor's father did. Senator Reid did. So did several other Members here 
+today.
+  I am making the point it is not something new to ask the ruling of 
+the Chair be disagreed with. We seek to settle the disagreement over 
+whether the amendments are within the scope--they technically are 
+beyond the scope--but should the scope be adhered to in the 
+circumstances today? Should they be adhered to for avian flu? Is there 
+any Senator who wants to protest against that? Should they be adhered 
+to on Katrina? Sure, if there is advance appropriations on Katrina, I 
+found ways to advance moneys to the people in those disaster areas and 
+repay them with future income.
+
+  The House of Representatives has approved that. The Committee on the 
+Budget says if you make the assumptions I make, it is a fair way to do 
+things. No, they did not say ``fair way'' but a way to do things.
+  When you look at it right now, the issue comes down to my amendment 
+and that is ANWR. ANWR, to me, is the most significant thing we can do 
+today because we are down now to importing almost 60 percent of our 
+oil. No matter what anyone says, that is an enormous burden on our 
+economy. It is such a great burden that the scope of it has to be 
+detailed in order to find the solutions for the problems we face.
+  Remember, in defense now, 7 of the 10 suppliers of this country for 
+petroleum for defense are not U.S. suppliers. Did you know that? Of the 
+10 suppliers of petroleum to defense, 7 are foreign countries. Twenty 
+percent of the petroleum the DOD purchases comes from Middle East 
+countries that embargoed our oil in the past.
+  We are dealing with a matter of security to increase our domestic 
+supply. Our State not only produces oil, we refine in Alaska a 
+considerable amount of the jet fuel used by our military. A 
+considerable portion of our military comes to Alaska each year: 52 
+million gallons in Elmendorf, 21 million gallons in Eielson, 3.5 
+million gallons for Coast Guard, 76.5 million gallons in terms of our 
+total purchases from our refined oil.
+  I do believe we have more than doubled our energy imports since 1969 
+and we are exporting now approximately half a billion a day for foreign 
+oil. If that money were spent in the United States--we only spent $1 
+billion of it in the United States--it would produce 12,500 jobs. In 
+2003, we outsourced 1.3 million jobs by importing oil rather than 
+producing it in the United States.
+  In the area where the distinguished occupant of the Chair comes from, 
+Louisiana produces a substantial portion of this oil, but many of the 
+facilities down there have been damaged or are in need of repair.
+  We should be doing everything we can to diversify the sources of our 
+energy supplies. By developing the coastal plain, we will create 
+between 700,000 and 1 million jobs. We will put $60 million back into 
+the economy each day, money that will be paid to U.S. employees and 
+paid to the United States, which will increase the flow of taxes into 
+our Treasury.
+  I apologize for being slightly tired and sort of disconnected in 
+terms of how I deal with this process, but I summarize by this: We have 
+disaster assistance, we have home energy assistance, LIHEAP, we have 
+interoperable equipment for the first responders, we have
+
+[[Page S14092]]
+
+emergency preparedness for the cities and the States, we have border 
+security, 1.1 billion of real money, 1996 money. There is no other 
+money available for 2006. It includes money for infrastructure and 
+border assistance. And we also have money for agricultural assistance.
+
+  The amendment of the chairman of the Appropriations Committee, 
+Senator Cochran, really does a tremendous job in meeting some of the 
+disaster needs beyond those which will be met by my amendment.
+  I will have more to say later. But, Mr. President, I urge the Senate 
+to think. We can either pass this bill soon and do our job and fulfill 
+the demands and desires of millions of people, or we can pull this bill 
+down, the conference report down, and ask the House to reconstitute 
+another committee, a conference committee, and go back into the 
+conference committee with approximately the same conferees and try to 
+reach a different result.
+  I, frankly, do not see there would be much difference. As a matter of 
+fact, if I am a member of that conference committee, it will produce 
+the same result. So face up to the issue now and decide whether you 
+want to provide for energy independence in the future, whether you want 
+to provide for LIHEAP, for disaster, for first responders, for border 
+security, or whether you just want to continue debating ANWR.
+  Thank you very much.
+
+                               Exhibit 1
+
+             Prudhoe Decline Highlights U.S. Oil Dependence
+
+                         (By Tarek El-Tablawy)
+
+       New York.--Alaska North Slope crude oil production, once 
+     heralded as a domestic mother lode, has hit a new output 
+     low--embodying the precarious balance confronting the United 
+     States as it struggles for energy security in an era of 
+     volatility in the international oil market.
+       The decline in Alaska is led by a slump in output from the 
+     once-mammoth Prudhoe Bay field, which has been producing 
+     since 1969. At its height in fiscal 1988, the field produced 
+     an average of 1.6 million barrels per day. In fiscal 2005, it 
+     was down to 381,000 barrels per day. Overall production in 
+     the North Slope has dropped to an average of 916,000 barrels 
+     per day from 2.01 million barrels in the same period.
+       In Alaska, re-boosting output is as much dictated by 
+     politics as it is by geology.
+       While the Bush administration has pushed for opening a 
+     pristine Alaskan refuge believed to hold about 10 billion 
+     barrels of recoverable crude oil, environmentalists argue 
+     such a move would only temporarily delay the inevitable while 
+     ruining the delicate arctic habitat.
+       For Alaskans, Prudhoe's decline in particular, and the 
+     North Slope's in general, transcends politics and raises 
+     fiscal and emotional issues. Each year, state residents 
+     receive a substantial dividend from an investment account 
+     built over the year by a portion of oil tax revenues.
+       Those dividends, based on market investment performance, 
+     have ranged from a record $1,964 per resident in 2000 to $845 
+     in 2005. But dividends are estimated to rise over the next 
+     decade, as returns on investments take the place of declining 
+     oil royalties and taxes that go into the fund.
+       ``The word I would use is concern,'' said Michael Williams, 
+     the Alaska Department of Revenue's chief economist. North 
+     Slope crude ``represents a substantial portion of income for 
+     the state. The issue is: What's going to happen when it goes 
+     very low, or runs out?''
+       State officials are negotiating with three major oil 
+     producers to build a North Slope natural gas pipeline to 
+     markets in the Midwest they hope will compensate for losses 
+     from the decline in oil. State officials say oil is expected 
+     to account for at least 74 percent of Alaska's unrestricted 
+     general purpose revenue through 2013.
+       The history of Prudhoe, and the several fields discovered 
+     later that once helped buoy the state's oil daily production 
+     to over 2 million barrels, offers a window into the dichotomy 
+     of the energy security debate in the United States as oil 
+     prices hover tenaciously around $60 per barrel.
+       The fall in the North Slope comes even with the startup of 
+     the Northstar and Alpine fields which, with a combined 
+     projected output of over 200,000 barrels per day, many hoped 
+     would partially offset the decline in Prudhoe Bay.
+       Prudhoe ``was one of the last great fields in America,'' 
+     said Bill Samuelson, an analyst with the Houston-based 
+     consultancy, Purvin & Gertz.
+       ``When you have such a large field that is declining so 
+     steeply, it's hard to offset that decline,'' he said. ``It's 
+     inevitable.''
+       Projections for new fields slated to come on-stream over 
+     the next 10 years are expected to do little but temporarily 
+     offset the steady decline. North Slope output, according to 
+     the state, is projected to drop to about 833,000 barrels per 
+     day by 2015, with 50 percent of that production coming from 
+     new fields.
+       Inevitability is an immediate issue across the country. 
+     U.S. domestic crude production, currently estimated at 5.4 
+     million barrels per day, is slated to peak at 5.9 million 
+     barrels per day in 2014 before starting a steady decline to 
+     an estimated 4.99 million barrels in 2025, according to the 
+     Annual Energy Outlook, 2006, issued Monday by the Department 
+     of Energy's Energy Information Administration.
+       High crude prices have allowed small producers to restart 
+     ``stripper wells''--fields that were otherwise economically 
+     unfeasible because of recovery costs and minuscule reservoir 
+     pools. Such activity has increased in states like Kansas and 
+     Kentucky.
+                                  ____
+
+                                     Sharon, CT, January 24, 2005.
+     Hon. Ted Stevens,
+     Hart Senate Office Building,
+     Washington, DC.
+       Dear Ted: Twenty-six years ago, after leaving the Senate, I 
+     was a lead signatory in full-page ads opposing oil 
+     exploration in the Arctic National Wildlife Reserve that 
+     appeared in the New York Times and the Washington Post. I 
+     opposed it because, based on the information then available, 
+     I believed that it would threaten the survival of the 
+     Porcupine caribou herd and leave huge, long-lasting scars on 
+     fragile Arctic lands. Since then, caribou populations in the 
+     areas of Prudhoe Bay and the Alaskan pipeline have increased, 
+     which demonstrates that the Porcupine herd would not be 
+     threatened, and new regulations limiting activities to the 
+     winter months and mandating the use of ice roads and 
+     directional drilling have vastly reduced the impact of oil 
+     operations on the Arctic landscape.
+       In light of the above, I have revised my views and now urge 
+     approval of oil development in the 1002 Study Area for the 
+     following reasons:
+       1. With proper management, I don't see that any significant 
+     damage to arctic wildlife would result, and none that 
+     wouldn't rapidly be repaired once operation ceased.
+       2. While I don't buy the oil companies' claim that only 
+     2,000 acres would be affected, even if all of the 1.5 
+     million-acre Study Area were to lose its pristine quality (it 
+     wouldn't), that would still leave 18.1 million acres of the 
+     ANWR untouched plus another five million acres in two 
+     adjoining Canadian wildlife refuges, or an area about equal 
+     to that of the States of Connecticut, Massachusetts, Vermont, 
+     and New Hampshire combined. In other words, it is simply 
+     preposterous to claim that oil development in the Study Area 
+     would ``destroy'' the critical values that ANWR is intended 
+     to serve.
+       3. In light of the above, it is economic and (to a much 
+     lesser degree) strategic masochism to deny ourselves access 
+     to what could prove our largest source of a vital resource.
+       Having visited the Arctic on nine occasions over the past 
+     13 years (including a recent camping trip on Alaska's North 
+     Slope), I don't think I can be accused of being insensitive 
+     to the charms of the Arctic qua Arctic. I just don't see the 
+     threat to values I cherish.
+       With best regards,
+           Sincerely,
+                                                 James L. Buckley.
+
+  The PRESIDING OFFICER. The Senator from North Dakota.
+  Mr. CONRAD. Mr. President, we do not have a formal agreement but an 
+informal agreement. We would go to Senator Murkowski for her remarks.
+  Can the Senator give us an idea, roughly, how long she might proceed?
+  Ms. MURKOWSKI. Mr. President, just approximately 15 minutes.
+  Mr. CONRAD. Fifteen minutes. All right. Then on our side, it would be 
+Senator Harkin for approximately 30 minutes.
+  Mr. GREGG. Then we come back to Senator Coburn.
+  Mr. CONRAD. I think we have some others in between to fill out the 
+time. I think Senator Coburn is not until 2:15, so we have some others 
+to fill in so we use the time as efficiently as we can during the 
+period.
+  With that, I think, Mr. President, the next person to be recognized 
+would be Senator Murkowski.
+  The PRESIDING OFFICER. The Senator from Alaska.
+  Ms. MURKOWSKI. Thank you, Mr. President.
+  Mr. President, I wish to acknowledge the comments of my colleague and 
+my friend, the senior Senator from Alaska, giving us some of the 
+historical perspective about some of the process we have seen in the 
+Senate.
+  As we take up the issue of the Defense appropriations bill and as it 
+contains within it the issue of energy exploration in the Arctic 
+National Wildlife Refuge, it is fair to say there has been a hue and 
+cry of ``This can't be done. We can't have this included in it,'' and 
+almost a sense of outrage that such a controversial issue would be 
+inserted in a bill that truly our troops, our national security depends 
+on.
+  We know this is not a new issue in the Senate. This is not a new 
+issue in the Congress. The Alaska delegation has been fighting this 
+issue for just about three decades now. Senator Stevens has indicated 
+that for 25 years he
+
+[[Page S14093]]
+
+has been working on this issue. My father, who held this office before 
+me, spent the 22 years of his career working to advance ANWR; trying to 
+get our colleagues here in the Senate to understand the issue and to 
+move it through the process, to convince the Congress of the merits of 
+opening the Coastal Plain to environmentally sensitive energy 
+development. We have debated this issue so many times on this floor, I 
+have some of my colleagues saying: Can't we just pass ANWR so we don't 
+have to keep hearing this debate year after year after year? And we 
+have been successful, twice here on the Senate side and numerous times 
+on the House side, where the measure has moved through. We were 
+successful in moving the ANWR provision through the Congress, both 
+Houses, in 1995, only to have President Clinton veto it, and we were 
+successful just several months ago in passing the ANWR measure through 
+on the reconciliation bill. So this is not new debate. This should not 
+come as a surprise that this is a priority, not just for the Alaska 
+Senators, but a priority for the Congress, a priority for this country.
+  Senator Stevens spoke to the issue of national security and how ANWR 
+can assist us in that.
+  When we talk about the ``whys,'' why we should open ANWR to limited 
+exploration and development, what we are talking about with ANWR is not 
+an insignificant quantity of oil. It is not the ``drop in the bucket'' 
+that some people suggest. It is not the ``mere months of supply'' that 
+some people suggest. At predicted prices, at what we are seeing today, 
+we recognize that the expectation out of ANWR is between about 6 
+billion barrels of oil and 14.65 billion barrels of oil. So the mean 
+figure that we use, a conservative figure, is about 10 billion barrels 
+of oil for this country. This is by far the largest known source of 
+domestic onshore oil in this country today. The estimates lead us to 
+make the statement that we believe that the ANWR field, or oil find, 
+could rival that of Prudhoe Bay, which has been supplying this country 
+with about 20 percent of our domestic needs for about the past 25 
+years.
+  Now, when we recognize what high oil prices are doing to this country 
+in terms of the health of our economy, in terms of our ability to 
+travel. Face it, the energy costs this country are facing are a burden 
+on hard-working Americans. And what is the expectation? Do we expect 
+the price of oil is going to be dropping? Right now, we are looking at 
+future prices in the area of $60-a-barrel oil. The Energy Information 
+Administration, EIA, 2006 forecast has predicted the price of oil is 
+going to remain between $50 and $55 a barrel for the next couple 
+decades. We have to recognize that everything we can do to bring down 
+that cost of oil through increased production domestically is going to 
+help us.
+  We have always talked about the jobs, the jobs aspect that ANWR will 
+help bring about. It will bring about hundreds of thousands of jobs, 
+not just in my State of Alaska, but all around the country.
+  And as we talk about these issues we must remember the deficit we 
+face as a nation and the balance of payments deficit that we face. This 
+especially is where ANWR development can make a dramatic improvement in 
+reducing our balance of payments deficit. If we are at peak production 
+with ANWR, anticipating 1 million barrels a day, this will reduce our 
+country's balance of payment deficit by just about $20 billion 
+annually. This is significant, folks. This oil is coming from the 
+United States. This is domestic production.
+  Now, the big debate today, of course, is the fact that this 
+provision, the ANWR provision, has been included in the Defense 
+appropriations bill. Is this the perfect place for this? Well, when we 
+started several months back, at the beginning of the year, it was not 
+in this bill. It was in the reconciliation bill. We took criticism, 
+great criticism, at the time for inserting it in that legislation as 
+well. But let's talk about why it makes sense, why it is not illogical 
+to place the ANWR provision in the Department of Defense appropriations 
+bill.
+  My colleague from Alaska made mention that there is a great tie-in 
+between ANWR and our national security and meeting the needs of our 
+military.
+  We have direct benefit through increased domestic oil production 
+because we help our military to strengthen our national security by 
+becoming less reliant on foreign sources. Sufficient reliable energy 
+supplies are vital to our military. That is absolutely the bottom line. 
+Consider that it takes eight times more oil today to meet the needs of 
+the average soldier than it did decades ago during World War II. Our 
+military today consumes on average about 4 percent of the oil we as a 
+nation consume daily about 800,000 barrels per day. This is a reality. 
+This is what we are dealing with.
+  Right now, the military accounts for about 80 percent of all the oil 
+that our Government consumes daily. So when we look at what we can 
+anticipate from ANWR--about a million barrels a day at peak 
+production--that development will help us to fully meet our military's 
+total fuel needs. This fact alone makes ANWR a worthy candidate for 
+inclusion in the Defense appropriations bill.
+  Really what we need to be focused on is what ANWR does for us, how it 
+helps facilitate our energy security and, in turn, our national 
+security. Opening ANWR offers America the best chance for finding a 
+secure supply of oil that helps to reduce our dependence on OPEC, on 
+other nations; and it does this for decades.
+  You all heard that we are 58 percent dependent today as a nation on 
+foreign sources of oil. We are expected to pass the two-thirds mark 
+within about 20 years. When you put that into perspective and you 
+recognize that such a quantity of our energy--more than half of our 
+energy comes from elsewhere--particularly from OPEC or unstable Mideast 
+regimes, that we have a vulnerability. Think back to some of the 
+statements made earlier this year coming out of Venezuela, one of our 
+leading sources of imported oil. Again, this should remind us that we 
+need to do all that we can responsibly do to increase our domestic 
+energy production. Look at the world picture--what is happening with 
+China and India and a host of developing nations and their need for 
+supplies of oil. That makes it all the more important to make sure we 
+are doing what we can at home.
+  So we need to increase our energy independence, but we also need to 
+do it in balance with our environment and diversifying energy supplies. 
+I wish to talk about the environmental perspective for a minute because 
+this is important. We just cannot develop for development's sake 
+without a corresponding obligation to balance our environmental needs 
+and requirements. But this bill containing the ANWR provision actually 
+lets us address the environmental issues that have been raised about 
+ANWR for years.
+  When the reconciliation bill was going through, because of procedural 
+issues--notably the Byrd rule--we were not able to include, for 
+instance, all the environmental safeguards in that that we might have 
+liked. It could plain and simply only open ANWR. But contained within 
+this Defense appropriations bill are the environmental safeguards, the 
+provisions that we have been discussing for decades. It also has 
+provisions that will require the best technology. We are talking about 
+directional drilling to limit the surface disruption. It requires 
+industry to maintain winter exploration drilling schedules, a technique 
+of using ice roads so the wildlife isn't disturbed. The tundra remains 
+protected. It includes the provision that we voted on not too terribly 
+long ago that would limit ANWR oil from export, from going outside this 
+country. There is an export ban that would be in place contained within 
+this legislation.
+  For Alaska Natives, it finally allows them to develop their lands as 
+long as the total disruption doesn't exceed 2,000 acres of the surface 
+of the coastal plain. That is another point that needs to be made. We 
+are not talking about disturbing the surface of the entire 1.5 million 
+acres of Coastal Plain; we are asking for permission to explore and 
+drill in the entire plain, but not to impact more than 2,000 acres in 
+the process. For some in rural areas, that is the size of a small farm. 
+For some in urban centers, this is size of your airports. That is what 
+we are talking about. This bill allows us to place this language in it.
+  There was mention in the Washington Post this morning that somehow or 
+other the language contained in the bill allows for an even greater 
+area
+
+[[Page S14094]]
+
+to be opened for oil exploration and development. That is not the case. 
+The case is that the 2,000-acre limitation covers both federal and 
+Native and state lands. What it does allow for is for Alaskan Natives 
+who live up there to have the ability to gain their final land 
+selections, but any development from those lands are subject to the 
+2,000-acre limitation. It is a 2,000-acre limitation in total.
+  We also require the Department of the Interior to consult with the 
+Natives so that their local knowledge is considered to reduce the 
+impact on the environment and their subsistence lifestyles. We have the 
+support of those Natives who live there, work there, and send their 
+children to school there, who want to see good infrastructure in terms 
+of health facilities and schools. They support opening ANWR, but they 
+want to do it in a responsible manner and in consultation, so that they 
+know their voices are heard. We have put language in this bill that 
+speaks directly to those wishes.
+  We have also included a provision that provides for local impact aid 
+for any of the communities that may be subject to oil development 
+impacts. These include the Inupiat of the North Slope, the Gwich'in 
+south of the Brooks Range, and the municipalities and Native 
+Corporation lands that border the Trans-Alaska Pipeline corridor.
+  And we included language that encourages project labor agreement 
+talks and local hire provisions.
+  So we have been able in this legislation to take the concerns of some 
+of our friends and colleagues who have been working with us--our 
+friends from Hawaii wanted to make sure we had Native consultation 
+provisions included. We have been able to add that in this Defense 
+appropriations bill along with the environmental provisions that have 
+been discussed for decades, ensuring that when we move forward with 
+opening ANWR to responsible oil exploration and development, we have 
+all of these provisions in place. This is key to us in the Senate, and 
+it is certainly key to the Alaskans whom I represent, and most 
+certainly to those who live and work on the Coastal Plain.
+  Now, I have to comment very quickly about a remark that was made 
+yesterday by my colleague from Washington. In her argument against 
+opening ANWR, she talked about ``toxic'' spills on the North Slope, and 
+essentially argued that Alaskans are not being responsible somehow with 
+our oil development. That does require a response.
+  Opponents have claimed there have been a high number of spills. But 
+they fail to mention that the companies who operate on Alaska's North 
+Slope have to report spills of most any substance that is more than a 
+gallon in size, whether it is pure water, salt water, oil, or 
+chemicals; whatever it is, it has to be reported if it is over a gallon 
+in size.
+  According to the Alaska Department of Environmental Conservation, 
+there has been an average of 263 spills on the North Slope yearly, 
+seven times less than in the rest of the state yearly. The average oil 
+spill, however, was just 89 gallons--that is about 2 barrels of oil--
+and 94 percent of that was totally cleaned up. Most spills are of water 
+used in making ice roads.
+  According to the National Academy of Sciences's 2003 study, if you 
+look at all the spills from 1977 through 1999, 84 percent of all those 
+spills were less than 2 barrels in size. Only 454 barrels of oil per 
+year have been released into the environment, compared to the 378,000 
+barrels of oil that enter North American waters yearly as a result of 
+urban runoff, the drips we see at filling stations and other spills. 
+That may be less oil than enters the Alaska environment naturally 
+because of the oil seeps that come up from under the ground on the 
+North Slope.
+  I wanted to take a second to correct the record on other point.
+  Senator Stevens spoke in his comments previously about how including 
+ANWR in the Defense appropriations bill not only helps Alaskans in 
+getting the pipeline from a status of half full, or less than half 
+full, to full; but it is also important to point out how adding ANWR to 
+the Defense bill is going to help Americans overall.
+  I have mentioned national security. I have mentioned the jobs. I have 
+mentioned the economic security and the reduction in the overall trade 
+deficit.
+  What we will also be able to do as a result of the ANWR proceeds and 
+the revenues that will come forth is to aid Americans who have been 
+impacted by the disaster on the Gulf Coast. The bill also allocates 5 
+percent of the revenues to go to fund increases in money for the 
+program that will also help Americans with their energy costs. This is 
+the LIHEAP program, the Low-Income Home Energy Assistance Program. We 
+know here it is getting cold, and it is going to be a colder winter as 
+we move into January and February. Americans are looking at their home 
+heating bills. They are looking at their utility bills, and they are 
+seeing increases of 30 to 40 percent. We are going to see natural gas 
+increases in our utility bills in excess of that.
+  This is a huge consideration for us as we try to balance our budgets 
+within our own homes. So the ability to share with those who have been 
+impacted by Katrina, helping to provide financing, if you will, for 
+Gulf Coast rebuilding is a key of this bill. Under the Gulf Coast 
+Recovery and Disaster Prevention and Assistance Fund about 25 percent 
+of the total ANWR revenues will go into the fund--80 percent of the 
+bonus and 20 percent of the longer-term royalties from ANWR production 
+will go to the Gulf Coast States to help them recover from the effects 
+of Katrina, Rita, and Wilma.
+  Also, we are talking about the reduction of the Nation's budget 
+deficit over the life of the field--tens of billions of dollars to 
+reduce the budget deficit will come from the proceeds from ANWR.
+  What is coming from ANWR is not something that only benefits 
+Alaskans, and there have been those who have suggested that. It is not 
+something that benefits only oil companies, and there are some who have 
+mentioned that. The proceeds from ANWR and what we will be able to do 
+in terms of providing for jobs, for energy security, national security, 
+funding programs such as LIHEAP, funding to the States of Louisiana, 
+Mississippi, Alabama, Texas, and Florida in the restoration fund, are 
+significant; it is important, and it is appropriate that all are 
+included in the legislation before us.
+  I, too, join my colleague, my senior Senator from Alaska, in asking 
+our colleagues to end this debate once and for all, after the 25, 30 
+years we have been debating, arguing, and talking, and allow America to 
+finally use its own resources to help our economy and protect our 
+security.
+  Mr. President, I have several letters and resolutions I would like 
+printed in the Record. These are a letter from the mayor and city 
+council of the city of Kaktovik, addressed to Members of Congress; a 
+board resolution from the Alaska Federation of Natives in support of 
+opening ANWR; letters of support from unions; from the Chamber of 
+Commerce; from Americans for Tax Reform; from the American Gas 
+Association, as well as the Alliance for Energy and Economic Growth. I 
+ask unanimous consent they be printed in the Record.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+                                              City of Kaktovik, AK
+                                                    December 2005.
+       Dear Member of Congress: If ever there was an issue that 
+     cried out for a fresh infusion of truth, reason and balance, 
+     it is oil and gas leasing in the Arctic National Wildlife 
+     Refuge. The fact is: a vote to support oil and gas 
+     exploration within the 1002 section of ANWR more than meets 
+     the criteria for thoughtful, far-reaching policy-making in 
+     the national interest.
+       Many of the Republican Main Street members of the House of 
+     Representatives have come under intense pressure to remove 
+     the provision for oil and gas leasing within ANWR from the 
+     budget reconciliation bill. In most cases this pressure comes 
+     from people who neither live on the Arctic Coastal Plain nor 
+     have ever set foot in our community.
+       We, the people of Kaktovik, Alaska--the only people 
+     directly affected by leasing on the coastal plain--
+     understanding the pressure you are under, respectfully 
+     request that you consider the following important facts about 
+     this issue.
+       The homelands of the Kaktovikmiut Inupiat encompass the 
+     coastal plain and much of the refuge to the Continental 
+     Divide. These homelands define who we are as a people, they 
+     feed us and they are part of the legacy we leave for our 
+     children.
+       Despite how things may appear to outsiders, this is not 
+     empty country. We have lived here for millennia and will 
+     continue to do so. Our collective memory, the spirits of our 
+     ancestors, our place names, our dreams for the future, fill 
+     this place.
+       Protection and survival of our culture depends on nurturing 
+     new economic activity that allows our young people to remain 
+     and thrive here in their own country.
+
+[[Page S14095]]
+
+       Although the Arctic National Wildlife Refuge was 
+     established without our consultation or consent, we have 
+     tried hard to adjust to this regime superimposed on our 
+     homeland--and not without considerable hardship. But there 
+     remains a critical fact: It is a matter of explicit and 
+     settled Congressional policy that we retain ownership of 
+     lands on the coastal plain and have been granted 
+     permission to help build a viable future for our children. 
+     There is an issue of fundamental fairness and of Native 
+     rights to be considered here.
+       Despite much rhetoric, oil development here offers real 
+     benefits to the nation as part of a responsible comprehensive 
+     strategy to develop diverse energy sources to help build and 
+     sustain a strong and secure economic future.
+       Most importantly to us, and to the majority of Americans, 
+     these benefits will NOT sacrifice the values the refuge was 
+     created to protect, in particular the wildlife and ecosystem 
+     on which they depend. Claims to the contrary are simply not 
+     supported by the facts.
+       We not only live in this country, we're intensely 
+     protective of it. We would not have agreed to the idea of oil 
+     leasing if we did not have assurances of the most rigorous 
+     stipulations to protect our lands, the animals on which we 
+     depend, the culture and values that guide us to the future.
+       These assurances are contained in a bipartisan bill, S. 
+     1891, the Arctic Coastal Plain Domestic Energy Security Act, 
+     introduced by Sens. Stevens, Murkowski, Inouye and Akaka. 
+     This bill sets very high standards for the leasing process, 
+     holding industry and government accountable for doing it 
+     right. Key to our concerns, it gives Kaktovik an explicit 
+     role in monitoring and helping shape the leasing process so 
+     there is no lasting negative effect on the lands, waters and 
+     wildlife of this country.
+       We have lived in respectful and intimate association with 
+     this land for a very long time. We know with a sensitivity 
+     and a depth of practical ecological understanding--an 
+     understanding that deserves far greater recognition and 
+     respect in this debate--that under our watchful eye leasing 
+     on the coastal plain will be a safe, responsible undertaking.
+       You have the power to make a dramatic positive impact on 
+     the security of the nation's energy supplies while protecting 
+     our wildlife, our people and our cultural heritage. We 
+     respectfully ask that you join with your colleagues in the 
+     Senate and support the inclusion of language opening the 
+     Arctic Coastal Plain as a part of the 2005 Budget 
+     Reconciliation.
+           Sincerely,
+         Lon Sonsalla, Mayor; George Tagarook, City Council; Norah 
+           Jane Burns, City Council; Ida Angasan, City Council; 
+           Sherry Wolf, City Council; Richard Holschen, City 
+           Council; Joseph Kaleak, Vice-Mayor; Phillip Tikluk, 
+           Jr., President, Kaktovik Inupiat Corporation (Tribe); 
+           Annie Tikluk, Board Member, Native Village of Kaktovik; 
+           Adam Linn, Administrator, Kaktovik Inupiat Corporation; 
+           Isaac Akootchook, President, Native Village of 
+           Kaktovik.
+                                  ____
+
+
+ Alaska Federation of Natives, Inc., Anchorage, AK, Board of Directors
+
+
+                         BOARD RESOLUTION 05-01
+
+       Title: Alaska Federation of Natives (AFN) Support of 
+     Opening of the Alaska National Wildife Refuge (ANWR) to Oil 
+     and Gas Development
+       Whereas: The delegates of the Annual Convention of Alaska 
+     Federation of Natives of 1995 are on record in supporting the 
+     opening of Arctic National Wildlife Refuge (ANWR) for oil and 
+     gas development; and,
+       Whereas: The opening of the Arctic Wildlife Refuge (ANWR) 
+     to oil and gas development will bring considerable econoniic 
+     benefits to the State of Alaska; and
+       Whereas: The Alaska Natives should be assured of sharing in 
+     such economic benefits; and
+       Whereas: The Alaska Native Communities lack many basic 
+     infrastructure and economic opportunities and energy costs 
+     are extraordinary; and
+       Whereas: The Native Corporations created under the Alaska 
+     Native Claims Settlement Act (ANCSA) are charged by Congress 
+     with promoting the economic and social welfare of the Alaska 
+     Natives; and now therefore be it
+       Resolved by the Board of Directors of the Alaska Federation 
+     of Natives, that in the consideration of the economic wealth 
+     that will be generated by the development of ANWR that the 
+     Alaska Federation of Natives request Alaska's Congressional 
+     Delegation to pursue federal legislation that will include:
+       Federal support to fully fund the Power Cost Equalization 
+     Endowment Fund;
+       Measures that ensure ANCSA corporations with an opportunity 
+     to participate in the ANWR development activities;
+       Measures providing the ANCSA corporations with the 
+     opportunity of ownership interests in the development of 
+     ANWR; and
+       A 20 percent Alaska Native employment requirement in the 
+     authorizing legislation leading to the development of ANWR; 
+     and, be it further
+       Resolved that AFN also pursues legislation that will 
+     include revenue sharing of two percent (2%) of federal or 
+     state royalties from any oil and gas development of ANWR be 
+     earmarked for the tribal governments and non-profit 
+     organizations.
+                                  ____
+
+
+
+                                     U.S. Chamber of Commerce,
+
+                                Washington, DC, December 16, 2005.
+       To Members of the United States Senate: The U.S. Chamber of 
+     Commerce, the world's largest business federation 
+     representing more than three million businesses and 
+     organizations of every size, sector, and region, strongly 
+     supports legislation which may be considered in the coming 
+     days that would authorize the much needed energy exploration 
+     in the Arctic National Wildlife Refuge (ANWR). The Chamber 
+     urges you to support passage of this important legislation.
+       As one of America's greatest prospects for domestic oil 
+     exploration, ANWR is conservatively estimated to contain 10.4 
+     billion barrels of recoverable crude oil. According to the 
+     U.S. Energy Information Administration, ANWR would provide 
+     the United States with approximately one million barrels of 
+     oil each day for the next 30 years. This additional 
+     production would decrease oil imports from the Persian Gulf 
+     region by 40%, which would strengthen national security by 
+     making the United States less dependent on oil from 
+     politically unstable regions.
+       In addition, ANWR exploration makes sense because of its 
+     potential to raise substantial revenues. Recently, the 
+     Congressional Budget Office (CBO) released a recalculation of 
+     the amount of revenue that may be generated through lease 
+     sales in ANWR. Using a $50 per barrel long-term price for 
+     oil, as opposed to the $25-$35 per barrel used earlier this 
+     year, ANWR exploration would generate more than $10 billion 
+     in revenue by 2010.
+       Important policy objectives, such as energy security and 
+     fiscal responsibility, are placed at risk when substantial 
+     domestic energy resources remain off limits. The provisions 
+     in H. Res. 315 are an important step toward providing an 
+     affordable and reliable supply of domestically-produced 
+     energy.
+       The Chamber urges you to support passage of legislation 
+     that would authorize much needed energy exploration in ANWR. 
+     The Chamber will consider including votes on or in relation 
+     to this measure in our annual ``How They Voted'' scorecard.
+           Sincerely,
+     R. Bruce Josten.
+                                  ____
+
+
+
+          MEMO: UNIONS SUPPORTING RESPONSIBLE ANWR DEVELOPMENT
+
+                                                December 17, 2005.
+       Within the next few days, you will be asked to vote on 
+     legislation making appropriations for the Department of 
+     Defense and other vital government programs. One of these 
+     important policies is the authority to develop vast oil 
+     resources in the Arctic National Wildlife Refuge, popularly 
+     known as ANWR. This is a jobs issue for our unions and our 
+     members.
+       On December 7, 2005 the Congressional Budget Office wrote 
+     Senator Ted Stevens and responded to the Senator's inquiry 
+     that ANWR bonus bid receipts ``might total at least $10 
+     billion--roughly double CBO's official estimate.'' That means 
+     it also increases the federal revenue to a total of $5 
+     billion, as the state of Alaska and the federal government 
+     will share bonus bid receipts on a 50/50 basis. In the 
+     Defense appropriations legislation, the conferees have 
+     dedicated a significant portion of those additional revenues 
+     for funding future federal disaster relief programs. As we 
+     understand it, these sums will also be used as collateral for 
+     immediate relief for damage caused in the Katrina, Rita and 
+     Wilma disaster areas.
+       We also see all of this as an affirmation of the 
+     progressive jobs policies generated by ANWR production.
+       Again, we urge you to support this legislation, because 
+     ANWR will create thousands of jobs for our members for many 
+     years. The bill assures ANWR work is protected by a project 
+     labor agreement. You will hear strident calls from opponents 
+     who claim opening ANWR will degrade the environment. We have 
+     heard their arguments, discussed them and made reasonable 
+     adjustments. They remain unyielding. Their baseless slogans 
+     can no longer be used as impediments to creating jobs or 
+     frustrating reasonable energy development.
+       When the question is called on the Defense Appropriations 
+     bill, it will be framed as one of process--to invoke cloture 
+     on the bill.
+       For us, process is policy.
+       The choice is clear. We can either continue to be hamstrung 
+     by the exaggerations of obstructionists, or be guided by 
+     policies that create jobs and assure a secure energy future.
+       Please support the Conference Report and oppose procedural 
+     devices that would delay this important legislation.
+       Thank you for your consideration.
+       International Union of Operating Engineers, AFL-CIO.
+       Seafarers International Union, AFL-CIO.
+       International Brotherhood of Teamsters, Change to Win 
+     Federation.
+       United Association of Plumbers & Pipefitters, AFL-CIO.
+       Laborers' International Union of North America, AFL-CIO.
+       United Brotherhood of Carpenters and Joiners of America, 
+     Change to Win Federation.
+       Building & Construction Trades Department, AFL-CIO.
+
+[[Page S14096]]
+
+                                        Americans for Tax Reforms,
+                                Washington, DC, December 12, 2005.
+     Hon. William Frist, MD,
+     Majority Leader, United States Senate.
+     Hon. J. Dennis Hastert,
+     Speaker, House of Representatives.
+       Dear Majority Leader Frist and Speaker Hastert: On behalf 
+     of Americans for Tax Reform (ATR), I am writing to express 
+     this organization's strong support for ensuring the Arctic 
+     National Wildlife Refuge (ANWR) provision, included in the 
+     Senate version of the budget reconciliation package, is 
+     included in the final Senate/House conference agreement.
+       In the wake of Hurricane Katrina, it has became 
+     increasingly evident that America must begin to increase its 
+     own domestic oil production. Requiring more domestic energy 
+     will create new jobs, lower prices, and boost the economy.
+       The ANWR provision in the Senate reconciliation package is 
+     expected to raise $2.4 billion by producing more than 10.4 
+     billion barrels of oil in ANWR. Obviously, this is a win-win 
+     situation as the provision will increase future energy 
+     supplies, reduce American's dependence on foreign oil and 
+     help lower oil prices in the future.
+       Once again, I urge you to ensure the ANWR provision is 
+     included in the final Senate/House Conference Agreement of 
+     the Deficit Reduction Act of 2005.
+           Onward,
+     Grover Norquist.
+                                  ____
+
+
+
+                                     American Gas Association,
+
+                                Washington, DC, December 16, 2005.
+       Dear Members of Congress: On behalf of the 195 local energy 
+     utility members of the American Gas Association, which 
+     deliver natural gas to more than 56 million homes, businesses 
+     and industries throughout the United States, I urge you to 
+     support legislation that would open the Alaska Arctic 
+     National Wildlife Refuge (ANWR) to energy production, which 
+     will be included in the FY-06 defense appropriations bill 
+     scheduled to be voted on by Congress this weekend.
+       Allowing energy production in ANWR is a vital component to 
+     addressing one of our nation's more urgent public policy 
+     issues, namely the imbalance between energy demand and 
+     available supply, and the resulting high and volatile energy 
+     prices that America is experiencing. Increasing our access to 
+     domestic energy supplies is critical to enhancing America's 
+     energy security, sustaining America's economy and providing 
+     the American consumer with relief from ever spiraling energy 
+     costs.
+       AGA speaks on this matter not only as the representative of 
+     natural gas utility companies, but also as a voice for their 
+     customers who have been hit so hard financially because of 
+     higher natural gas prices. Whether it's a homeowner 
+     struggling to pay the heating bill, a small business facing 
+     significantly increased energy-related business costs or an 
+     industry being forced to move overseas in order to compete in 
+     the global marketplace, soaring energy prices have been a 
+     severe detriment to America's quality of life.
+       Thanks to new technological developments energy can now be 
+     produced without undue harm to the surrounding environment. 
+     Hopefully, this vote will be the beginning of a trend that 
+     recognizes America's energy needs can be met with adequate 
+     environmental protections.
+       Again, we urge you to support passage of legislation 
+     containing the provisions to finally open ANWR.
+           Sincerely,
+     David N. Parker.
+                                  ____
+
+                                           Alliance for Energy and
+
+
+                                              Economic Growth,
+
+                                                December 16, 2005.
+       To All Members of the United States Congress: We are 
+     writing to you again in strong support for legislation to 
+     open the Arctic National Wildlife Refuge (ANWR) to energy 
+     production, which is now being moved in the defense 
+     appropriations legislation. This is an issue of both national 
+     and economic security for America. Our country depends on 
+     foreign sources for almost 60 percent of the oil Americans 
+     consume. In a world that continues to be plagued by 
+     instability in many of the oil-producing regions, this type 
+     of dependency should be of concern to all of us.
+       The Alliance for Energy and Economic Growth (AEEG) is a 
+     broad-based coalition whose members develop, deliver, or 
+     consume energy from all sources. With more than 1,200 member 
+     organizations and businesses, AEEG is seeking to build a 
+     national consensus for a comprehensive U.S. energy strategy 
+     that balances supply and demand, without compromising 
+     environmental safeguards, so that we can fuel America's 
+     dynamic economy and support our quality of life.
+       Our members believe that ANWR is one more critical part of 
+     securing America's energy future. While ANWR alone can't 
+     provide us with all the domestic energy we need, combined 
+     with the rapid development of other domestic oil and natural 
+     gas supplies ANWR would make a tremendous difference, 
+     especially when coupled with greater energy efficiency, 
+     conservation and diversification. In addition, we must 
+     protect those Americans most at risk by supporting full 
+     funding of the Low Income Home Energy Assistance Program 
+     (LIHEAP).
+       ANWR's Coastal Plain holds the nation's greatest potential 
+     for another Prudhoe Bay-size discovery. Conservative 
+     estimates from both the U.S. Geological Survey and U.S. 
+     Energy Information Administration peg technically recoverable 
+     crude oil reserves at approximately 10 billion barrels. That 
+     is enough to provide the United States with 1 million barrels 
+     of oil a day for 30 years.
+       Oil production on the North Slope of Alaska is handled with 
+     the greatest care possible for the environment and with the 
+     least possible disturbance of wildlife. To ensure continued 
+     environmental protection, House and Senate language on ANWR 
+     development requires the application of the best commercially 
+     available technology for oil and gas exploration, 
+     development, and production.
+       Now more than ever, it is time to increase access to areas 
+     containing vast domestic reserves of energy-such as ANWR. As 
+     we have stated in the past, energy is the lifeblood of our 
+     nation's economy. While Congress has taken a number of steps 
+     over the past two years to improve the nation's energy 
+     policy, we still urgently need to increase domestic supplies 
+     of oil and natural gas. Our members, who represent the 
+     agricultural community, manufacturers, small and large 
+     businesses, labor and the energy industry, all recognize that 
+     additional supplies of oil and natural gas are critical to 
+     this nation's energy security and more affordable energy is 
+     needed to support economic growth.
+       We urge you to support the bill and the rule (in the House) 
+     that contains legislation to open ANWR.
+           Sincerely,
+                                         The Management Committee.
+
+  Ms. MURKOWSKI. Mr. President, I yield the floor.
+  The PRESIDING OFFICER (Mr. Chafee.) Who yields time?
+  The Senator from Iowa.
+  Mr. HARKIN. Mr. President, I understand the ranking member was going 
+to yield me 30 minutes of time.
+  The PRESIDING OFFICER. The Senator is correct.
+  Mr. HARKIN. Mr. President, last week this story, ``Prayers Made to 
+Protest Budget Cuts,'' appeared in the Quad-City Times in my State of 
+Iowa. Ollie Finn of Bettendorf said:
+
+       We're concerned about the budget cuts and that's why we're 
+     having the prayer vigil. We wanted to bring awareness to the 
+     community about how horrible these budget cuts are. . . .
+       The Rev. Roger Butts, pastor of the Unitarian Church of 
+     Davenport, asked people to determine whether the Fiscal Year 
+     2006 budget serves the common good. ``I've come simply to 
+     pray with you and to stand with you for those whose voices 
+     are easy to ignore,'' he said.
+
+  I ask unanimous consent that this article from the Quad-City Times be 
+printed in the Record.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+                  Prayers Made to Protest Budget Csuts
+
+                         (By Mary Louise Spear)
+
+       People representing faith and social action organizations 
+     gathered together Wednesday to protest federal budget cuts 
+     that will affect low-income families.
+       The group prayed together at the building that houses the 
+     Social Security office in downtown Davenport. They presented 
+     petitions with 438 signatures protesting the cuts to 
+     representatives from U.S. Sens. Tom Harkin and Charles 
+     Grassley of Iowa and U.S. Rep. Jim Nussle's offices. The 
+     group also plans to present copies to U.S. Sens. Dick Durbin 
+     and Barack Obama and U.S. Rep. Lane Evans, of Illinois.
+       ``We're concerned about the budget cuts and that's why 
+     we're having the prayer vigil. We wanted to bring awareness 
+     to the community about how horrible these budget cuts are,'' 
+     said organizer Ollie Finn of Bettendorf.
+       People at the vigil represented Pax Christi, Progressive 
+     Action for the Common Good, Churches United of the Quad-City 
+     Area, Sisters of Humility and Carmelite order.
+       The majority in Congress are proposing $60 billion in tax 
+     cuts which includes extending the capital gains and dividend 
+     tax cuts through 2010 according to information from Harkin's 
+     office. He opposes the cuts. Senate Republicans are also 
+     looking at taking $35 billion out of entitlement programs 
+     which help working Americans, he said.
+       The U.S. House of Representatives has called for $50 
+     billion in cuts to food assistance, support for children in 
+     foster care, Medicaid and enforcement of child support 
+     payments.
+       The Rev. Roger Butts, pastor of the Unitarian Church of 
+     Davenport, asked people to determine whether the Fiscal Year 
+     2006 budget serves the common good. ``I've come simply to 
+     pray with you and to stand with you for those whose voices 
+     are easy to ignore,'' he said.
+       ``The group is hoping legislators respond to their concerns 
+     about the proposed cuts.
+       ``We are working to at least restore the additional $15 
+     billion in cuts. We feel this will have a strong effect on 
+     the poor,'' said Rick Schloemer of Rapids City, Ill.
+       The Wednesday vigil coincided with members of the U.S. 
+     Senate showing their support for a motion from Harkin. He 
+     asked members of the joint House-Senate conference committee 
+     to reject the House's proposal for food assistance cuts.
+
+[[Page S14097]]
+
+       ``The number of Americans who are food-insecure has been 
+     steadily rising over the past few years, and it's critical 
+     that conferees reject any attempts to scale back food 
+     assistance that will make this problem even worse,'' he said.
+       Single mothers living in Humility of Mary Housing Inc. 
+     transitional housing program would certainly feel the impact, 
+     said Sr. Pat Miller of Humility of Mary and a board director. 
+     They have 57 apartments in Davenport and about half of their 
+     budget for programs and housing comes from the federal 
+     government, she said. These women also depend on food stamps 
+     and assistance to help with heating bills.
+       The budget cuts ``will particularly affect the poor we 
+     serve,'' agreed Sr. Michelle Schiffgens of Humility of Mary. 
+     ``We have many single moms with kids living in those 
+     apartments and they are greatly concerned about what could 
+     happen to them.''
+
+  Mr. HARKIN. Mr. President, I know that people of faith held many 
+events in Iowa, Washington, and many other places around the country 
+last week on this very topic. Unfortunately, their prayers were not 
+enough. Their prayers were not enough because yesterday we awakened to 
+the flurry of late-night activities in the House of Representatives. 
+House Republicans waited until the middle of the night Sunday, less 
+than a week before Christmas, to order deep cuts to health care 
+initiatives and farm programs and to sneak through blanket protections 
+for the pharmaceutical industry.
+  It is not an accident these House votes occurred in the dead of 
+night. There are now only 5 days until Christmas. Throughout much of 
+the world, it is the season of giving, but here in Congress, it is the 
+season of taking away--taking away education programs, taking away job 
+training, taking away health care from low-income families, taking away 
+money for needed medical research, taking away from farmers and rural 
+communities and, worst of all, taking away hope from so many. This is a 
+cruel holiday surprise for many American families.
+  Why are we doing this? Not for deficit reduction, but to provide tens 
+of billions of dollars in tax giveaways for the wealthiest in our 
+society. Forty percent of the benefits in the House tax bill go to 
+those making more than $1 million a year.
+  Seventy-eight percent go to those making over $100,000 a year. Only 8 
+percent go to those making under $50,000 a year. So, again, those in 
+the bottom of the ladder get some crumbs from the table. So while the 
+wealthiest in our society unwrap Christmas presents, while the 
+wealthiest in our society are hanging their Christmas stockings and 
+getting thousands of dollars of tax giveaways stuffed in their 
+stockings, for the poor and low income, Congress has come with a couple 
+of lumps of coal for their stockings.
+  Take a look at some of the provisions I am talking about. Take the 
+provision of the child support enforcement. This is essential to 
+helping families achieve self-sufficiency. For families in poverty who 
+receive child support, those payments account for an average of about 
+30 percent of their income. Next to a mother's earnings, child support 
+is the largest income source for poor families receiving assistance. 
+Child support payments are used to pay for food, child care, shelter, 
+and the most basic essentials of life. The bill slashes funding for 
+these child support enforcement efforts.
+  The Congressional Budget Office estimates that as a result of the 
+cuts, more than $8.4 billion in delinquent payments will go uncollected 
+in the coming 10 years. The biggest negative impact will be by children 
+living in poverty and low-income households. One hundred seventy-six 
+thousand children benefit from child support payments in my State of 
+Iowa alone. In the past, President Bush himself praised the program, 
+calling it one of our highest performing social services programs, and 
+he is right. For every dollar in Government spending, $4.38 is 
+recovered for families in child support payments.
+  Since 1996, there has been an 82-percent increase in collections, 
+from $12 billion to $22 billion. If we were smart, if we were 
+compassionate, if we were looking at ways to get the most bang for the 
+taxpayers' dollar, we would be increasing funding for the child support 
+enforcement program. The bill before us cuts this program in order to 
+make way for more tax cuts for the wealthiest. It is simply 
+unconscionable.
+  Let us take a look at Medicaid. I am very concerned about the cuts to 
+Medicaid in this bill. I have said all along, if one wants to do 
+something about Medicaid we ought to have a fair, honest, open debate 
+about reforming Medicaid. We should do so in a way that does no harm to 
+the beneficiaries because who are the beneficiaries of Medicaid? The 
+poorest among us, poor women and children, the disabled, low-income 
+elderly who need access to long-term care.
+  This bill before us today makes two changes that are permanent 
+changes. One, under this bill, States can now alter or eliminate 
+services to individuals. They can do it on their own. Secondly, the 
+bill allows States to charge fees--sometimes it could be exorbitant 
+fees--on many services where there were no fees before. Again, this 
+could limit access to care for so many.
+  For example, States may provide any child, even those whose families 
+have the lowest incomes, with a smaller benefit package than they have 
+today. That means that low-income children, no matter how poor, are no 
+longer guaranteed, as they are now, vision screening; no longer 
+guaranteed coverage for eyeglasses; no longer guaranteed therapy 
+services, medical equipment or any other benefit.
+  This bill would allow States to charge up to 20 percent of the cost 
+of each medication that an individual gets in Medicaid. For individuals 
+who take multiple drugs, this is 20 percent for each medication, so an 
+individual who has multiple drugs or maybe an individual who needs 
+expensive medication, these provisions could, in effect, eliminate 
+access to needed medicines.
+  Keep in mind these are people who qualify for Medicaid. That means 
+they are poor, by definition. They do not have money. So now we are 
+going to ask them to pay more for services? Now we may ask them to pay 
+for eyeglasses for their kids. Well, their kid needs eyeglasses, they 
+do not have any money, they cannot pay for it, tough. That is the way 
+it was 50 years ago in our country.
+
+  I suppose they can go get charity, can they not? I forget about that. 
+That is right. I suppose they could go to their local church or their 
+local synagogue maybe, local mosque, and maybe they will pay for all 
+the eyeglasses for all the poor kids in our country now.
+  Under the bill, medical care providers can deny medical care if the 
+patient has no ability to pay the charges at the time the care is 
+needed. States can terminate coverage if the family cannot pay the 
+monthly premiums. Again, these changes were made despite a large body 
+of evidence, research, and studies that determined that such cost-
+sharing increases are likely to lead many low-income Medicaid patients 
+to forgo various health care services and medications or not to enroll 
+in Medicaid.
+  Guess what. When they do not take their needed medications, when they 
+forgo needed health services, when they do not sign up for Medicaid, 
+guess where they are seen. They are in the emergency room, and we are 
+paying three, four, five times as much to help them. So much for the 
+health care safety net that we have worked so many years to provide for 
+low-income Americans.
+  Let us look at education, student loans. The reconciliation bill 
+increases the interest rates paid by the parents of students who are 
+taking out loans to help their kids. Merry Christmas; you are going to 
+get higher interest payments.
+  It also creates a potential problem for the federally operated direct 
+loan program. This is a direct loan program utilized by many schools. 
+The University of Iowa, UNI, Iowa State University in my State all use 
+it. This bill before us says the accounting of the administrative costs 
+for the direct loan program now goes to Labor and Health and Human 
+Services rather than being automatic. That means it is subject to a 
+cut. This year's Labor-HHS-Education bill has been cut this year. And, 
+I expect next year could be very difficult.
+  Let's look at agriculture and rural development, so important in my 
+State and so many other States. I have long believed that there was 
+really no justification for making budget cuts in the area of 
+agriculture and rural development programs. Commodity prices are down. 
+Prices for energy and fertilizer and other goods and services
+
+[[Page S14098]]
+
+that farmers buy are sharply higher. Rural communities are struggling 
+to hold onto jobs, to survive.
+  Keep in mind, when we wrote the 2002 farm bill--I happened to be 
+chairman at that time--we stayed within the budget allocation we were 
+given. In fact, the commodity programs in that bill have cost us $14 
+billion less than what we were allocated. That is $14 billion that we 
+saved the taxpayers of this country.
+  There were commitments made in the farm bill, but this reconciliation 
+bill reneges on those commitments. In agriculture and rural programs, 
+again, the sacrifice is being imposed on those least able to bear it. 
+It is hard to understand what they have in mind for our farmers or 
+rural communities.
+  Secretary Johanns and the President and others have been going around 
+the country saying the future of farm policy lies in less emphasis on 
+the traditional commodity programs and greater focus on conservation, 
+renewable energy, agricultural development, and agricultural research. 
+You cannot argue with that. It all sounds good. That is what we did in 
+the 2002 farm bill because these types of assistance are all allowed 
+under the WTO trade agreements. We put those in the farm bill. We put a 
+tremendous focus on conservation in the farm bill.
+  President Bush, when he signed it, touted it and said oh, this is 
+wonderful. There is a lot of good conservation. We put in for the first 
+time ever an energy title in the farm bill. It came out of the Senate, 
+not the House, with an energy title to get farmers--to get us all 
+focused on energy.
+  Rural economic development and new rural investment-type programs for 
+rural development, we put in money for broadband extension to small 
+communities all over America. Guess what they are cutting in the 
+reconciliation bill: conservation, renewable energy, rural economic 
+development, agricultural research--all being cut. Conservation suffers 
+the largest funding cuts of all, and the Conservation Security Program 
+is hit the worst. The Conservation Security Program is a voluntary 
+program of incentive payments for farm and ranch conservation 
+practices, exactly the kind of program that Secretary Johannes and the 
+administration are talking about as they go around the country. Yet the 
+Conservation Security Program is virtually demolished in the bill 
+before us. It is cut back so far that there will probably be few 
+enrollments next year. The damage to the CSP is only a part of the 
+serious cuts to a number of farm conservation programs in this bill.
+  Some argue that in the Defense appropriations bill there will be some 
+money to make up for cuts in conservation. Don't be misled. Defense 
+appropriations funds are not even available until 2008, and then only 
+if Congress doesn't take them out later on, as they have done year 
+after year. What is going on here? Why are drastic cuts conservation 
+being made in one bill and then we have a restoration a few years later 
+in another bill?
+  The DOD bill is going to come before us, and you will hear some talk 
+about: ``There is money in there. We have some money for 
+conservation.'' There is money in there for 2008 but, guess what, next 
+year they may come and say we need that money, we will make up for it 
+in 2009. They may keep doing this every year to us, the old shell game.
+  The bill takes away rural development funding to expand high-speed 
+broadband access in rural communities. President Bush set a goal. He 
+set it in Des Moines, IA. We are going to have broadband in all rural 
+communities by 2007. Yet they are cutting the funding in the 
+reconciliation bill for that very purpose. Do I hear anything from the 
+President about it? Not a peep.
+  The bill takes away $20 million of $23 million for an innovative 
+program to help farmers and rural businesses adopt renewable energy 
+systems and energy efficiencies and improvements. When you take $20 
+million out of a $23 million fund, that kills it. Let's face it. I 
+guess the $3 million they are leaving is for some bureaucrats so they 
+can sit at their desks and twiddle their thumbs because and little 
+else.
+  The bill cuts $760 million, almost three-quarters of a billion 
+dollars, out of funding that we had in the farm bill that goes to 
+agricultural research.
+  Again, the administration has just been in Hong Kong saying we have 
+to push for cuts to farm income and commodity programs to make them 
+combined with WTO. But at the same time they are in Hong Kong, they are 
+here in the House and Senate cutting the very programs to sustain 
+farmers, to sustain rural communities, and provide for rural economic 
+development that will be consistent with WTO provisions.
+  I said all along the reason they are doing this is not to cut the 
+deficit. The deficit actually goes up under this bill. I think of the 
+word, ``reconciliation.'' We have before us the reconciliation bill. 
+``Reconciliation''--nice word; to reconcile, to make things even. To 
+reconcile things. To make them fit.
+  When we passed the Budget Act 30 years ago we put in this 
+reconciliation process so that the budget would come out, the 
+Appropriations Committee would do their work, and then after they did 
+all their work they would reconcile the spending with the budget, so as 
+to keep the deficit under control. That is the way it is supposed to 
+work.
+  We had a budget. We did all of our appropriations work. We have the 
+reconciliation bills. Does the reconciliation bills make the deficit 
+come down? Not on your life. This reconciliation bill actually is the 
+first in a pair of reconciliation bills that increases the deficit so 
+it has the reverse effect of what reconciliation bills were supposed to 
+be. They may use that word, but this is a deficit-increasing process. 
+This is one of a pair of bills to provide tax giveaways to the wealthy 
+and increase the deficit. It sure cannot properly be called a 
+reconciliation bill.
+  So they cut child support enforcement, foster care benefits, cut 
+Medicaid, make students pay more interest on their loans for going to 
+college. But we get to ram through $70 billion in more tax giveaways 
+mostly for the most privileged. Not only is this fiscally 
+irresponsible, it is the wrong priorities. It is the wrong values for 
+America.
+  The two main tax provisions we are considering in this process are, 
+No. 1, the extension of the dividends and capital gains cuts and No, 2, 
+the alternative minimum tax. The extension of the dividends and capital 
+gains tax cuts for just 2 years will cost the Treasury $50 billion. 
+Because of it, 40 percent of the benefits of the House Reconciliation 
+Tax bill will go to individuals making over $1 million a year.
+  Back in 2001, when they rammed through the first year's tax giveaway 
+bill, they purposely doubled the number of taxpayers who would pay 
+higher taxes because of the alternative minimum tax, but then they 
+delayed the impact for the first few years. Now we have to pay the 
+Piper to the tune of $30 billion just to fix it for 2006.
+  This chart is a little hard to read. It is from the official 
+Congressional Joint Tax Committee explaining the bill written at the 
+time. Basically, under the old law before the tax cuts of 2001, by 2010 
+there would be 17.5 million Americans paying the alternative minimum 
+tax. When they passed the tax giveaway program of 2001, it doubled it 
+to 35.5 million. Many of these are basically middle-income people. Now 
+we all want to fix it. To fix it costs $30 billion for just 2006.
+  Again, the Republicans will argue that everyone benefits from the 
+2001 and 2003 tax cuts. I guess that is true. Everyone benefits. Even 
+when you get crumbs from the table, you get food. Even when some crumbs 
+fall off the table, you can say: Well, the people on the floor got some 
+food. The same with tax cuts.
+  Look at the chart. The bottom fifth of taxpayers, individuals and 
+families making under $13,500 a year, gain an average of $23 a year. 
+This is the bottom 20 percent. These are the one out of every five 
+Americans.
+  I know it is almost hard to believe that for people around here when 
+you are making $157,000 a year, and out of 100 Senators you have some 
+who are megamillionaires. It is hard to imagine one out of five people 
+outside this building, outside of these hallowed halls, one out of five 
+making less than $13,478 a year. They got 23 bucks. You can say: Well, 
+they got a break--23 bucks. Will that buy 8 gallons of gasoline? Well, 
+maybe--7 or 8 gallons of gasoline. It will not even fill up your tank. 
+That is for 1 year.
+  People in the middle 20 percent who make between $25,847 and $44,451, 
+they
+
+[[Page S14099]]
+
+got $618 a year. It is not bad. But you spread that over a year's time, 
+that is a tax cut of about $26 a paycheck.
+  That is why, when you ask your typical middle-income American, Did 
+you see any gain from this tax cut, they will say, Are you kidding? 
+They might have gotten $26 a paycheck. Guess what. It went out in 
+higher taxes for their property taxes. Why? Because we have cut back 
+funding for No Child Left Behind and for education and for special 
+education which means that middle-income families have to pay more on 
+their property taxes for education and that chewed up more than $26 a 
+paycheck which they got back. Again, a good old Republican tax shell 
+game.
+  Where did the money go? The top one-tenth of 1 percent of income 
+earners, people making over $1,589,000 a year--yes, there are people in 
+America who make that kind of money. I don't hold that against them. 
+That is fine. It is part of the American dream--to make money. But it 
+is not the whole American dream. Over the last 4 years, $1.7 billion in 
+tax cuts, 145,000 people with incomes over $1.59 million a year got 
+$195,762 a year. I will bet they noticed that.
+  Again, the old trickle-down capitalism. All you have to do is give 
+more money to the top and it all kind of trickles down. The best way to 
+help the poor at the bottom is set a lavish table with all the finest 
+foods and let the people at top eat the best, drink the best and the 
+crumbs will fall off and the poor will get help. Trickle-down 
+economics, trickle-down capitalism.
+  There is another form of capitalism. It is called percolate-up 
+capitalism. It is where you invest in education, it is where you get 
+people decent jobs and job training. It is where you provide decent 
+housing and health care so people are able to work and keep their 
+families together. It is a kind of a capitalism that understands you 
+don't eat your seed corn. You invest in people, and these people then 
+became better educated, healthier, more productive citizens, and they 
+make the pot grow.
+  Other examples of the difference between trickle-down capitalism and 
+percolate-up capitalism. Sure. Look at the 1981 tax cut when Reagan 
+came in, big, massive tax cuts, again, mostly for the wealthy. We lost 
+3.5 million jobs in the 18 months after it passed. Guess what. Later, 
+we saw employment rise. But, that followed several tax increases.
+  The Democratic administration came in, in 1993. Yes. We had a 
+responsible tax increase in large part on the wealthy to help eliminate 
+the huge deficits. Many on the other side predicted economic disaster. 
+Look at what happened. We got 4.4 million new jobs in the following 18 
+months. That is percolate up. That is giving people hope, giving people 
+jobs. Guess what. Everybody did better. The rising tide lifted all the 
+boats.
+  Then we come back in 2001. Again, similar to 1981, we had not learned 
+our lesson, massive tax giveaways for the wealthiest, large increases 
+the deficit, we lost 2.7 million jobs.
+  We keep doing trickle-down economics. We tried it under Reagan. We 
+tried it under Bush. The same thing happened: less new jobs. But there 
+is something about a belief system and trickle-down economics. I will 
+tell you what that belief is. Their wealthy friends made out like 
+bandits. That is exactly what happened.
+  Simply put, what we have before us is not a reconciliation bill. What 
+we have before us is a bill that turns topsy-turvy what we are supposed 
+to be about, in terms of providing for justice in our society, a fair 
+shot at the American dream to ensure that people have a decent safety 
+net when things happen beyond their control; when they become disabled, 
+when they get sick, when families split up, and the father deserts and 
+isn't paying child support any longer.
+  We need to pay attention.
+  In terms of topsy-turvy, what we are supposed to do at this time of 
+the year--we all remember Charles Dickens' classic tale of ``A 
+Christmas Carol,'' the story of Ebenezer Scrooge. He learns the true 
+meaning of Christmas at the end and opens his heart to those less 
+fortunate than he.
+  Unfortunately, in the Congress, life does not imitate art.
+  Less than a week before Christmas, Congress is poised to deliver a 
+cruel blow to the most underprivileged and disadvantaged in our 
+society. Unlike Dickens' tale, no remorse at the end, no nagging 
+conscience, no change of heart at the end of the day. In this Congress, 
+in this Senate, Scrooge would feel right at home. This is Scrooge's 
+domicile. Scrooge lives in the Senate and in the House.
+  That is why we need to reject this proposal. We need to reject it. We 
+need to have the spirit of Christmas to understand that there are less 
+fortunate in our society. They need hope. They need a hand up. They 
+need the Government to make sure that their kids can get a decent 
+education and housing and health care, that they will get their child 
+support payment, that they will invest in medical research.
+  That is what we ought to be doing. That is why we have to defeat this 
+conference report under the so-called reconciliation process. We do 
+need to extend some tax provisions, but they should be progressively 
+paid for.
+  Send this bill back. Let us be similar to Scrooge at the end, when we 
+look upon the poor family and we have a change of heart and we realize 
+that what we have done before we can't keep doing. Let us have the 
+change of heart and defeat this so-called reconciliation bill. Let us 
+have a continuing resolution, let us come back after the first of the 
+year and do the right thing for the American people.
+  I yield the floor, and I suggest the absence of a quorum.
+  The PRESIDING OFFICER. The clerk will call the roll.
+  The legislative clerk proceeded to call the roll.
+  Mr. CORNYN. Mr. President, I ask unanimous consent that the order for 
+the quorum call be rescinded.
+  The PRESIDING OFFICER (Mr. Graham). Without objection, it is so 
+ordered.
+  Mr. CORNYN. Mr. President, what is the regular order?
+  The PRESIDING OFFICER. The Senate is considering the conference 
+report to accompany S. 1932. The majority has 2 hours 24 minutes 
+remaining.
+  Mr. CORNYN. Mr. President, I would like to speak on the PATRIOT Act 
+and on the National Security Agency story in the New York Times for 
+approximately 20 minutes. Is there any limitation on my ability to do 
+so?
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+
+             PATRIOT Act and National Security Agency Story
+
+  Mr. CORNYN. Mr. President, since the New York Times revealed the 
+existence of a classified program whereby the National Security Agency 
+was conducting intelligence operations on al-Qaida and terrorist-
+related operatives here in the United States and overseas, there has 
+been a lot of reaction to that revelation.
+  First of all, we know the New York Times had been sitting on that 
+story for approximately a year, and then for some unstated reason 
+decided to release the story the day we were supposed to vote on the 
+reauthorization of the PATRIOT Act. As a result of a variety of 
+circumstances, but I believe in part that story, we find ourselves in 
+the very strange position of not having reauthorized the PATRIOT Act 
+and having the PATRIOT Act expire--16 provisions of it at least--on 
+December 31, 2005.
+  There are some who said when they heard about the National Security 
+Agency's surveillance of foreign terrorist suspects that this was an 
+illegal usurpation of congressional authority by the President, or 
+otherwise improper. Others have asked questions about the propriety of 
+the program.
+  Frankly, I do think there has been more heat than light generated on 
+this subject, and what I would like to do is spend a few minutes 
+sharing with my colleagues some of the research I have been able to do 
+over the past few days to try to understand exactly what the 
+President's authority is and what procedures apply to the collection of 
+signals intelligence, telephone communications between terrorist 
+suspects in America and abroad.
+  The fact is that previous Presidents have also argued that they had 
+authority that the President of the United States claims to have under 
+the provisions of the Constitution. In fact, in 1981, President Ronald 
+Reagan signed Executive order 12333, which provided for warrantless 
+searches directed against a foreign power or agent of a foreign power. 
+That was in 1981.
+  So it perhaps should be no surprise the President who immediately 
+preceded the current President, President
+
+[[Page S14100]]
+
+Bill Clinton, his administration, also argued specifically in testimony 
+provided by Jamie Gorelick, Deputy Attorney General, on July 14, 1994, 
+before the Intelligence Committees, that the Clinton administration 
+believes and the case law supports that the President has inherent 
+authority to conduct warrantless searches for foreign intelligence 
+purposes and that the President may, as has been done, delegate this 
+authority to the Attorney General.
+  So we see there is historical precedent for the argument made by 
+President Bush, our current President, that Presidents have some 
+authority to act even without employing the use of the Foreign 
+Intelligence Surveillance Act to protect American lives and to save us 
+against the designs of terrorists who would kill innocent American 
+citizens.
+  It also appears that the U.S. Supreme Court has spoken on a related 
+issue that could be interpreted to confer authority on the President of 
+the United States. My colleagues recall that in 2001, after the 
+terrorist attacks that occurred in Washington and in New York City and 
+which was thwarted in the fields of Pennsylvania, this body passed a 
+use-of-force resolution authorizing approval of the President and the 
+executive branch's use of force to combat and win the global war on 
+terrorism.
+  We recall that not too long ago, when trying to determine the extent 
+to which the President's powers extended, the United States Supreme 
+Court decided a case called Hamdi v. Rumsfeld. This involved Yaser 
+Hamdi, who was being held as an enemy combatant, and claimed that his 
+detention violated 18 U.S.C. 4001. Section 4001(a) states that ``[n}o 
+citizen shall be imprisoned or otherwise detained by the United States 
+except pursuant to an Act of Congress.''
+  This is analogous to the Foreign Intelligence Surveillance Act, which 
+claims that it is the exclusive method by which foreign intelligence 
+may be obtained by use of signals intelligence.
+  Justice O'Connor's plurality opinion, joined by Chief Justice 
+Rehnquist, Justice Kennedy, and Justice Breyer, concluded that the use-
+of-force resolution was ``an act of Congress'' that authorized Hamdi's 
+detention, notwithstanding the argument that it violated 18 U.S.C. 
+4001.
+  Her rationale, as I understand the opinion, was that because the 
+detention was meant to prevent a combatant's return to the battlefield, 
+it was a fundamental incident of waging war in permitting the use of 
+necessary and appropriate force.
+  Justice O'Connor, in the plurality opinion, concluded that Congress 
+had clearly and unmistakably authorized detention in the narrow 
+circumstances considered here. Thus, the question seems to me to be, by 
+analogy, whether this use-of-force resolution, which authorizes 
+American troops and our military to search out and to detain and, if 
+necessary, to kill terrorists before they come to our shores and kill 
+us--the question is, is the intelligence gathered by the use of this 
+surveillance a fundamental incident of waging the war on terror? And it 
+strikes me that it is.
+  Inherent in waging war is obtaining actionable intelligence from our 
+enemy or on our enemy. Certainly, I would believe, under the rationale 
+in the Hamdi v. Rumsfeld case, that this would be a fundamental 
+incident in waging the war on terror and one authorized by the use-of-
+force resolution in 2001.
+  So we see that President Clinton believed, as did President Reagan, 
+that the President had authority, even outside of the Foreign 
+Intelligence Surveillance Act, but another arguable basis of that 
+authority is the resolution that Congress itself passed in 2001.
+  Now, there is one other authority that I think bears on this issue 
+that is important. When the Congress created the Foreign Intelligence 
+Surveillance Act in 1978, it created a special court to consider ex 
+parte--that is, ``without the benefit of the other side being there''--
+applications for orders to get electronic surveillance.
+  Now, people have thought: Well, this must be similar to other courts. 
+But the truth is, it is not an adversarial process because we do not 
+let our enemies know we are going to the Foreign Intelligence 
+Surveillance Court to get an order so we can find out what they are 
+doing. But, nevertheless, Congress did create this, what we call a 
+court, for the purpose of considering those applications.
+  But more to the point, the Congress also created an appeals court 
+called the U.S. Foreign Intelligence Surveillance Court of Review. Now, 
+granted, most of the time the Foreign Intelligence Surveillance Court 
+operates in secret and does so for the obvious reasons that these are 
+classified operations. We cannot let our enemies know what we know, so 
+we can discover their attempts to hurt innocent American civilians.
+  The Congress understands, and certainly the Intelligence Committees 
+and all the Members of Congress understand, that most, if not all, of 
+this has to operate in confidential or classified circumstances.
+  But in November of 2002, the Foreign Intelligence Surveillance Court 
+of Review--this appellate court created by Congress under the Foreign 
+Intelligence Surveillance Act--actually issued a public opinion, which 
+was extraordinary. It is the first time since the creation of FISA, the 
+Foreign Intelligence Surveillance Act, that an appeal was actually 
+brought and that the court actually issued a written opinion.
+  Now, notwithstanding the fact that there is not an adversarial 
+process--again, it is a one-sided process by the Government seeking 
+permission from the judges to conduct this important surveillance 
+against foreign agents and international terrorists--notwithstanding 
+that fact, the court invited the American Civil Liberties Union and the 
+National Association of Criminal Defense Lawyers to submit briefs so 
+they might consider their decision with the additional input of these 
+organizations that, by their nature, would argue perhaps a more limited 
+approach to Government power.
+  Well, all of that I say to point out that in the absence of a 
+controlling U.S. Supreme Court decision--and I mentioned the Hamdi case 
+which is applicable by analogy to this situation when it comes to the 
+authorization of the use of force--in the absence of a controlling 
+decision on the President's inherent power to conduct these operations 
+through a warrantless surveillance, the court created by Congress to be 
+the authoritative decisionmaker of these matters, in 2002, said, on 
+page 48 of this opinion:
+
+       We take for granted that the President does have that 
+     Authority [that is, to conduct warrantless searches to obtain 
+     foreign intelligence information] and, assuming that is so, 
+     FISA could not encroach on the President's constitutional 
+     power.
+
+  Now, concededly, that is what lawyers like to call ``dicta.'' It is 
+perhaps not essential to the decision of the specific issues that came 
+before the FISA Court of Review, but it does recognize that the case 
+law and precedent supports the President's authority to conduct 
+warrantless surveillance in foreign intelligence and international 
+conspiracies against the United States because of the power conferred 
+on him under article II of the Constitution.
+  So in summary, we see that not only did the Clinton administration 
+believe the President had that authority, the Reagan administration 
+believed the President had that constitutional authority under article 
+II and, by analogy, that the U.S. Supreme Court has suggested that the 
+use-of-force resolution would authorize surveillance as a fundamental 
+incident of waging the war on terror.
+  So these are helpful in shedding some light on exactly what authority 
+the President had during the course of this surveillance, which he says 
+was essential to protecting American lives against foreign agents bent 
+on doing Americans harm.
+  It seems reasonable to me that the President ought to be able to rely 
+on the Foreign Intelligence Surveillance Court of Review's opinion that 
+has stated that every court that has reviewed this or similar questions 
+has found inherent authority to conduct this type of intelligence.
+  Certainly, I agree that it is appropriate for Congress and this 
+Senate to have oversight hearings. I know Senator Specter has indicated 
+his interest in doing so; Senator Roberts, chairman of the Intelligence 
+Committee, likewise. But we have to understand, as I know my colleagues 
+do, that this is a classified program. There are limits to what we can 
+talk about in public without putting in jeopardy our methods and 
+sources of obtaining information
+
+[[Page S14101]]
+
+against those people who are bent on our destruction and certainly the 
+destruction of innocent American lives.
+  So it is appropriate to have a hearing. But it is not appropriate for 
+anyone, including a Member of the Congress, to leak classified 
+information about the existence of this program.
+  Now, some have said: Well, it is not illegal nor unconstitutional for 
+the New York Times to write about it. And I will leave that for some 
+court sometime, someplace. But we know for a fact it is a violation of 
+the criminal law of the United States to leak classified information. 
+My hope is that the Justice Department and the appropriate authorities 
+will conduct a prompt and thorough investigation into how this 
+information was leaked because, as a result, our enemies now know what 
+we are doing and, to some extent, how we are doing it, in a way that 
+undermines our ability to fight and win the global war on terror.
+  It strikes me, when you are trying to be analytical about this, 
+trying to figure out why is it important that the President have this 
+authority--that the Foreign Intelligence Surveillance Court of Review 
+has assumed the President has and that President Reagan and President 
+Clinton claimed to have--why is it important that authority exists 
+outside of a typical law enforcement or criminal prosecution context?
+  Well, of course, in an intelligence-gathering mode, we may not have a 
+target per se of that intelligence-gathering activity. There may not 
+really be knowledge that a crime has actually yet been committed but, 
+rather, a reasonable belief that there are individuals who are 
+plotting, conspiring to do innocent American civilians harm. So it is 
+impossible to do in that context what we would ordinarily do in a 
+criminal prosecution context, which would be to have an affidavit filed 
+by an FBI agent in support of a petition for an issuance of a warrant, 
+which would then be filed as a public record for everybody to see.
+  If we have learned anything as a result of 9/11, it is that we must 
+break out of this pre-9/11 mindset, which says that terrorism must be 
+combated as a criminal law violation alone. It is true that terrorist 
+activity could be a crime, but our main goal is to detect and disrupt 
+terrorist activity before people in this country or our friends and 
+allies across the globe are injured or killed. So the fundamental goals 
+of our national policy have to be to disrupt the information, discover 
+it, disrupt these cells, and protect Americans in the process.
+  So I wanted to come to the Chamber and say a few words about this 
+issue because there have been some who have, in breathless tones, said 
+that this is a great travesty, they cannot believe it has happened, and 
+some have even gone so far as to suggest the President has acted 
+illegally. I would say that, on balance, my conclusion is, based on 
+historical precedent and based on the authorities that are invested 
+with the power to render legal decisions on such matters, the President 
+probably did act within his authority, but we should proceed to have 
+hearings to further flesh that out so Congress can understand exactly 
+what is going on.
+  Finally, I wish to say a couple of words about the Senate's failure 
+to reauthorize the PATRIOT Act. I believe the PATRIOT Act has been one 
+of those things that have made America safer and prevented terrorists 
+from executing another attack on our own soil. If you look from 
+September 11 up until this date, thank goodness, the United States of 
+America has not suffered another attack on our own soil. We do know 
+there have been terrorist attacks that have been disrupted but were 
+planned in the style of 9/11 against American civilians by terrorists 
+who care nothing about our laws or our way of life but care only for 
+their misguided ideology and are willing to do anything, including kill 
+innocent people, in order to accomplish their goals.
+  It is only reasonable to assume that the PATRIOT Act has played an 
+important part in our safety in the United States. The reason I say 
+that is if you look out across the world, we have seen terrorist 
+attacks in London, Madrid, Bali, and in other places around the world. 
+I can only conclude that the PATRIOT Act has played an important role--
+perhaps not the exclusive role but an important role in combating 
+global terrorism and making sure they are not successful in attacking 
+or killing or injuring Americans on our own soil.
+  It is with that in mind that I am at a loss to explain how some of 
+our colleagues could prevent a bipartisan majority in the Senate from 
+voting on the reauthorization of the PATRIOT Act. The fact is that some 
+of them have said we didn't get everything we wanted in the 
+negotiations. Well, the news is that nobody does. But the fact is the 
+PATRIOT Act passed 98 to 1 roughly 6 weeks after the attacks of 
+September 11. It was a bipartisan bill, obviously, because it enjoyed 
+overwhelming support on both sides of the aisle. There is literally 
+nothing that has changed other than additional concessions being made 
+to address the concerns of those who claim there are civil liberty 
+concerns in the PATRIOT Act.
+  Rather than allow us to have that vote, unfortunately, there is a 
+minority in the Senate that is filibustering and preventing us from 
+having an up-or-down vote. Ultimately, in the interest of the safety of 
+the country, I ask my colleagues to reconsider their obstruction and 
+denial of our ability to have that vote. We know that 16 provisions are 
+going to expire December 31 unless we do.
+  There are those who say that what we need is a 3-month extension. 
+Well, that is a phony deal, Mr. President, I suggest. We have been 
+debating this PATRIOT Act since it was originally passed in October 
+2001. I think everybody has a pretty good idea where they stand. I 
+believe every issue that could be debated has been debated, and every 
+issue that could be negotiated has been negotiated. There has been an 
+attempt to reach out and define common ground. Indeed, I believe the 
+conference between the House and Senate did exactly that. It would be a 
+terrible shame under the guise of, Well, we just need 3 more months to 
+further dilute the provisions of the PATRIOT Act that have made America 
+safer. Unfortunately, that is what I see happening with the 
+unwillingness of the minority Senators to have that up-or-down vote and 
+reauthorize the PATRIOT Act.
+  So I implore them not to make these offers of just 3 more months 
+because we know all they are trying to do is use that for additional 
+leverage to water down the strong protections of the PATRIOT Act. What 
+they ought to do is reconcile themselves to the fact that they are not 
+going to get everything they want, just as I didn't get everything I 
+wanted. I would like to strike all sunsets in the PATRIOT Act and make 
+it permanent. I advocated for provisions for administrative subpoenas, 
+and that didn't make it into the bill. There are other things I would 
+have liked to see in the bill that are not in the bill, but in the 
+interest of trying to find common ground and in the interest of trying 
+to pass a bill that will keep America safe, I have been willing to make 
+those concessions.
+  I ask all of our colleagues, when it comes to passing this 
+legislation, to try to find a way to allow us to have that up- or-down 
+vote so we can reauthorize the PATRIOT Act and the American people will 
+know we have done everything within our power to try to keep them safe, 
+which is, in fact, the No. 1 obligation of the Federal Government--our 
+national security.
+  With that, I yield the floor.
+  The PRESIDING OFFICER (Mr. Voinovich). The Senator from North Dakota 
+is recognized.
+  Mr. DORGAN. Mr. President, I ask unanimous consent under our 
+allocation of time to speak until 2:15.
+  The PRESIDING OFFICER. Please repeat the request.
+  Mr. DORGAN. I ask unanimous consent that under our allocation of time 
+I be allowed to speak until 2:15 p.m.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. DORGAN. Mr. President, there is a lot happening in the final days 
+of this Congress. One might ask, What on Earth are we doing here days 
+before Christmas? We are doing the work that should have been done in 
+March, April, May, June, July, and August, work that wasn't done then 
+for a number of reasons. But now we come to a number of important 
+issues and this is reconciliation, budget cuts, and we have a tax cut 
+bill ricocheting around. We have the PATRIOT Act that my colleague just 
+described. We have the Defense appropriations bill. That has now
+
+[[Page S14102]]
+
+been burdened with an amendment that calls for drilling in ANWR.
+  It is an interesting time, but one that is frustrating for some of us 
+in the Senate. I will give you a description of that frustration.
+  On Sunday, we met at 12 o'clock--this past Sunday--on a conference, a 
+very large conference dealing with the Defense appropriations bill. I 
+was a conferee. We started at 12, and I left at 5 or 5:30 in the 
+afternoon. We finished the work on that conference report. I opposed a 
+number of things that happened on Sunday. The Defense appropriations 
+bill was before us. They added drilling for oil in Alaska, the ANWR 
+provision, having nothing to do with the bill. They added it because 
+they thought they had the votes to add it.
+  Well, we finished the conference, and I left here at 5:30 on Sunday, 
+and I discovered they added another provision. There wasn't a 
+conference still going on at that point. A bunch of folks got in a room 
+and decided what they were going to stick in the conference report.
+  I told my colleagues I grew up in a small town of about 350 people. 
+When I was a kid, I used to go and watch the blacksmith. We had a 
+blacksmith in my hometown. It was kind of fun to go and watch the 
+blacksmith work. He would take a piece of metal, put it in a tong, 
+stick it in heat, in hot coals until it turned white hot, and then he 
+would put it on an anvil, take a big old hammer and beat it. That is 
+how he shaped metal. Heat it and beat it with an old hammer. I watched 
+that guy with dirty clothes, sweating all day long. He would heat that 
+metal and beat that metal. Some people think apparently that is the way 
+the Senate should work--heat it and beat it. Get hold of a big old 
+hammer and pound ANWR through here. It doesn't matter the rules don't 
+permit it; pound it through here. In fact, change the rules if they get 
+in your way. It doesn't matter. Don't like the rules? Change them.
+  I am usually an optimist. They say a pessimist is someone who smells 
+flowers and looks around for a casket and a body, and an optimist is 
+someone who sees a manure pile and looks for a pony. I am an optimist, 
+usually, looking for good things in what we are doing and where we are 
+heading. But this notion that we live in a special place on this Earth 
+and somehow we don't have to care about nurturing it to make sure it 
+remains special, that it will all work out is a notion devoid of 
+leadership.
+  The fact is, we are off track in this country. We are No. 1 in 
+exports in waste paper. Did my colleagues know that? The largest volume 
+of export in America is waste paper to China. Unbelievable. Yes, we are 
+No. 1 in exporting waste paper.
+  And, oh, by the way, in the last 4 years, we also sent about 3 to 4 
+million jobs to Asia, mostly to China. We have the largest trade 
+deficit in the history of humankind. This past year on the budget 
+deficit, we will borrow $550-plus billion, nearly $570 billion. So we 
+have a budget deficit that is way out of control, a trade deficit that 
+is way off the charts, and we are shipping jobs overseas. Our No. 1 
+export now is waste paper, and you think things are going great. Suck 
+it up, they say, it is a great place, things are going fine.
+  I don't think things are going fine. The question is where is the 
+leadership here? David McCullough wrote a book about Adams. It is a 
+wonderful book. He is a great historian. He wrote this book about 
+Adams. I have told this story before. In this book, he described John 
+Adams as representing this country's interests in Europe. Adams would 
+write back to his wife Abigail as they were trying to put this new 
+country together, and he would say: Where will the leadership emerge to 
+help frame and start this new country of ours? Then he would say: There 
+is really only us. There is me and there is Thomas Jefferson and there 
+is George Washington and there is Ben Franklin and there is Madison and 
+there is Mason. There is only us.
+  Now, of course, we know in the rearview mirror of history that the 
+``only us'' is some of the greatest human talent ever assembled, and 
+they built a very extraordinary place, a very special country, with a 
+Constitution that says ``We the People.'' The first 3 words, we the 
+people.
+  But the current leadership in the White House and Congress says we 
+don't have to worry too much about deficits. We are going to cut some 
+spending but, oh, by the way, even though we are up to our neck in 
+deficits, we want to cut taxes, and, oh, by the way, we still want to 
+cut taxes mostly for upper income people. The second part of this 
+reconciliation document is still in the House of Representatives, the 
+tax side. It is very important to say that capital gains and dividends, 
+normally called unearned income, capital and dividends--be given 
+preferential tax rates. That is the most important thing. Warren 
+Buffett, the world's second richest man, said when all this is phased 
+in, he will pay a lower tax rate than his receptionist in his office. 
+Tax work, they say, tax work but exempt investment. That is the mantra 
+around here.
+  What is the most important thing? Drive down the taxes on dividends 
+and capital gains; drive them down. It doesn't matter, we don't need 
+the revenue. Deficits don't matter, Vice President Cheney said. 
+Deficits don't matter.
+  They now come to the floor of the Senate with a proposal that says, 
+by the way, let's cut some spending. Guess whose spending is going to 
+get cut. Is it a surprise that the most vulnerable among us get cut? Is 
+it a surprise the proposal is to decide there should not be enough 
+money in Medicaid, that which delivers health care to America's poor, 
+to provide the kind of funding that is necessary in Medicaid?
+  It is said by some, and I believe it, that budgets are moral 
+documents as well. Someone once asked the question: If you were 
+required to write an obituary for someone you had never met and the 
+only information you had was that person's check register, what would 
+it tell you about the obituary you would write?
+  What if all you knew about this country was its Federal budget and 
+that is all the information you had as a moral document, but what was 
+important? What mattered to this country? What did this country believe 
+represented the most important areas of investment, expenditure to 
+build on the successes of this country? Would it be, for example, that 
+you decided tax cuts for wealthy Americans are the most important?
+  Let me show you a picture. I showed it yesterday, but I think it is 
+important. This is a picture of a five-story building on Church Street 
+in the Cayman Islands. Some people would just as soon you didn't this 
+picture. But On Church Street in the Cayman Islands, there is a five-
+story building called the Ugland House. Do you know what is inside this 
+building? This building is the official address for 12,748 
+corporations. Impossible, you say? No, it is not impossible. It is not 
+impossible. We are running an economy now and, by the way, with the 
+advice and consent of those in the Congress and in the Senate who voted 
+for it--we are running one that says to businesses: Go ahead, get rid 
+of your American jobs, move them to China, ship the products back to 
+this country to sell them, and run your business through a mailbox in 
+the Grand Cayman Islands so you don't have to pay taxes. That is what 
+this building is about. And, oh, by the way, many of the companies that 
+have this building as their address in the Cayman Islands to avoid 
+paying U.S. taxes got a gift from this Congress--not with my vote--that 
+is the equivalent of a $60 billion tax break--a $60 billion tax break.
+  In the past year and a half, a bill was passed called the JOBS Act to 
+create new jobs. Of course, it didn't. It cost jobs. It gave a very fat 
+tax break to the largest corporations in our country that do business 
+here and overseas. It said, if you repatriate your income from 
+overseas, because some day you are going to and when you do, you have 
+to pay the 35-percent corporate rate, if you do it now, we will give 
+you a special deal that we won't give to any other Americans: You pay a 
+5.25-percent tax rate. There is not one American living in Ohio, North 
+Dakota, Oklahoma, or any other State represented in this Chamber who is 
+told in law that they get to pay an income tax of 5.25 percent.
+  This Congress told the largest companies in this country, we will 
+give you a 5.25-percent tax rate. That was a priority. My colleague who 
+sat in this desk behind me, Senator Fritz Hollings, offered the 
+amendment to strip it. I voted for it. I spoke for it. But, no, we 
+could not strip that out because too
+
+[[Page S14103]]
+
+many Members of this Congress believed it was important, a priority, to 
+provide a big fat $60 billion tax break to the largest corporations in 
+this country, with a 5.25-percent tax rate.
+  Compare that to the proposition we are offered today by people who 
+come to the floor breathlessly saying we have to cut spending to reduce 
+the deficit. Did they care about reducing the deficit when they gift-
+wrapped a $60 billion tax cut package for the biggest companies by 
+giving them a 5.25-percent tax rate? No. It did not matter. It did not 
+matter then. They just promised that it would create new jobs.
+  Interestingly enough, the very companies repatriating income to take 
+advantage of this bargain basement tax rate are cutting jobs. This is 
+not just me saying it. This is from the Wall Street Journal and other 
+newspapers that describe exactly what is happening.
+  So today we have the breathless chant about let us cut funds for the 
+Child Support Enforcement Program, which, it is estimated by the 
+Congressional Budget Office, will result in $2.9 billion in child 
+support going uncollected. Let us cut funding $12.7 billion for the 
+student loan programs. Let us cut funding from family farmers--by the 
+way, many of whom faced some disaster this year; the worst drought 
+since 1895 in Illinois, Missouri, Iowa. One million acres could not be 
+planted in North Dakota.
+  Those farmers are not going to get disaster help, but the leadership 
+had no reservations about allowing a situation where 12,748 
+corporations establish their address in one five-story building in the 
+Cayman Islands, for the purpose of not paying taxes in this country. It 
+is all perfectly legal because this Congress believes it ought to 
+continue to happen.
+  We have had vote after vote on my amendment to try to shut this down. 
+Cannot do it. So in terms of priorities I think it is important to ask 
+the question, on whose behalf are we legislating? I happen to believe 
+we ought to cut the deficit. In fact, in January and February I am 
+going to be offering a very specific set of plans on how you cut 
+spending in a real way. We have very large agencies in our Government, 
+and unlike businesses that have overhead expenditures and then direct 
+expenditures there is no distinction between our overhead expenditures. 
+In fact, they cannot even separate out overhead expenditures.
+  The first thing one should cut back on is overhead and travel and 
+those kinds of things, but it cannot even be separated out in these 
+agencies. We ought to take a whack at that. I am going to propose that.
+  I support some of these issues, but let me mention a number of issues 
+that are attendant to this as well. There is a provision buried in this 
+huge reconciliation bill, as is always the case in these things that 
+come to our desk--my colleagues can see the size of this legislation. 
+There is a provision repealing something called the Byrd law that I 
+want to talk about just for a moment.
+  When American enterprises, American companies, are the victims of 
+unfair trade--and there is a lot of it--our government sometimes 
+imposes antidumping and countervailing duties. The Byrd amendment, 
+which I supported, says that U.S. producers who have been injured by 
+unfair trade should receive those duty revenues.
+  But the WTO stepped in and said: Well, it is not right that you would 
+recompense your victims of trade who have been injured by unfair trade. 
+So the WTO ruled against us, and we have our colleagues in the Senate 
+and in the House who have been very anxious to overturn the Byrd rule. 
+Sure enough, they do it in this bill.
+  They cannot run to the bank fast enough, in my judgment. Those who 
+want to do this sort of damage to us cannot run to the bank fast enough 
+to deal with all of these issues. We have the biggest trade deficit in 
+history. We have jobs flowing out of this country. We have a country 
+that does not have the spine, the backbone, the will to stand up for 
+our producers on unfair trade. Those who have been victimized, those 
+who have been hurt by unfair trade, ought to receive the benefits of 
+the tariffs. Now the majority says that is not true; we are going to 
+take it away.
+  I do not understand that. I do not have the foggiest idea where the 
+Senate's priorities are.
+  We are right at the end of the session, a couple of days left, and 
+the Defense appropriations bill was not passed this year. Now it is 
+about to be passed, except they load on one of the most controversial 
+issues called drilling for oil in ANWR. Under any other circumstance, 
+one would be laughed out of the Chamber for that. Yet we have people 
+come here--I heard a colleague of mine yesterday say: Well, let us all 
+be bipartisan.
+  I am all for being bipartisan. Let us also be fair and let us 
+legislate the right way. Let us not stick these unrelated issues on 
+this legislation and then say: By the way, it does violate the rules, 
+but we will change the rules and we will change it only for this 
+purpose and change it right back, and never mind.
+  Do they think that we cannot see, hear, or think? Is that what this 
+arrogance is born of? I do not understand it. We are close enough to 
+the end of this session, and this country is in deep enough trouble 
+with trade and budget deficits and a range of other issues that we 
+ought to find a way to work together.
+  This is not about bending steel. This is about compromise, working 
+together to do the right thing for this country. There is no Republican 
+or Democrat way to go off track on trade or on the budget. It just 
+hurts our country. Together, we ought to be able to do better for 
+America.
+  I yield the floor.
+  The PRESIDING OFFICER. Who yields time?
+  The Senator from New Hampshire.
+  Mr. GREGG. The Senator from North Dakota has risen and spoken, 
+obviously, with enthusiasm and energy about his position. But I think 
+that there are a couple of points which need to be made.
+  First of all, on this Byrd issue, the Byrd trade rule issue, let us 
+talk about what that really is. Where did it come from to begin with? 
+It came in the middle of the night. It was put in an appropriations 
+bill a few years ago. Who does it benefit? It benefits a very few 
+specific industries in this country that get the windfall from an 
+unfair trade practice. In other words, what happens under this rule is 
+that $3.2 billion is paid to a few specific industries. In fact, one 
+specific company got 39 percent of the funds up until this year. Who 
+would get it if it were not in place? The American taxpayer would get 
+that money. That money would go to the Treasury.
+  It is not about cutting that money out of the budget; it is about 
+having that money flow to the Treasury so the American taxpayer has the 
+right to that money so it can be used either to reduce the debt or it 
+can be used for programmatic activity that is necessary, such as 
+national defense, instead of having it be a special interest event 
+which goes to benefit very few industries in this country and a very 
+specific number of companies within those industries. Quite honestly, I 
+would not be surprised if some of those companies did not have some 
+sort of headquarters in this building right here that get that $3 
+billion.
+  In addition to that, this $3.2 billion, because of the insistence of 
+a couple of Members in this Senate, has been kept in, so it is still 
+flowing to those specific companies. So the taxpayer is still not 
+getting the benefit of that money that the taxpayer should get.
+  Prospectively, the rule has been changed, as it should be changed. 
+Why should it be changed? Well, the Senator from North Dakota sort of 
+passed over this a little quickly. The WTO ruled against us. It said: 
+You cannot give that money to specific industries and specific 
+companies. It said: You cannot do that.
+  Maybe the Senator from North Dakota does not want us to be a member 
+of the WTO, but we are a member of the WTO. We use the WTO aggressively 
+to try to defend our trade interests around the globe. They are the 
+arbiter. They are the ones we go to when something goes wrong and our 
+companies get maltreated. So it is a little hard to say to the WTO: We 
+want to use you to enforce a dumping procedure against Japan, China or 
+Singapore, but when you find that we have violated the World Trade 
+Organization's laws because we are giving money specifically to one or 
+two companies in this country in violation of those laws, well, you
+
+[[Page S14104]]
+
+cannot do that. You cannot tell us how to do things.
+  So what does the WTO do? The WTO now assesses fines against other 
+American companies--I think it totals to something over $100 million 
+annually--which American products, produced in this country, are now 
+having to pay, which make those products less competitive, because we 
+continue to violate the WTO and give this money, instead of to the 
+taxpayers of America, instead of putting it in the Treasury where it 
+should be, thus reducing the debt, to a couple of companies that have 
+the influence to get it across this floor.
+  I do not find a whole lot of persuasiveness in the argument of the 
+Senator from North Dakota on this point, but he won. The $3.2 billion 
+is going to flow out of the door to specific companies, in violation of 
+WTO rules, will stay in place, and other American manufacturers will be 
+prejudiced because they will be hit with a fine by the WTO, which is a 
+legitimate fine.
+  The second point the Senator makes is, he says, Oh, we are cutting 
+the subsidies to students. I think he said $12 billion. That also is 
+inaccurate. There is no reduction of subsidies to students. In fact, we 
+expand the programs, the Pell grant program, and we create a new 
+program for math and science. What we do is what we should do, and we 
+need to do it before the end of the year, and that is we reduce the 
+windfall that is coming to lenders because of the way the rules are 
+presently set up. That is $12 billion.
+  Again, I wouldn't be at all surprised if some of those lender 
+companies had clearinghouses down in the Cayman Islands that he is 
+complaining about. But he is defending them now because he is saying we 
+should not make that change.
+  If, by the end of this year, we do not change the rules as to how we 
+calculate the lender activity to students in this country, lenders will 
+get I think it is a $7 billion windfall. It might be more, actually. It 
+does not go to the students. It will not help the students. All it does 
+is help a group of lenders because the law is structured in a way which 
+basically benefits them. We tried to change it. We were not able to 
+permanently change it last year, but we now do have the permanent 
+change in this bill. And, by the way, it was bipartisan. That proposal, 
+because it is so obviously fair and the right thing to do, was reported 
+out of the HELP Committee unanimously. This alleged $12 billion event 
+that the Senator from North Dakota has decided to highlight as a 
+corporate subsidy to the disadvantage of students is just the opposite. 
+We are cutting a corporate subsidy to advantage students. The only 
+debate between myself and Senator Kennedy, who was actually supportive 
+to the policy relative to the reduction of the subsidy to the lenders, 
+is how the money that is raised from that subsidy should be spent. We 
+believe it should go to debt reduction, and we believe it should go to 
+the expansion of student loans. He wants more money to student loans. 
+We want to have a balance and we have a balance.
+  On both those policy points, the Senator from North Dakota, in my 
+humble opinion, has misrepresented the character of the bill--$3.2 
+billion is flowing to special corporations for a special interest 
+benefit under this bill. It should be going to the taxpayers. But the 
+policy which energized that is at least being changed so at least 
+prospectively that is not going to happen, and other companies in this 
+country that are being fined by the WTO because of violations of the 
+WTO standard will actually have that relief in the outyears. And the 
+subsidies which, if we do not act before the end of this year, are 
+flowing to corporate lenders are going to be moved over to students, to 
+benefit students, or to deficit reduction.
+  I yield to the Senator from Oklahoma.
+  Mr. DORGAN. Mr. President, I ask the Senator from Oklahoma if he 
+would mind if I take a minute and half off our side to respond, at 
+which point the Senator from Oklahoma will be recognized.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. DORGAN. Mr. President, let me say my colleague from New 
+Hampshire, while interesting and articulate, stops a couple of pages 
+short of good research. First, my colleague talks at length about the 
+WTO. I am not sure which direction we would be required to bow to the 
+WTO. Is it the east or the west? The WTO, of course, does not run or 
+manage American public policy and trade.
+  But I do want to say this with respect to the Byrd law. My colleague 
+said ``just a few companies'' benefit from it. The fact is, well over 
+700 companies benefit from it. So, when one talks about 
+misrepresentation, I will ascribe that, I guess, to a mistake.
+  Mr. GREGG. Will the Senator yield?
+  Mr. DORGAN. No, I only have a minute and a half. Several hundred 
+companies have benefited, not just a few.
+  If one wants to run America's trade policy exclusively through the 
+sieve of the World Trade Organization, I will say get a big armchair, 
+sit back, have a good time, and say: Whatever you want, WTO.
+  That is not my belief. My belief is we ought to invest in this 
+country's strength. When American companies are victimized by unfair 
+trade, we ought to in my judgment have the good sense, as we have in 
+this legislation we call the Byrd law, to use the tariff to recompense 
+them.
+  Mr. GREGG. Mr. President, 39 percent of this benefit went to 1 
+company, 39 percent; and $2 billion of the $3 billion that is going to 
+go out of this is going to go to a small group of companies that deal 
+in lumber. Those dollars belong to the American taxpayer. They should 
+be in the Federal Government's Treasury. They should be used for 
+deficit reduction. They should be used for initiatives here at the 
+Federal level that are important.
+  The WTO ruled against us, and if the Senator doesn't like the WTO and 
+doesn't want to be part of the World Trade Organization--we are. It is 
+called a treaty. We have to live by treaties. It is called the rule of 
+law.
+  Mr. DORGAN. It is not a treaty.
+  Mr. GREGG. And the treaty says we submit issues to the WTO, we debate 
+them. We win sometimes; we lose sometimes. On this issue, the WTO ruled 
+that because we specifically send this money out to specific 
+corporations--and there is only one that got 39 percent. I don't care 
+if there are 700 that maybe got a dollar, there is one that got 39 
+percent of the benefit--then you are violating the rules of the WTO, 
+and then they assessed us with a fine and our companies now pay that 
+fine and make our goods less competitive.
+  So not only are our taxpayers losing out because of this language, 
+but the companies that have to compete in the world are losing out. The 
+attack of the Senator from North Dakota on the bill on that point 
+doesn't hold water.
+  I yield to the Senator from Oklahoma such time as he needs.
+  Mr. COBURN. It is my understanding I am allotted 30 minutes. I would 
+appreciate it if the Chair will let me know when I have 10 minutes 
+left.
+  The PRESIDING OFFICER. The Chair will notify the Senator.
+  Mr. COBURN. Mr. President, I come to the floor first to meet those 
+two who were just debating to wish them a Merry Christmas and a happy 
+holiday season. This is a season, a time about giving. When you give 
+something, most often it costs you. It is called sacrifice. It is what 
+our Nation was built on. It is the very heritage that we have as a 
+nation, that we sacrifice to do what is in the best long-term interests 
+of our country.
+  The chairman outlined the unfunded liability that is facing this 
+Nation between now and 2070. He gave a figure of $51 trillion. That is 
+an underestimate of what the true unfunded liability is for our 
+country. We just added $8.7 trillion with the Medicare Part D Program. 
+But it is such a large number we have a hard time getting our hands on 
+it.
+  One of the ways to get our hands on it is to think about what it 
+means per individual, and $51 trillion in unfunded liabilities means 
+every man, woman, and child in this country today is responsible for 
+$171,000. Think about that. That is more than the net worth of the 
+country.
+  Why do I raise that? Because the debate we are having about this bill 
+and movement forward and the comments about how you judge whether 
+somebody is compassionate is based on how you treat those less than you 
+and those who are going to follow you. I believe everybody in the 
+Senate would agree
+
+[[Page S14105]]
+
+that leaving $171,000 worth of obligation for every man, woman, and 
+child in this country is inappropriate. It belies the heritage of this 
+country.
+  If you think about the great generations that have come before us--
+the greatest generation, the World War II generation--those who have 
+sacrificed in this country and those who are sacrificing today in the 
+war on terrorism, it is inconceivable to me that we will not start 
+doing some of the small things we can do, with the bills that are going 
+to be before us today and tomorrow, to assure a Christmas gift to every 
+American.
+  Some say, How can you do that and still be compassionate? My argument 
+is, if we don't start doing it, we are not going to be able to be 
+compassionate at all.
+  I would like to put up a couple of charts.
+  The first is from the Government Accountability Office. It shows 
+where we are going if we freeze discretionary spending in this country. 
+If we absolutely freeze discretionary spending, what will happen is 
+between now and 2040, there is no increase in any discretionary 
+spending whatsoever. You did see how our growth and expenditures take 
+place. You can see that the vast majority of that is Medicare, 
+Medicaid, Social Security, and all other spending, of which the largest 
+proportion in 2040 won't be on any program but will be interest on the 
+national debt.
+  I am also struck by the inconsistency that I hear in this body when 
+one group of Senators has offered over $400 billion in new spending 
+this year--$400 billion in new spending proposals this year.
+  If you think about why this is important, this line is represented as 
+a percentage of our gross domestic product. All we have to do is look 
+at the country of Germany today to see where we are going and what is 
+going to happen to us. They have unemployment of 13 percent. Their 
+growth is minimal in terms of their gross domestic product. Why? 
+Because 40 percent of their gross domestic product is taken up by the 
+Government. This only goes to 2040.
+  At 2050 and 2075, we are at 40 percent of our gross domestic product. 
+That means money that could be invested in new jobs, in capital, in 
+future opportunities for our children, won't be there because we will 
+be consuming.
+  Now let's look at if we just have the Government grow at the rate of 
+inflation. What do we see? By 2040, we are above 40 percent.
+  So the questions before this body and the criticisms of the bills on 
+the floor don't make any sense if we are going to give a Christmas gift 
+of a future to our children. This is unsustainable. The Government 
+Accountability Office has said we are on an unsustainable course. It is 
+impossible.
+  The Senator from North Dakota earlier said he is going to bring a 
+spending reduction bill to the floor. I embrace that. There is no 
+question that I am known in this body to try to restrain our spending. 
+But if we don't, we belie the very heritage this country has stood for 
+since its inception; that is, one generation sacrificing for the next 
+so opportunities and a bright future will be there.
+  How have we done that? Because we are more interested in the next 
+election than the next generation. We are more interested in making the 
+easy choice, the expedient choice, rather than the difficult choice.
+  The choice is this. The way things are set up now, there is no way we 
+can keep our obligations to you if you are dependent on the Federal 
+Government. What is compassionate about that? What message do we send 
+to those who truly are dependent upon us if we will not make the hard 
+choices to make sure anybody is in a position to help them in the 
+future?
+  I will talk about some specific things.
+  This reconciliation bill didn't go nearly far enough in terms of 
+reducing spending. Let me give you a couple of examples.
+  The Federal Financial Oversight Subcommittee which I chair had a 
+hearing on inappropriate payments. There is an Improper Payment Act 
+which is law that the Center for Medicare and Medicaid Services has 
+failed to enforce on Medicaid alone. But let us talk about Medicare, 
+and then we will talk about Medicaid.
+  In Medicare alone, it is estimated that over 10 percent of the 
+payments that are made by Medicare are inappropriate. Of that, 90 
+percent are overpayments. What do I mean, overpayments? I mean fraud, I 
+mean abuse, I mean cheating the Federal Government. And as a physician, 
+I am talking about some of my peers and others in the health care 
+industry, whether they are in durable medical equipment, in the 
+pharmaceutical industry, or others who are taking advantage of the 
+bureaucracy of the program. But this bill saves a small amount of money 
+over the next 5 years. The total is under 8-point-some billion dollars. 
+Less than half of that comes from Medicare and Medicaid. Think about 90 
+percent of $21.7 billion. That is $19 billion a year in Medicare fraud, 
+and $19 billion a year times 5 years comes up to $95 billion. This bill 
+doesn't even save $40 billion over the next 5 years.
+  If we want to be serious about giving a Christmas gift of opportunity 
+and future and making the sacrifices, it starts in this Chamber. That 
+sacrifice is, there is no excuse for us not to rid Medicare of the 
+fraud that is in it today, an estimated $19 billion a year. If, in 
+fact, we rid Medicare of the $19 billion and we rid Medicaid, which is 
+$18 billion worth of fraud--that is estimated because they have not 
+followed the law and reported improper payments.
+  I ask unanimous consent to have printed in the Record an article from 
+New York Times that outlines some of the Medicare fraud issues in New 
+York State.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+                [From the New York Times, July 19, 2005]
+
+              As Medicaid Balloons, Watchdog Force Shrinks
+
+                 (By Michael Luo and Clifford J. Levy)
+
+       New York's Medicaid program pays more than a million claims 
+     a day, feeding a $44.5 billion river of checks to 
+     radiologists and ambulance drivers, brain surgeons and 
+     orderlies, medical centers and corner pharmacies. Many who 
+     get those checks pocket more money than they deserve, and 
+     millions of taxpayer dollars are believed to be lost every 
+     day to theft and waste.
+       Yet the state, charged with protecting those dollars, has 
+     done little to stop them from draining away.
+       A yearlong New York Times investigation found only a thin, 
+     overburdened security force standing between this enormous 
+     program and the unending attempts to steal from it. Even as 
+     spending by New York Medicaid has more than tripled since the 
+     late 1980's, the number of fraud investigators who guard its 
+     cash register has fallen by half, and several of their 
+     leaders have quit or retired in disillusionment.
+       Of the 400 million claims that Medicaid paid last year, 
+     Health Department regulators uncovered just 37 cases of 
+     suspected fraud, far fewer than their counterparts in any 
+     other large state, even though New York's Medicaid budget is 
+     by far the largest in the nation. Many experts say that it is 
+     likely that at least 10 percent and probably more of New York 
+     Medicaid dollars are stolen or wasted.
+       In dozens of interviews, prosecutors, lawmakers and former 
+     regulators said the program paid for almost everything and 
+     scrutinized almost nothing, in large part because its primary 
+     mission has been to ensure that there are enough health care 
+     providers in the system to address the needs of the poor. It 
+     often appears that the Health Department is barely even 
+     looking: There are more than 140,000 hospitals, nursing 
+     homes, doctors and other health care providers in the system, 
+     but the department visited just 95 in the 2004 fiscal year to 
+     audit their billings.
+       Analyzing Medicaid data obtained under the state's Freedom 
+     of Information Law, The New York Times identified scores of 
+     instances in which the claims of health care providers jumped 
+     markedly in a single year. These spikes are a classic 
+     indication of possible improper billing, yet few of those 
+     providers had even part of their billings audited by the 
+     department, state records show. New York's Medicaid program, 
+     once the pride of the Great Society era, has become a 
+     system ``that almost begs people to steal,'' said Michael 
+     A. Zegarelli, a senior New York Medicaid regulator until 
+     2003 and a past president of the national association of 
+     Medicaid oversight officials.
+       Meanwhile, other states, including California and Texas, 
+     have increased their antifraud efforts and discovered what 
+     seems a simple truth: The effort to seek out theft and 
+     unnecessary spending can more than pay for itself, just as a 
+     parking violations bureau brings in revenue. Workers assigned 
+     to Medicaid fraud prosecution units around the nation help 
+     bring in an average of $200,000 each in recoveries, according 
+     to federal statistics.
+       Twenty-five years ago, New York was in the vanguard of 
+     fraud prevention. But over the decades it has failed to 
+     maintain the investment in employees necessary to close the 
+     door on thievery and abuse. Repeated delays stretched the 
+     replacement of a 1970's-era computer system that could barely 
+     detect fraud into a seven-year ordeal, allowing billions to 
+     slip by with little scrutiny.
+
+[[Page S14106]]
+
+       As dozens of former employees describe it, the state's 
+     antifraud effort has been plagued by the same gridlock that 
+     has stifled innovation in Albany for years: bureaucratic 
+     infighting, allegiance to campaign contributors from the 
+     health care field, reliance on public indifference.
+       In an interview, Dennis P. Whalen, executive deputy 
+     commissioner of the Health Department, said combating fraud 
+     remained a major goal. He denied that the department had been 
+     lax in policing Medicaid and excluding providers who had 
+     cheated the program, saying that new computer systems have 
+     improved the state's detection efforts.
+       But State Senator Kemp Hannon, a Nassau County Republican 
+     who is chairman of the Senate Health Committee, called The 
+     Times's findings deeply troubling, and said they showed that 
+     the Medicaid fraud detection system was broken. Mr. Hannon 
+     said the Health Department, run by a fellow Republican, Gov. 
+     George E. Pataki, was failing to oversee the system.
+       ``This is a red flag for them,'' Mr. Hannon said. ``I have 
+     not seen anything that would indicate that there has been any 
+     sort of focus at all from the department.''
+       New York's failures have come at a high price, according to 
+     advocates for the program's recipients.
+       ``There is all this money that is being drained away and 
+     not being spent on care for the poor people who need it,'' 
+     said Elisabeth Benjamin, who spent eight years as a lawyer at 
+     the Legal Aid Society specializing in Medicaid. ``It's 
+     analogous to the $5,000 toilet seat in the military.''
+
+                       Investigation Staff Is Cut
+
+       More than a dozen years ago, in the heyday of the unit 
+     charged with fighting Medicaid fraud and abuse in New York 
+     City, dozens of state employees would troop out to locations 
+     throughout the city for a regular ritual. With reporters in 
+     tow, they would serve papers on scores of shady doctors 
+     operating low-quality, high-volume clinics known as 
+     ``Medicaid mills,'' said James Mehmet, who retired from the 
+     State Health Department in 2001. Mr. Mehmet was the unit's 
+     chief of investigators in New York City.
+       Most days, more than a dozen investigators went undercover 
+     as patients to see how they were treated by a doctor or a 
+     pharmacist, and then how their visit was billed. In the 
+     office, they worked alongside auditors and lawyers, as well 
+     as nurses, dentists and doctors--a full medical review staff.
+       But the energy and ambition of the office have dissipated 
+     along with the staff, Mr. Mehmet said. By the time he 
+     retired, he said, the 15 lawyers in the office had been 
+     reduced to one. The medical review staff was gone. And with 
+     the Medicaid budget growing rapidly, it was not the fraud 
+     that had diminished, he said, but the will to pursue it.
+       ``The volume of work was so much different,'' Mr. Mehmet 
+     said, recalling earlier days. ``The caliber of work was so 
+     much different. There was much more emphasis on going after 
+     people that were committing fraud and abuse.''
+       Mr. Mehmet and other frustrated former regulators say the 
+     drop in the New York City office mirrors the statewide 
+     decline in staffing over the last decade, at a time when 
+     thieves have become more sophisticated.
+       In the late 1980's, more than 200 people in the New York 
+     Medicaid bureaucracy were devoted to fighting fraud and 
+     abuse, said Philip J. Natcharian, who directed those efforts 
+     until 1990. Now only 50 people, including clerical staff, 
+     have that job, along with a few dozen outside contractors, 
+     said Mr. Zegarelli, who worked at the Health Department's 
+     headquarters in Albany until his retirement. He said that was 
+     far too few to be effective, an assessment echoed by four 
+     other former senior department officials.
+       The former officials said reducing the fraud force made 
+     little sense to them, given the huge increase in Medicaid 
+     spending in recent years, which has brought the program to 
+     more than 40 percent of the state budget.
+       ``How do you not increase the staff to monitor the largest 
+     expenditure in New York State?'' said Mark J. Ives, who 
+     directed the state's fraud and abuse efforts until he retired 
+     in 1998.
+       One likely result of the staffing decline is that since 
+     2000, the amount of money the Health Department has recovered 
+     from fraud investigations has fallen by 70 percent, according 
+     to data compiled by federal regulators.
+       At the same time, the state has virtually stopped excluding 
+     doctors from Medicaid for violating its rules, excluding only 
+     eight out of the 43,000 doctors enrolled in the program last 
+     year, a Times analysis shows.
+       ``I think the department's reached the point of Smokey the 
+     Bear with a shovel,'' Mr. Zegarelli said. ``They're just 
+     running around putting out fires.''
+       The former regulators said they did not believe there had 
+     been a deliberate decision in Albany to loosen enforcement. 
+     Instead, they described a gradual move away from regulation 
+     as Albany focused on expanding and plugging holes in the 
+     program.
+       ``They want recipients to get medical care,'' said Michael 
+     P. Sofarelli, who retired as a Medicaid prosecutor in the 
+     attorney general's office in 2003 after handling some of the 
+     state's biggest Medicaid fraud cases. ``Investigating is a 
+     small part of the job.''
+       The Health Department reports to Governor Pataki, and in 
+     recent years, his budget aides have actually reduced goals 
+     for recouping money from Medicaid providers for improper 
+     billing.
+       The decline of fraud control in New York contrasts sharply 
+     with the situation in other states. In 1998, California, 
+     which had several high-profile Medicaid fraud cases in the 
+     1990's, added about 400 employees to an existing staff of 
+     about 40 charged with rooting out abuse. The number of fraud 
+     cases referred to prosecutors has since doubled.
+       Officials in Illinois and Ohio, where the Medicaid budgets 
+     are roughly a quarter the size of New York's, visited more 
+     than three times as many health care providers in the 2004 
+     fiscal year to audit their billings.
+       Mr. Whalen, the executive deputy commissioner of the Health 
+     Department, said it frequently stopped Medicaid payments it 
+     considered questionable. He acknowledged that the staffing 
+     for fraud prevention had dropped, but described the change as 
+     insignificant, saying the state employed roughly 400 workers 
+     whose jobs involve fighting Medicaid fraud and abuse, 
+     supplemented by 200 outside contractors.
+       ``The number, in terms of a pure number, has declined, but 
+     I would say that it has not been a huge decline,'' he said.
+       ``Every agency, I am sure, would love to have more staff, 
+     and we are no different,'' he said. ``But we are also 
+     realistic about the state's fiscal situation.''
+       But former senior department officials said most of the 
+     workers cited by Mr. Whalen are not actually investigating 
+     fraud. They are accountants, nurses, computer analysts, 
+     clerks and others doing administrative jobs, making sure 
+     basic regulations are followed, leaving only about 50 state 
+     employees dedicated to fraud work.
+       Mr. Whalen and his aides said new computers and software 
+     were helping the department shift its focus from reviewing 
+     Medicaid claims already paid to preventing questionable 
+     claims from being paid in the first place.
+       But state statistics show that the department rejected a 
+     much smaller percentage of claims in the 2004 fiscal year 
+     than its counterparts in California, Florida or Pennsylvania.
+       Asked to list cases that they developed that led to arrests 
+     and prosecutions, Health Department officials could point to 
+     only a handful in the last two years.
+       The result of the cuts is evident in case after case that 
+     the state simply missed. The billings of a Queens pharmacist, 
+     Newton Igbinaduwa, rose to more than $1.4 million in 2002 
+     from $78,000 in 1998, according to billing records analyzed 
+     by The Times. But the department never referred the case to 
+     the state attorney general's office.
+       It was only when prosecutors in the attorney general's 
+     office got a tip through another case that they found out 
+     about Mr. Igbinaduwa, who pleaded guilty last year to grand 
+     larceny after billing for drugs he never dispensed.
+
+                        Prosecution Unit Shrinks
+
+       The Health Department is only half of the dwindling 
+     security force posted outside Medicaid's gate. The 
+     responsibility for prosecuting Medicaid fraud lies with the 
+     state attorney general, Eliot Spitzer, who runs the Medicaid 
+     Fraud Control Unit. And in the attorney general's office, 
+     too, Medicaid abuse has had a reduced priority for more than 
+     15 years, with far fewer prosecutors than it had in the days 
+     when Medicaid was a much leaner program.
+       Though New York has the largest Medicaid fraud prosecution 
+     staff in the country, several other states have fraud offices 
+     that are larger in proportion to the size of their Medicaid 
+     budgets, and they recover a larger percentage from fraud 
+     prosecutions. As a percentage of the overall Medicaid budget, 
+     New York's 301 employees won less than half as much as those 
+     in Texas, Florida and New Jersey, according to statistics 
+     compiled by the federal government for its 2003 fiscal year.
+       Mr. Spitzer's office said New York used a more conservative 
+     method of calculating recoveries than other states, but even 
+     using that method, New York still fails to make the nation's 
+     top 15 states in the amount recovered as a percentage of the 
+     overall Medicaid budget, going back as far as 1999.
+       Mr. Spitzer's zeal in fighting corporate abuses has not 
+     been matched by his efforts in fighting Medicaid fraud, 
+     former employees say.
+       ``I didn't think there was that much focus at the main 
+     office,'' said John M. Meekins, who retired in 2003 as the 
+     director of the Albany regional office of the Medicaid Fraud 
+     Control Unit. Referring to Mr. Spitzer, he added: ``I'm not 
+     faulting the man. His focus was on Wall Street.''
+       Mr. Spitzer said his office had made strides, especially in 
+     investigating the abuse of nursing home residents. The fraud 
+     unit's prosecutors have made a philosophical shift, he said, 
+     cutting back on the number of inquiries to concentrate on 
+     what they consider cases with bigger impact, which could lead 
+     to industrywide changes.
+       ``The strategies that we have pursued have made sense and 
+     have been successful,'' Mr. Spitzer said.
+       However, the attorney general's office has had few such 
+     breakthroughs. None have shaken the health care industry in 
+     the manner of his successes on Wall Street and in the 
+     insurance industry, or the inquiries into nursing homes 
+     conducted by his predecessors in the 1970's.
+       The relatively low profile given to antifraud efforts dates 
+     to before Mr. Spitzer's term in office. The size of the fraud 
+     control unit dropped by more than 40 percent between 1979 and 
+     the early 1990's. Even after
+
+[[Page S14107]]
+
+     Mr. Spitzer became attorney general in 1999, the size of the 
+     fraud unit remained about 300 workers, the same as in the 
+     early 1990's. Back then, though, Medicaid cost about $14 
+     billion a year, and its cost has since more than tripled.
+       The state could have a much larger prosecution force with a 
+     relatively small investment, because the federal government 
+     has made a standing offer to pay three-fourths of the cost, 
+     and New York's current allotment is well under the maximum. 
+     If the state spent an additional $24 million on its fraud 
+     prosecution unit, the unit's current budget of $45.7 million 
+     would more than triple to $148 million, mostly from the 
+     federal match.
+       Mr. Spitzer said state budget officials had repeatedly 
+     demanded hiring freezes for his office.
+       ``The possibility of increasing simply has not been 
+     presented by the Department of Budget,'' he said, emphasizing 
+     that he believed that hiring more staff members made sense.
+       Last year, Mr. Spitzer said, the fraud unit recovered a 
+     record amount in overpayments: $62.5 million, up from $40 
+     million in 2003. But the higher figure includes $30.8 million 
+     that was New York's share of a major nationwide settlement 
+     with two pharmaceutical companies over drug pricing. That 
+     case was spearheaded by federal prosecutors, not New York 
+     officials.
+
+                    Behind the Scenes, Turf Battles
+
+       The Health Department and the attorney general's office 
+     must contend not only with growing fraud and depleted 
+     resources but also with another opposing force: each other. 
+     Over the years, they have accused each other of foot-
+     dragging, incompetence, or resistance to change. Their mutual 
+     animosity and suspicion have come at the expense of the 
+     battle against fraud.
+       By law, it is the Health Department, not the attorney 
+     general's office, that is primarily responsible for 
+     identifying fraud. But the department's principal task is to 
+     keep the huge flow of payments moving swiftly, and at this 
+     point, with its shrunken enforcement bureau, the department 
+     sends very few cases to prosecutors.
+       Former officials of both departments say their different 
+     missions have left them clashing instead of cooperating.
+       Former prosecutors complained that Medicaid regulators 
+     often crippled their criminal cases by suing those they 
+     suspected of overbilling in civil court, hoping to get some 
+     money back to the system before the attorney general filed 
+     criminal charges. In those cases, prosecutors said, the state 
+     would often settle a case quickly for only a fraction of the 
+     amount overbilled.
+       Mr. Spitzer, a Democratic candidate for governor, said his 
+     prosecutors could not depend on the Health Department.
+       ``They are just not a useful resource for us in the sense 
+     of providing us with ideas, places to look, referrals,'' he 
+     said.
+       Asked about Mr. Spitzer's criticism, a department 
+     spokesman, William C. Van Slyke, said, ``We believe that his 
+     political ambitions are the motivation for his comments, as 
+     opposed to the facts.''
+       Former Health Department officials said that when they 
+     turned over evidence of fraud to the attorney general's 
+     office, the prosecutors often took months or even years to 
+     piece together a case, all while the fraudulent activity 
+     continued to siphon money from the system. Medicaid officials 
+     said they preferred a civil case to stop the fraud 
+     immediately.
+       ``They were malingerers,'' said Mr. Ives, former director 
+     of the department's fraud section. ``They would take forever 
+     and ever to process a case.''
+       Mr. Van Slyke said 70 percent of the cases the department 
+     referred to the attorney general's office since 2000 were 
+     still open. The office responded that many of those cases 
+     were fully investigated but just not technically closed.
+       Whatever the cause of the tensions, the department refers 
+     far fewer cases to prosecutors than its counterparts in other 
+     large states. Texas referred nearly seven times as many cases 
+     to its Medicaid prosecutors as New York did in the last 
+     fiscal year. California referred nearly four times as many, 
+     and Ohio more than three times as many.
+
+                            Resisting Reform
+
+       In the fight against fraud, New York's inadequate arsenal 
+     is not an accident. In Albany, reformers have repeatedly been 
+     outspent and outmaneuvered by the health care industry.
+       Several large states, including California, Florida and 
+     Illinois, have laws that encourage whistleblowers to come 
+     forward with information about fraud schemes, offering them a 
+     portion of any money recovered. There is a similar federal 
+     law to fight fraud in Medicare, the program for the elderly 
+     and disabled.
+       But when Mr. Spitzer has had this type of bill, called a 
+     false claims act, introduced in New York, it has died. The 
+     bill was denounced by the Healthcare Association of New York 
+     State, which represents hospitals, nursing homes and other 
+     providers, as well as the State Medical Society, which 
+     represents doctors. The groups, which spend millions annually 
+     on lobbying and campaign contributions, predicted that the 
+     bill would lead to an epidemic of frivolous allegations.
+       ``New York State's health care provider community has faced 
+     unprecedented, overzealous investigations by regulators and 
+     law enforcement officials,'' the association said in a memo.
+       Daniel Sisto, president of the association, said that its 
+     members believed that federal officials had used 
+     inappropriate tactics to crack down on fraud, and that they 
+     had fought the whistleblower law out of fear that the state 
+     would follow suit. He said the group's members faced a raft 
+     of different requirements from Medicaid, Medicare and 
+     numerous private insurance companies, and as a result made 
+     billing mistakes that were wrongly criminalized.
+       ``What concerns me from our past experiences is that there 
+     is overzealousness in the interpretations of any overpayments 
+     as fraud and abuse,'' Mr. Sisto said.
+       In May, the Republican-controlled State Senate approved 
+     legislation, sponsored by Senator Dean G. Skelos of Nassau 
+     County, that would create an independent Medicaid inspector 
+     general. The measure would take away some of the 
+     responsibility for combating fraud from the Health Department 
+     and the attorney general's office and give it to the new 
+     agency and to local prosecutors.
+       Mr. Pataki and Mr. Spitzer opposed the measure, as did the 
+     Democratic majority in the State Assembly, which has long 
+     allied itself with large health care lobbies and unions. 
+     Assemblyman Richard N. Gottfried, a Manhattan Democrat who is 
+     chairman of the Health Committee, said he did not believe 
+     that the system needed to be changed.
+       Asked whether the Democrats would take any action on the 
+     issue, Mr. Gottfried said, ``Maybe that would be a good one 
+     for us to hold hearings on in the fall.''
+
+  Mr. COBURN. Mr. President, it is estimated that the fraud in New York 
+State is $14 billion a year in Medicaid alone, of which the Federal 
+Government pays two-thirds. In 5 years, solving the Medicaid fraud in 
+New York would pay for every savings we have claimed in this whole bill 
+for the next 5 years.
+  Examples: St. Barnabas Health Care System agreed to settle $3.9 
+million in claims it overcharged Medicare; the Premium Health Care 
+Group, $1.6 million for fraudulent wound-care claims; Michael Clemens, 
+FBI special agent--$1 billion in Medicare fraud in south Florida alone.
+  If you add up what is going on in Medicare and Medicaid, $37.5 
+billion a year at a minimum is fraud and yet we are trying to save a 
+measly two-tenths of 1 percent in terms of slowing the growth.
+  We haven't gone far enough. For somebody to reject this bill on the 
+fact that we might not meet our obligations on Medicare and Medicaid--
+the obligation isn't being met in terms of the oversight of these 
+programs.
+  I wish to spend a few moments talking about Medicaid fraud because it 
+is important for people to know what a poor job we are doing in terms 
+of oversight.
+  Investigators estimate that as much as $18 billion worth of fraud 
+occurs every year in New York alone on Medicaid. That is 5 percent of 
+the total national spending on Medicaid in one State. One New York 
+dentist, Dr. Dolly Rosen, claimed to have performed 991 procedures a 
+day in 2003--991 procedures a day. The New York Medicaid Program 
+consumes $44.5 billion. It is the most costly and generous in the 
+Nation. In the article that I mentioned, James Mehmet, the retired 
+chief investigator of Medicaid fraud in New York City, says that at 
+least 10 percent of that was spent on fraudulent claims.
+  We can, if we will do the oversight, accomplish what we need to in 
+terms of doing the hard work, and the reductions in the expenditures 
+won't have any impact on those who are truly needy for Medicare and 
+Medicaid. What they will have an impact on is the criminals who are 
+defrauding the American taxpayers by billing for services they have not 
+performed.
+  Other examples: Schering-Plough agreed to pay $335.5 million back to 
+Medicaid this last year on the basis of fraud and an elevated billing 
+process.
+  The other thing estimated in New York, to build the case a little 
+further, this same James Mehmet estimates as much as 30 percent of the 
+budget--10 percent of it is fraud; 30 percent of it is abuse. If only 
+half of that is inappropriate payments, we are up to 25 percent or up 
+to $12 billion a year. Again, that is in one State. If we did the 
+oversight, changed the rules, increased the punishment, held people 
+accountable, every bit of savings in this bill could be paid for by 
+Medicaid fraud in New York State alone.
+  The question is, are we going to do what we need to do as a Senate, 
+in the future? This bill is a first good step. It does a lot of things 
+in terms of Medicaid, of creating a new Medicaid task force to go after 
+fraud.
+
+[[Page S14108]]
+
+  We can do much more. To do less says we do not have the Christmas 
+spirit, the spirit of giving, the spirit of sacrifice.
+  I close on this one note. Most everyone listening out there has 
+children and grandchildren. When you think about your grandchildren, 
+what do you think? What is it you desire for them? What is it you want 
+for them? When we hear the rhetoric--whether it is from the AARP or 
+other groups--discounting the fact that we are going to slow down the 
+growth in Medicare and Medicaid, and doing it not by taking away 
+benefits for those who are truly needy but by doing the job we should 
+be doing, when we do that, we give a gift to our children and to our 
+grandchildren.
+  I want opportunity for my grandchildren. I don't want them to be 
+given anything. I want them to be given the gift of having an 
+opportunity to attain it. I want to create an economic environment in 
+the future that is sustainable. We are not sustainable today. I want 
+every grandparent out there to think, do they want something for 
+themselves today that is going to be paid for by their grandchildren 20 
+years from now?
+  That is the real issue. That is the whole center of the entire debate 
+in Congress today as we debate these contentious issues on how we spend 
+or do not spend money. It is a simple question. Take now and charge it 
+to your grandchildren. Take now and take away their opportunity for 
+homeownership. Don't do anything now because it might not be 
+politically popular, but undermine any future your children and 
+grandchildren have. That is described as selfishness. That is the exact 
+opposite of the spirit of giving.
+  America is better than that. America's heritage is better than that. 
+The American people are better than that. The problem is, we do not 
+understand what is before the Senate, the obligations and the great 
+responsibilities before us. We were sent here to make the hard choices. 
+If you are listening today, listen to the rumble, the rumble that is 
+out there in the American public. They want us to do the hard work of 
+trimming the waste, of trimming the fraud, of trimming the abuse. They 
+want us to eliminate our political earmarks to pay for the things that 
+are necessary for this country--not pay for the things that get us 
+reelected. There is a rumble. The rumble is real. The American people 
+are paying attention that we should be doing the hard and heavy lifting 
+of making the tough choices.
+  This bill is a start. It should go much further. It should be $100 to 
+$200 billion of reduced spending through fraud. If there is truly $35 
+billion a year in wasteful, fraudulent, improper payments for Medicare 
+and Medicaid, that is $18 billion for Medicaid, $19 billion for 
+Medicare. That is $37 billion a year. In 10 years we can save $370 
+billion. This chart I had up will show a better future for our children 
+and our grandchildren.
+  I ask the Members of the Senate to make sure we pass this bill. This 
+is a start. It does not have anything to do with the tax cut. There is 
+not going to be any tax cut unless we get spending under control. To 
+not want to get spending under control means Members do not want to 
+give an opportunity for advancement in the future for our children and 
+grandchildren.
+  Grandparents, this is about our grandkids. I have four grandchildren. 
+I wish I had 20. But more than that, I wish for them the same 
+opportunities that have been there for us, the same opportunities that 
+the great generation fought for and gave us such wonderful blessings. 
+The same opportunities for every veteran we have had who has fought and 
+died and been injured and the sacrifices they have made--are they in 
+vain if we do not have the same type of courage, the same type of 
+commitment that those who serve our country in our armed services have?
+  We can do no less than to start down the hard road of making 
+difficult choices. This is the first one. They are going to get harder 
+as we face the economic perils in front of us and the commitments we 
+have made that right now we cannot keep. We either change them or the 
+American people are going to change us.
+  Mr. McCAIN. Will the Senator yield?
+  Mr. COBURN. I am happy to yield.
+  Mr. McCAIN. I applaud the Senator from Oklahoma for not only his 
+statement but also for his continued commitment to fiscal discipline 
+here and in trying to identify much of the wasteful and unnecessary 
+spending.
+  I wonder if the Senator from Oklahoma has had a chance to look at the 
+Defense appropriations bill we are going to consider tomorrow and see 
+some examples of the interesting earmarks out of a conference report. 
+Is the Senator aware of $500,000 to teach science to grade school 
+students in Pennsylvania or $3.85 million for the Intrepid Sea-Air-
+Space Foundation or $4.4 million for a Technology Center in Missouri or 
+$1 million to a Civil War Center in Richmond, VA, or $850,000 for an 
+education center and public park in Des Moines, Iowa, or $2 million for 
+a public park in San Francisco or $500,000 for the Arctic Winter Games, 
+an international athletic competition held this year in Alaska?
+  Museums are popular this year, including $1.5 million for an aviation 
+museum in Seattle, $1.35 million for an aviation museum in Hawaii, $1 
+million for a museum in Pennsylvania, $3 million for a museum in Fort 
+Belvoir.
+  There are more, I say to my friend from Oklahoma, and we are at war. 
+I wonder how many MREs, flak vests, or bullets we could buy with all 
+this money.
+  I appreciate the Senator's support for this budgetary measure, but 
+how do we tell people we are going to cut food stamps and reduce 
+eligibility for welfare while we are taking the money that is for 
+defense, in the tens of millions of dollars on this Defense 
+appropriations bill, put in a conference report that none of us ever 
+saw or read until right now, I ask the Senator from Oklahoma.
+  Mr. COBURN. I am happy to respond. As the Senator knows, on the 
+conference report I am unable to offer amendments to eliminate those 
+things. As the Senator well knows, also, I have started down a track 
+where I am going to confront earmarks in the Senate or we are going to 
+change that.
+  With that, I offered on almost every appropriations bill what was 
+called a sunshine amendment. That will be offered again in the House 
+next year, and when we come to conferences, the ability to put in 
+extraneous earmarks has got to be limited.
+  I would, however, answer the Senator. Having had an oversight hearing 
+on food stamps, we spend $1.6 billion in giving food stamps to people 
+who do not qualify, who have more than the capability to take care of 
+themselves. That is at a rate of 6.9 percent of every person who comes 
+to attest for food stamps.
+  So I believe the same thing can be said for the Food Stamp Program 
+that we can say about Medicare and Medicaid, that we need to run a 
+bill. We need to have better oversight. We need to check it so the 
+fraud and abuse is out of it.
+  As the Senator knows, I do not like earmarks because I believe they 
+compromise the operation of good government. I think they buy votes 
+when votes would not be there. I think the Government has grown because 
+of the force of earmarks.
+  So I am not aware of those specific things. I have not looked at it, 
+to answer the Senator's question. But I am not happy they are there.
+  Mr. McCAIN. Will the Senator yield for one more question?
+  Mr. COBURN. I will.
+  Mr. McCAIN. Not only do we have the earmarks in outrageous and 
+disgraceful pork-barreling on this bill--again, that none of us ever 
+saw until my staff went through this bill--but there is also a great 
+deal of legislation. Remember, this is the Department of Defense 
+appropriations bill. So it is not just the money, it is also policies 
+and major policy decisions.
+  There are avian flu vaccine limitation of liability provisions. I 
+tell the Senator from Oklahoma, I do not know if that is worthwhile or 
+not, but it has been jammed into a Department of Defense appropriations 
+bill.
+  There is funding for farm conservation. There is a provision 
+protecting jobs in--guess where--Hawaii and Alaska. And there is a 
+provision that transfers, as a direct lump-sum payment to the 
+University of Alaska, the unobligated and unexpended balances 
+appropriated to the United States-Canada Railroad Commission.
+  Does the Senator from Oklahoma have a clue what that is all about?
+  Mr. COBURN. No, I do not.
+
+[[Page S14109]]
+
+  Mr. McCAIN. Here we are again, I say to my colleague from Oklahoma, 
+when everybody wants to get out of town examining bils that have all 
+kinds of things in them that we never saw or heard of.
+  In the Statement of Managers, there is $1.6 million for the Lewis and 
+Clark bicentennial activities. The list goes on. There is $7 million 
+for the Alaska Land Mobile Radio.
+  I ask my friend from Oklahoma, don't you think the American people 
+are fed up with this kind of stuff? And don't you think it is time a 
+group of us, who have been meeting and talking about eliminating some 
+of these practices, get together and make things tough on the floor of 
+this Senate next year to reign in this out-of-control, disgraceful, 
+obscene conduct that goes on on these appropriation bills?
+  Mr. COBURN. As the Senator knows, I believe we do a disservice to our 
+country in the way we manipulate appropriations. I have been very vocal 
+on that. But I also know it requires courage to stand up. And the 
+American people are expecting that. They are going to see that this 
+next year on the floor of the Senate. They are going to see a process 
+by which every earmark is challenged in the bills that come before us 
+and in the bills that come out of conference.
+  What I do know--and I will finish my statement with this--is every 
+economist and every elected official in this country, in this body, 
+knows we are on an unsustainable course. Everybody knows that. 
+Everybody is aware of that. Slowing the rate of growth of programs is 
+compassionate. It is not lacking in compassion. If you do not slow the 
+rate of growth, the very people you want to help will not be helped in 
+the future. It is compassionate to keep your obligations. The way to 
+keep your obligations is to change the programs so we pay for them out 
+of the waste, fraud, and abuse that is involved.
+  Most people who oppose this bill do not have a good alternative. They 
+do not have a good alternative. The plan of never-ending expansion, 
+unsustainable commitments, is the surest way to deny benefits and 
+coverage to the very people we want to help in the long run. It is the 
+only way we are going to be able to do it. We cannot continue to avoid 
+the tough choices, and we cannot continue to avoid prioritizing and to 
+grow government as we like. We cannot do what we have done in the past. 
+The economic conditions will not allow it. The American people are not 
+going to allow it.
+  It is time, and it starts January first--it starts here with this 
+bill, but it starts in the next session of Congress. It is going to be 
+different. It is going to be difficult. But we are going to make the 
+tough choices.
+  With that, I yield my time.
+  The PRESIDING OFFICER. The Senator from New Hampshire.
+  Mr. GREGG. Mr. President, I just want to note that the exchange, 
+which was very informative, between the Senator from Arizona and the 
+Senator from Oklahoma was in relationship to the Defense bill, and we 
+are on the deficit reduction bill. Those items which the Senator from 
+Arizona raised--he certainly has a legitimate right to raise them--are 
+not applicable to this bill but applicable to the Defense 
+appropriations conference report. This bill actually reduces the 
+deficit by $40 billion, which is a very positive event.
+  Mr. McCAIN. If I may continue, Mr. President, America is at war. We 
+all know that, and that is why the measure we are debating today, the 
+conference report to H.R. 2863, the 2006 Defense appropriations bill, 
+is so very important. This conference report provides critical 
+financing for our fighting men and women, the brave individuals we sent 
+to fight in our name. We must support them, and, for that reason, I 
+will vote in favor of its passage. But I do so under protest.
+  The conference report appropriates nearly $408 billion, plus an 
+additional $50 billion in emergency funding for operations in Iraq and 
+Afghanistan. The non-emergency portion is approximately $4.5 billion 
+under the administration's request, but is several billions higher than 
+the Senate bill. As is the case with so many of the appropriations 
+bills that come to the floor, this conference report and the joint 
+explanatory statement contain earmarks and pork projects that were 
+neither requested nor authorized.
+  War means sacrifice--any student of history knows that--and Americans 
+have sacrificed throughout our efforts in Iraq and Afghanistan. Our 
+soldiers and their families have sacrificed, and this year other costs 
+have spread throughout the Nation. Whether it is the victims of 
+Hurricane Katrina, or those that have come to their aid or simply all 
+those Americans who are paying higher gasoline prices, we see 
+sacrifices of many kinds. And so in these difficult times, the American 
+people are right to expect their elected leaders to sacrifice as well.
+  But then we see a bill like the one on the floor today, and I am sure 
+many Americans wonder if the spirit of sacrifice stops on the steps of 
+the U.S. Capitol. During a war, in a measure designed to give our 
+fighting men and women the funds they need, the Congress has given in 
+to its worst pork-barrel instincts.
+  Let's take a look at some of the earmarks that are in this Defense 
+appropriations conference report: $500,000 to teach science to grade 
+school students in Pennsylvania; $3.85 million for the Intrepid Sea-
+Air-Space Foundation; $4.4 million for a technology center in Missouri; 
+$1 million to an Civil War center in Richmond, VA; $850,000 for an 
+education center and public park in Des Moines, IA; $2 million for a 
+public park in San Francisco; and $500,000 for the Arctic Winter Games, 
+an international athletic competition held this year in Alaska. And 
+museums are popular this year. There is $1.5 million for an aviation 
+museum in Seattle, $1.35 million for an aviation museum in Hawaii, $1 
+million for a museum in Pennsylvania, and $3 million for the museum at 
+Fort Belvoir. There is also $1.5 million for restoring the battleship 
+Texas.
+
+  We are at war. How many MREs, flak-vests, or bullets could we buy 
+with all this money? How many dollars could we return to the taxpayers? 
+I would note that these are just a small sampling of the many, many 
+unrequested earmarks that fill this bill.
+  But perhaps we are being too hard on ourselves. After all, the 
+conference report includes a number of provisions that will rescind 
+unobligated balances in Federal accounts, so we are offsetting a small 
+portion of some of these needless costs. But wait a minute. There is 
+always a catch. While the conference report rescinds $10 million from 
+the Natural Resources Conservation Service Operations account, it also 
+includes language to prevent any cuts to the projects and activities 
+identified on pages 84 to 87 of the House report that accompanies the 
+Agriculture appropriations bill. And if you review that report, you 
+will find 108 earmarked projects totaling more than $103 million. A few 
+examples of the projects that the appropriators are committed to 
+protecting from any reductions, even for the sake of fiscal 
+responsibility, include:
+  $242,000 for a wildlife habitat education program in conjunction with 
+the National Wild Turkey Federation in Illinois, which is dedicated to 
+conserving wild turkeys and preserving our Nation's hunting heritage.
+  $100,000 for the Trees Forever Program in Iowa--an organization with 
+a laudable mission statement--it claims to be an organization that not 
+only plants and cares for trees, but also addresses the challenges 
+facing our communities and the environment--but hardly one that should 
+be funded in a Defense appropriations bill.
+  $400,000 for dairy waste remediation in Louisiana.
+  $600,000 for conservation related to cranberry production in 
+Massachusetts and Wisconsin. Conservation related to cranberry 
+production. Remarkable.
+  $200,000 for Weed It Now--Taconic Mountains--MA/NY/CT. Weed It Now, I 
+am told, is an effort to remove invasive plants from the forest habitat 
+of the Berkshire Taconic plateau. I am a strong supporter of the global 
+war on weeds, Mr. President, but this earmark does not belong in this 
+bill.
+
+  Clearly, such projects should not be asked to spare a dime.
+  Beyond the earmarks, Mr. President, it is a violation of Senate rules 
+to legislate on an appropriation bill, unless, as is the case with 
+several sections of the detainee provisions in title 10, they are added 
+pursuant to a rule 16 defense of germaneness. And yet this rule is 
+flouted far too often. This bill not only
+
+[[Page S14110]]
+
+contains numerous authorizing provisions, but it also features dozens 
+of provisions, both authorizing and appropriating, that are wholly 
+outside of the scope of defense policy. Some of these are included to 
+pursue laudable policy objectives; some are not. A sampling of the non-
+germane provisions includes: the hurricane supplemental: $29 billion 
+for hurricane victims; the Gulf Coast Recovery Fund; avian flu vaccine 
+limitation of liability provisions; a provision that directs funds from 
+the Digital Transition and Public Safety Fund that are in excess of $12 
+billion to be spent on, among other things, the Tucson, Arizona Border 
+Patrol sector, $30 million, the San Diego sector fence, $20 million, 
+and to carry out the North American Wetlands Conservation Act, $50 
+million; 1.5 billion for home heating energy assistance; funding for 
+farm conservation; a provision protecting jobs in Hawaii and Alaska; a 
+provision transferring as a direct lump sum payment to the University 
+of Alaska the unobligated and unexpended balances appropriated to the 
+United States-Canada Railroad Commission; and, of course, the ANWR 
+provisions, which I will discuss in a moment.
+  Mr. President, some of these provisions are very important. Others 
+clearly are not. But whether or not they are important, we should 
+follow the standing rules of the Senate. We should debate these 
+provisions and have the opportunity to offer amendments.
+  Division C of this conference report authorizes the exploration, 
+leasing, development, production, and transportation of oil and gas in 
+and from the Arctic National Wildlife Refuge, ANWR. This provision does 
+not belong in an appropriations bill to fund our troops who are 
+fighting the war on terror.
+  Drilling in ANWR is, of course, the reason we are here today. When 
+conferees tried to add these provisions to the reconciliation measure, 
+they could not get the votes to include it in the final agreement 
+without putting passage of the whole package in jeopardy. So instead 
+the conference managers have circumvented Senate rules and added this 
+unrelated and controversial measure to the Defense conference report.
+  Thanks to this additional language, enactment of the Defense funding 
+bill has been needlessly delayed and continues at this moment to be the 
+target of a filibuster. I strongly oppose this inclusion of this 
+language in the DOD appropriations conference report, and I am appalled 
+by the tactics that have been used to arm-twist and pressure Senators 
+to choose between a drilling provision that they know is wrong and 
+providing desperately needed funding for our Nation's troops.
+  And the ANWR provisions didn't come free, of course. The proponents 
+had to come up with a slew of sweeteners in an effort to win support 
+for drilling in the Arctic. Let's look at a few of these.
+  Division D directs an additional $1.5 billion, designated as 
+emergency spending, for Low-Income Home Energy Assistance. The same 
+division establishes a Gulf Coast Recovery and Disaster Prevention and 
+Assistance Fund, which would be funded largely through ANWR oil and gas 
+revenues. Another set of provisions addresses the Digital Transition 
+and Public Safety Fund, established by the budget reconciliation 
+conference report. The CBO estimates that this ``spectrum fund'' will 
+generate $10 billion, but the conference report we are debating today 
+figures out how to spend revenues in excess of $10 billion. After $10 
+billion, the next $2 billion will be directed to the Gulf Coast Fund. 
+Already planning how to spend money that exceeds the level the CBO 
+projects we will have. Sound familiar, Mr. President?
+  So CBO says we can plan on $10 billion from the spectrum fund. If we 
+somehow get to $12 billion in revenue, the excess goes to the Gulf 
+Coast. So you think we would stop there. But, no, we go further, 
+planning how to spend the next $4 billion on the chance that the 
+spectrum fund generates still more money. The conference report directs 
+that distributions over $12 billion be earmarked as: $900 million for 
+conservation programs through the Department of Agriculture; $50 
+million to carry out the North American Wetlands Conservation Act; $50 
+million to protect grassland and wetland habitats; $1 billion for 
+Interoperable Communications Equipment to assist State and local 
+government preparation for a natural disaster or terrorist attack; $1 
+billion to assist State and local government preparation for a natural 
+disaster or terrorist attack; $80 million to the Department of Homeland 
+Security to replace and upgrade law enforcement communications; $30 
+million to replace Border Patrol vehicles; $490 million for Air and 
+Marine Interdiction, Operations, Maintenance and Procurement to replace 
+air assets, including $40 million for helicopter replacement; $372 
+million for Air and Marine Interdiction, Operations, Maintenance and 
+Procurement to construct and renovate air facilities; $30 million for 
+Tucson, AZ Border Patrol sector for tactical infrastructure; $20 
+million for San Diego, CA Border Patrol sector for the sector 
+conference; $30 million for Immigration and Customs Enforcement to 
+replace detention and removal vehicles; and $17.9 million for Federal 
+Law Enforcement Training Center for construction of a language training 
+facility.
+
+  While the border security projects I have just mentioned are 
+important, will they come to fruition? Not until the spectrum revenues 
+exceed the CBO's estimate--first by $2 billion, and then by $4 billion 
+on top of that. So only when the fund hits $16 billion would all these 
+funds actually be distributed. This entire scheme reminds me of the 
+saying by Wimpy, the hamburger-obsessed character from the Popeye 
+comic, ``I'll gladly pay you Tuesday for a hamburger today.''
+  In addition to everything I have described in the conference report, 
+the statement of managers that accompanies it also includes hundreds of 
+earmarks and questionable projects. Here are just a few examples: $1.6 
+million for Lewis and Clark Bicentennial Activities; $30 million for 
+continued development of the Joint Common Missile--a program that DOD 
+cancelled this year; $10 million to restructure the Advanced SEAL 
+Delivery System--over half a billion dollars has been spent over the 
+last 9 years, with no deployable vehicles yet fielded, U.S. Special 
+Operations Command has cancelled plans for future boats; $3.2 million 
+for Handheld High Intensity Searchlights; and $7 million for the Alaska 
+Land Mobile Radio.
+  Mr. President, despite high gas prices, despite a swelling budget 
+deficit, despite our military operations overseas, and despite our 
+domestic emergencies, pork continues to thrive in good times and bad. 
+The cumulative effect of these earmarks is the erosion of the integrity 
+of the appropriations process, and by extension, our responsibility to 
+the taxpayer. We must do better, for our soldiers and for the American 
+people.
+  We have to fix this system, Mr. President. Our system is broken if we 
+cannot pass a Defense bill in wartime without billions of dollars in 
+pork. Our system is broken if we cannot fund our troops without tacking 
+on legislation that opens ANWR to drilling. Our system is broken if our 
+national security is at stake and we carry on spending for the special 
+interests as if nothing were wrong. But there is something wrong, 
+something very wrong. We want to have it all without making any 
+sacrifices, so we simply borrow the money, pushing off the obligations 
+to our children and our grandchildren. ANWR is a perfect example of 
+that. We drill today in the false hope that doing so will solve our 
+energy problems, but in doing so we leave future generations with a 
+degraded environment and the same dependence on oil that we have today.
+  In his farewell address, President Dwight D. Eisenhower reflected on 
+the spending he believed to be excessive. His words then are all the 
+more powerful in today's out of control environment: ``As we peer into 
+society's future,'' he said, ``we--you and I, and our government--must 
+avoid the impulse to live only for today, plundering, for our own ease 
+and convenience, the precious resources of tomorrow. We cannot mortgage 
+the material assets of our grandchildren without risking the loss also 
+of their political and spiritual heritage. We want democracy to survive 
+for all generations to come, not to become the insolvent phantom of 
+tomorrow.''
+  And yet, I say to my colleagues, if we cannot change, if we will not 
+change, we risk precisely that--becoming the insolvent phantom of 
+tomorrow. I wonder what President Eisenhower would think of this mess. 
+But, then, perhaps
+
+[[Page S14111]]
+
+others have contemplated the same question. After all, this bill 
+includes a $1.7 million earmark for a memorial on the National Mall 
+that would honor none other than Dwight D. Eisenhower.
+  Mr. GREGG. Mr. President, we are going back and forth. And I think 
+there was a tacit understanding Senator Salazar would be next.
+  Mr. McCAIN. Mr. President, will the Senator from Colorado yield me 30 
+seconds after he is recognized?
+  The PRESIDING OFFICER. The Senator from Colorado.
+  Mr. SALAZAR. Mr. President, I yield 30 seconds to my friend from 
+Arizona.
+  The PRESIDING OFFICER. The Senator from Arizona.
+  Mr. McCAIN. Mr. President, I ask unanimous consent for the Senator 
+from Colorado to yield me 30 seconds.
+  The PRESIDING OFFICER. He has yielded you 30 seconds.
+  Mr. McCAIN. Mr. President, I have brought it up, I say to my friend 
+from New Hampshire, because you cannot take away with one hand and give 
+with the other. What we are doing in this very vital Defense 
+appropriations bill, again, is larded down with unnecessary, unwanted, 
+unessential, disgraceful spending that I find unacceptable. As the 
+Senator from Oklahoma said, we are going to start doing something about 
+it, and the sooner the better.
+  I thank my friend from Colorado.
+  The PRESIDING OFFICER. The Senator from Colorado.
+  Mr. SALAZAR. Mr. President, let me at the outset say to my friend 
+from Arizona and my friend from Oklahoma that I think in the years 
+ahead, hopefully, we can embark on programs such as pay-go to make sure 
+that both on the revenue side and the expenditure side of the program 
+we are able to bring our budget into balance. I look forward to working 
+with them on those issues in the future.
+  Mr. President, I rise this afternoon to speak briefly, first, about 
+the spending reconciliation conference report. The spending 
+reconciliation conference report, from my point of view, falls short of 
+making sure we are funding the most significant priorities of the 
+American people.
+  Now, today, there will be debate about many of the points over which 
+there is disagreement. I wish to focus, very briefly, on two things 
+that, to me, are very essential in terms of what we prioritize and fund 
+in this Government for the American people.
+  First, with respect to the forgotten America--with respect to 
+agriculture, with respect to those counties and communities that are 
+out there in every one of our States all across this great land of 
+America, those communities that are mostly dependent on agriculture, 
+where rural economic development means one job at a time and sometimes 
+losing one or two jobs at a time, those communities that are withering 
+on the vine--when I look at this reconciliation measure, what we have 
+here is a $934 million cut for Conservation Programs. I do not think 
+that is standing up for the farmers who are so dependent on these very 
+important programs across America.
+  Secondly, we have a cut of roughly $400 million for rural 
+development. We think about counties such as some counties in my State. 
+In fact, my native county has an unemployment rate of close to 12 
+percent. We look at creating economic opportunities for those 
+communities. It is, from my point of view, a step in the wrong 
+direction to be taking money from rural development.
+  I think we, as a Senate, as a Congress, and the President of the 
+United States, should be putting more of a focus on these communities 
+that have been forgotten decade after decade. My hope is we are able to 
+change course on the future agenda for rural America.
+  Secondly, I wish to briefly comment on student programs. Student 
+programs in this budget we have before us are going to be cut $12 
+billion. Some of us understand the importance of what student programs 
+have done for all of us. I come from a family where we have eight 
+first-generation college graduates. Born, like some other Members of 
+this Chamber, into humble circumstances, we did not have electricity 
+and we did not have telephones when we were growing up. But we had 
+parents who strongly believed in education, and we had an America that 
+said: There is an America of opportunity for everyone regardless of 
+your background. The result of that was that all eight of us became 
+first-generation college graduates.
+  Yet when you look at this budget that is before us today, it will cut 
+$12 billion from student programs. To me, that is a disinvestment in 
+America's future. It is something that causes me to say I will vote 
+against this reconciliation measure that is before us today.
+  Mr. President, in the time remaining, many comments have been made on 
+the PATRIOT Act. I will make a few brief comments on that this 
+afternoon. I see my great friend from Pennsylvania, Senator Specter, 
+who has labored on this matter for a long time.
+  I step aside to no one in my own desire to fight the terrorist threat 
+that we face in America and in my support for giving my brothers and 
+sisters in law enforcement and our Federal agencies, including the FBI, 
+all the authority they must have in order to keep America safe. We need 
+to reauthorize the PATRIOT Act. That is my goal. I believe that is our 
+responsibility as a Congress.
+  Mr. President, I believe that the political games surrounding the 
+debate over the last several weeks are not worthy of this body, not 
+worthy of America. Instead of a reasonable debate between patriots on 
+how best to reauthorize the PATRIOT Act, we get political threats and 
+our patriotism is questioned. The President of the United States says 
+that Senators wanting to protect the Constitution are acting 
+irresponsibly. These assertions, in my view, are wrong. The 
+Constitution still matters today. Our liberties still matter. If 
+someone does not believe these things, I believe they are wrong. There 
+can be no greater patriot than the Republicans and Democrats who come 
+together to fight for upholding principles of our Constitution and 
+giving law enforcement the tools they need to protect our homeland.
+  Senator Gregg, one of the fiercest defenders of the second amendment 
+in this Senate is a true patriot. Senator Hagel, one of this body's 
+distinguished military veterans, is a true patriot and I am proud of 
+him. Senators Murkowski, Sununu, Feingold, and Durbin are all good 
+patriots. All of my colleagues who have been working to try to come to 
+some resolution, I believe, are doing the right thing because they are 
+standing up to protect America's freedoms as enshrined in our 
+Constitution.
+  Mr. President, I believe we can do what is the responsible thing, and 
+with the potential expiration of the PATRIOT Act at the end of 2005 
+under current law, the responsibility lays with the White House and 
+with this body to make sure we extend the PATRIOT Act so we can 
+continue to come to a conclusion with respect to a PATRIOT Act that 
+both protects the civil liberties of Americans and at the same time 
+gives law enforcement the tools they need.
+  How much time do I have remaining?
+  The PRESIDING OFFICER. The Senator has spoken for 7 minutes. The 
+Senator has 3 minutes remaining.
+  Mr. SALAZAR. Let me point to two provisions that have been debated 
+widely in this body on the PATRIOT Act. The first is section 215 of the 
+PATRIOT Act, which deals with firearms, business records, and medical 
+records. The conference report that came out basically set a standard 
+that says it is the relevance. My view and legal reading of that 
+provision of the statute is that it would allow for fishing expeditions 
+into your private records, into your business records, into the records 
+of gun owners and gunshops.
+  For example, in my State, I think about a business named The Rocky 
+Mountain Gun and Ammo Shop. Well, if you have a business record by 
+having conducted some transaction with that particular shop, then those 
+business records become available to the Federal Government without you 
+ever having any knowledge that in fact the Federal Government has gone 
+after those records. In addition to that, besides having the 
+opportunity to access those records----
+  Mr. SPECTER. Will the Senator from Colorado yield for a question?
+  Mr. SALAZAR. I only have 2 minutes left. Through the Chair, I will 
+make my 2 remaining points and I will yield for a question.
+  That Rocky Mountain gun shop business would also be subjected to a 
+permanent gag order, and there is jurisprudence in our case law that 
+says that
+
+[[Page S14112]]
+
+those permanent gag orders in fact are violative of the first 
+amendment.
+  I believe in the Senate legislation that we approved unanimously with 
+100 Senators, Republicans and Democrats, that moved those issues 
+forward in a manner that would have protected the civil liberties of 
+Americans under the section 215 provisions of the PATRIOT Act.
+  With respect to national security letters, I have the same concerns, 
+and that is with respect to the 30,000 national security letters that 
+go out--the question and the reality that there is currently no court 
+review of those national security letters. Second of all, there is no 
+avenue for relief with a permanent gag order that applies to the 
+recipients of the permanent gag order.
+  With that, I yield to my friend from Pennsylvania.
+  Mr. SPECTER. Mr. President, I ask unanimous consent that I might be 
+permitted to speak for 10 minutes.
+  The PRESIDING OFFICER. Is there objection?
+  Mr. CONRAD. Mr. President, let me say, reserving the right to object, 
+we had made a commitment to other Senators in terms of an order here. 
+The next Senator to be recognized is Senator Byrd on our side. I am 
+informed that he is on his way here. I would be constrained to object. 
+I would be happy to work with the leader on that side to work out an 
+order.
+  Mr. SPECTER. Mr. President, I ask unanimous consent to speak until 
+Senator Byrd arrives.
+  Mr. CONRAD. I have no objection.
+  The PRESIDING OFFICER. The Senator from Pennsylvania is recognized.
+  Mr. SPECTER. Mr. President, I had sought to discuss with the Senator 
+from Colorado some of the provisions of the PATRIOT Act. In view of the 
+limited time, I will make a few comments.
+  It is my hope that we can yet pass the conference report and the 
+PATRIOT Act. When cloture was turned down on Friday, I reached out on 
+Saturday to see if we could find some way to come to some 
+agreements while the House was in town where we could have gotten some 
+modifications on the conference report. That is not possible now; the 
+House is out of session. There was no one in the House to have an 
+extension of time. Senator Frist has said publicly, again, within the 
+hour, that he is not going to agree to an extension of time. The 
+President said he is not going to sign an extension of time. So I think 
+what we are faced with at the moment is that we can either sign the 
+conference report, pass the conference report or the act is going to 
+expire.
+
+  That is not my wish. I have made every effort to turn, twist, and go 
+sideways and backward and forward to get it worked out. I think where 
+we are now is that it is going to take this conference report or it is 
+going to expire.
+  I talked to the majority leader about having another cloture vote. If 
+there would be 7 more Senators who would join the 53 who voted for 
+cloture, we could get it done. I don't disagree with the Senator from 
+Colorado who says that what has gone on here is, in some respect, 
+unworthy of the Senate. The matter has spiraled out of control to where 
+we are.
+  I came to the Chamber to quote from Benjamin Franklin when he 
+addressed the Constitutional Convention in 1787. We are about to have 
+the 300th anniversary of his birth. America is very proud of Ben 
+Franklin--Philadelphia especially. He came from Boston to Philadelphia. 
+I came from Russell, Kansas, to Philadelphia. That is where the 
+similarities end. We are both carpetbaggers who came to Philadelphia. 
+Franklin had a message for the delegates to the Constitutional 
+Convention, and I am going to read only part of it because I know 
+Senator Byrd is on his way, and I am constrained to stop when he 
+arrives.
+  This is what Benjamin Franklin said to the delegates at the 
+Constitutional Convention, and it applies to the PATRIOT Act. His 
+message is that it is not perfect, it hasn't satisfied everybody, but 
+it is the best we can do, so let's do it. This is what he said:
+
+       Mr. President, I confess that there are several parts of 
+     this Constitution which I do not at present approve. But I am 
+     not sure I shall never approve them; for having lived long, I 
+     have experienced many instances of being obliged by better 
+     information, or fuller consideration, to change opinions even 
+     on important subjects, which I once thought right, but found 
+     to be otherwise. It is therefore that the older I grow, the 
+     more apt I am to doubt my own judgment, and to pay more 
+     respect to the judgment of others.
+
+  Franklin goes on to say:
+
+       I doubt too whether any other Convention we can obtain, may 
+     be able to make a better Constitution. For when you assemble 
+     the number of men to have the advantage of their joint 
+     wisdom, you inevitably assemble with those men, all their 
+     prejudices, their passions, their errors of opinion, their 
+     local interests, their selfish views. From such an assembly 
+     can a perfect production be expected? It therefore astonishes 
+     me, Sir, to find this system approaching so near to 
+     perfection as it does;
+
+  Then he concludes with this paragraph:
+
+       On the whole, Sir, I can not help expressing a wish that 
+     every member of the Convention who may still have objections 
+     to it, would with me, on this occasion doubt a little of his 
+     own infallibility, and to make manifest our unanimity, put 
+     his name to this instrument.
+
+  It is not exactly the same. The Senator from Minnesota, who is 
+presiding, is not George Washington, and I am not Benjamin Franklin. 
+But these are very wise words. I would ask if there are any of our 
+colleagues who are listening or any of our staff members of our 
+colleagues who are listening who would be willing to take up the 
+question of changing a vote. They might have to eat a little crow. They 
+might have to lose a little face. Maybe it is worth it for the welfare 
+of the country.
+  There can always be amendments to the act. I am not making any 
+commitments to any changes, but the Judiciary Committee will consider 
+them. This act will not be engraved in granite. There will be an 
+opportunity for changes to be made--again, no commitments--but when we 
+are faced with the alternative of either having the conference report 
+or no act, I think it is pretty clear what the conclusion ought to be. 
+I have talked to some of my colleagues earlier today who don't like 
+where we stand now, who don't want the responsibility for not having an 
+act. So it takes seven. I will be around all day, all day tomorrow. We 
+could vote, as the majority leader has said, on a motion for 
+reconsideration if the body is inclined to do so, if there is some 
+opportunity to adopt the conference report.
+  Mr. President, I ask unanimous consent that the full text of 
+Franklin's statement be printed in the Record.
+
+             Benjamin Franklin: On the Constitution (1787)
+
+       Mr. President: I confess that there are several parts of 
+     this constitution which I do not at present approve, but I am 
+     not sure I shall never approve them; for having lived long, I 
+     have experienced many instances of being obliged by better 
+     information, or fuller consideration, to change opinions even 
+     on important subjects, which I once thought right, but found 
+     to be otherwise. It is therefore that the older I grow, the 
+     more apt I am to doubt my own judgment, and to pay more 
+     respect to the judgment of others.
+       Most men indeed as well as most sects in Religion, think 
+     themselves in possession of all truth, and that wherever 
+     others differ from them it is so far error. Steele a 
+     Protestant in a Dedication tells the Pope, that the only 
+     difference between our Churches in their opinions of the 
+     certainty of their doctrines is, the Church of Rome is 
+     infallible and the Church of England is never in the wrong. 
+     But though many private persons think almost as highly of 
+     their own infallibility as of that of their sect, few express 
+     it so naturally as a certain French lady, who in a dispute 
+     with her sister, said "I don't know how it happens, Sister 
+     but I meet with no body but myself, that's always in the 
+     right. ``Je ne trouve que moi qui aie toujours raison.''
+       In these sentiments, Sir, I agree to this Constitution with 
+     all its faults, if they are such; because I think a general 
+     Government necessary for us, and there is no form of 
+     Government but what may be a blessing to the people if well 
+     administered, and believe farther that this is likely to be 
+     well administered for a course of years, and can only end in 
+     Despotism, as other forms have done before it, when the 
+     people shall become so corrupted as to need despotic 
+     Government, being incapable of any other.
+       (I doubt too whether any other Convention we can obtain, 
+     may be able to make a better Constitution. For when you 
+     assemble a number of men to have the advantage of their joint 
+     wisdom, you inevitably assemble with those men, all their 
+     prejudices, their passions, their errors of opinion, their 
+     local interests, and their selfish views. From such an 
+     assembly can a perfect production be expected? It therefore 
+     astonishes me, Sir, to find this system approaching so near 
+     to perfection as it does;) and I think it will astonish our 
+     enemies, who are waiting with confidence to hear that our 
+     councils are confounded like those of the Builders of Babel; 
+     and that our States are on the point of separation, only to 
+     meet hereafter for the purpose of cutting one another's 
+     throats.
+
+[[Page S14113]]
+
+       Thus I consent, Sir, to this Constitution because I expect 
+     no better, and because I am not sure, that it is not the 
+     best. The opinions I have had of its errors, I sacrifice to 
+     the public good. I have never whispered a syllable of them 
+     abroad. Within these walls they were born, and here they 
+     shall die. If every one of us in returning to our 
+     Constituents were to report the objections he has had to it, 
+     and endeavor to gain partisans in support of them, we might 
+     prevent its being generally received, and thereby lose all 
+     the salutary effects and great advantages resulting naturally 
+     in our favor among foreign Nations as well as among 
+     ourselves, from our real or apparent unanimity.
+       Much of the strength and efficiency of any Government in 
+     procuring and securing happiness to the people, depends, on 
+     opinion, on the general opinion of the goodness of the 
+     Government, as well as of the wisdom and integrity of its 
+     Governors. I hope therefore that for our own sakes as a part 
+     of the people, and for the sake of posterity, we shall act 
+     heartily and unanimously in recommending this Constitution 
+     (if approved by Congress and confirmed by the Conventions) 
+     wherever our influence may extend, and turn our future 
+     thoughts and endeavors to the means of having it well 
+     administered.
+       On the whole, Sir, I can not help expressing a wish that 
+     every member of the Convention who may still have objections 
+     to it, would with me, on this occasion doubt a little of his 
+     own infallibility, and to make manifest our unanimity, put 
+     his name to this instrument.
+
+  Mr. SPECTER. Mr. President, I see Senator Byrd entering the Chamber, 
+so I yield the floor.
+  Several Senators addressed the Chair.
+  The PRESIDING OFFICER. The Senator from New Hampshire.
+  Mr. GREGG. Mr. President, I ask for regular order, that we return to 
+the bill. As I understand it, Senator Specter was speaking in morning 
+business.
+  The PRESIDING OFFICER. Time was charged from the majority's time on 
+the bill. There was no consent request to do otherwise.
+  Mr. GREGG. My understanding is that Senator Specter asked to speak as 
+in morning business; am I incorrect in that?
+  Mr. SPECTER. That was my intention, Mr. President.
+  The PRESIDING OFFICER. The Senator asked to speak until Senator Byrd 
+arrived.
+  Mr. SPECTER. I did ask to speak, and it was my intention to have it 
+in morning business.
+  The PRESIDING OFFICER. Is there objection? Without objection, the 
+time is charged in morning business.
+  Mr. GREGG. It is my understanding that we are now going to Senator 
+Byrd, then Senator Ensign, and then going back to the other side.
+  The PRESIDING OFFICER. The Senator from North Dakota.
+  Mr. CONRAD. Mr. President, for the interest of colleagues, Senator 
+Byrd will be speaking for 15 minutes. Then we will go back to the 
+majority side. Then we will come back to this side with Senator 
+Lautenberg for 10 minutes, and then Senator Clinton for 10 minutes, and 
+then Senator Talent. This is not, I want to make clear, a unanimous 
+consent request. This is an advisory to our colleagues so that we can 
+manage this time efficiently.
+  Mr. GREGG. Mr. President, what is the time, if the Chair will advise 
+the majority and the minority?
+  The PRESIDING OFFICER. The majority has 1 hour 21 minutes remaining. 
+The minority has 1 hour 33 minutes remaining.
+  The PRESIDING OFFICER. The Senator from West Virginia.
+  Mr. BYRD. Mr. President, last week, I was pleased to join a strong 
+bipartisan majority of the Senate in support of a motion that 
+instructed budget conferees to strike an ill-conceived House provision 
+from the budget reconciliation bill. That provision sought to repeal 
+the Continued Dumping and Subsidy Offset Act, also known as CDSOA. Last 
+Thursday, the Senate voted overwhelmingly--overwhelmingly--by a vote of 
+71 to 20 to strike any repeal of CDSOA from the budget reconciliation 
+bill.
+  The Senate supported CDSOA. Why? Because the Senate recognized that 
+any repeal or attempt to abandon this trade law would be a travesty--a 
+travesty--on justice. The House agreed, and last Friday the House 
+passed a similar motion to instruct which contained, among other 
+things, language to strike repeal of CDSOA from the House-passed bill.
+  The vote on that successful House motion to instruct was 246 to 175. 
+What could be clearer than that? The House vote on that motion was 246 
+to 175. And yet--get this, hear me now--over the weekend--yes, over the 
+weekend literally in the dead of night when all was still, nothing was 
+stirring, in the dead of night--a small number of misguided House and 
+Senate conferees decided to turn their backs--turn their backs, on the 
+American worker.
+  Hear me out there, the American workers all over this country. Hear 
+me, hear me out there on the Great Plains. Hear me out there in the 
+river valleys. Hear me out there in the mountains of West Virginia. 
+Hear me out there in the great Rocky Mountains. Hear me out there on 
+the west coast, the American workers, the American workers.
+  So this small group decided to ignore the will--hear me--ignore the 
+will of both Houses of Congress. That was blatant, was it not? They 
+decided to repeal CDSOA after 2 years. What arrogance, what sheer, 
+unmitigated, raw arrogance. Fie on you. Shame, shame, shame. CDSOA was 
+enacted to save American manufacturing and our agricultural producers 
+from wave after wave after wave of unfairly traded foreign imports. Let 
+me say that again. Hear it again. Hear me again. CDSOA was enacted. 
+Why? To save American manufacturing and American agricultural producers 
+from wave after wave after wave of unfairly traded foreign imports. It 
+is one of the most successful trade programs ever enacted. Alleluia. It 
+enables small and medium-sized businesses and family-owned businesses 
+to invest in their futures.
+  This law preserves an increasingly rare commodity in these United 
+States, a vanishing breed, the American worker. Five years ago, a 
+bipartisan majority of the Senate approved this provision to reimburse 
+U.S. companies injured by unfair foreign trade. Let me say that again. 
+Five years ago, a bipartisan majority, Republican and Democrat, of the 
+Senate approved this provision to reimburse U.S. companies injured by 
+unfair foreign trade.
+  Under the law, each year Customs distributes duties collected from 
+unfair imports to American companies, to American workers, who can 
+prove they have been materially injured by unfair trade. What could be 
+better than that? What could be more fair? What could be more just than 
+that? Under the law, each year Customs distributes duties collected 
+from unfair imports to American companies and workers who can prove 
+that they--these American companies and workers--have been materially 
+injured by unfair trade.
+  CDSOA was enacted to restore conditions of fair trade so that jobs 
+that should stay in the United States are not destroyed by unfair 
+foreign competition. What is wrong with that? What is wrong with that? 
+Hear me.
+  While the amounts distributed under the program are not large, from a 
+budget perspective, approximately $226 million for fiscal year 2005, 
+the law has been critically important--hear me--the law has been 
+critically important to American companies and American workers hurt by 
+dumped and unfairly subsidized imports. I am speaking on behalf of 
+American companies and American workers who have been injured by these 
+unfair imports, these subsidized imports.
+  To receive reimbursement under the law, companies certify in writing 
+that they have made qualifying expenditures in support of their workers 
+and their facilities. The law reimburses them only for those 
+expenditures. I will say that again. The law reimburses them only for 
+those expenditures in support of their workers and facilities. The 
+Customs Service verifies any claims submitted to make certain that 
+requests for reimbursement are valid. Consequently, there are stringent 
+safeguards in place under the law to make certain that funds are 
+distributed under the law legally, honestly, and fairly.
+  Critics of the law--yes, listen to them, critics of the law--argue 
+that the WTO has ruled against it so we should abandon it. Shame. But 
+the WTO had no legal authority to rule against this law.
+  This means that the WTO's ruling was beyond the scope of its legal 
+mandate, and to this day, Tuesday, the 20th day of December in the year 
+of our Lord 2005, the WTO has never articulated a legitimate argument 
+justifying any need for the United States to repeal this law. They have 
+not done it. They cannot do it. They cannot do it. They have not done 
+it.
+
+[[Page S14114]]
+
+  Nearly 800 American companies and workers in nearly every State of 
+the Nation--not just in West Virginia, not just in the steel trade in 
+West Virginia or Pennsylvania or Kentucky or Ohio, workers in nearly 
+every State of the Nation receive distributions under this law's 
+provisions. It is critical to family-owned businesses such as Warwood 
+Tools in Wheeling, WV, and to Wheeling-Pittsburgh Steel and to Weirton, 
+WV. It is equally important to the thousands of steelworkers in 
+Alabama, Arkansas, Connecticut, Illinois, Indiana, Kentucky, Louisiana, 
+Michigan, Nebraska, New York, North Carolina, Ohio, Pennsylvania, South 
+Carolina, Texas, Utah, Washington, Wisconsin, and elsewhere across the 
+Nation. They, and all hard-working Americans, deserve to continue to 
+receive these funds so long as foreign traders keep on dumping 
+illegally. Illegally. If our trading partners do not like this trade 
+law, the solution is easy. The solution is not to repeal the law. If 
+our trading partners are offended by the law, I have only two words for 
+them. Hear me, only two words for them: Stop dumping. It is that 
+simple: two little words: Stop dumping. If you, our trading partners, 
+are offended by the law, bless your hearts, I have two words for you, 
+our trading partners that are dumping: Stop dumping.
+
+  The United States is working to complete negotiations in the Doha 
+Round of trade talks. What kind of leverage can we maintain over other 
+countries in those talks if we meekly agree unilaterally to disarm, to 
+repeal one of the strongest and most successful trade remedy laws ever 
+enacted in the United States? What a foolhardy, what a simple-minded 
+stunt.
+  Why don't we hand them a sharp stick to poke our eyes out?
+  That would make about as much sense as repealing our trade laws. Now 
+is the time to hold foreign unfair traders more accountable, not less--
+more accountable, not less.
+  I urge my fellow Senators, I urge my colleagues in the Senate to join 
+me in voting against this budget bill which contains language that 
+would repeal this critical trade law.
+  While the drafters of the repeal of this law argue that it will 
+permit certain duty distributions to continue--at least for the next 2 
+years--the text is not exactly clear on this point. So I ask my 
+colleagues: Why tamper with a law that works? There is no reason to 
+undermine the statute as it is now written. There is no need to repeal 
+the law today. There is no need to repeal the law 2 years from now, or 
+ever.
+  Therefore, with all my heart, I urge my colleagues to join me in 
+voting against the budget reconciliation bill, to make certain that one 
+of America's most successful trade laws stays on the books as it is 
+currently written.
+  I yield the floor.
+  The PRESIDING OFFICER. The Senator from Nevada.
+  Mr. ENSIGN. Mr. President, I rise to speak in favor of the deficit 
+reduction bill that we have before us after many hours of people 
+working together, compromising. You could go through the bill and pick 
+out parts that you like and you don't like, so I want to put this in a 
+bigger picture. I want to step back and look at what we are dealing 
+with as a country.
+  Over the next 5 years, we were slated to spend, before this bill, and 
+if this bill does not go into effect, we will spend $13.8 trillion. If 
+we pass this bill, this deficit reduction bill, we will still spend 
+$13.76 trillion. Those numbers are impossible to understand. 
+Impossible. They are too big. Let's try to get our arms around a little 
+bit of a number.
+  I always like to talk about $1 trillion with high school kids so they 
+can understand it. I always ask them: Do you think a million dollars is 
+a lot of money? And of course a lot of us think a million dollars is a 
+lot of money. I ask them: If you spent a million dollars a day, do you 
+think you would be spending a lot of money? And the unanimous answer of 
+high school kids is: Of course that is a lot of money. I tell them that 
+to get to $1 trillion, not $13.76 trillion but just $1 trillion, you 
+would have to start spending a million dollars a day, start at the time 
+Jesus was born, go until today and you still would not be at $1 
+trillion.
+  What we are trying to do is to shave and slow the rate of growth of 
+spending a tiny bit. It is almost insignificant.
+  But what is significant in the bill is that we are starting to take 
+on entitlement spending. Entitlement spending now is two-thirds of the 
+Federal budget, and it is slated to grow into an ever-increasing share 
+of the Federal budget in the future. We all know that. Republicans, 
+Democrats, it doesn't matter who looks at the numbers, entitlements 
+will gobble up the entire Federal budget.
+  If you study democratic forms of government--and I know Senator Byrd, 
+who has spoken, has done a lot of this--if you study democratic forms 
+of government, they always collapse due to two reasons, and they happen 
+in a particular order. The first thing that happens is there is a moral 
+collapse in the country, and it is always followed by an economic 
+collapse.
+  If you think about it, it makes sense that it happens in that order. 
+You see, if you have people who are not moral enough to think about the 
+next generation, what they do is they elect people to office who will 
+give them what they want by borrowing from the Treasury; in other 
+words, borrowing from the next generations. When the debt gets too 
+large, this debt gets so large the economy cannot handle it and you end 
+up with all kinds of economic problems and finally an economic 
+collapse.
+  We are headed for that if we do not get entitlements under control. 
+That is why this bill, even though it is a small amount of money--if 
+you listen to the other side, you would think the sky is falling, as 
+far as spending is concerned.
+  This is a tiny, insignificant almost, amount of money. But it is 
+significant in that we are finally starting to tackle entitlement 
+spending. That is why this bill is so important.
+  So when we hear the debate on both sides, boil it down to this very 
+simple thing. Are we going to care enough about the next generation to 
+finally start saying no to some of this big Federal Government 
+spending? I believe it is time this body stands up. Instead of being 
+selfish, instead of giving our voters what they want so they keep 
+sending us back here, let's stand up and do what is right and think 
+about future generations.
+  I yield the floor.
+  The PRESIDING OFFICER. The Senator from North Dakota.
+  Mr. CONRAD. Mr. President, for the information of my colleagues, 
+Senator Wyden is next. We have been told he is on his way. We hope he 
+will appear shortly. Then we will have Senator Grassley at 
+approximately 4 o'clock. He will go for 20 or 30 minutes, or something 
+like that.
+  At this point, maybe it is an appropriate time to try to sum up some 
+of the arguments we have tried to make with respect to this budget.
+  The matter before us reduces spending by $40 billion over a 5-year 
+period. During that period, we will be spending $14.3 trillion.
+  In the first year, this package saves $5 billion. The tax cuts the 
+House wants to apply in that same period are $21 billion. That doesn't 
+reduce the deficit. It increases the deficit.
+  The thing that is I think most disturbing about this budget plan is, 
+according to its advocates, the debt of the country increases by $600 
+billion or $700 billion a year, each and every year of the 5 years of 
+this budget. That is unsustainable. We are not making any serious 
+progress. In fact, this package makes things worse.
+  I see Senator Wyden is here.
+  I yield up to 15 minutes to Senator Wyden.
+  The PRESIDING OFFICER. The Senator from Oregon is recognized.
+  Mr. WYDEN. Mr. President, I thank the distinguished Senator from 
+North Dakota.
+  I have come to the floor this afternoon to bring to the Senate's 
+attention a new development with respect to the Arctic Refuge--a 
+development that has taken place in the last 24 hours that I think has 
+great implications for the budget work the Senate is doing here this 
+week. It also speaks volumes about the lack of consumer protection we 
+are seeing in our country generally.
+  We have heard a lot in the past few days----
+  Mr. GREGG. Mr. President, will the Senator yield for a question? I 
+want the body to know, to the extent people are listening outside, the 
+ANWR language is not in this bill. The Senator is speaking to another 
+bill which will follow. Is that correct?
+  Mr. WYDEN. Mr. President, the distinguished Senator from New 
+Hampshire is correct in a technical sense.
+
+[[Page S14115]]
+
+But I am going to discuss something that will have, in my view, great 
+ramifications for the Federal budget generally, and I am going to 
+outline that briefly this afternoon.
+  We have heard a lot during the past few days about the rights of 
+Alaskans as an argument to justify drilling for oil in the Arctic 
+National Wildlife Refuge. But yesterday, the Alaska Gasline Port 
+Authority, an Alaska state-chartered agency, charged two of the 
+companies that have drilling rights in the Arctic Refuge with 
+conspiring to manipulate the State of Alaska's energy market. The 
+Alaska Gasline lawsuit charges that ExxonMobil and BP withheld supplies 
+of natural gas to gain market power over supply. This is a very 
+significant development with, in my view, great implications for Arctic 
+oil drilling.
+  If these allegations are correct--that ExxonMobil and BP withheld 
+Alaskan gas supplies from the market--what would stop these companies 
+from withholding oil from Arctic drilling from the market? If Alaskan 
+oil supplies are withheld from the market, that does nothing to reduce 
+our Nation's dependence on foreign oil. It also produces no revenue to 
+the Federal Treasury that supporters of Arctic oil drilling claim fund 
+hurricane relief and other programs.
+  These serious charges about oil company manipulation of Alaska's 
+energy supplies are not made by some leftwing group but by an agency 
+chartered by the State of Alaska.
+  An article in today's Wall Street Journal quotes Walter Hickel, a 
+former Republican Governor of Alaska, as saying the lawsuit against 
+these major oil companies ``reveals a story of extreme corporate greed 
+that has abused Alaska and punished the American consumer.''
+  I ask unanimous consent that a copy of this article be printed in the 
+Record.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+       An Alaska state authority charged that BP PLC and Exxon 
+     Mobil Corp., the world's largest publicly traded oil 
+     companies, are conspiring to withhold natural gas from U.S. 
+     markets and reinforce their market power over North Slope 
+     supplies.
+       In an antitrust suit filed late yesterday in federal court 
+     in Fairbanks, the Alaska Gasline Port Authority alleged that 
+     a series of illegal agreements and acquisitions by the 
+     companies has choked the flow of the state's vast gas 
+     reserves. It seeks to stop the companies' alleged collusion 
+     through a court injunction and unspecified damages.
+       Exxon and BP spokesman both denied the accusations that the 
+     companies were trying to delay exports of gas from Alaska. 
+     ``This is another sobering reminder of our litigation-crazed 
+     society. This suit is frivolous and it's totally without 
+     merit,'' says Exxon spokesman Russ Roberts.
+       The lawsuit is the latest twist in a 30-year effort to move 
+     the estimated 37 trillion cubic feet of natural gas within 
+     Alaska's sprawling oil field, enough to satisfy two year's 
+     worth of U.S. demand. There is currently no significant 
+     natural-gas production in the North Slope; gas now produced 
+     by oil wells is injected into underground reservoirs. The 
+     dispute comes at a time when U.S. natural-gas prices are 
+     soaring.
+       The port authority, created in 1999 to build a gas 
+     pipeline, says it has $18 billion in federal guarantees and 
+     the permits to build a pipeline from the North Slope to 
+     Valdez in the southern part of the state, where gas would be 
+     liquefied and loaded onto tankers. But BP and Exxon favor an 
+     alternative, longer pipeline through Canada, a pipeline over 
+     which they would have more control, the authority charges.
+       Talks between the state and producers on building the 
+     longer pipeline have stalled. BP and Exxon Mobil, which 
+     produced a combined 1.7 trillion cubic feet of gas last year 
+     in the U.S., about 9% of the domestic total, have balked at 
+     the state's terms; a third producer ConocoPhillips, agreed to 
+     the state's basic terms in October. The natural-gas pipeline 
+     disputes aren't related to the battle in Congress over 
+     opening the Arctic National Wildlife Refuge to oil and gas 
+     exploration.
+       The Alaska Gasline Port Authority said that BP's refusal to 
+     agree to ship its natural gas and Exxon Mobil's failure to 
+     develop its huge fields amounts to ``warehousing'' a 
+     desperately needed resource in an effort to drive up prices. 
+     ``Gas prices are at record highs, and big oil companies still 
+     won't move the gas to market,'' authority Chairman Jim 
+     Whitaker said in a statement.
+       BP and Exxon Mobil argue a pipeline through Canada to the 
+     Midwest would increase the value of the gas by delivering it 
+     directly to gas-hungry markets. They say that the 
+     alternative, shorter route to Valdez--which allows for a spur 
+     to send gas through Canada--would generate less revenue and 
+     expose the $20 billion project to greater risk. BP and Exxon 
+     also expect to have a bigger financial stake in the longer 
+     pipeline than the one favored by the Alaska Gasline Port 
+     Authority.
+       BP spokesman David MacDowell said, ``We are working as fast 
+     as we can to get a clear and durable fiscal contract with the 
+     state of Alaska so that this natural-gas project can move 
+     forward to the next stage.'' As for the Valdez option, he 
+     said, ``we've spent millions of dollars over the years trying 
+     to make an Alaskan LNG [liquefied natural gas] project work, 
+     but it doesn't work.''
+       He defended producers' ownership of pipelines, saying that 
+     ``no one else is as motivated as the resource owners to build 
+     the lowest cost, most efficient transportation system 
+     possible.''
+       Exxon says negotiations have been continuing for months and 
+     are in an advanced stage. ``This is one of the largest, most 
+     complex industrial projects ever considered by any 
+     industry,'' says Mr. Roberts, the Exxon spokesman, and 
+     negotiations over the voluminous details should run their 
+     course, rather than be litigated in the courts.
+       The delays in exploiting Alaska's natural gas have become a 
+     political issue from Alaska to Washington. Walter Hickel, a 
+     former Republican governor of Alaska and former U.S. 
+     Secretary of the Interior, said the authority's suit 
+     ``reveals a story of extreme corporate greed that has abused 
+     Alaska and punished the American consumer.''
+       Mr. Hickel, a longtime supporter of Alaska gas development, 
+     said that ``the producers have conspired for years to delay 
+     the export of Alaska liquefied natural gas.''
+       House Speaker Dennis Hastert has said he expected energy 
+     companies to ``do their part to help ease the pain'' of high 
+     oil and gas prices, and specifically cited BP and Exxon 
+     Mobil's failure to come to terms with Alaska over the 
+     proposed pipeline.
+       The authority's legal team includes David Boies, of Boies 
+     Schiller & Flexner in New York, and Charles Cole of 
+     Fairbanks, the former Alaska attorney general.
+       In a news conference last night, Mr. Boies said the two 
+     companies had illegally conspired to refuse to deal with the 
+     authority, as part of a broad effort ``to preserve the 
+     scarcity that has driven natural-gas prices to historic 
+     highs.''
+
+  Mr. WYDEN. Mr. President, the legislative rider attached to the 
+Defense appropriations conference report that would open the Arctic 
+Wildlife Refuge to drilling gives the same two companies the Alaska 
+Gasline Port Authority charges with colluding to withhold Alaskan gas 
+supplies a tremendous sweetheart economic deal.
+  In addition to being an abuse of the legislative process, attaching 
+this rider to the Defense appropriations bill, in my view, is bad 
+environmental policy, bad budget policy, and most particularly bad 
+energy policy. As a result of this rider, the Defense spending bill, 
+which contains money critical for our troops, is getting held hostage 
+for special interest legislation for the oil industry. The rider that 
+was grafted onto the Defense bill provides unprecedented waivers for 
+Federal environmental and other laws, including the National Wildlife 
+Refuge Act, the National Environmental Policy Act, and the Federal 
+Mineral Leasing Act.
+  The Arctic drilling legislation also overrides current law to reduce 
+the State of Alaska's share of the revenue produced by Arctic oil 
+drilling.
+  Under current law, 90 percent of those receipts would be paid to the 
+State of Alaska and the remaining 10 percent to the U.S. Treasury.
+  The rider that was plucked from the budget reconciliation spending 
+bill and grafted onto the Defense appropriations conference report 
+changes the allocation in current law to permit the Federal Government 
+to retain 50 percent of the receipts. The State of Alaska has 
+threatened to sue to get the full 90 percent of the revenues. If that 
+lawsuit succeeds, then 40 percent of the revenues that the Defense 
+spending bill assumes will be available for hurricane recovery, LIHEAP, 
+and other purposes will not be there at all. If the State loses, then 
+its rights will have successfully been overridden. One way or another, 
+either the State of Alaska or the Federal taxpayer is going to end up 
+getting shortchanged.
+
+  Most importantly, if the charges we have heard in the last 24 hours 
+of withholding gas supply are true, there would be nothing to stop the 
+same oil companies the Alaska Gasline Port Authority is charging with 
+gas market manipulation from manipulating Alaskan oil markets. Nothing 
+in the rider on the Defense bill would in any way prevent the companies 
+from engaging in the same conduct they have been charged with by an 
+Alaska-chartered agency with respect to oil drilling in the Arctic.
+  The actions of the Alaska Gasline Port Authority this week against 
+ExxonMobil and BP, in my view, raise a host of fundamental questions. 
+First, whose rights is the Arctic drilling rider
+
+[[Page S14116]]
+
+supposed to uphold? The State of Alaska? Or the major oil companies? 
+How will drilling in the Arctic truly affect our Nation's energy 
+security? What are the real budget revenues that Arctic drilling will 
+produce?
+  The Congressional Budget Office's revenue estimates for Arctic oil 
+drilling assume that the oil companies will move quickly to develop 
+oilfields in the Arctic Refuge. These assumptions do not factor in the 
+prospect of oil companies choking off the flow of oil, as the Alaska 
+Gasline Port Authority alleged is being done by ExxonMobil and BP now 
+with Alaskan gas supplies.
+  The other question that begs to be asked about the Alaska Gasline 
+lawsuit is where in the world was the Federal Government, particularly 
+the consumer protection regulators, who are supposed to be policing the 
+kind of collusion that is alleged in the lawsuit of the Alaska Gasline 
+Port Authority this week? What has the Federal Trade Commission, the 
+so-called consumer watchdog agency, done to stop what former Alaska 
+Governor Hickel has called ``extreme corporate greed that has abused 
+Alaska and punished the American consumer.''
+  The response is, unfortunately, the same as what we have seen from 
+the Federal Trade Commission over the last few years when it comes to 
+oil company mega mergers, price gouging at the gas pump and other 
+anticompetitive practices. The consumer watchdog seems to be taking a 
+long winter nap when it comes to energy. This is yet another example of 
+the Federal Trade Commission's perpetual hibernation when it comes to 
+protecting the consumer who is getting clobbered by escalating energy 
+costs.
+  If an agency of the State of Alaska, with no more than a handful of 
+lawyers, is able to take action against collusion by the world's 
+largest oil companies, why isn't the Federal Government's premier 
+consumer protection agency, with scores of lawyers, able to protect 
+consumers?
+  Last week I spoke at length on this issue. In fact, the distinguished 
+Presiding Officer of the Senate was in the chair at that time. He is 
+very much aware I intend to continue to raise my concerns about why the 
+Federal Trade Commission keeps ducking this critical consumer 
+protection issue.
+  This latest news about the Alaska Gasline Port Authority bringing an 
+antitrust action against major oil company collusion in energy markets, 
+in my view, is especially troubling. It calls out for further 
+investigation by both the Congress and the Federal Trade Commission. In 
+my view, it is the Congress's job to investigate whether the claims 
+made by the advocates of Arctic oil drilling hold up, given what the 
+Alaska Gasline Port Authority is alleging this week about two of the 
+oil companies that hold Arctic drilling rights.
+  I yield the floor.
+  The PRESIDING OFFICER. The Senator from Iowa.
+  Mr. GRASSLEY. Mr. President, I yield myself such time as I may 
+consume but not more than 30 minutes.
+  The PRESIDING OFFICER (Mr. Thune). The Senator from Iowa.
+  Mr. GRASSLEY. Mr. President, before I comment on the Senate Committee 
+on Finance portion of the Deficit Reduction Act, I will go over some 
+ground that has been covered by other Members on our side of the aisle 
+through this chart or similar charts, to point out how three 
+entitlement programs--Social Security, Medicare, and Medicaid--as a 
+percentage of the gross domestic product are going to continue to grow 
+and grow and grow until reaching a point where it squeezes out almost 
+everything else in the Federal budget.
+  This is already legislated. The red on the chart, if we do nothing, 
+is where we end up.
+  This bill is doing something about that problem. But we ought to be 
+doing a lot more.
+  I start out by saying what we are doing in this entire deficit 
+reduction package is reducing expenditures of the Federal Government 
+over the next 5 years. Five years is the length of the budget 
+reconciliation changes that we are making. During that 5-year period of 
+time, the Federal Government will spend about $12.5 trillion. We are 
+cutting out of that $12.5 trillion, a 5-year figure, about $10 billion 
+as shown in the red part of the chart.
+  The reason I try to put that in perspective, one-quarter of 1 percent 
+is at $40 billion, compared to the $12.5 trillion. That is a spit in 
+the ocean compared to what the problem is.
+  I point out two things. We will hear from Members of this Senate, 
+mostly from the other side of the aisle, that it is catastrophic we are 
+making changes to one-quarter of 1 percent in all the money the Federal 
+Government is going to spend over the next 5 years. It is catastrophic. 
+The world is coming to an end, we will hear.
+  Then, from the other point of view, considering what these problems 
+are that we know we face today--and no Republican or Democrat disagrees 
+with that--for what we are doing we ought to be somewhat ashamed we 
+cannot do more than one-quarter of 1 percent of all the money the 
+Federal Government is going to spend in the next 5 years.
+  For the average American who votes and thinks that Washington, DC, is 
+on some other land from the standpoint of what we do in the Congress, 
+they would say to both sides of the argument that the world is coming 
+to an end, that we are going to eliminate or reduce one-quarter of 1 
+percent or to those that are bragging--I will be in that category of 
+bragging--about doing something about one-quarter of 1 percent, they 
+are going to say, you guys have to be crazy if you cannot find in all 
+the money that the Federal Government spends, some way of saving more 
+than one-quarter of 1 percent of the $12.5 trillion that will be spent 
+over the next 5 years. They would probably say you ought to go out and 
+find some other work where you can accomplish something.
+  Those are the extreme points of view. That is what I think the public 
+is probably going to say to us at our town meetings when we go back 
+home if we are going to brag about this, or maybe to the people that 
+are going to complain about it, asking if we are really doing much. It 
+is similar to all the labor that an elephant will go through to give 
+birth and then give birth to a mouse. That is what we have here, a 
+mouse compared to the elephant of a problem.
+  I take an opportunity to explain what is in the Senate Committee on 
+Finance portion of this bill. Senator Gregg needs to be complimented 
+for getting us where we are today on this conference agreement. What I 
+described, one-quarter of 1 percent of all money over the next 5 years, 
+$12.5 trillion worth, this is the first time we have gone through this 
+process in almost 10 years.
+  So we do not do this every year. And the public watching would say: 
+Why don't you do it every year? I wish I had a responsible answer for 
+that. But I think we ought to recognize Senator Gregg's involvement and 
+the involvement of all the chairmen of the committees in putting 
+together, over several months, this budget reconciliation package for 
+spending to achieve this goal, and achieving this goal regardless of 
+how small it might be.
+  It is important for the reason I have given you, that by all 
+accounts, the growth in entitlement spending has monumental 
+implications for our Nation's economic and financial strength.
+  The chart I just spoke about shows the Congressional Budget Office's 
+projections for mandatory spending, including Social Security, 
+Medicare, and Medicaid. According to this chart, by 2050 mandatory 
+spending will approach 30 percent of the Nation's gross domestic 
+product. That is 30 percent by 2050. This would push Federal spending 
+well above the levels that it has been throughout much of the post-
+World War II period, as evidenced by that straight line that goes 
+across that chart.
+  This might be, hopefully, a worst case scenario, but it is a 
+plausible scenario. The agreement that we are going to be voting on, 
+called the budget reconciliation package, begins to get at this 
+situation--the red on this chart--by achieving nearly $40 billion in 
+savings over the next 5 years. That includes $6.4 billion in net 
+Medicare savings and $4.7 billion in net Medicaid savings.
+  I actually hesitate to mention those amounts because for many of our 
+constituents it is hard to get past the numbers. To them, any 
+reduction--any reduction--even if it is only one-fourth of 1 percent, 
+is a bad reduction. But the policy--and we ought to be making decisions 
+in this body based upon sound
+
+[[Page S14117]]
+
+policy--the policy behind these reductions is sound, just as the policy 
+behind the numerous spending provisions in this entire package is 
+sound.
+  Throughout this process I have sought to reduce wasteful spending, 
+eliminate loopholes, and pay providers more accurately. I have sought 
+to advance policies that will ensure the availability of important 
+health care and social services, to update these programs to reflect 
+our Nation's changing needs, and also to promote the delivery of high-
+quality health care services.
+  The agreement makes some important improvements in the Medicare 
+Program, not the least of which is addressing a scheduled reduction in 
+payments to physicians, which could have led to access problems for 
+beneficiaries. The agreement builds on progress made 3 years ago that 
+linked increases in Medicare payments to hospitals to the reporting of 
+quality data.
+  I actually would have preferred to do more in the area of pay for 
+performance, and I will continue to push further for changes because we 
+just cannot sit back on this issue, as the private sector is moving 
+much faster than Government, particularly the major corporations of 
+America, in making sure they do their health care business with people 
+in the health care profession and institutions in the health care 
+profession that are going to deliver quality care. We have to be more 
+concerned about this than we have in the past in the Federal 
+Government.
+  Medicare is the single largest payer of health care in the Nation. 
+Taxpayers and beneficiaries deserve to get the highest value for every 
+Medicare dollar spent. Unfortunately, there is no question that today 
+we are not getting the most value for the taxpayer dollar.
+  The bill also takes steps to ensure access to quality care in rural 
+communities. It does this by reinstating special payment programs, such 
+as a 5-percent add-on for rural home health providers, the Medicare 
+dependent hospital program, and the hold-harmless payments for small 
+rural hospitals.
+  The conference agreement also includes coverage of valuable 
+preventive benefits not covered by Medicare. These preventive benefits 
+are important to prevent illnesses and to keep beneficiaries healthy.
+  This bill also saves beneficiaries and Medicare money by changing the 
+payment structure for durable medical equipment.
+  Now Medicare will only pay for DME services that are needed; that is, 
+after we get this passed.
+  I would like to look at Medicaid changes.
+  In our efforts to reform the Medicaid Program, we take some very 
+important steps, many of them recommended by a bipartisan group of our 
+Nation's Governors. Eventually, all 50 Governors made suggestions to us 
+in a unanimous agreement.
+  Let's just look at long-term care. In the very near future, a lot of 
+older people are going to need long-term care. Right now, Medicaid is a 
+primary payer for long-term care services. The Deficit Reduction Act 
+expands the Long-Term Care Partnership Program and will promote 
+awareness about long-term care insurance.
+  We combine that with a policy to tighten restrictions on seniors' 
+ability to transfer or hide assets with the intention of qualifying for 
+Medicaid. These policies protect the integrity of Medicaid and create 
+an incentive for seniors to explore new long-term care options.
+  The agreement will ensure accurate payments to pharmacies for the 
+cost of drugs, and it has little effect on the market.
+  We give States the ability to offer Medicaid beneficiaries coverage 
+more consistent with coverage typically offered by employers, while at 
+the same time guaranteeing that children do not lose any benefits 
+currently provided under Medicaid.
+  We include protections for preventive services and treatment for 
+children. This bill continues to require States which cover early, 
+periodic, screening, diagnosis, and treatment services to continue to 
+do that. The language of the bill is very clear.
+  Mr. President, on that very point, I ask unanimous consent to have 
+printed in the Record a statement by Dr. McClellan, Administrator of 
+CMS, supporting our interpretation of the provisions.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+Statement by Mark B. McClellan, M.D., Ph.D, Administrator, Centers for 
+                      Medicare & Medicaid Services
+
+       Questions have been raised about the new section 1937 of 
+     the Social Security Act (SSA) (as added by the Deficit 
+     Reduction Act of 2005) that permits states to provide 
+     Medicaid benefits to children through benchmark coverage or 
+     benchmark equivalent coverage. If a state chooses to exercise 
+     this option, the specific issue has been raised as to whether 
+     children under 19 will still be entitled to receive EPSDT 
+     benefits in addition to the benefits provided by the 
+     benchmark coverage or benchmark equivalent coverage. The 
+     short answer is; children under 19 will receive EPSDT 
+     benefits.
+       After a careful review, including consultation with the 
+     Office of General Counsel, CMS has determined that children 
+     under 19 will still be entitled to receive EPSDT benefits if 
+     enrolled in benchmark coverage or benchmark equivalent 
+     coverage under the new section 1937. CMS will review each 
+     State plan amendment (SPA) submitted under the new section 
+     1937 and will not approve any SPA that does not include the 
+     provision of EPSDT services for children under 19 as defined 
+     in section 1905(r) of the SSA.
+       In the case of children under the age of 19, new section 
+     1937 (a)(1) is clear that a state may exercise the option to 
+     provide Medicaid benefits through enrollment in coverage that 
+     at a minimum has two parts. The first part of the coverage 
+     will be benchmark coverage or benchmark equivalent coverage, 
+     as required by subsection (a)(1)(A)(i), and the second part 
+     of the coverage will be wrap-around coverage of EPDST 
+     services as defined in section 1905(r) of the SSA, as 
+     required by subsection (a)(1)(A)(ii). A State cannot exercise 
+     the option under section 1937 with respect to children under 
+     19 if EPSDT services are not included in the total coverage 
+     provided to such children.
+       Subparagraph (C) of section 1937 (a)(1) permits states to 
+     also add wrap-around or additional benefits. In the case of 
+     children under 19, wrap-around or additional benefits that a 
+     state could choose to provide under subparagraph (C) must be 
+     a benefit in addition to the benchmark coverage or benchmark 
+     equivalent coverage and the EPSDT services that the state is 
+     already required to provide under subparagraph (A) of that 
+     section. Subparagraph (C) does not in any way give a state 
+     the flexibility to fail to provide the EPSDT services 
+     required by subparagraph (A)(ii) of section I 937(a)(1).
+
+  Mr. GRASSLEY. We also include policies that give States the option of 
+asking for a limited set of Medicaid beneficiaries to share in the cost 
+of their care.
+  The cost-sharing policy excludes anyone under the Federal poverty 
+level, mandatory children, adoption or foster care children, 
+preventative care and immunizations for all children, pregnancy-related 
+services, hospice residents, and women who qualify for Medicaid under 
+the breast and cervical cancer eligibility group.
+  It is a reasonable, responsible policy that I encourage my colleagues 
+to support. These are all modifications of what the House of 
+Representatives did in their provisions in this area.
+  These are important, measured first steps that our Governors, in this 
+communication to the Congress to which I previously referred, have 
+asked for, on a bipartisan basis, to reform the Medicaid Program.
+  Now, the Medicaid Program is a Federal-State program. It is a big 
+cost to the Governors. If we have Governors, 50 of them, of both 
+political parties, coming to us and saying: We can tell you how to 
+spend your taxpayers' dollars more wisely, and we will save some money 
+at the State level, and we will be able to serve more people--they came 
+to us and said that to us. And this document responds to that.
+  I don't know how 100 Senators can put their judgment--just in case 
+they disagree with what we are trying to do. I suppose if they agree, 
+this doesn't apply to them. I don't know how those Senators who 
+disagree with what we are doing on a Federal-State program can put 
+their judgment above that of 50 Governors who are almost equally 
+divided between Republicans and Democrats.
+  This bill also dramatically increases funding to protect Medicaid 
+from fraud and abuse. It does so by creating a Medicaid integrity 
+program that mirrors a similar program already in place in the sister 
+program of Medicare.
+  The agreement incorporates the Family Opportunity Act. This is a 
+major improvement in Medicaid. This is a program that Senator Kennedy 
+and I have been working on for 7 years. These provisions will help 
+families meet the needs of their children with disabilities. Right now, 
+these parents,
+
+[[Page S14118]]
+
+if they have a child with disabilities, face difficult decisions. I can 
+document this among my own constituents in Iowa, that time and time 
+again, many parents of disabled children tell me of their struggles 
+getting health care for their children with costly special needs.
+  Many parents have been effectively forced to quit their jobs, to take 
+low-paying jobs so this child with costly medical care can qualify for 
+Medicaid. Why? Because the services their child needs are not available 
+with private health insurance. So they need the assistance of Medicaid.
+  This policy we presently have in place and in the Family Opportunity 
+Act turns by 180 degrees; it is totally backward.
+  This agreement allows States to give these parents in this situation 
+the option to buy into Medicaid while continuing to work and probably 
+in most cases continuing to pay taxes. These are folks who want to work 
+and can work, and we should not have a disincentive to productive 
+employment in America just because some family has a child with special 
+very expensive health needs.
+  Moving on, the agreement also fills shortfalls in funding of their 
+State children's health insurance programs that States would have 
+experienced just next year.
+  We also include $2 billion to assist Louisiana, Alabama, and 
+Mississippi, as well as other States to meet health care needs of 
+people whose lives were devastated by Katrina. It extends TANF Programs 
+with a few minor improvements. It closes several loopholes in TANF and 
+in child support, while providing funding for childcare, child welfare, 
+and allowing more child support to go directly to families.
+  For nearly 4 years, I have tried to reauthorize TANF in the regular 
+order. Without any help from Democrats, I reported a bill out of the 
+last Congress on a partisan basis. That year, Senator Frist devoted a 
+week for the consideration of welfare. The first floor amendment 
+offered on behalf of Senator Snowe would have increased childcare 
+spending by $6 billion--I voted for it--bringing the total childcare 
+money to $7 billion. That passed with 78 votes. Unfortunately, even 
+with that victory which they won, Democrats blocked it.
+  I kept trying, and this year I worked out a bipartisan bill with 
+Senator Baucus that the committee reported out on a voice vote. But 
+again, efforts to reauthorize welfare in regular order have stalled. If 
+we don't pass the Deficit Reduction Act, we will have to extend TANF 
+for a 12th time. That is an unconscionable way to legislate. States 
+cannot continue operating their welfare programs unsure of what the 
+next reauthorization will bring.
+
+  Advocates complain that the $1 billion is not enough childcare money. 
+But I say to them, where were you over the past year when there was $6 
+billion on the table and I was committed to bringing that $6 billion 
+out of conference or we would not have had a conference report on TANF?
+  There has never been enough childcare money to satisfy those on the 
+far left--$5.5 billion wasn't enough; $7 billion wasn't enough. I don't 
+even know if $20 billion would have been enough. The fact remains that 
+there hasn't been an increase in childcare for 4 years, and if we 
+persist in passing extension after extension, there won't be any new 
+childcare money at all.
+  As I said in the beginning, it is difficult for many folks to get 
+beyond the numbers. But as I laid out here, this agreement includes 
+many provisions to provide services that better meet people's needs, 
+and it does so by getting rid of waste and abuse in the programs.
+  These are dollars that right now we are simply throwing away. They 
+get taxpayers and beneficiaries nothing. Without some changes, these 
+important programs of Medicare, Medicaid, and TANF will be driven into 
+the ground. That some folks don't support these changes--well, to me, I 
+believe they cannot see the forest for the trees.
+  The agreement before us includes sound policies. It achieves savings 
+by reducing wasteful spending, closing loopholes, and taking steps to 
+pay providers more accurately. It improves oversight of Medicaid to 
+crack down on fraud and wasteful spending. It establishes policies to 
+help families and beneficiaries and to ensure long-term viability of 
+these programs. I urge my colleagues to support it.
+  I yield the floor and reserve the remainder of the time for Senator 
+Gregg.
+  The PRESIDING OFFICER. The Senator from New York is recognized.
+  Mrs. CLINTON. Mr. President, last week, I came to the floor to speak 
+against the proposed reconciliation bill, and I used the analogy of the 
+Grinch who stole Christmas. At that time, we did not have a conference 
+report yet before us, and I hoped that we might make some significant 
+changes in what would be sent to us after the House acted.
+  Unfortunately, although there were some changes, the overall impact 
+of what has been sent to the Senate for action is disappointing and 
+deeply disturbing. While the Grinch stole the gifts, the decorations, 
+and even the Christmas tree, this budget slashes hope. It slashes 
+opportunity. It slashes support that the least among us need in order 
+to be as productive and healthy as possible. This Republican budget 
+slashes child support enforcement, Medicaid benefits, student loans, 
+and so much else.
+  Now, the story of the Grinch who stole Christmas actually has a happy 
+ending, because the Grinch, seeing the error of his ways, returned what 
+he had taken. Unfortunately, I fear the budget before the Senate today 
+does not have a happy ending. It represents a monumental failure by the 
+Republicans in Congress to recognize the real priorities that the 
+people of America--working families, students, seniors, and 
+particularly children--need.
+  The Republican priorities are crystal clear in this bill. The 
+Republican majority chose $2.6 billion in new tax breaks for oil 
+companies. I don't know how that is a priority. I don't even know how 
+that is understandable. The oil companies could not be doing any better 
+than they are doing, and we are still giving them more tax breaks from 
+hard-working American taxes. We still prohibit the Government from 
+negotiating for prescription drugs to lower the cost to Medicare 
+beneficiaries, which could save $100 billion for taxpayers. The 
+Republicans decided not to eliminate the $5.4 billion Medicare 
+insurance company slush fund and, instead, chose to cut home health 
+care, hospital quality improvements, imaging services, medical 
+equipment, and hospital payments. And as usual, with the Republican 
+majority, they decided against cracking down on abusive corporate tax 
+shelters such as mailbox headquarters and other loopholes.
+  We have heard a lot of this from the eloquent, persuasive 
+argumentation by the Democratic ranking member on the Budget Committee, 
+the Senator from North Dakota. We have heard from others of our 
+colleagues raising the alarm about this ill-conceived budget. But one 
+issue that has not yet been raised that I would like to highlight is 
+that I think this bill may very well increase the number of unintended 
+pregnancies and abortions in our country.
+  Why, you might ask? Today contraception and other family planning 
+services are provided as a matter of course under Medicaid. We do this 
+because it is good for women to have access to such treatments and 
+medications. It also prevents unintended pregnancies and, therefore, 
+prevents abortions and, therefore, saves money. For every dollar 
+Medicaid spends on family planning, the Government saves $3. But this 
+bill eliminates the guarantee.
+  I don't understand this. We obviously have very strong opinions and 
+deeply held convictions about abortion, but are we also divided about 
+contraception and family planning? Are we not in this body committed to 
+reducing the number of abortions?
+  Apparently, we are not because the provision in this reconciliation 
+budget that eliminates family planning for Medicaid recipients makes it 
+very clear that the majority opposes contraception and family planning, 
+which reduces unwanted pregnancies and abortions.
+  It makes no sense to me. I thought we were working toward a 
+bipartisan agreement that we would try to prevent unwanted pregnancies 
+and, therefore, reduce the need for abortion. I sadly predict that if 
+this measure stays in the bill, which apparently it is going to because 
+we expect to vote on it in the next several hours, the number of 
+abortions will go up, the human and financial costs will go up, and 
+many women will really be out of luck.
+
+[[Page S14119]]
+
+  The other piece that is so troubling to me is young people aging out 
+of foster care. These are young people for whom we try to provide some 
+support services by continuing their access to Medicaid. They, too, 
+will not have access to family planning.
+  This is all about misplaced priorities, choices that do not serve our 
+Nation's future and puts the burden of balancing the budget on the 
+backs of working families, college students, seniors, single moms, and 
+the middle class.
+  Consider who is bearing the costs because we know there are winners 
+and there are losers. Certainly, the winners will be oil companies, 
+drug companies, corporate freeloaders, and deadbeat parents. That is a 
+wonderful list of whom we are helping in this Christmas season.
+  Despite rising medical expenses that burden middle-class and low-
+income Americans, this bill cuts $6.9 billion from Medicaid by slashing 
+benefits and increasing costs to beneficiaries. We know there is a 
+considerable body of research from RAND to the Urban Institute and many 
+others that have found if you increase copays and premium costs, 
+beneficiaries will skip needed care and may lose coverage entirely.
+  This bill also, for some reason, has it out for college students, the 
+very people we should encourage to get their education, to become 
+productive citizens, to have competitive jobs in a global economy. The 
+bill cuts over $12.7 billion from student loan programs, resulting in 
+higher payments for 472,000 New Yorkers today and millions more in the 
+years to come.
+  The bill also undermines the Direct Loan Program which has been shown 
+by every independent analysis to cost as much as 12 times less than the 
+private loan program. So I guess we should put the banks on the list of 
+winners along with the corporate freeloaders and the deadbeat parents 
+and the oil companies.
+  As millions of seniors struggle with medical bills, this bill slashes 
+$6.4 billion from Medicare over the next 5 years, including a $1.6 
+billion increase in Medicare Part B premiums, making it more expensive 
+for their seniors to visit their doctor this year instead of last.
+  The thing I am still totally amazed by is cutting $4.9 billion in 
+child enforcement, eliminating $343 million from foster care programs, 
+undermining childcare for working families and TANF that rewards and 
+enables work.
+  I don't know, Mr. President, I guess there are different priorities 
+between us in this Chamber, and I am disappointed in that. Given that 
+1.1 million more Americans fell into poverty last year, and over 37 
+million Americans, including 13 million children, live in poverty 
+today, we are headed in the wrong direction.
+  I guess the Republican majority can brag about $2.6 billion in new 
+tax cuts for oil companies, $6.9 billion in Medicaid cuts, and cuts to 
+foster children, the most vulnerable of all of our citizens. Corporate 
+welfare was saved. Student loans were cut. I don't know how you can, 
+with a straight face, say that is the kind of priorities we should be 
+having at any time but particularly in the Christmas season. But I 
+suppose the folks who find these great big tax breaks under their tree 
+are going to be grateful.
+
+  The ultimate irony is that this bill is being called deficit 
+reduction. We know how to do deficit reduction. We did it in the 1990s. 
+We did it by making hard choices. We did it by making it clear that 
+nobody was going to get off scot-free, that everybody would have to pay 
+their fair share. Tough decisions would be made on both the revenue and 
+the spending side.
+  This bill doesn't reduce the deficit at all. In fact, it worsens the 
+deficit outlook by at least $30 billion. That is going to become even 
+more clear when we come back after the first of the year and the 
+Republicans give us $70 billion in additional tax cuts. Let's tell 
+everybody those tax cuts are, once again, going to help people who have 
+been helped already, quite substantially, over the last 5 years.
+  It is not doing much for the average American, it is not doing 
+anything for some of the poorest of Americans, other than telling them 
+they are on their own.
+  In a time of war, with the third largest budget shortfall in our 
+Nation's history, when we have rising poverty again, the call for 
+financial sacrifice by the White House and the Republican Congress 
+falls only on families struggling to make ends meet. It falls on our 
+children particularly, the poorest of our children, foster care 
+children, children whose parents are not providing support for them. It 
+doesn't fall on oil companies reaping record profits, not on the drug 
+companies, not on the corporate freeloaders, not on the deadbeat 
+parents.
+  This bill is not in keeping with the spirit of this season or the 
+priorities of the American people. I hope that we will do better next 
+year. I hope that people will realize, as the Grinch did, that we don't 
+need to act in a way that is playing to the lowest common denominator, 
+that takes care of the privileged at the expense of everybody else. I 
+do think it is fair to say that this bill is unprecedented. Never has 
+so much been done for so few who need it so little.
+  This is a very sad day in the Senate. I hope we can do better in the 
+future on a bipartisan basis, and I hope that the real values of 
+America once again are put into action in the Congress.
+  Mr. President, I yield the floor.
+  The PRESIDING OFFICER. The Senator from New Hampshire.
+  Mr. GREGG. I understand that we would go to Senator Rockefeller next, 
+but in an aside, I simply want to address one or two of the points made 
+by the Senator from New York, who always makes excellent points and is 
+a very constructive member of the HELP Committee. When I was chairman, 
+I enjoyed working with her and I have enjoyed working with her ever 
+since. In fact, as I recall, she actually voted for the language which 
+was reported from the HELP Committee which essentially accomplished 
+what it appears she is concerned about now, which was to take the 
+corporate subsidy that lenders get today under the student loan program 
+and reduce it.
+  As I have discussed before and discussed with Senator Kennedy, and I 
+think he appreciates this issue, and some of the other folks who 
+brought this issue up, there is no student loan reduction in this bill. 
+Student loans are expanded. We create a whole new program for low-
+income students who are interested in math and science and we expand 
+the money going into Pell grants. Where there is a reduction in this 
+bill is in the corporate subsidy area for lenders. If we do not pass 
+this bill, as I said earlier, there would be a windfall to corporate 
+lenders of about $7 billion. That is why I said my staff corrected me. 
+They estimate the windfall to lenders would be closer to $18 billion if 
+we do not pass this bill this year and that is a function of the fact 
+that the lenders are getting an artificially high interest rate. We are 
+taking that down. With the money we receive from that--and it comes out 
+of the corporate lenders, not out of the students--we are taking part 
+of this and we are putting it into helping more students, especially 
+low-income students, be able to go to college.
+  If a teacher teaches special needs kids under IDEA, they can have 
+$17,500 of their loans forgiven under this bill--$17,500 will be 
+forgiven if they go into teaching special needs students because we 
+think that is important. If one is a low-income individual who has done 
+well in high school in math and science and they decide when they go to 
+college that they want to pursue math and science on top of their Pell 
+grant, on top of their student loans, they are going to get a $4,000-a-
+year grant for the last 2 years they are in college, a big boost for 
+low-income students who pursue math and science. That is where the 
+money has been directed. I think it is the right priority. I suspect 
+that is why the Senator from New York voted for the bill when it passed 
+out of the committee.
+  What is the order now? Do we go to Senator Talent and then Senator 
+Rockefeller, or Senator Rockefeller and then Senator Talent?
+  Mr. CONRAD. Senator Talent is up.
+  Mr. GREGG. If Senator Rockefeller is ready, why not have the Senator 
+proceed and then we will go to the Senator from Missouri.
+  The PRESIDING OFFICER. The Senator from West Virginia is recognized.
+  Mr. GREGG. The Senator from West Virginia is recognized on Democratic 
+time.
+
+[[Page S14120]]
+
+  The PRESIDING OFFICER. The Senator from North Dakota will yield time 
+on his side to the Senator from West Virginia when he is recognized.
+  Mr. CONRAD. If we could have Mr. Talent go first, we have a bit of a 
+logjam we need to work out on this side. I ask Senator Rockefeller to 
+withhold for one moment. The problem is there are multiple Members who 
+wish to speak on a matter unrelated to the budget at this moment on 
+this side. We have to work that out, so it will take a moment.
+  The PRESIDING OFFICER. Who yields time?
+  Mr. GREGG. I yield to the Senator from Missouri 10 minutes.
+  The PRESIDING OFFICER. The Senator from Missouri is recognized for 10 
+minutes.
+  Mr. TALENT. Mr. President, as we debate the very important issue of 
+deficit reduction, I want to take a few minutes to discuss a provision 
+included in the Deficit Reduction Act. It is an issue of great 
+importance and one that many Senators have been working on for more 
+than 3 years, the reauthorization of TANF, the Temporary Assistance for 
+Needy Families Program.
+  As a freshman Member of the House, I introduced the welfare reform 
+legislation that subsequently became the basis for the historic 
+bipartisan welfare reform bill, the Personal Responsibility Act of 
+1996. Since that time I have viewed welfare reform as a priority issue, 
+an issue of great significance to millions of Americans.
+  Welfare reform has been one of the most successful social policy 
+reforms in U.S. history. The 1996 welfare reform legislation made 
+remarkable headway in helping welfare dependents move toward self-
+sufficiency. It dramatically reduced State welfare case1oads and child 
+poverty, and it increased welfare recipient employment.
+  Welfare reform is based on the understanding that the two best anti-
+poverty programs are work and marriage. The old welfare system seduced 
+millions of people into poverty by offering assistance on the condition 
+that they not get a job, not get married, and have children anyway. It 
+measured success by how many people it was able to get on welfare. The 
+new system measures success by how many people get off welfare, or 
+never have to go on welfare.
+  The welfare reform bill has been an astounding success. Since 1996, 
+cash welfare caseloads have fallen by more than 50 percent nationwide. 
+The caseload in the former Aid to Families with Dependent Children 
+program, AFDC, now TANF, has fallen from 4.3 million families in August 
+1996 to fewer than 2 million in March 2005.
+  States have overhauled their welfare programs to stress work, as 
+required by the reform, and as a result the percentage of working 
+welfare recipients has more than doubled since 1996. The poorest 20 
+percent of single mother families reported a 67 percent increase in 
+their earnings between 1995 and 2002, after adjusting for inflation, 
+and the next quintile of single mothers saw their average earnings grow 
+by more than $4,000 between 1995 and 2002. The Urban Institute reported 
+earlier this year that single mothers' real wages continued to increase 
+during the 2000-2004 period despite the 2001 recession and terrorist 
+attacks. It is better from every perspective for able bodied people to 
+bring home a paycheck rather than a welfare check.
+  If we fail to pass welfare reauthorization and are forced to extend 
+the 1996 law for the 12th time, millions of families will remain on the 
+welfare rolls rather than engaged in productive and self-sufficient 
+jobs. Because most States have met the targets of the 1996 law, they 
+now have no incentive to extend the benefits of work to able bodied 
+people still on the rolls. This reauthorization increases the effective 
+welfare work rate target from zero percent to 50 percent in fiscal year 
+2007 through fiscal year 2010. It achieves this by rebasing the 
+caseload reduction credit to provide credit only for future caseload 
+declines.
+  The reauthorization also contains important provisions encouraging 
+health marriages. Marriage is the cornerstone of the family. The 
+decline of marriage since the 1960's has been accompanied by a rise in 
+a number of serious social problems. Children born out-of-wedlock are 
+more likely to experience poverty, abuse, and behavioral and emotional 
+problems, to have lower academic achievement, and to use drugs more 
+often. Single mother are much more likely to be victims of domestic 
+violence. On the other hand, children whose parents choose marriage, 
+and learn how to form and sustain healthy marriages, are less likely to 
+be depressed, repeat a grade in school, and have fewer developmental 
+problems. Not only are healthy marriages good for the family, they are 
+good for society and our economy.
+  Supporting healthy marriage is essential to continuing the success of 
+the original welfare reform. This reauthorization provides $500 million 
+for healthy marriage promotion over the next 5 years. These dollars 
+will be used to fund community-based programs to counsel young women 
+about the benefits of healthy marriage and help them and their 
+children's father build relationship, parenting and communications 
+skills. This program will not just seek to increase marriage rates 
+among target couples, but also will provide ongoing support to help at-
+risk couples maintain healthy marriages over time and reduce the 
+likelihood of divorce.
+  Although the welfare reauthorization included in the Deficit 
+Reduction Act does not include every provision I had hoped would be 
+included in the reauthorization of the 1996 law, it has a number of 
+important provisions. Welfare reauthorization has been a long time 
+coming. We are rapidly approaching the end of the eleventh extension to 
+the welfare bill on December 31, 2005, and will need to pass a twelfth 
+extension before we leave for the year if we fail to pass the Deficit 
+Reduction Act. This reauthorization contains many of the provisions I 
+included in S. 105, the sonal Responsibility, Work, and Family 
+Promotion Act of 2005. Most importantly it strengthens the work and 
+marriage provisions, the two best anti-poverty programs. I hope my 
+colleagues will support this measure which will provide many Americans 
+with the resources they need to go from welfare dependency to self-
+sufficiency.
+  The PRESIDING OFFICER. Who yields time? The Senator from New 
+Hampshire.
+  Mr. GREGG. Mr. President, is the time running against both sides?
+  The PRESIDING OFFICER. If time is not yielded, it will be charged 
+equally against both sides.
+  Mr. GREGG. Mr. President, are we in a quorum call?
+  The PRESIDING OFFICER. Not at the moment.
+  Mr. GREGG. I make a point of order a quorum is not present.
+  The PRESIDING OFFICER. The Senator from North Dakota.
+  Mr. CONRAD. Will the Chair inform us, before we go into the quorum 
+call, how much time is left on both sides?
+  The PRESIDING OFFICER. The majority controls 46 minutes and the 
+minority 49 minutes.
+  Mr. GREGG. Mr. President, I ask during the quorum call the time be 
+equally charged.
+  The PRESIDING OFFICER. Without objection, it is so ordered. The clerk 
+will call the roll.
+  The bill clerk proceeded to call the roll.
+  Mr. CONRAD. Mr. President, I ask unanimous consent that the order for 
+the quorum call be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. CONRAD. Mr. President, I ask unanimous consent that we permit the 
+Senator from West Virginia to speak as if in morning business for a 
+period not to exceed 15 minutes.
+  The PRESIDING OFFICER. Is there objection? Without objection, it is 
+so ordered.
+  Mr. CONRAD. At the end of that time, I further ask unanimous consent 
+that the Senator from West Virginia offer a quorum call to be equally 
+divided.
+  The PRESIDING OFFICER. Is there objection? Without objection, time 
+will be equally divided.
+  The Senator from West Virginia.
+  Mr. ROCKEFELLER. Thank you, Mr. President. I thank the distinguished 
+Senator from North Dakota.
+
+
+          Intelligence Authorization Act for Fiscal Year 2006
+
+  Mr. ROCKEFELLER. Mr. President, I have asked to address the Senate on 
+a national security matter of great concern to me. I call my 
+colleagues' attention to the Senate's inexplicable failure to pass the 
+fiscal year 2006 Intelligence authorization bill.
+
+[[Page S14121]]
+
+  The bill was approved and reported by the Intelligence Committee on 
+September 29, and it has been available for Senate action since 
+November 16. This legislation is too important to be allowed to 
+languish in legislative limbo. That is where it is. I am at a loss to 
+understand why the Senate cannot complete action before we adjourn on a 
+matter of national security that is this important.
+  As I understand the current parliamentary situation, the Intelligence 
+authorization bill cannot be brought up or be passed under unanimous 
+consent because of Republican objection, and the majority leader has 
+decided that it does not merit the minimal amount of floor time needed 
+to approve the bill, which would pass quickly.
+
+  I am informed that one or more Republican Senators object to the 
+inclusion of amendments offered by Democratic Senators even though 
+Chairman Roberts has accepted those amendments--and those amendments 
+were agreed to by the full committee. If there is opposition to these 
+provisions, I urge the majority leader to allow us to bring up the 
+bill, debate, and vote on the amendments. Our side is willing to agree 
+to very short time agreements to each of the three amendments.
+  The unwillingness to consider this bill is more puzzling because of 
+the bipartisan effort that has gone into the development of this bill.
+  The Republican objection is preventing us from considering this 
+critical national security legislation. The Intelligence Committee is, 
+after all, an exceedingly important committee which is burdened with 
+heavy responsibilities and which needs to have an authorizing piece of 
+legislation underneath it. I hope, whatever the objection is, the 
+majority leader and Senator Roberts can find a way to overcome it 
+before we finish our business for this session.
+  The recent revelations related to surveillance and intelligence 
+collection within the United States and the lack of effective 
+congressional oversight of that program make passage of this 
+legislation even more critical. One of the important themes of the bill 
+is the improvement of oversight, both within the intelligence community 
+and by Congress itself. That would include the Intelligence Committee, 
+which needs to be having intelligence oversight hearings on a number of 
+matters, which it is not now doing. This theme is embodied in several 
+sections of the legislation--in the classified annex and specifically 
+amendments offered specifically by Senators Kennedy and Kerry.
+  In both the public text of our bill and the associated classified 
+annex, the committee also has included language requiring the provision 
+of information to the Intelligence Committees, specifically about 
+something called detention and interrogation, which has a fair share of 
+public attention. Additionally, the amendments offered by Senators 
+Kennedy and Kerry, each of which has been agreed to, as I have 
+indicated, by Chairman Roberts and the full committee, also will 
+require additional information Congress needs in order to oversee 
+detention and interrogation programs, something the Intelligence 
+Committee should be doing.
+  The Kerry amendment, my colleagues will recall, was added to the 
+Defense authorization bill without objection, only to be dropped in 
+conference.
+  Finally, an amendment offered by Senator Kennedy and accepted by 
+Chairman Roberts will require the Director of National Intelligence to 
+provide the congressional Intelligence Committee all Presidential daily 
+briefs, or portions of them, from the beginning of President Clinton's 
+second term in January of 1997 until March 19, 2003, when our troops 
+actually crossed into Iraq on that day, which refer to Iraq or 
+otherwise address Iraq in any way, shape, or form. This information 
+will fill an important gap in the Intelligence Committee's access to 
+all intelligence available prior to the war in Iraq.
+  If we do not act on this legislation, it will be an unprecedented 
+failure.
+  Since the Intelligence Committee was created, we have had an 
+unblemished record of 27 years of completing work with this critical 
+authorizing legislation. Never once have we failed. The annual 
+Intelligence authorization bill has rightly been considered ``must 
+pass'' legislation. That is exactly how we should view it.
+  I call upon the President to weigh in and break this impasse. The 
+President has been critical of bipartisan concerns voiced about the 
+PATRIOT Act conference report but has been curiously silent about the 
+Republican roadblocks preventing passage of this critical piece of 
+national security legislation.
+  If the Republican objection to the unanimous consent agreement cannot 
+be overcome, I hope the majority leader will change his mind and allow 
+the Senate to consider the bill under a short time agreement with votes 
+on any issues in contention.
+  Mr. KENNEDY. Mr. President, many of us had hoped the Senate would 
+take up the Intelligence authorization bill and allow us to offer an 
+amendment to require the Director of National Intelligence to make the 
+presidential daily briefs on Iraq available to the Intelligence 
+Committees of the Senate and House, beginning with the last term of the 
+Clinton administration and ending on the first day of the war in Iraq 
+in 2003.
+  Unfortunately, an unidentified Republican has a hold on the bill to 
+prevent Senate action unless the amendment is withdrawn along with two 
+other amendments on secret detention facilities.
+  It is obvious that some of our Republican colleagues are bent on 
+avoiding the truth about the war. To prevent debate on this all-
+important issue, the Republican majority is apparently willing to let 
+the whole intelligence bill fail. I don't agree with that tactic. It is 
+a blatant coverup.
+  President Bush has repeatedly claimed in recent weeks that Congress 
+had access to the same intelligence he did in deciding to go to war in 
+Iraq. As President Bush specifically stated in his Veterans Day address 
+in Pennsylvania last month, ``. . . more than a hundred Democrats in 
+the House and Senate--who had access to the same intelligence--voted to 
+support removing Saddam Hussein from power.''
+  He repeated the claim on November 14, November 17, and again in his 
+December 14 address to the Nation on the war in Iraq. In fact, he had 
+made the same statement 98 times between March and October 2004, when 
+his decision to go to war was under serious challenge in the 
+presidential election that year. It is hardly surprising, therefore, 
+that the President is now dusting off the same talking points today, 
+when his decision to go to war is again under serious challenge.
+  Vice President Cheney and National Security Advisor Hadley have made 
+similar claims.
+  How they could all make such an obvious false claim is beyond belief. 
+It is bad enough that they distorted the intelligence on the need for 
+the war. Now they are blatantly distorting the facts about how much 
+access Congress had to the intelligence.
+  Someone on the White House staff obviously needs to correct the 
+President's talking points before he parrots them in another speech.
+  President Bush should have taken a close and comprehensive look at 
+the intelligence, rather than building a case for war based on cherry-
+picked intelligence It is not enough to recognize now that the 
+intelligence was not accurate. Whatever flaws existed in the 
+intelligence were far outweighed by the devious way the administration 
+manipulated the intelligence to support its preconceived desire for war 
+and ignored the serious doubts that we now know undermined the 
+intelligence.
+  The administration claims the intelligence wasn't deliberately 
+distorted to justify the war. But how can they possibly pretend that 
+Congress had access to that intelligence?
+  The White House has access to thousands of intelligence documents 
+that Congress never sees. According to a December 14 report by the 
+Congressional Research Service, ``The President, and a small number of 
+presidentially-designated Cabinet-level officials, including the Vice 
+President--in contrast to Members of Congress--have access to a far 
+greater overall volume of intelligence and to more sensitive 
+intelligence information, including information regarding intelligence 
+sources and methods. They, unlike Members of Congress, also have the 
+authority to more extensively task the intelligence community, and its 
+extensive cadre of analysts for follow-up information.''
+
+[[Page S14122]]
+
+  But, the principal document that Congress doesn't see is the 
+presidential daily brief, the so-called PDB, which is prepared 
+specifically for the President. It contains very important classified 
+intelligence, and equally important information about the credibility 
+of the intelligence. It is therefore an extremely valuable document.
+  President Bush receives the PDB every morning and is given an oral 
+briefing on it by top intelligence officials. The practice began in the 
+Johnson administration and is intended to give each President a 
+detailed overall view of national security concerns, including 
+terrorist threats against the United States.
+  As the administration well knows, Members of Congress certainly do 
+not receive this daily briefing document. In fact, when Congress has 
+sought copies of PDBs, the requests have been denied.
+  In the case of Iraq, as part of its investigation of the pre-war 
+intelligence, the Senate Intelligence Committee specifically asked to 
+review the PDBs relevant to the key issues of Iraq's weapons of mass 
+destruction and Saddam Hussein's links to terrorists. The White House 
+flatly denied the request.
+  The committee is now working on the second phase of its 
+investigation, which is whether the administration distorted the 
+intelligence on Iraq in order to strengthen the case for war.
+  So far, however, instead of providing the PDBs as part of an effort 
+to find the truth, the White House continues to hide behind a veil of 
+secrecy by refusing to disclose these briefs. It is difficult to 
+believe that there is any sound national security reason for the 
+administration to continue stonewalling Congress by denying access to 
+these PDBs. The obvious explanation is coverup.
+  Members of the Silberman-Robb Commission appointed by the President 
+to examine pre-war intelligence were given access to articles within 
+PDBs on Iraq's weapons of mass destruction programs. Four of the 10 
+members of the 9-11 Commission were given PDB articles they requested. 
+If these commissioners were given access, Congress should have been 
+given access as well for its own investigation of the all-important 
+questions about why we went to war and the way we went to war.
+  The administration's drumbeat for war in Iraq began at the end of the 
+summer in 2002. It was carefully staged. As White House Chief of Staff 
+Andrew Card said on September that year about the plan for war, ``From 
+a marketing point of view, you don't introduce new products in 
+August.''
+  Hardly by coincidence, the timing of the war also coincided with the 
+final phase of the congressional election campaigns that year.
+  One further point deserves mention. Initially, in the run-up to the 
+war in 2002, the Administration did not produce and give Congress a 
+National Intelligence Estimate--a document summarizing the collective 
+expert wisdom of the intelligence community--to support its claims 
+about Iraq's involvement with al-Qaida and its development of nuclear, 
+chemical, and biological weapons of mass destruction. When Democrats on 
+the Senate Intelligence Committee insisted that an estimate be 
+produced, it was finally provided on October 1, 2002, 2 days before the 
+congressional resolution authorizing the war was brought before the 
+Senate for debate. The estimate itself buried important dissenting 
+views in the footnotes.
+  The Senate adopted the war resolution on October 11, the day after it 
+passed the House of Representatives--and after 6 weeks of an aggressive 
+White House campaign replete with images of mushroom clouds over 
+America, in a brazen attempt to pressure Congress to give the President 
+the blank check he wanted for the war, and to do so before adjourning 
+for the November elections.
+  As we now know all too well, Saddam had no weapons of mass 
+destruction and no ties to al-Qaida; 150,000 American troops are bogged 
+down in a quagmire in Iraq in a war that America never should have 
+fought, that has seriously undermined our respect in the world, and 
+that has made the real war on terrorism far harder to win.
+  It is time for the administration to come clean and provide the PDBs 
+to the Congress.
+  This is not a meaningless debate about documents. The issue is the 
+quality and quantity of intelligence the President was looking at when 
+he made the decision to go to war.
+  It's essential to get to the bottom of the rush to war--not only to 
+get the truth, but also because there are other threats on the horizon 
+as well--in Iran, North Korea and elsewhere. America must get it right 
+next time, and access to the PDBs is an essential part of doing so.
+  Mr. ROCKEFELLER. Mr. President, I ask unanimous consent that the 
+Senate go into a quorum and that the time be equally divided between 
+both sides.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The clerk will call the roll.
+  The assistant legislative clerk proceeded to call the roll.
+  Mr. CONRAD. Mr. President, I ask unanimous consent that the order for 
+the quorum call be rescinded.
+  The PRESIDING OFFICER (Mr. Martinez). Without objection, it is so 
+ordered.
+  Mr. CONRAD. Mr. President, I ask unanimous consent the Senator from 
+Massachusetts be recognized as in morning business for up to 15 
+minutes. I ask at the end of the Senator's remarks, a quorum call be 
+put in, and the quorum call be charged equally.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The quorum call will be charged equally.
+  Mr. CONRAD. What would occur if there was an objection to the quorum 
+call?
+  Mr. GREGG. Mr. President, I ask to amend the unanimous consent 
+request that Senator Stevens be allowed to proceed, as Senator Kerry, 
+in morning business, and not charged to the bill.
+  The PRESIDING OFFICER. Is there objection?
+  Mr. CONRAD. Reserving the right to object, with the understanding 
+then a quorum call be put in, and the quorum be charged equally.
+  The PRESIDING OFFICER. If a quorum call is entered, at that point it 
+will be charged equally, without objection.
+  Mr. CONRAD. I thank the Chair. We will proceed with Senator Kerry for 
+up to 15 minutes.
+  The PRESIDING OFFICER. The Senator from Massachusetts.
+  Mr. KERRY. I thank the Chair, and I thank the managers.
+
+
+                     Clandestine Prison Facilities
+
+  Mr. President, more than a month ago we learned of the possible 
+existence of clandestine prison facilities operated around the world by 
+the Central Intelligence Agency. This revelation caused serious 
+problems with some of our most important allies in the war on terror, 
+and it raised important questions about the Congress's ability and 
+willingness to perform oversight.
+  Before the Thanksgiving break, the Senate came together in a 
+bipartisan fashion to pass an amendment to the Defense Authorization 
+Act which would have required a report on alleged clandestine detention 
+facilities operated by our own Government. I was glad to be able to 
+work with Senator Roberts and Senator Rockefeller to craft language 
+that would make it possible for Congress to do this job. It was a 
+successful effort. It was a remarkably bipartisan effort.
+  On November 10, 2005, the Senate voted 82 to 9 for the amendment we 
+worked out. That amendment required the Director of National 
+Intelligence to provide a classified report to the members of the 
+Intelligence Committees of both the House and the Senate which would 
+set forth basic information, including the location and size of such 
+facilities, the number of detainees held, and the explanation of what 
+we intend to do with those detainees. For example, will they face 
+military tribunals? What will be the consequences and manner of their 
+detention?
+  Finally, consistent with the McCain antitorture amendment, my 
+amendment would require a description of the interrogation procedures 
+used on detainees in such facilities and a determination of whether 
+those procedures were in compliance with America's obligations under 
+the Geneva Conventions and the Convention Against Torture. The House 
+endorsed that amendment with a bipartisan vote just last week.
+  Now, not surprisingly, given that this was an intelligence provision 
+on a DOD bill, the amendment to the Defense authorization bill fell out 
+in the conference--not on the merits, on procedure. We anticipated 
+that, and we
+
+[[Page S14123]]
+
+worked with the Intelligence Committee in order to attach it to the 
+intelligence authorization bill.
+  Here we are, and the intelligence authorization bill is stalled in 
+the Senate. This important amendment is in limbo because an extreme 
+minority objects to an amendment with strong bipartisan support from 
+Members in both Chambers of the Congress. More than 80 Senators voted 
+for this amendment about a month ago. The chairman of the Senate Select 
+Committee on Intelligence supports it. The vice chairman supports it. 
+But the bill and this amendment will not move.
+  All here believe in what we are trying to do to win the war on 
+terror. Everyone here accepts this is a war we need to win. We do not 
+underestimate, any of us, the depravity and viciousness of our enemies 
+or of what is at stake. We have absolute confidence in the desire and 
+the determination of the American people to join in doing anything 
+necessary in order to win. But we also believe the informed consent of 
+the American public is crucial to that success.
+  As I said more than a month ago when we first debated this issue, in 
+an issue as sensitive as this, one which challenges the basic value 
+systems by which we operate, the informed consent that allows you to do 
+what you need to do will only come through the Congress itself, through 
+our active understanding and involvement in these issues. That requires 
+information. It requires cooperation from the administration so we in 
+Congress can provide effective and informed oversight.
+
+  I find it very difficult to understand why anyone would hold up 
+legislation as important as the Intelligence Authorization Act, to 
+object to an amendment that has such strong bipartisan support in the 
+Senate, to delay an amendment that does not pass any judgment on the 
+merits or the value of those facilities but simply informs the Senate 
+about where, what, and how those facilities may or may not be operated.
+  To frustrate an effort that seeks only to help Congress have 
+information with which to do its job seems to be an extreme position, 
+indeed. In this case, our job is oversight. Our job is to make sure we 
+are not violating laws. Our job is to make sure we are living up to our 
+standards and our values.
+  I thank Senator Roberts, and I thank Senator Rockefeller for their 
+hard work and their diligence on this issue. I hope we can find a 
+resolution and pass the Intelligence Authorization Act this week. This 
+is an important bill. At a time when a lot of the debate in the Senate 
+is involved with matters of urgency for troops and urgency for national 
+security, and where the President is holding press conferences and 
+attacking individual Senators for their interference in the war on 
+terror, and so on and so forth, it seems to me to not move forward on 
+the intelligence authorization bill is to, in a concrete way, be 
+standing in the way of doing the very things the President is talking 
+about. I hope we can find a way to move that.
+  Under the rule, I see the Senator from Kansas wants to speak. But if 
+I recall, there is an understanding that Senator Stevens was going to 
+speak.
+  The PRESIDING OFFICER. The Senator is correct.
+  Mr. KERRY. I don't yield the floor yet. I am happy to yield for a 
+question.
+  Mr. BROWNBACK. If I could ask the Senator from Massachusetts a 
+question, as I understand, under the previous agreement, Senator 
+Stevens was to go next and is not ready. I ask if I could get the floor 
+to ask unanimous consent to proceed ahead of Senator Stevens.
+  Mr. KERRY. Reserving the right to object, I will not object, 
+providing that the same agreement stands with respect to the quorum 
+call that the Senator from North Dakota put into place with respect to 
+my agreement and the agreement for Senator Stevens.
+  Mr. GREGG. Mr. President, all we are trying to do is get people to 
+have time to speak. Senator Brownback was to go next, and Senator 
+Stevens, and when we go into a quorum call the time comes off the bill 
+in an equal way, equal time. That is my understanding.
+  Mr. CONRAD. Reserving the right to object, could I be advised of what 
+the unanimous consent request was?
+  Mr. GREGG. That Senator Brownback be allowed to speak.
+  Mr. BROWNBACK. I was requesting unanimous consent to be able to speak 
+at this point in time on the discussion. As I understood, it was locked 
+in for Senator Stevens to speak at this point. I was asking for that.
+  Mr. CONRAD. How long will the Senator seek to speak?
+  Mr. BROWNBACK. I anticipate under 15 minutes.
+  Mr. CONRAD. And Senator Stevens would like to go after that.
+  Mr. STEVENS. I thought I had time, but I am happy to yield to anyone.
+  Mr. CONRAD. We are happy to have you go, Senator. We are just trying 
+to make certain we know the times.
+  Could we modify the unanimous consent request in this respect: the 
+Senator from Kansas be recognized for up to 15 minutes off the bill?
+  Mr. BROWNBACK. On the bill.
+  Mr. CONRAD. On the bill on the majority side.
+  Mr. GREGG. The Senator is going to speak as if in morning business, I 
+believe, but on the bill.
+  Mr. CONRAD. You would like him to speak in morning business rather 
+than--all right. So the Senator will speak as in morning business for 
+up to 15 minutes, and then the Senator from Alaska, Mr. Stevens, will 
+be recognized for up to 15 minutes, again as in morning business, and 
+then at that time a quorum call will be put in that is equally charged.
+
+  The PRESIDING OFFICER. The Senator cannot enter a quorum call at this 
+time by unanimous consent. If a quorum call is later entered, it will 
+be charged equally.
+  Mr. CONRAD. Mr. President, I would like to further modify my request 
+because I understand there are other Senators who also would like to 
+speak as in morning business.
+  I ask Senator Durbin, how much time would you like?
+  Mr. DURBIN. Fifteen minutes.
+  Mr. CONRAD. Fifteen minutes. I ask that Senator Durbin be recognized 
+for 15 minutes as in morning business. And for Senator Boxer, how much 
+time? She would like up to 30 minutes as in morning business. Could we 
+get those agreed to as well, with the additional understanding that we 
+go into a quorum call at that point and that it be equally charged.
+  Mr. GREGG. Mr. President, reserving the right to object, I would 
+presume they would be speaking after Senator Stevens.
+  Mr. CONRAD. That is correct.
+  The PRESIDING OFFICER. Is there objection?
+  Without objection, it is so ordered.
+  Mr. CONRAD. I thank very much the Chair. I thank also the chairman of 
+the committee for continuing to work in this cooperative way to use the 
+time efficiently. And we thank all of our colleagues for their 
+patience.
+  I yield the floor.
+  The PRESIDING OFFICER. The Senator from Kansas.
+  Mr. BROWNBACK. Thank you very much, Mr. President. I thank my 
+colleagues for allowing me this opportunity to speak as if in morning 
+business on the bill. I think it is important in morning business to be 
+able to talk about the bill. This is an important bill, and it is a key 
+piece of legislation. I think it is an important thing for us to move 
+forward.
+  On the basic facts on the federal budget, which have been covered a 
+lot, we are hearing a lot about this across the country. We are 
+spending too much money, and we are driving the deficit up too big. It 
+is just the basic facts.
+  We have a $319 billion budget deficit for fiscal year 2005. It is 
+time--past time--that we start addressing this issue. I came to the 
+House of Representatives with the class of 1994. The lead issue we were 
+talking about at that point in time was balancing the budget. We had 
+not had a balanced budget since Dwight Eisenhower was President of the 
+United States in the 1950s. It was past time. We were in trillions of 
+dollars of debt. Now we are at over $8 trillion of debt.
+  So we pushed and we pushed and we pushed, and we, in that class, with 
+many others working with us, got together to balance the budget. We did 
+it with a simple formula. You have to get the economy growing rapidly. 
+It has to be moving forward, churning out for the economy and churning 
+out a number of tax receipts. Then you have to restrain your growth of 
+Federal spending so your growth in the country and
+
+[[Page S14124]]
+
+its economy exceeds the growth rate of your Federal spending. That is 
+how we got to a balanced budget for 3 years, for the first time since 
+Eisenhower. It was a big push by that class, by many people at that 
+point in time, to get us to a balanced budget. And we did it.
+  And while the President--at that time President Clinton--may have 
+taken a lot of credit for it, the credit belongs to the Congress. The 
+Congress is the one that spends the money, the one that authorizes the 
+spending of money. We are the ones who restrained that growth of 
+Federal spending, where it was slower than the overall growth rate of 
+the economy. That got us to a balance. We have to do the same now.
+  The economy is growing. Last quarter, it grew at about a 4.4-percent 
+annual growth rate. It was good, solid growth taking place. Now we have 
+to restrain the growth of Federal spending so we can get to a balance. 
+This effort, this reconciliation package, starts us down that road. We 
+need to get to balance, I think, in 5 years. We need to have a balance 
+in the budget in a 5-year time frame. This starts with us. It certainly 
+does not get us there, but it does start us in the process of 
+restraining that growth of Federal spending. It is absolutely essential 
+that we do this.
+  We have to reach across the board at all places of Federal spending 
+to be able to get that sort of reduction to take place.
+  I want to put forward, too, in front of my colleagues, a chart. I 
+don't know if people follow these charts very well. The Government 
+actually scores the effectiveness of Government spending. We look to 
+see whether a program is meeting its targeted goals. These are scored 
+by the Office of Management and Budget. It is a set review. It is an 
+objective set of standards. Then the Department, the agency, the 
+entity, or the particular program is actually given a letter grade 
+score on its effectiveness for doing what it was targeted to do.
+  I want to show my colleagues some of these program reviews that have 
+taken place. Under the heading ``Department/Agency,'' Transportation 
+gets the highest score for effectiveness in hitting the target of the 
+program. I don't think anyone wants wasteful spending. They want the 
+spending to be something that is going to real programs and helping 
+real people. The Department of Transportation had 10 programs reviewed, 
+had a median score of 78.1, and got a C+ grade average. Now, if my kids 
+came home from school with a C+, I would say: Well, OK, you tried hard, 
+but we need to get that up. We need to work harder to have a higher 
+level of effectiveness score for you.
+
+  The problem is, the Department of Transportation had the high score. 
+That was the high score in the class. It was at a C+ level. You can 
+look down here: The State Department had a C; a C- for Energy, 
+Treasury; D+ for NASA, Commerce, Defense, USAID; D for the Small 
+Business Administration. Then you go on down to a number of programs 
+that actually received a failing score for effectiveness in hitting 
+this objective set target.
+  The reason I point this out is to say that we have to do more to 
+review our agencies to make sure hard-earned taxpayer dollars are being 
+well spent.
+  One of the things we put forward that I think is needed is a systems 
+change on how we spend money. We are making a cut here, a reduction in 
+the growth rate, that is taking place overall. We are making that cut 
+here. But what we need to do is go through the full set of Federal 
+programs and ask: Which ones are effective and which ones are not? 
+Which ones maybe have been effective in the past, but the programs have 
+actually accomplished their mission? Which ones duplicate other 
+programs that already exist in the Federal Government? Frankly, there 
+are many. But we have not found ways or systems to change this, so we 
+keep on spending. The spending continues to grow.
+  So we put forward a bill called the Commission on the Accountability 
+and Review of Federal Agencies, CARFA, on the process of a system-wide 
+review of effectiveness and eliminating those programs that are not 
+effective.
+  We have 25 Senate cosponsors. The program roughly works similar to 
+the BRAC commission, the Base Realignment and Closure Commission. It 
+works along the lines of saying: OK, let's look at all of Government, 
+every bit of Government. If a program is duplicative, if a program has 
+accomplished its purpose, if a program is scoring very low on its 
+effectiveness, then it is put into a group of programs by the 
+Commission. There could be 50--it might be 500--submitted to the 
+President. He or she then either approves, disapproves, and sends it to 
+the Congress. Then the Congress has to vote on whether to keep the 
+whole package of programs or to eliminate the whole package of 
+programs. It is a systems review, a process of pulling out programs, 
+which we have not been able to find a way to do.
+  This model is along what we do with base closings because we, prior 
+to the base-closing commission process, did not have an effective base 
+closing process and were not able to close a military base. Any time 
+one would get challenged, Senators, Congressmen, Congresswomen in that 
+particular State would defend that base, no matter how irrelevant it 
+may have grown to the current mission of the military. They were 
+defending it for their home team and home turf, and we could not 
+eliminate a single program.
+  Through BRAC we closed or realigned nearly 100 military bases. The 
+rest of Government needs a ``BRAC.'' We need it desperately. I think we 
+need it not only to control the spending but also to be able to put 
+spending in higher priority areas: to reduce the deficit and to regain 
+the credibility of the American people, showing that we are actually 
+monitoring and working to make sure Federal spending is in priority 
+areas and is not wasted.
+  It drives people crazy that money is wasted in Federal programs. It 
+drives me crazy. People tell me time and again: I am willing to spend 
+the money, but don't waste it. Don't shoot it somewhere.
+  That irritates people and it irritates me. Yet, we have not found an 
+effective way to get at Government spending. Here is the process. It 
+has been approved by Congress, used by Congress, and it has been 
+effective in eliminating the marginal military bases. It needs to be 
+employed for the rest of Government now.
+  I put this forward here because we are talking now about trying to 
+get Federal spending under control, to get back to a balanced budget, 
+which we need to do. Let's change the system. At the end of the process 
+here or next year, let's start changing the system so we can 
+effectively get at this. We have to do this. It is inappropriate for us 
+to leave these kinds of deficits for our children. It is wrong. I 
+campaigned on this when I first came into the Congress, and I have 
+consistently said we need to balance the budget. It is wrong to leave a 
+bigger mortgage on the farm for your children than the one you had. 
+That is philosophically wrong. That is putting your burden on future 
+generations when you should have taken care of it yourself. We can do 
+better, but the system has to change in the process.
+  I am pleased we are moving forward on this particular bill. I 
+strongly support it. I think it is important for the country, and I 
+think it is an important statement. Having said that, I think this is a 
+step in a process that we have got to use to get this spending under 
+control. We can do better and we can have more effective Federal 
+spending, and that will build support among people, not diminish it. 
+When people see us actually prioritizing spending and eliminating 
+wasteful spending taking place, it will build more confidence in the 
+governmental system and the way things should be and the way things 
+need to move on forward. I think that is important.
+  On a separate issue that will come up shortly, I think it is very 
+important for us to get our energy security needs addressed. We are not 
+in an energy-secure position now. We are very dependent upon a number 
+of places overseas that are volatile. We are dependent, as we have seen 
+ourselves in places in our country where severe weather patterns could 
+be harmful, such as the oil production shutdown during Katrina. A 
+number of us are working on a bipartisan bill to get more and more of 
+our fleet of cars off of gasoline, by using hybrids and plug-in 
+technology to move our car fleet into electric. A fact a lot of people 
+don't know about is that half of Americans actually drive about 20 
+miles a day. If we can get those 20 miles from electric instead of 
+gasoline, our demand and dependency on foreign oil plummets.
+
+[[Page S14125]]
+
+  This is a bipartisan bill. Senator Lieberman and I are leading on 
+this. I hope we can move forward on this next year. In the meantime, we 
+have to get more oil domestically, and the place for us to do that is 
+ANWR. We can do it effectively and in an environmentally sound way. It 
+is important that we do it for our own people and our own security. We 
+cannot afford to continue this energy vulnerability that we have. I 
+think our conscience and soul were shaken when we saw the prices get to 
+where they did, at $3 a gallon and above--saying this situation is not 
+sustainable. We need to address this. I know it is a difficult topic 
+for a number of people, but we need to do this for our own energy 
+security and for the security of this Nation. It is an important thing 
+for us to do. That is why I strongly support the ANWR provision. Doing 
+this in an environmentally sound fashion, yet reducing our dependency 
+level and increasing our energy security in a minor way, but doing it 
+and moving forward with that. I think it is important to do that.
+  We are here late in the year and I think everybody would much rather 
+be at home with family or doing things in other places than here. But 
+these are important pieces of legislation. Balancing the budget is very 
+important for our future and our children, and a good Christmas 
+present. Energy security is important for our Nation and for our 
+children, an important Christmas present we can give them as well--to 
+build a more secure future for this Nation.
+  I thank the Chair. With that, I yield the remainder of my time and 
+yield the floor. I suggest the absence of a quorum and ask unanimous 
+consent that it be charged equally to both sides.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The clerk will call the roll.
+  The legislative clerk proceeded to call the roll.
+  Mr. STEVENS. Mr. President, I ask unanimous consent that the order 
+for the quorum call be rescinded.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. STEVENS. Mr. President, I have asked for this time to share with 
+the Senate the letters of support I have received as chairman of the 
+Defense Subcommittee in support of the Department of Defense 
+appropriations conference report. These groups include public safety 
+groups, including: Association of Public Safety Communications 
+Officials International, called APCO; Congressional Fire Services 
+Institute; International Association of Chiefs of Police; International 
+Association of Fire Chiefs; Major Cities Chiefs Association; Major 
+Counties Sheriffs' Association; National League of Cities; and National 
+Association of Counties.
+  In addition to that list, there are letters from labor: Veterans of 
+Foreign War; Naval Reserve Association; American Legion; American 
+Petroleum Institute; Competitive Enterprise Institute; Ducks Unlimited; 
+National Association of Manufacturers; Campaign for Home Energy 
+Assistance; National Defense Council; Edison Electric Institute; 
+Reserve Officers Association; and Chamber of Commerce.
+  Also in support are the Air Transport Association and the American 
+Gas Association.
+  Having read that list, I want to read from some of those letters, 
+which I consider to be very significant. Before getting to that, 
+however, I have just received an announcement from the chairman of the 
+House Appropriations Committee that if this conference report is not 
+approved, the House believes that a continuing resolution should fund 
+the Government. I do believe we ought to listen to the voices from the 
+House concerning what is going to happen if this conference report is 
+not approved.
+  The Association of Public Safety Communications Officials 
+International, which includes all of these people I have talked about 
+now, in terms of all of the associations with regard to public safety, 
+has said they support this measure, that it can provide $1 billion for 
+the Department of Homeland Security. There is $1 billion in State and 
+local governments preparedness grants.
+  I have the letter from American Legion which specifically points out 
+that they have reviewed the conference report and support its 
+enactment. It states specifically:
+
+       The American Legion continues to support the further 
+     development of domestic sources of energy to include 
+     increasing petroleum exploration and production in an 
+     environmentally sensible manner so as to reduce America's 
+     reliance on foreign petroleum.
+
+  That is a very positive statement concerning the ANWR provisions.
+  Veterans of Foreign War have written to me saying they believe this 
+conference report should be approved as quickly as possible. I will ask 
+to have their letter printed in the Record.
+  The Competitive Enterprise Institute says that, yes, there should be 
+a vote now on this conference report. They specifically applaud the 
+provision that will provide for initiating exploration and development 
+of the Arctic plain and states that environmental groups have spread 
+misinformation about ANWR for years. I will ask for that to be printed 
+in the Record. It points out the legislation passed by the House will 
+limit oil and gas drilling only to involve 2,000 acres of the 1.5 
+million acres of the Coastal Plain and states there is strong support 
+for this provision.
+
+  I have a memo from Unions Responsible for ANWR Development. It 
+specifically urges support of this legislation because ANWR will create 
+thousands of jobs to the members of America's union organizations. It 
+is signed by the International Union of Operating Engineers, AFL-CIO; 
+the Seafarers International Union, AFL-CIO; the International 
+Brotherhood of Teamsters, Change to Win Federation; the United 
+Association of Plumbers & Pipefitters, AFL-CIO; Laborers' International 
+Union of North America, AFL-CIO; United Brotherhood of Carpenters and 
+Joiners of America, Change to Win Federation; and the Building & 
+Construction Trades Department, AFL-CIO.
+  It specifically includes a letter from John Engler, who is the head 
+of the Nation's largest industrial trade association representing large 
+and small manufacturers in every industrial sector. It specifically 
+says:
+
+       We simply cannot afford to pass up this opportunity. The 
+     NAM will consider as possible Key Manufacturing Votes in the 
+     109th Congress NAM voting record all votes--including points 
+     of order, cloture and/or other procedure votes--
+
+on this bill.
+  The Naval Reserve Association has written to me indicating that they, 
+too, would like to have this spending bill to provide assistance for 
+Guard and Reserve members passed as soon as possible.
+  The American Legion, as I said, has indicated their support for this 
+bill.
+  Ducks Unlimited has sent out a release that indicates that $1 billion 
+for conservation funding will be dedicated to voluntary, private, 
+landowner-friendly programs administered by the U.S. Fish and Wildlife 
+Service, and they ask for the immediate approval of this bill. They 
+sent a similar release to the House of Representatives expressing their 
+overwhelming support for this bill. I think this is one of the great 
+organizations of the United States with over a million supporters that 
+ought to be listened to.
+  The Edison Electronic Institute also supports this bill. They state:
+
+       [This] conference report that was approved in the House 
+     earlier this week provides a total of $2.5 billion in base 
+     funding and $1.7 billion in emergency assistance funding for 
+     a total of $4.2 billion for the LIHEAP . . . double the 
+     highest funding level ever achieved--
+
+for this program, and it is due to the ever-increasing cost of energy. 
+This assistance is necessary. Particularly, this assistance is 
+necessary for the States and local governments affected by Hurricanes 
+Katrina, Rita, and Wilma.
+  There is also a letter from the Campaign for Home Energy Assistance. 
+This is really a copy of their release. It says:
+
+       The Defense appropriations bill appears to be our best and 
+     possibly last opportunity for an increase for this vital 
+     program.
+
+  They have issued a call to action.
+
+       The Campaign for Home Energy Assistance urges you to call 
+     your Senators today and ask them to vote for this Defense 
+     appropriations bill. . . .
+
+  The National Defense Council likewise has written to us urging that 
+after decades of debate concerning energy resource issues, this bill be 
+passed. They have a fairly long statement on their position. 
+Unquestionably, this is very important support for the bill from the 
+National Defense Council Foundation.
+
+[[Page S14126]]
+
+  The Reserve Officers Association of America issued a call to action 
+asking for support for this bill, for passage of this conference 
+report. I urge Members to consider their support.
+  I have a letter from the American Gas Association written to us, sent 
+out as a release urging support of this legislation to finally approve 
+the provisions that have been passed not only by the House but by the 
+Senate in this calendar year.
+  There is almost an unlimited number of letters that have been coming 
+into our office urging support. As I indicated in my opening comments, 
+the Air Transport Association sent a letter also. They sent a copy of 
+that letter to me urging that the enactment of this bill be swift. I 
+think it is very interesting that the Air Transport Association, 
+representing the U.S. airline industry which has taken such a hard hit 
+on the increase in gas prices, should show overwhelming support for 
+this bill.
+  I have sent every Member a letter outlining what is coming with 
+regard to the rule XXVIII point of order. I wish to put that letter in 
+the Record so there is no mistake about what I have told the Members 
+concerning our position on this potential rule XXVIII point of order.
+  My chief of staff points out to me the items in Congressman Jerry 
+Lewis's release. As I understand, it is not proper under the rules to 
+announce the vote in the House; therefore, I will not disclose it. I am 
+sure it is proper to say the House overwhelmingly passed this bill. It 
+urges a vote now on the conference report and wants this conference 
+report to be passed. It does not want to be forced to rely on a 
+continuing resolution to support the Department of Defense.
+  Mr. President, I have tried to outline some of these items. I will be 
+bringing more before the Senate as they are received.
+  I again repeat my request that the letters I read be printed in the 
+Record.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+                                          Veterans of Foreign Wars
+
+
+                                         of the United States,
+
+                                                December 20, 2005.
+     Hon. Ted Stevens,
+     Chairman, Subcommittee on Defense,
+     Committee on Appropriations, U.S. Senate, Washington, DC.
+       Dear Senator Stevens: On behalf of the men and women of the 
+     Veterans of Foreign Wars of the U.S., I would like to offer 
+     our strong support for the Conference Agreement for the 
+     Defense Appropriations Bill. The bill honors this Nation's 
+     commitment to taking care of those in uniform, and greatly 
+     improves the quality of life for our Nation's fighting 
+     forces. We urge passage of this bill, and the pay and 
+     benefits it bestows on our service members.
+       The bill includes a 3.1% across-the-board pay increase and 
+     helps to eliminate the out-of-pocket housing expense for 
+     military personnel. It also provides increased funding for 
+     body armor, personal protection equipment, as well as 
+     increased armor for vehicles--all which greatly improve the 
+     personal safety of those fighting in this Nation's vital yet 
+     dangerous war on terrorism.
+       This important legislation lets our brave men and women 
+     know that this Nation will be there for them, giving them 
+     every advantage they need to win the war and suffer as few 
+     casualties as possible. These brave men and women have our 
+     strong, undivided and unwavering support. It is for this 
+     reason that we thank you for your efforts in shepherding the 
+     legislation to this point, and we urge the entire Senate to 
+     quickly approve this bill for the good of all who serve.
+           Sincerely,
+                                                Robert E. Wallace,
+     Executive Director.
+                                  ____
+
+
+                    Competitive Enterprise Institute
+
+
+                          vote yes on anwr now
+
+       As gas prices remain above two dollars a gallon and most 
+     Americans are looking at sky-high heating bills this winter, 
+     the Competitive Enterprise Institute urges the U.S. Senate to 
+     pass legislation that would open a small portion of the 
+     Arctic National Wildlife Refuge (ANWR) in Alaska to oil and 
+     gas exploration.
+       ``The ANWR provision in the defense appropriations bill is 
+     the only legislation currently before the Senate that would 
+     address America's long-term energy needs. Authorization for 
+     opening ANWR has already passed both the House and the Senate 
+     this year,'' said Myron Ebell, Director of Global Warming & 
+     International Environmental Policy at CEI.
+       ``Senate Majority Leader Frist should keep the Senate in 
+     session as long as it takes to gain cloture on the defense 
+     appropriations bill and enact the ANWR provision,'' Ebell 
+     continued. ``If Senator Frist is unwilling to disrupt 
+     Senators'' holiday plans, then President Bush should use his 
+     constitutional authority to call them back into session.''
+       ``The American people are looking for long-term policies 
+     that will increase our energy supplies and make energy more 
+     affordable,'' said Ebell. ``The Senate should stop listening 
+     to an obstructionist minority who think that energy prices 
+     are not high enough and vote to open ANWR now.''
+       ``Environmental groups have spread misinformation about 
+     ANWR for years. Their latest soundbite is to claim that this 
+     is a payoff to big oil companies. That is the exact opposite 
+     of the truth. Any oil produced will be subject to a 12\1/2\% 
+     royalty paid to the federal Treasury and the State of 
+     Alaska,'' Ebell continued. ``Compare those royalty payments 
+     to the vast array of federal subsidies paid by tax dollars 
+     for alternative energy sources favored by the environmental 
+     movement.''
+       The legislation already passed by the House will limit oil 
+     and gas drilling to disturbing 2000 acres in the 1.5 million 
+     acre Coastal Plain, which is not a Wilderness Area. No 
+     drilling will be permitted in the vast areas of the 19 
+     million acre refuge that have been designated as Wilderness 
+     Areas. According to estimates by the U.S. Geological Survey, 
+     the amount of economically recoverable oil in ANWR will 
+     increase America's proven reserves by approximately fifty 
+     percent, which is equivalent to thirty years of current 
+     imports from Saudi Arabia, one of the nation's biggest 
+     foreign suppliers.
+       There is strong support among Alaskans for opening ANWR. 
+     Polls consistently show three quarters of Alaskans in 
+     support. The Inuit village of Kaktovik, in Alaska's Coastal 
+     Plain, also officially supports oil and gas exploration. 
+     ``Alaskans put a high value on protecting the natural 
+     splendors of their State, and they support opening the 
+     Coastal Plain because they know that the advanced technology 
+     now being used to produce oil will not harm the caribou herds 
+     or damage the environment. Oil has been pumped at Prudhoe Bay 
+     west of ANWR for three decades using 1970s technology and the 
+     caribou herd there has increased from 6,000 to 32,000,'' said 
+     CEI Adjunct Scholar R.J. Smith.
+                                  ____
+
+         Association of Public-Safety Communications Officials--
+           International, Congressional Fire Services Institute, 
+           International Association of Chiefs of Police, 
+           International Association of Fire Chiefs, Major Cities 
+           Chiefs Association, Major County Sheriffs' Association, 
+           National Sheriffs' Association, National League of 
+           Cities, National Association of Counties,
+                                                December 19, 2005.
+     Re Support of Funding for Public Safety in Defense 
+         Appropriation Conference Report
+
+     Hon. Ted Stevens,
+     Chairman, Committee on Commerce, Science and Transportation, 
+         U.S. Senate, Washington, DC.
+       We applaud you for including a measure in the Department of 
+     Defense Appropriations Act of 2006 to fund state and local 
+     government efforts to prepare for natural disaster and/or 
+     terrorist attacks. The measure provides $1 billion to the 
+     Department of Homeland Security's Office for Domestic 
+     Preparedness to make grants to state and local governments 
+     for interoperable communications equipment. The measure also 
+     provides an additional $1 billion for state and local 
+     government preparedness grants that can be used for training, 
+     evacuation plans, and the acquisition of equipment and 
+     medical supplies.
+       State and local governments desperately need additional 
+     funding to improve their radio communications equipment and 
+     to plan, train and prepare for natural disasters and 
+     terrorist attacks. Public safety fully supports these 
+     measures.
+                                  ____
+
+
+
+          memo: unions supporting responsible anwr development
+
+                                                December 17, 2005.
+       Within the next few days, you will be asked to vote on 
+     legislation making appropriations for the Department of 
+     Defense and other vital government programs. One of these 
+     important policies is the authority to develop vast oil 
+     resources in the Arctic National Wildlife Refuge, popularly 
+     known as ANWR. This is a jobs issue for our unions and our 
+     members.
+       On December 7, 2005 the Congressional Budget Office wrote 
+     Senator Ted Stevens and responded to the Senator's inquiry 
+     that ANWR bonus bid receipts ``might total at least $10 
+     billion--roughly double CBO's official estimate.'' That means 
+     it also increases the Federal revenue to a total of $5 
+     billion, as the state of Alaska and the Federal Government 
+     will share bonus bid receipts on a 50/50 basis. In the 
+     Defense appropriations legislation, the conferees have 
+     dedicated a significant portion of those additional revenues 
+     for funding future Federal disaster relief programs. As we 
+     understand it, these sums will also be used as collateral for 
+     immediate relief for damage caused in the Katrina, Rita and 
+     Wilma disaster areas.
+       We also see all of this as an affirmation of the 
+     progressive jobs policies generated by ANWR production.
+       Again, we urge you to support this legislation, because 
+     ANWR will create thousands of jobs for our members for many 
+     years. The bill assures ANWR work is protected by a project 
+     labor agreement. You will hear strident calls from opponents 
+     who claim opening
+
+[[Page S14127]]
+
+     ANWR will degrade the environment. We have heard their 
+     arguments, discussed them and made reasonable adjustments. 
+     They remain unyielding. Their baseless slogans can no longer 
+     be used as impediments to creating jobs or frustrating 
+     reasonable energy development.
+       When the question is called on the Defense Appropriations 
+     bill, it will be framed as one of process--to invoke cloture 
+     on the bill.
+       For us, process is policy.
+       The choice is clear. We can either continue to be hamstrung 
+     by the exaggerations of obstructionists, or be guided by 
+     policies that create jobs and assure a secure energy future.
+       Please support the Conference Report and oppose procedural 
+     devices that would delay this important legislation.
+       Thank you for your consideration.
+       International Union of Operating Engineers, AFL-CIO.
+       Seafarers International Union, AFL-CIO.
+       International Brotherhood of Teamsters, Change to Win 
+     Federation.
+       United Association of Plumbers & Pipefitters, AFL-CIO.
+       Laborers' International Union of North America, AFL-CIO.
+       United Brotherhood of Carpenters and Joiners of America, 
+     Change to Win Federation.
+       Building & Construction Trades Department, AFL-CIO.
+
+             Keep ANWR Provisions in Defense Spending Bill
+
+                                                December 19, 2005.
+       Dear Senator: On behalf of the National Association of 
+     Manufacturers (NAM), I urge you to support final passage of 
+     the conference report to H.R. 2963, the Defense 
+     appropriations bill, and oppose all efforts to remove 
+     provisions related to oil and natural gas development in 
+     ANWR. Our Nation's economic and national security depend, in 
+     part, on adequate, affordable, and reliable energy supplies. 
+     U.S. manufacturing--which uses one-third of our nation's 
+     energy--is facing the most severe energy price spikes in 
+     history due in large part to government policy decisions and 
+     a fundamental imbalance in our domestic energy supply. This 
+     is serious enough to have the potential to cause an economic 
+     downturn and the loss of thousands of high-paying 
+     manufacturing jobs.
+       Opening such a small portion of ANWR would have a powerful 
+     effect on our economy, creating thousands of new high-paying 
+     jobs, preserving thousands of U.S. manufacturing jobs and 
+     reducing our dependence on foreign energy sources. Estimates 
+     from both the U.S. Geological Survey and the U.S. Energy 
+     Information Administration state that ANWR development would 
+     generate 70 trillion cubic feet (TCF) of natural gas and 
+     roughly 10 billion barrels of oil or 1 million barrels of oil 
+     per day for 30 years.
+       We simply cannot afford to pass up this opportunity. The 
+     NAM will consider as possible Key Manufacturing Votes in the 
+     109th Congress NAM voting record all votes including points 
+     of order, cloture and/or other procedural votes--that attempt 
+     to weaken or delete provisions related to ANWR in the 
+     conference report to H.R. 2863.
+           Sincerely,
+                                                      John Engler,
+     President.
+                                  ____
+
+
+
+                                     Naval Reserve Association
+
+                                Alexandria, VA, December 20, 2005.
+     Hon. Ted Stevens,
+     Defense Appropriations Committee,
+     Washington, DC.
+     Hon. Daniel Inouye,
+     Defense Appropriations Committee,
+     Washington, DC.
+       Dear Chairman Stevens and Senator Inouye: I am writing you 
+     on behalf of the members of the Naval Reserve Association, 
+     members of the Navy Reserve, their families, and survivors. 
+     I'm writing to express our strongest support for passage of 
+     the FY 2006 Defense Appropriations Bill as soon as possible.
+       Members of the Guard and Reserve comprise over 45 percent 
+     of all U.S. personnel in Afghanistan and Iraq. Since 
+     September 11, 2001, our nation has deployed over 500,000 
+     Guard and Reserve members for operational missions all over 
+     the world. Additionally, during any month, approximately 25 
+     percent of the Navy Reserve force is doing some type of 
+     operational support to the fleet for operational mission 
+     requirements. Our nation is using our Guard and Reserve Force 
+     at increasing rates.
+       Unfortunately many of the Navy Reserve members have endured 
+     a shrinking Naval Reserve Force over the last few years. 
+     Nevertheless, our country owes it to those that serve to 
+     provide them with the operational, training funds, and 
+     benefits required to maintain them fully ready for our 
+     national needs, including Guard and Reserve Equipment. We 
+     urge you to fund Navy Reserve equipment in the same manner 
+     that you fund other Reserve Components. This bill contains 
+     critical funding for important issues for the Global War on 
+     Terror, and our Naval Reserve members are fully engaged in 
+     providing the support our nation needs at this time.
+       Today's guardsmen and reservists are professionals. They 
+     are the best that we have had and they are answering the call 
+     on a routine basis not envisioned during the Cold War. We 
+     need to ensure that political rhetoric does not get in their 
+     way in fighting the war on terrorism and providing homeland 
+     security. Passing the FY 2006 Defense Spending Bill will 
+     provide Guard and Reserve members an important tool to 
+     bolster recruitment, retention, family morale and overall 
+     readiness. We urge you to pass this bill as soon as possible. 
+     I look forward to working together in support of a strong and 
+     viable Navy Reserve, Naval Reserve equipment, and all reserve 
+     components. Thank you for all your hard work on their behalf.
+           Respectfully,
+                                                   Casey W. Coane,
+     RADM USN (Ret), Executive Director.
+                                  ____
+
+
+
+                                          The American Legion,
+
+                                 Washington DC, December 20, 2005.
+     Hon. Ted Stevens,
+     Chairman, Subcommittee on Defense, Committee on 
+         Appropriations, U.S. Senate, 119 Dirksen Senate Office 
+         Building, Washington, DC.
+       Dear Mr. Chairman: As you and your colleagues debate final 
+     passage of the Department of Defense (DoD) appropriations 
+     bill for FY 2006, The American Legion continues its steadfast 
+     commitment to assure a strong national defense as well as the 
+     fulfillment of promises made to America's veterans on behalf 
+     of a grateful Nation.
+       The American Legion has reviewed the Conference Report and 
+     supports its enactment. As a nation at war, it is imperative 
+     that the men and women of the armed forces know defense 
+     spending is indeed a national priority. This funding measure 
+     provides $453.3 billion to meet the fundamental needs of DoD 
+     its military components and several domestic needs outside 
+     the scope of national defense, such as disaster recovery 
+     efforts and avian flu protection.
+       The American Legion continues to support the further 
+     development of domestic sources of energy to include 
+     increasing petroleum exploration and production in an 
+     environmentally sensible manner so as to reduce America's 
+     reliance on foreign petroleum. The nation's continued 
+     reliance on foreign sources of energy places its national 
+     security and economic well-being at risk during times of 
+     crisis. The War on Terrorism and the continuing conflict in 
+     the volatile Middle East has brought into sharp focus the 
+     nation's heavy reliance on imported foreign oil that 
+     necessitates a re-evaluation of current and long-range energy 
+     policies.
+       Thank you for your continued leadership and support of 
+     America' s service members, veterans, and their families.
+           Sincerely,
+                                        Steve Robertson, Director,
+     National Legislative Commission.
+                                  ____
+
+
+
+                                              Ducks Unlimited,
+
+                                                      Memphis, TN.
+
+     $1 Billion in Conservation Funding Approved by U.S. House of 
+     Representatives Funding Bill Awaits a Vote in the U.S. Senate
+
+       Washington, DC, Dec. 19, 2005.--The U.S. House of 
+     Representatives overwhelmingly approved $1 billion for 
+     conservation programs in the Defense Appropriations bill 
+     today. A number of conservation provisions were added to the 
+     bill. Ducks Unlimited (DU) worked with Congressional leaders 
+     to include funding for several critical programs that benefit 
+     waterfowl, other wildlife and people. A vote on the bill by 
+     the U.S. Senate is expected soon.
+       The $1 billion in conservation funding would be dedicated 
+     to voluntary, private landowner friendly programs 
+     administered by the U.S. Fish and Wildlife Service and the 
+     U.S. Department of Agriculture (USDA). The increased funding 
+     for these programs is important for America's farmers, 
+     ranchers, sportsmen and for waterfowl, wetlands and the 
+     environment.
+       ``Congress is right to recognize the value and importance 
+     of results-oriented and cost effective conservation 
+     programs,'' said DU's Director of Governmental Affairs Scott 
+     Sutherland. ``This funding will help farmers and other 
+     private landowners conserve wildlife habitat and improve 
+     water quality and quantity while providing aesthetic, 
+     recreational and other economic benefits to their local 
+     communities.''
+       Key agricultural conservation programs such as the 
+     Conservation Reserve Program (CRP) and Wetlands Reserve 
+     Program (WRP) will share $900 million. CRP is credited with 
+     increasing waterfowl populations by 46 percent. It plays a 
+     critical role in landscape level conservation of soil, water 
+     and wildlife on marginal farmland while offering producers a 
+     significant and stable source of income.
+       WRP is the most successful USDA program for wetlands 
+     conservation, providing a way for farmers and ranchers to 
+     transition marginally productive or flood-prone lands into 
+     more appropriate uses. WRP lands provide wintering habitat in 
+     the Lower Mississippi Alluvial Valley for more than 5 million 
+     ducks and geese annually.
+       The Grassland Reserve Program, Environmental Quality 
+     Incentives Program and Conservation Security Program will 
+     also receive a share of the $900 million.
+       The bill includes $50 million for the North American 
+     Wetlands Conservation Act (NAWCA). NAWCA fosters public-
+     private partnerships to restore, conserve and protect 
+     wetlands associated habitats for waterfowl and other 
+     migratory birds. Another $50 million would go toward wetland 
+     and grassland protection programs administered by the U.S. 
+     Fish and Wildlife Service.
+       Among many other provisions included in the legislation are 
+     separate requirements that would provide heating assistance 
+     to low income Americans and allow exploratory oil drilling in 
+     a portion of the Arctic National Wildlife Refuge.
+
+[[Page S14128]]
+
+       With more than a million supporters, Ducks Unlimited is the 
+     world's largest and most effective wetland and waterfowl 
+     conservation organization. The United States alone has lost 
+     more than half of its original wetlands--nature's most 
+     productive ecosystem--and continues to lose more than 100,000 
+     wetland acres each year.
+                                  ____
+
+
+
+                                    Edison Electric Institute,
+
+                                Washington, DC, December 20, 2005.
+       To Members of the United States Senate: On behalf of the 
+     Edison Electric Institute (EEI), the association of United 
+     States sbareholder-owned electric companies, international 
+     affiliates, and industry associates worldwide, I urge you to 
+     support the FY06 Defense Appropriations bill, which includes 
+     several provisions that are of critical importance to our 
+     members and their customers.
+       Our U.S. members serve 97 percent of the ultimate customers 
+     in the shareholder owned segment of the industry, and 71 
+     percent of all electric utility ultimate customers in the 
+     nation. They generate almost 60 percent of the electricity 
+     produced by U.S. electric generators. Our member companies 
+     are working closely with the states to help those who need 
+     assistance with their energy bills this winter; however, even 
+     with unprecedented private/public partnerships around the 
+     country, the federally funded LIHEAP Program has been 
+     inundated with requests for assistance. State energy 
+     assistance directors are reporting that their funds for this 
+     vital but under-funded program are likely to run out in 
+     February. At a time when applications for assistance have 
+     increased up to 40 percent in many states, thousands of 
+     elderly, fixed income and working-poor families with small 
+     children will be turned away, receiving no assistance at all.
+       The FY06 Defense Appropriations Conference report that was 
+     approved in the House earlier this week provides a total of 
+     $2.5 billion in base funding, and $ 1.7 billion in emergency 
+     assistance funding for a total $4.2 billion for LIHEAP in 
+     FY06--double the highest funding level ever achieved. 
+     Importantly, base funding for the program is above the $1.975 
+     billion trigger for the first time since 1986 (at $2.5 
+     billion), which provides funding for both heating and cooling 
+     assistance in the months ahead. Furthermore, the ANWR 
+     provision provides a mechanism for LIHEAP funding in the 
+     future.
+       In addition, the FY06 Defense Appropriations bill creates a 
+     Gulf Coast Recovery Fund which dedicates 80% of initial bonus 
+     bids (lease sales) and rentals to the Fund for states and 
+     local governments affected by Hurricanes Katrina, Rita and 
+     Wilma. The bill also dedicates 20% royalties to the Fund 
+     states and local governments affected by Hurricanes Katrina, 
+     Rita and Wilma beginning in FY15. This funding will be 
+     critical to the rebuilding and future prosperity of the 
+     cities and states that were decimated by these storms last 
+     summer.
+       Given the critical need for LIHEAP funding and hurricane 
+     recovery assistance in the months ahead, the Edison Electric 
+     Institute considers this to be a key vote in the United 
+     States Senate. We urge you to support all efforts to pass 
+     legislation that will provide an unprecedented level of aid 
+     and support to those most in need in our country.
+           Sincerely,
+                                                   Thomas R. Kuhn,
+     President.
+                                  ____
+
+       To Members and Supporters of the Campaign for Home Energy 
+     Assistance: The Senate is expected to vote early tomorrow 
+     (Wednesday) morning on the Defense appropriations bill, which 
+     includes a provision that would increase funding for the Low 
+     Income Home Energy Assistance Program by $2 billion for 
+     Fiscal Year 2006.
+       The most recent short-term forecast from the Energy 
+     Information Administration states that heating costs are 
+     likely to be 7 to 38 percent higher this winter: a 38 percent 
+     increase for natural gas, 21 percent for heating oil, 15 
+     percent for propane and 7 percent for electricity. It is 
+     urgent, therefore, for Congress to provide additional funding 
+     for LIHEAP.
+       The Defense appropriations bill appears to be our best and 
+     possibly last opportunity to provide an increase for this 
+     vital program. The measure would add $500 million to the 
+     LIHEAP state block grant program and provide $1.5 billion in 
+     contingency funds. When combined with the LIHEAP allocations 
+     provided in the Labor/Health & Human Services/Education 
+     appropriations bill ($2 billion for the block grant program 
+     and $183 million in contingency funds), the program would be 
+     funded at its highest total ever: $4.141 billion.
+       URGENT! Call to Action: The Campaign for Home Energy 
+     Assistance urges you to call your senators today and ask them 
+     to vote for the Defense appropriations bill when it is 
+     considered tomorrow morning.
+
+                                                    David Fox,
+
+                                               Executive Director,
+     Campaign for Home Energy Assistance.
+                                  ____
+
+                                                December 20, 2005.
+     Hon. Ted Stevens,
+     Hart Senate Office Building,
+     Washington, DC.
+       Dear Senator Stevens: I am writing you concerning the 
+     importance of developing the oil resources of Alaska's Arctic 
+     National Wildlife Refuge for national defense.
+       As you may be aware, our organization has been actively 
+     involved in issues related to energy security and national 
+     defense for more than two decades. We have conducted more 
+     than 120 studies on this subject, including a substantial 
+     number specifically concerned with Alaskan natural resources. 
+     I should also note that our work has enjoyed broad bi-
+     partisan support, and has been cited by private groups as 
+     diverse as the Energy and Environmental Study Institute, the 
+     Clean Fuels Vehicles Coalition and the Institute for the 
+     Analysis of Global Security; and by government institutions 
+     including the United States Department of Energy and House 
+     Resources Committee.
+       After more than three decades of considering energy 
+     security issues and almost a quarter century of studying the 
+     role of Alaskan oil, we find that we can come to only one 
+     conclusion:
+       The development of ANWR is a vital national defense 
+     priority. There are a number of reasons why this is the case.
+       First, energy, and specifically energy from petroleum is 
+     among the most critical defense commodities.
+       At the time of Operation Desert Storm, the first Persian 
+     Gulf War, a U.S. Army Heavy Division, comprised of 17,500 
+     soldiers, used as much oil as four World War II Field Armies 
+     which would have comprised over 400,000 troops. To illustrate 
+     this point further, the 528,000 U.S. troops that participated 
+     in Operation Desert Storm used more than four times as much 
+     oil on a daily basis as the entire 2-million man Allied 
+     Expeditionary Force that liberated Europe during World War 
+     II.
+       But even these stunning comparisons do not tell the full 
+     story.
+       The petroleum requirement per deployed soldier has 
+     increased by roughly 20% between Operation Desert Storm, the 
+     first Persian Gulf War and Operation Iraqi Freedom.
+       Moreover, as the process of ``Defense Transformation'' 
+     proceeds and a greater emphasis is placed on fuel-intensive 
+     units such as the Stryker Brigade Combat Teams, the fuel per 
+     deployed soldier required for military operations will 
+     increase even more.
+       Second, our access to petroleum on the world market will 
+     become increasingly constrained. The competition for oil on 
+     the world market has greatly intensified over the past decade 
+     and in the future will become even more intense.
+       According to the IMF the Chinese economy has been growing 
+     at an average of 9% since 1978, and has exceeded 13% in some 
+     years. Most recently China's economic growth has averaged 
+     between 9% and 10%, fueled in large part by a massive program 
+     of industrial modernization. Included among its stated 
+     economic goals is the addition of some 120 million 
+     automobiles to its domestic fleet over the next decade. This 
+     change alone will increase China's oil import requirements by 
+     more than 9 million barrels per day. India, too, has 
+     experienced extremely high growth rates, as have some of the 
+     newly independent states that formerly comprised the Soviet 
+     Union. What all of this means is that global demand for oil 
+     is going to rise sharply at a time when the addition of new 
+     global supplies simply cannot keep pace.
+       We cannot, therefore, be sure that we will enjoy access to 
+     foreign oil supplies to provide essential petroleum in time 
+     of conflict.
+       A third factor is the insecurity of foreign sources of oil.
+       Even if the amount of oil available on the world market 
+     were sufficient to meet our needs, there is no guarantee that 
+     it would be available for our use. Of the top ten sources of 
+     U.S. oil imports, at least four are of questionable security. 
+     Venezuela, our third ranking supplier, provides 11.1% of U.S. 
+     oil imports, constituting 6.7% of total supply. It is ruled 
+     by an individual who is openly hostile to the United States 
+     and who has threatened to cut off oil exports to the U.S. 
+     Saudi Arabia, our second largest source of imports, 
+     contributing 6.8% of total supplies and a little more than 
+     11.1% of imports, has had its oil infrastructure targeted in 
+     a recent fatwa from al-Qaeda. Nigeria, which provides 8.6% of 
+     imports and accounts for 5.2% of domestic oil supplies, is 
+     fraught with civil unrest and banditry. It loses 135,000 b/d 
+     of crude oil to theft. Iraq, which accounts for 3.7% of our 
+     imports and 2.3% of domestic supplies, has an ongoing 
+     insurgency that has attacked oil pipelines more than 100 
+     times in the past year and is also targeted in the al-Qaeda 
+     fatwa.
+       Moreover. even relatively secure suppliers such as Canada 
+     and Mexico are being approached by China with investment 
+     proposals that might earmark segments of their production for 
+     exclusive Chinese use.
+       Fourth, even domestic sources may be vulnerable to 
+     disruption.
+       The recent experience with hurricanes Katrina and Rita 
+     underscored the vulnerability of domestic production in the 
+     Gulf of Mexico. We are entering a long-term weather pattern 
+     that will be characterized by increased hurricane activity. 
+     Therefore, the potential for disruption of Gulf of Mexico 
+     production, as occurred this fall, is substantial.
+       When all of the factors are taken into account, it becomes 
+     evident that the development of ANWR's oil and gas resources 
+     is an urgent defense priority. Failure to do so can only 
+     serve to undermine the ability of America's armed forces to 
+     operate.
+           Sincerely,
+
+                                            Milton R. Copulos,
+
+                                                        President,
+                              National Defense Council Foundation.
+
+[[Page S14129]]
+
+     
+                                  ____
+             [From the Weekly E. Newsletter, Dec. 20, 2005]
+
+        The Defense Appropriations Bill of 2006--Call for Action
+
+       The Anti-Lobbying Act prohibits military and civilian 
+     government workers from using federal assets to lobby 
+     Congress. Any action taken on this Call to Action should not 
+     be done during duty hours. Please use your home computer or 
+     phone to contact Congress.
+       ROA wants you to call your U.S. Senators TODAY! Ask them to 
+     pass the Defense Spending Appropriations Bill (H.R. 2863) 
+     now! In a time of war, the goal should be passage.
+       The House has voted its support of the Defense Spending 
+     Appropriations Bill, but the Senate vote could be delayed. 
+     This is one of the last remaining appropriations bills.
+       Don't let a filibuster stop the needed action. The debate 
+     and vote could be today or tomorrow. Make your voice heard 
+     now!
+       Key elements of the Defense spending bill includes money 
+     to:
+       Fund TRICARE Reserve Select.
+       Provide $1 billion for equipment for shortfalls in the 
+     Army/Air National Guard and Army Reserve.
+       Fully fund acquisition of 15 C-17 transports and approves 
+     multiyear procurement authority.
+       Add $180 million for the National Guard and Reserve 
+     Equipment Allowance.
+       Provide pay and allowances for Reserve and Guard personnel 
+     mobilized in support of the Global War on Terror (GWOT).
+       Include $681.5 million to support additional recruiting and 
+     retention incentives.
+       Provide $50 billion for contingency operations related to 
+     the GWOT.
+       Realign C-130J/ KC-130 to support program sustainment.
+       Provide $8.8 billion for shipbuilding programs.
+       Add $473 million for Army medical research.
+       Support incremental wartime costs for military personnel.
+       Increase pay by 3.1 percent.
+       We need maximum, immediate effort to call, e-mail, or fax 
+     your senators (too late for ``snail mail'') urging them to 
+     bring the Defense spending bill to the floor and vote yes as 
+     the bill is scheduled for debate and vote today or tomorrow.
+       Contact: Call, fax, or e-mail.
+       Use ROA's toll-free hotline to call your senator on Capitol 
+     Hill. The toll-free number to call your legislator in 
+     Washington is (888) 762-8760. Please call! When you reach the 
+     Capitol switchboard, just ask for the office of your senator. 
+     The Grassroots Advocacy page under legislative affairs/
+     grassroots on the ROA Web site can help identify your elected 
+     official.
+       When you contact your senator's office, you can say: ``I am 
+     calling to encourage my senator to vote yes on H.R. 2863, the 
+     Defense Spending Appropriations Bill''
+       Or, you can fax or e-mail your elected official. See a 
+     sample letter on the ROA Web Site.
+       E-mails should use the subject line: Subject: Vote Yes on 
+     H.R. 2863, the Defense Spending Appropriations Bill''
+       If not passed, the National Defense Authorization Act 
+     (NDAA) H.R. 1815 could go unfunded.
+       The NDAA includes:
+       Enhanced TRICARE for drilling Reservists.
+       Elimination of BAH II for those mobilized on orders over 30 
+     days.
+       Civilian pay differential for Reservists with over 18 
+     months of deployment.
+       Retention and recruitment bonuses.
+       Tactical wheeled vehicle recapitalization.
+       Continued Humvee uparmoring.
+       $114.7 million for enhanced body armor.
+       Improvised Explosive Device (IED) jammers.
+       Increases of 10,000 Army and 1,000 Marine active duty end-
+     strengths.
+       Increased hardship pay from $300 to $750.
+       A permanent death gratuity pay of $100,000.
+       The NDAA, H.R. 1815, will go to the Senate for a vote on 
+     Wednesday and is expected to pass without controversy. But if 
+     the Defense Spending Appropriations bill isn't passed, the 
+     NOAA is hollowed out, as it doesn't provide funds.
+       The National Defense Authorization Act (NDAA) authorizes 
+     benefits, equipment and programs. The Defense Spending 
+     Appropriations Bill provides the money to pay for this 
+     equipment and these programs.
+                                  ____
+
+
+
+                                     American Gas Association,
+
+                                                December 16, 2005.
+       Dear Members of Congress: On behalf of the 195 local energy 
+     utility members of the American Gas Association, which 
+     deliver natural gas to more than 56 million homes, businesses 
+     and industries throughout the United States, I urge you to 
+     support legislation that would open the Alaska Arctic 
+     National Wildlife Refuge (ANWR) to energy production, which 
+     will be included in the FY-06 defense appropriations bill 
+     scheduled to be voted on by Congress this weekend.
+       Allowing energy production in ANWR is a vital component to 
+     addressing one of our nation's more urgent public policy 
+     issues, namely the imbalance between energy demand and 
+     available supply, and the resulting high and volatile energy 
+     prices that America is experiencing. Increasing our access to 
+     domestic energy supplies is critical to enhancing America's 
+     energy security, sustaining America's economy and providing 
+     the American consumer with relief from ever spiraling energy 
+     costs.
+       AGA speaks on this matter not only as the representative of 
+     natural gas utility companies, but also as a voice for their 
+     customers who have been hit so hard financially because of 
+     higher natural gas prices. Whether it's a homeowner 
+     struggling to pay the heating bill, a small business facing 
+     significantly increased energy-related business costs or an 
+     industry being forced to move overseas in order to compete in 
+     the global marketplace, soaring energy prices have been a 
+     severe detriment to America's quality of life.
+       Thanks to new technological developments energy can now be 
+     produced without undue harm to the surrounding environment. 
+     Hopefully, this vote will be the beginning of a trend that 
+     recognizes America's energy needs can be met with adequate 
+     environmental protections.
+       Again, we urge you to support passage of legislation 
+     containing the provisions to finally open ANWR.
+           Sincerely,
+                                                   David N. Parker
+     President and CEO.
+                                  ____
+
+
+
+                                    Air Transport Association,
+
+                                 Washington, DC, December 9, 2005.
+       Dear: Airlines are one of the primary and most significant 
+     purchasers of refined crude oil. We anticipate that U.S. 
+     airlines alone will consume approximately 19 billion gallons 
+     of fuel in their worldwide operations this year. Maintaining 
+     existing oil production and developing new resources to 
+     supply our nation's increasing need for refined product is 
+     indispensable to the economic health of the U.S. airline 
+     industry and our ability to provide the frequency and 
+     reliability of air service that passengers and shippers 
+     demand.
+       The airline industry has taken extraordinary conservation 
+     measures since the early 1970s and has improved fuel 
+     efficiency three-fold. In addition to the introduction of 
+     more fuel-efficient aircraft, the industry has initiated a 
+     number of new operational practices to conserve fuel and has 
+     gone as far as considering how much additional weight 
+     magazines and silverware add to an aircraft.
+       The intensity and pace of these measures have further 
+     accelerated during the recent run-up in oil prices. 
+     Nevertheless, conservation and efficiency efforts in such a 
+     fuel-intensive industry as ours have their limitations. New 
+     sources of petroleum must be found.
+       The Air Transport Association of America, Inc., strongly 
+     supports the enactment of a federal energy policy that allows 
+     for greater access to domestic sources of oil for 
+     environmentally responsible production, particularly within 
+     ``Area 1002'' of the Arctic National Wildlife Refuge (ANWR). 
+     Area 1002 was recognized in 1980 by Congress and President 
+     Carter as a potentially significant oil and natural gas 
+     reserve, and was distinguished by law from the rest of the 
+     refuge as a site for possible future energy production.
+       The Air Transport Association believes that the time has 
+     come to open Area 1002 to environmentally responsible energy 
+     production, and we ask for your full support of legislation 
+     to accomplish this goal. While not a magic fix to the problem 
+     of high oil prices that have added billions of dollars of 
+     unbearable costs to an already ailing airline industry, 
+     opening Area 1002 is an important component in a 
+     comprehensive national energy policy that utilizes not only 
+     efficiency and conservation, but also the strength of our 
+     precious domestic resources.
+       Thank you for your consideration of this important matter 
+     and please feel free to call on me with any questions or 
+     concerns.
+           Sincerely,
+                                                     James C. May,
+     President and CEO.
+                                  ____
+
+
+
+                                                  U.S. Senate,
+
+                                Washington, DC, December 19, 2005.
+       Dear Member: A Rule 28 point of order against the Defense 
+     Appropriations Conference Report may be raised. I ask you to 
+     think very carefully about your position on this issue 
+     because vital funding and programs are at stake in this 
+     decision.
+       A Rule 28 point of order will apply to all provisions in 
+     the bill that are beyond the authority of the conferees. 
+     These provisions include:
+       The Hurricane Supplemental, which contains $29 billion for 
+     hurricane victims. Included in this supplemental is funding 
+     for education expenses, housing, and reconstruction efforts 
+     in the disaster areas.
+       The Gulf Coast Recovery Fund provides short and long-term 
+     disaster relief funding for Louisiana, Mississippi, Alabama, 
+     Texas, and Florida.
+       Avian Flu Liability language included with funding that 
+     will encourage the vaccine industry to return to the United 
+     States, so that we may be able to create Avian Flu vaccines 
+     here at home.
+       The Low Income Home Energy Assistance Program (LIHEAP) is 
+     funded on an emergency basis in FY06 with $2 billion for home 
+     heating assistance.
+       $3.1 billion is included in the bill for homeland security. 
+     Included is funding for Interoperable Communications 
+     Equipment Grants to state and local governments, which will 
+     help first responders communicate in the event of a natural 
+     disaster or terrorist attack.
+       Emergency Preparedness Grants to state and local 
+     governments. All states are assured a certain level of 
+     funding. Funds will be allocated based on threat and risk 
+     levels.
+       Funds for increased border security, helicopter 
+     replacement, and security infrastructure, which is funded on 
+     an emergency basis.
+
+[[Page S14130]]
+
+       An additional $1 billion for farm bill conservation 
+     programs, which will help farmers and ranchers meet current 
+     challenges and ensure the productivity of their land for 
+     future generations.
+       If a Rule 28 point of order is sustained, the entire 
+     Defense Appropriations Conference Report will fall. Rule 28 
+     does not allow us to strike specific provisions from a 
+     conference report; it kills the conference report altogether. 
+     Since the House has voted, it will be necessary to appoint 
+     new conferees in the House and the Senate, and we will have 
+     to start over.
+       Some Members have suggested that we could simply return to 
+     conference with the House, strip the provision regarding 
+     development on the Arctic Coastal Plain, and pass the bill 
+     with the provisions listed above. This is simply not 
+     possible. A portion of the funding for these initiatives and 
+     programs comes from the revenue ANWR will provide.
+       We tried to pass bills that funded these priorities, but we 
+     could not find an agreement to do so on an emergency basis. 
+     These provisions were included in this bill because we were 
+     able to generate additional federal revenues, including 
+     revenue generated by development on the Arctic Coastal Plain, 
+     which will provide the funds we need and repay emergency 
+     spending. If a Rule 28 point of order is sustained, forcing 
+     us to begin a new conference, many of the items listed above 
+     will need to be stripped from the bill as well. We cannot pay 
+     for them without the additional revenue ANWR will provide.
+       With best wishes,
+           Cordially,
+     Ted Stevens.
+                                  ____
+
+
+  Appropriations Chairman Jerry Lewis Urges Senate passage of Defense 
+                             Spending Bill
+
+       Washington.--The Hurricane Katrina recovery, increased 
+     funding for low-income heating needs, protection against 
+     avian flu and many other programs that were added to the 
+     Defense Appropriations Bill are at risk if the Senate does 
+     not approve the package this week, House Appropriations 
+     Chairman Jerry Lewis said Tuesday.
+       ``If the Senate will not approve this bill, we will be 
+     forced to rely on a continuing resolution to fund the 
+     Department of Defense, which will mean all of the additional 
+     spending the House approved last week will be lost,'' Lewis 
+     said. ``Continuing resolutions will fund the government, but 
+     only at last year's level and with none of these programs 
+     that are so urgently needed.''
+       ``Clearly, the Senate does not want to do that, and I'm 
+     sure they don't want to jeopardize the funding for our troops 
+     during time of war,'' Lewis said. ``It is time to stop the 
+     partisan debates and approve the final two appropriations 
+     bills.''
+       The House last week passed the Defense Appropriations bill 
+     for Fiscal Year 2006 by a resounding 308-106 vote, with 106 
+     Democrats supporting the bill and only 89 opposed, Lewis 
+     noted. It is strongly supported by President Bush, and 
+     contains many new Pentagon spending levels that would not be 
+     funded under a continuing resolution.
+       ``This was not even close to being a party-line vote in the 
+     House, which should be a message to the Senate that it is 
+     time to finish our work and put funding in place for the new 
+     fiscal year,'' Lewis said. ``It is irresponsible for a 
+     minority of Senators to impede the will of the President, the 
+     House and the American people and put all of these urgently 
+     needed programs at risk.''
+
+  Mr. STEVENS. Mr. President, I don't know how many more times I will 
+be before the Senate before this matter comes up tomorrow. I do hope it 
+will come to the floor early tomorrow because we need time to consider 
+the points of order that will lie against the conference report.
+  To me, approval of the conference report really means we are putting 
+aside the debate that might take place on the individual items that may 
+be raised here. The conference report is not subject to amendment, but 
+it is possible to have almost unending delay on the points of order. 
+They are debatable and, therefore, the reason for the cloture motion is 
+primarily to reduce debate on these various points of order we will 
+have and find some way to assure there will be an early passage of the 
+conference report.
+  This is a conference report providing enormous assistance to the 
+Department of Defense, particularly the $50 billion in emergency 
+funding that is primarily required to support those who are in our 
+uniform defending the Nation in terms of their activities in the war on 
+terror. I urge the Senate to vote cloture to limit that debate. We will 
+have the points of order. We will have the points of order under the 
+Budget Act under rule XXVIII, but there is no reason to have unlimited 
+debate on those points or order.
+  The cloture motion is for the best interest of the Department of 
+Defense to get this bill to the Department of Defense as quickly as 
+possible. If those points of order are sustained, obviously, we will 
+have to go back to conference, have a new conference, and we will have 
+to appoint new conferees. The House is spread all over the country. How 
+quickly we can do that, I don't know.
+  I do believe that it is in the best interest of the Nation to adopt 
+this conference report. It does not contain items, as far as this 
+subject, ANWR, is concerned, that have not passed before. We have 
+approved ANWR before in this Reconciliation Act, and the House has 
+passed the act before. We have added provisions I described dealing 
+with the funding that will come in from ANWR. But otherwise it was 
+considered before and passed by the House of Representatives 
+previously.
+  I don't know how much more time I have. Has my time expired?
+  The PRESIDING OFFICER. The Senator has 2 minutes remaining.
+  Mr. STEVENS. Mr. President, I yield the floor. I don't know who is to 
+come next. I don't want to charge any time to the pending measure. That 
+was the understanding. So I will just let the time run for a minute.
+  I will again remind the Senate that the money that is in the bill 
+that is before us, the conference report that is before us, that its 
+emergency funding will not survive another conference. It will only 
+survive this conference because the money that was predicted to be 
+available from income from the sale of oil and gas leases in ANWR--and 
+the OMB did increase its estimate from $2.5 billion to $5 billion. 
+However, they did not increase that for budget purposes. They confirmed 
+the fact that it would come in. So we have allocated that money under 
+this bill, particularly to LIHEAP, to low-income housing assistance. 
+That cannot survive another conference if ANWR is deleted.
+  So for those people who want that money, and it has been pointed out 
+that is an enormous increase due to the situation that exists because 
+of the fantastic increase in home heating costs, it does not have to be 
+spent. It is there in reserve to be spent. We do not mandate that they 
+spend that money. We make it available to them on an emergency basis if 
+it is necessary, and it may well be necessary through the balance of 
+this winter.
+  So I do urge the Members of the Senate to vote for the conference 
+report, vote for cloture on the conference report, and help us prepare 
+for the points of order that may be raised after the cloture motion has 
+been approved. I am getting tired, and I apologize.
+  Now is my time expired?
+  The PRESIDING OFFICER. The Senator's time has expired.
+  Mr. STEVENS. I yield the floor.
+  Mr. GREGG. I suggest the absence of a quorum.
+  The PRESIDING OFFICER. The clerk will call the roll.
+  The legislative clerk proceeded to call the roll.
+  Mr. DURBIN. Mr. President, I ask unanimous consent that the order for 
+the quorum call be rescinded.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+
+                         Defense Appropriations
+
+  Mr. DURBIN. Mr. President, tomorrow we are going to have some 
+significant votes in the Senate on issues of great importance, not the 
+least of which is the Defense appropriations bill, one of the most 
+important bills we consider in the course of our calendar year. This is 
+the bill to provide the resources for our troops--literally, their pay, 
+the equipment they need, the training they need, new weapons they need, 
+the fundamentals we need to keep our Nation safe.
+  This has usually been a very bipartisan bill. Having served on the 
+Appropriations Committee, I have seen it in the past with strong 
+support from both sides of the aisle and rarely a real partisan issue. 
+This time, however, this bill has been modified and changed. Added to 
+this bill are provisions which have nothing to do with our Nation's 
+defense. They are provisions that have been debated at length for many 
+years in the Senate relative to controversial issues on many fronts. 
+The most controversial, the lead issue, the one that has been spoken to 
+time and again on the Senate floor over the last several days, is the 
+authorization for drilling for oil in the Arctic National Wildlife 
+Refuge. Some may remember that at the time of the invasion of Iraq, 
+then Republican House whip Tom DeLay gave a speech in which he said, 
+``Nothing is more important in the face of a war than cutting taxes.'' 
+That is what
+
+[[Page S14131]]
+
+he said. Tens of thousands of American troops were gathered in the 
+Kuwait desert waiting for the command to go to war, being warned they 
+might face weapons of mass destruction, and the then majority leader of 
+the House of Representatives Tom DeLay said, ``Nothing is more 
+important in the face of a war than cutting taxes.''
+  Here we are a thousand days later still at war. We have lost over 
+2,150 American soldiers, over 15,000 have been seriously wounded, and 
+150,000-plus soldiers now risk their lives in Iraq today as we stand in 
+the safety of this Chamber and in this country.
+  As we consider this important bill to fund this war and to stand 
+behind our troops, it turns out we learned nothing is more important to 
+some Members of the Senate than to make sure that we take care of the 
+oil and gas companies before we take care of the troops. How else can 
+one explain it? How else can we have reached the point where the Arctic 
+National Wildlife Refuge oil drilling is so critically important to 
+America that we would jeopardize the passage of the Department of 
+Defense appropriations bill in order to pass it? This is the kind of 
+thing that gives the Senate a bad name.
+  How many times have we heard people ask--I have heard it many times--
+why do you let this happen? Why would you let a bill be amended at the 
+end to contain things which have nothing to do with it?
+  We have some 4,000 pages of bills before us today, almost 1,000 pages 
+in this Defense appropriations bill. In it are critically important 
+items for our troops, but also in it is this permission to go into an 
+Arctic National Wildlife Refuge to drill for oil. Who wants this? Well, 
+there are two groups that certainly want it. First, the oil companies. 
+They are going to make money on this, as if they had not made enough. 
+This year, with their kiting of gasoline and energy prices across 
+America they have already had $100 billion in new profits. Well, here 
+they come again. They want more and more. Some believe their profit 
+margin is at least as important as providing the basic funds for our 
+troops. That is why they would put that amendment in this bill.
+
+  How can it have reached this point, where the Senate will have walked 
+away from its basic obligation to our men and women in uniform and said 
+we are going to allow the use of an appropriations bill for this 
+drilling for oil in the Arctic National Wildlife Refuge? Well, the 
+people who crafted this brought in a number of Senators and Congressmen 
+to support them by promising that some of the revenue from the drilling 
+in Alaska would go to fund other programs and purposes. Relief for 
+victims of Hurricane Katrina was one of the things that was also being 
+promised. There are many other elements that are being talked about--
+LIHEAP, the low-income home energy assistance program. It is promised 
+that they will have some money as a result of this. So many people have 
+decided they can look at this positively because there is something in 
+it for them.
+  How important is this bill and this vote to the Bush administration? 
+So important that Vice President Cheney cut short his trip overseas to 
+make sure that he is here tomorrow, if necessary, to cast the deciding 
+vote for the drilling for oil in the Arctic National Wildlife Refuge 
+and the passage of this bill.
+  I think it tells us why it is important. Threatening to withhold 
+funding for American troops during wartime and for Katrina victims in 
+order to push through ANWR drilling has to rank as one of the lowest 
+moments in the history of the Senate.
+  Let us put aside for a minute whether the ANWR language ought to be 
+in this bill. Let us look at the language itself. This language has 
+never been examined or closely debated by any committee, neither the 
+House nor the Senate. According to the Congressional Budget Office, the 
+specific ANWR language in this bill is different in several critical 
+ways from any other ANWR drilling proposal considered by Congress, and 
+one of the most important elements is the inclusion of a provision 
+known as severability. One would have to go searching long and hard, 
+but they will find on page 406 of the electronic version of this 
+Department of Defense appropriations bill this severability provision. 
+Here is what it means: If the State of Alaska decides to sue to have 
+the 50/50 split of ANWR revenues called for in this bill declared 
+illegal, then money this bill seems to promise for Katrina relief and 
+low-income heating energy assistance and many other worthy causes could 
+simply disappear.
+  It is a bait and switch. The proponents of this amendment lured 
+supporters by saying, come on along for the ride. We are going to drill 
+in ANWR and we are going to give you some money. We will give it to the 
+Katrina victims and we will also give it to the poor people in America 
+trying to heat their homes. So stick with us. Then they put in this 
+provision. The money that would have gone primarily for those purposes 
+could be removed almost entirely. How could it happen? It could happen 
+by the State of Alaska asserting that instead of 50 percent, they want 
+90 percent of the revenues that come out of this bill.
+  Think about that for a moment. The big oil companies make their 
+profits, the State of Alaska takes away virtually all the money, and 
+all these other good causes find themselves with little or nothing to 
+show for it.
+  You see, the Alaska Statehood Act already provides that any revenue 
+from Alaska oil sales must be split 90-10, 90 percent to Alaska and 10 
+percent to the Federal Government. And what did the lone Congressman 
+from Alaska, Don Young, say today in the Anchorage Daily News?
+
+       As for the revenue split, Young said he thinks the Governor 
+     (of Alaska) would sue to get the 90/10 split promised by the 
+     Alaska Statehood Act.
+
+  So in order to get extra votes for this provision, the sponsors 
+offered to others in Congress this lure of money from the drilling that 
+they can use for their purposes. It turns out, as soon as it is passed, 
+we have the State's Alaskan Congressman saying the Governor is going to 
+take away the money, virtually all of it.
+  In addition, Alaska State officials have made it clear that they 
+intend to fight for 90 percent of the ANWR revenues. They passed a 
+resolution signed by their Governor that said just that, they are not 
+going to take anything less than 90 percent.
+  So the big winners from this ANWR provision in the bill will be the 
+oil companies and the State of Alaska. They are prepared to jeopardize 
+the passage of the Department of Defense appropriations bill because 
+there is so much money on the table, so much to be made from the 
+revenues from the drilling for this oil. Whoever drafted this language 
+knew what they were doing by putting in this severability clause, which 
+basically says we can switch after we baited you into this trap, and 
+you can't do a darned thing about it. This could end up being one of 
+the biggest bait-and-switch deals in the history of the Senate.
+  There is another reason to be skeptical about Katrina relief in this 
+bill and other promises that are being made around the Capitol. 
+According to the nonpartisan Congressional Research Service, the 
+revenues this bill assumes from ANWR drilling are wildly inflated. For 
+example, this bill assumes lease bonus revenue from ANWR will total $10 
+billion. For that amount of money to be raised, every single one of 
+ANWR's 1.5 million acres would have to produce an average of $6,666 in 
+lease income. Since 1980, the average that has been produced is $60 an 
+acre, less than one-hundredth of what has been promised.
+  Moreover, between 2001 and 2005, that average dropped to $45 per 
+leased acre, despite record increases during that time in the price of 
+oil.
+  Now look at the estimated royalties. The bill says 20 percent of 
+these estimated royalties will be used to help Hurricane Katrina 
+victims. To generate the $40 billion ANWR supporters are promising for 
+the Katrina relief fund, oil prices would have to average $89 a barrel 
+between 2015 and 2044. The U.S. Energy Information Administration's 
+annual energy outlook projects a 1.3-percent annual increase in the 
+price of oil between now and 2025. They can never reach the numbers 
+that they are projecting to come up with this money.
+  The revenues in this bill supposedly promised for LIHEAP will also 
+fall short for the same reasons.
+  The conclusion is this: For reasons I cannot explain, the Republican 
+leadership in the Senate today has departed from the accepted practice 
+of the Senate. There was a time when this bill
+
+[[Page S14132]]
+
+was considered something special, a bill to appropriate money for our 
+men and women in uniform and for our Department of Defense. It was the 
+first priority in appropriations, the first passed, and the first to be 
+signed by the President year after year after year. But this year, in 
+order to accommodate the political agenda of some Members of the 
+Senate, it is the last bill--second to the last bill that we will 
+consider. Why did we wait so long? So that this bill could be a vehicle 
+for a political agenda for the drilling in the Arctic National Wildlife 
+Refuge.
+  To think that we would in any way jeopardize this bill for our men 
+and women in uniform for this political deal at the close of the 
+session is just something that the Senate cannot be proud of.
+  I urge my colleagues, stand up for the men and women in uniform. But 
+stand up for the integrity of the Senate. It is about time that we made 
+it clear that this kind of political horse trading that goes on at the 
+close of the session, for an issue that has been debated for years on 
+Capitol Hill, has to come to an end. This bill, the Department of 
+Defense bill, should be a bill that is not the proving grounds or 
+testing grounds for great political ideas. Let's focus on the men and 
+women in uniform.
+  I urge my colleagues to do two things. First, defeat cloture. Let the 
+Senator from Alaska know that this is not appropriate on this bill.
+  Second, hold him to his word that once we defeat cloture, he will 
+move to strike this provision from the bill on ANWR, and we can move 
+forward to funding our troops. The senior Senator from Alaska has said, 
+both in his State and on the Senate floor, that if he can't clear 
+this procedurally, that will be the end of the debate. We will then go 
+to the Defense appropriations bill, as we should. Then let's pass this 
+with a strong bipartisan rollcall, having taken out this politically 
+unacceptable provision on ANWR.
+
+  This is one of the biggest bait-and-switch deals we have seen on the 
+floor of the Senate. Back-room promises have brought this today to the 
+Senate for a vote which we will face in the morning. Enough is enough. 
+The Senate should reject this. The Senate should demand that ANWR be 
+voted on the merits, and we should immediately pass a bill that does 
+the right thing not only for our troops but for the Katrina victims and 
+also to protect Americans from the threat of avian flu.
+  This Defense appropriations bill is a test. It is a test of whether 
+this Senate has lost its way entirely; whether one Senator from one 
+State can dominate a major piece of legislation, can put in a provision 
+totally unrelated to our troops and their welfare, and can push a 
+provision which provides greater profits for oil companies and great 
+revenues for his home State of Alaska at the expense of taxpayers in 
+the United States and at the expense of a wildlife refuge created over 
+50 years ago by President Eisenhower.
+  I urge my colleagues tomorrow, when we vote, vote against the motion 
+for cloture. Let this Senator know, and others who are pushing this 
+proposal, that we have reached the end of our rope in terms of allowing 
+this kind of political back-room deal to come forward. It is 
+unacceptable, and it should be rejected by the Senate.
+  I yield the floor.
+  The PRESIDING OFFICER. The Senator from California.
+  Mrs. BOXER. Mr. President, my understanding is I am now recognized 
+for 30 minutes; is that correct?
+  The PRESIDING OFFICER. The Senator is correct.
+  Mrs. BOXER. I ask unanimous consent that following my remarks, 
+Senator Kyl be recognized for up to 15 minutes, to be followed by 
+Senator Bond for up to 15 minutes, Senator Feinstein for up to 20 
+minutes as in morning business, and that the time not be charged 
+against the bill.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. CONRAD addressed the Chair.
+  The PRESIDING OFFICER. The Senator from North Dakota.
+  Mr. CONRAD. At that point, that a quorum call be entered and that the 
+quorum call be evenly charged.
+  Mrs. BOXER. I would add that.
+  The PRESIDING OFFICER. A quorum call cannot be requested now. It has 
+to be requested at that time.
+  Mr. CONRAD. It is very important that we go back to this formulation, 
+I say to the Chair. That when all of these speeches have been given, 
+there will be a request for a quorum call, and that quorum call will be 
+equally charged.
+  The PRESIDING OFFICER. The Senator cannot lock in at this time a 
+unanimous consent for a quorum call at a future time.
+  Mr. CONRAD. That is not what I am seeking to do. I am seeking to do 
+what we have done repeatedly here. I don't understand why all of sudden 
+this is a difficult thing. We have done this repeatedly.
+  When the last speaker is concluded, that if they ask to go into a 
+quorum call, the quorum call be equally charged. We have done this 
+repeatedly, and this is important to our understanding, so we have to 
+get this right. We have done this repeatedly throughout the afternoon.
+  Mrs. BOXER. Mr. President, I believe my unanimous consent is pending, 
+and it does include the request of the Senator from North Dakota.
+  The PRESIDING OFFICER. It is provided that any quorum call will be 
+divided equally.
+  Mrs. BOXER. Thank you very much.
+  Mr. SESSIONS. Reserving the right to object.
+  Mrs. BOXER. Mr. President, I would like to go back to the order, if 
+we can. I was about to speak for 30 minutes as was already agreed to by 
+the Senate. I would like to proceed.
+  Mr. SESSIONS. I understand the Senator is recognized?
+  Mrs. BOXER. Does the Senator want me to yield for purposes of a 
+parliamentary inquiry? I yield, without losing my right to the floor, 
+for a parliamentary inquiry.
+  Mr. SESSIONS. I was just curious about what the unanimous consent 
+agreement was that was just entered. I was not on the floor at that 
+time and would be interested in having an opportunity to speak later. 
+Was there unanimous consent on procedure?
+  Mrs. BOXER. Mr. President, I am happy to tell the Senator. I asked 
+for time, on the completion of my 30 minutes, for Senator Kyl to speak 
+for up to 15 minutes, followed by Senator Bond for up to 15 minutes, 
+followed by Senator Feinstein for up to 20 minutes as in morning 
+business, and that the time not be charged against the bill, and at 
+that time the time would be charged equally.
+  Mr. SESSIONS. I have no objection.
+  The ACTING PRESIDENT pro tempore. The Senator from California is 
+recognized.
+  Mr. SESSIONS. I have no objection.
+  The ACTING PRESIDENT pro tempore. The Senator from California is 
+recognized.
+  Mrs. BOXER. Thank you, Mr. President.
+
+
+                              PATRIOT Act
+
+  Mr. President, folks are watching us so close to Christmas, so close 
+to Hanukkah time and wondering why we are here so late in the year. It 
+is very unusual for this to happen. I would like to say that we are 
+here, in my view, because there is a disinclination on the part of the 
+Republican leadership to sit down with the Democrats on the PATRIOT 
+Act, fix two provisions of that act, fix it so our constituents don't 
+have to worry that their library records will be sought, if there is no 
+reason to do that, or their bookstore records or their health records 
+or their financial records without a check and balance on that power; 
+and that if their home is searched they would be so advised within a 7-
+day period.
+  But Senator Frist, at this point, seems to keep this issue alive. I 
+hope we can resolve that by a short-term extension of the act.
+  Every single Member who voted to stop the final vote voted with the 
+understanding that we would, in fact, extend the PATRIOT Act for 3 
+months. I am hoping that will happen so we can get done with that 
+without a vote, as far as I understand it. Everyone wants to continue 
+the PATRIOT Act, but there is a majority, I believe, who wants to fix 
+these two provisions out of the many provisions.
+  We are also here because one Senator has gotten drilling in the 
+Arctic National Wildlife Refuge in the conference report on the 
+military bill, on the Defense appropriations bill. That bill funds our 
+troops. It is very important. Instead of allowing that to just go 
+forward--and again that would go
+
+[[Page S14133]]
+
+forward probably without even a minute's debate, and we could finish 
+that up quickly--instead, this Senator wants to give a very special 
+gift this Christmas season to the oil companies. We know, if anything, 
+they don't deserve a gift. They are laughing all the way to the bank. 
+But this one Senator wants to give them another gift, a really special 
+one with an enormous bow on top.
+  I hope that will happen. But that is another reason we are here.
+  We are here because this is a budget-cutting bill that is so 
+onerous--it is on the floor right now--that the Republicans aren't even 
+sure they have the votes to pass it because of what it does to student 
+loans, to Medicare, to things that our people need. They have to fly 
+the Vice President back in order to have him in the Chair because it 
+might be that close. And he may have to cast the deciding vote to cut 
+student loans, to cut Medicare, to cut Medicaid, to cut health to our 
+middle-class families, as well as our working poor families. If that 
+happens, that will be an image all American families will see, the Vice 
+President in the Chair. They couldn't even get their own party to vote 
+for this bill, and it will say more than I ever could on the subject.
+
+
+                                  Iraq
+
+  Mrs. BOXER. Mr. President, today, I had hoped to be in California 
+working in the State. I had a very important speech to give on Iraq to 
+a very important group in Los Angeles. Instead I am going to give that 
+talk here for the next few minutes so that my constituents will get the 
+views that I have at this moment in time on that war.
+  In 1968, Martin Luther King told us:
+
+       If we do not act, we shall surely be dragged down the long, 
+     dark and shameful corridors of time reserved for those who 
+     possess . . . strength without sight.
+
+  Dr. King was talking about ending the Vietnam war. But 40 years later 
+his warning is increasingly relevant to the Iraq war.
+  Strength without sight has now led us into a war based on mistaken 
+intelligence, and down a thorny path of pain for far too long. None of 
+us can afford to be silent.
+  Again, I want to quote Martin Luther King who said:
+
+       Our lives begin to end the day we become silent about 
+     things that matter.
+
+  Martin Luther King said:
+
+       Our lives begin to end the day we become silent about 
+     things that matter.
+
+  We must have the courage to speak out about things that matter, and, 
+if we disagree about things that matter, that is part of the process. 
+But let us heed Dr. King's words. It matters that 2,158 service men and 
+women have given their lives in Iraq, leaving their families grieving. 
+It matters that 16,155 have been wounded, many with scars that will 
+last a lifetime.
+  It matters that the majority of the American people are demanding a 
+new strategy so that we do not have a war without an end.
+  We saw 79 Senators from both political parties recently back an 
+amendment saying that it is the Iraqis who should take the lead in 
+providing their own security next year. Next year is a few days away.
+  I think it matters if 79 Senators vote for that amendment.
+  I see Senator Levin on the Senate floor. I thank him for that work he 
+put into that amendment because it says very clearly that next year the 
+Iraqis have to take charge of their own destiny.
+  We heard Congressman Jack Murtha's brave statement against this war, 
+calling it a ``flawed policy wrapped in illusion.''
+  Jack Murtha is a decorated marine, a war hero who bled on the 
+battlefield, the military's best friend.
+  Now he advocates redeploying U.S. forces at the earliest possible 
+date--not tomorrow, not in 2 weeks. Estimates are that it will take 6 
+months to a year--while maintaining a quick-reaction force in the 
+region to be called upon when necessary.
+  How did the administration and its supporters respond to this hero, 
+Jack Murtha's thoughtful proposal? Congressman Murtha, with his two 
+Purple Hearts and his Bronze Star, was insulted by the White House 
+Press Secretary and branded a coward by the newest Republican Member of 
+the House; branded a coward by the newest Republican Member of the 
+House, a shameful display of partisanship.
+  People who never bled on the battlefield tried to demean a war hero. 
+That is what we see again and again in this debate.
+  Instead of thoughtful dialogue about the life-and-death issues in 
+Iraq, the administration lashes out at those who dare disagree with 
+them.
+  Recently, the Republican National Committee issued a video news 
+release attacking Democrats, including me. I want to thank Senators on 
+the other side of the aisle who said that was wrong. I am used to being 
+attacked, and I normally just ignore these attacks. As a matter of 
+fact, I wear them as badge of honor. But this one was so incendiary 
+that I have to respond.
+  The ad said Democrats were waving a white flag of surrender in Iraq. 
+And their evidence? One of their pieces of evidence was my statement 
+that we should start reducing our troop strength in Iraq after the 
+Iraqi election.
+  Guess who else said that very same thing this last weekend: the U.S. 
+Ambassador to Iraq, Zalmay Khalilzad, appointed by President Bush. 
+Listen to what he said. President Bush's Ambassador in Iraq said:
+
+       We can begin to draw down our forces in the aftermath of 
+     the elections.
+
+  That is exactly what I said. Are they going to run an ad against 
+George Bush's hand-picked Ambassador to Iraq who said the same thing 
+that Senator Boxer said?
+  Democrats aren't waving any white flags, and neither is the 
+Ambassador waving a white flag. We are doing the job that we were 
+elected to do. We have a right and a responsibility to tell the truth, 
+whether the topic is Iraq or any other policy. We have a right--and a 
+responsibility--to wave a warning flag about a war that is making our 
+Nation less secure.
+  Regardless of how many times I am attacked, I will continue to speak 
+out just as I am doing today.
+  I have four points to make: First, we must restore our credibility. 
+Our credibility is at almost an all-time low in the world.
+  If we want the American people to be optimistic, and if we want the 
+nations of the world to consider us a leader to be trusted, our motives 
+must be clear, always; our justifications must be sound; and our 
+policies must reflect our ideals. Our policies must reflect our ideals.
+
+  During the Cuban missile crisis, Secretary of State Dean Acheson 
+offered to show Charles de Gaulle of France satellite images of Soviet 
+missiles in Cuba as proof of their existence. President de Gaulle 
+responded by saying:
+
+       The word of the President of the United States is good 
+     enough to me.
+
+  Today, the word of this President and his administration has been 
+called into question. Frankly, it is hard to believe those words myself 
+when the President or the Secretary of State or the Vice President 
+start to tell their expectations about Iraq. It is very hard for me to 
+believe them. Why is that? I want to believe them. I have served with 
+four Presidents, three of them Republican Presidents. I have never felt 
+like this. I never felt I had to doubt what they were saying when it 
+came to foreign policy.
+  Here is the reason. Remember all the false expectations the Bush 
+administration pedals? Remember when Secretary Rumsfeld said that the 
+war ``could last six days, six weeks, I doubt six months''? . . . Or 
+that we knew exactly where to find the weapons of mass destruction.
+  I was sitting 10 feet from the Secretary of Defense when he said: I 
+know exactly where those weapons are. I know the streets they are on. 
+They are right there in Baghdad.
+  Remember when Vice President Cheney predicted:
+
+       . . . my belief is we will, in fact, be greeted as 
+     liberators.
+
+  Remember when White House Budget Director Mitch Daniels said Iraq 
+will be ``an affordable endeavor'' and it ``will not require sustained 
+aid''?
+  Remember when the case for weapons of mass destruction was called a 
+``slam dunk''? Remember Vice President Cheney's now famous assessment 
+that the insurgency was in its ``last throes''? Remember when the 
+President told us about the yellow cake from Niger in a State of the 
+Union Address? Remember when we were told ``mission accomplished''? We 
+weren't told it; it was scrawled on a banner behind the President of 
+the United States as he stood in
+
+[[Page S14134]]
+
+his Air Force gear. Who can ever forget that moment?
+  Remember when we were told that Iraqi oil would pay for the war? And 
+when Secretary Rice said she didn't want the smoking gun to be a 
+mushroom cloud? And when Colin Powell made his forceful presentation 
+before the U.N. Security Council proving the case to the world, proving 
+the case that Saddam Hussein had chemical weapons? He now calls that 
+moment a blot on his record.
+  I gave you what the members of this administration have told the 
+American people to expect in Iraq. They are zero for 10. I have not 
+even gone through the entire list.
+  Yet even today, in the light of all this history, the Bush 
+administration refuses to do more than a perfunctory mea culpa. In his 
+last speech, the President took responsibility for going into the war 
+on false intelligence. It took him 2 years to say that. He is 2 years 
+behind the American people who figured that out a long time ago. But I 
+will take it. I will take it.
+  The President keeps repeating the false statement that Congress saw 
+the same intelligence that he did, even though the CRS, the 
+Congressional Research Service, did a very important study on this 
+matter. They said that is not true. It is a false statement to say that 
+Congress saw the same intelligence he did. The report found that the 
+administration had access to more information than was shared by us.
+  And the President still does not answer the central question, was the 
+intelligence cherry-picked? In other words, did he pick out the parts 
+of the intelligence that made the case for war? And he hasn't answered 
+whether any of that intelligence was manipulated.
+  Democrats are insisting we complete the Senate investigation into 
+this matter. Senator Reid actually put the Senate into closed session 
+to insist the Senate Intelligence Committee complete the investigation 
+into whether the President actually misused intelligence or cherry-
+picked intelligence.
+  It is important we complete this investigation. It is not about 
+politics. If the intelligence was cherry-picked by this President or 
+manipulated, the American people deserve to know. The Congress will 
+need to act. Why? Because the next time we need to convince the world 
+of an imminent threat, it will be far more difficult unless we clear 
+the air and restore our credibility.
+  America is more than an economic and a military power. Our ideals 
+have made us a shining light throughout the world for all of those 
+seeking freedom, democracy, and human rights. I believe that moral 
+standing is at risk today. We all saw the horrific photos of Abu 
+Ghraib, which were at odds with everything for which this country 
+stands. I went up to that room to look at those pictures to bear 
+witness. It was one of the most painful experiences I have never had.
+  We all know what we saw there--and the American people haven't seen 
+half of what we saw; they have only seen a fraction of what we saw. The 
+abuse was disgusting and was at odds with everything for which this 
+country stands. We all know that torture does not produce accurate 
+intelligence or make us more safe. Listen to Senator McCain, who is an 
+expert on this issue. He says torture ``is killing us.'' Amazingly, 
+banning torture was extremely controversial for this administration. 
+Dick Cheney even worked nonstop to exempt the CIA from the torture ban 
+passed by the Congress. Fortunately, we won this one. Again, I say to 
+my Senate colleagues, thank you for standing up, for standing behind 
+Senator McCain on this.
+  However, we still do not know everything about the secret prisons or 
+secret spying on Americans, all of which chips away at our reputation 
+as a great beacon of freedom and gives us an eerie sense of a secret 
+government. We must not have a secret government. We must not walk away 
+from checks and balances. We now face this issue of our Government 
+spying on Americans without a warrant. This is serious. It must be 
+investigated to restore our credibility.
+  The other day I was at a forum with John Dean, the former White House 
+counsel to President Nixon during Watergate. When we were asked a 
+question as to whether we believe this President investigating and 
+wiretapping American citizens without a warrant was legal, my remark 
+was: I'm not sure about that. I'm very worried about that. I don't 
+think it is. But I want a hearing. I applauded Arlen Specter, chairman 
+of the Judiciary Committee, for saying we would have it.
+  This is what John Dean said on videotape and he has since confirmed 
+it: This was the first time he ever heard a President admit to an 
+impeachable offense. That comment by John Dean, who knows more than any 
+other lawyer in this country about an excessive abuse of power by the 
+Executive is very serious. I sent a letter to four scholars, asking 
+them to please tell me if they think John Dean is on the right track or 
+on the wrong track.
+  Clearly, we must restore our credibility. Second and third, we must 
+reverse the strain on our military and get our budget priorities 
+straight.
+  This administration says dissent hurts our military. Let me tell you 
+what hurts our military. Our military is fighting so that the Iraqi 
+people have the right to dissent. So to say that our military gets hurt 
+when we dissent makes no sense at all. How proud they must be that they 
+come from a country where people who love the troops on both sides of 
+the aisle are in a rigorous debate. That is what our military wants. 
+They do not want to see a country where we all dance to the same tune.
+  And they must think it is interesting that even within the parties 
+there are disagreements, that a Joe Lieberman disagrees with a Barbara 
+Boxer, or a Chuck Hagel disagrees with an Orrin Hatch. That is what 
+life in America is about. So when the President or his allies right 
+here say, How dare people dissent, I say, How dare we not, if we 
+believe the path we are on is wrong.
+  Let me tell you what hurts our military: sending men and women to war 
+without a plan for victory and without the necessary armor and 
+equipment. What hurts our military is stretching it to the breaking 
+point and deploying our soldiers for third and fourth tours of duty. 
+What hurts our military is a lack of candor.
+  Our men and women in the military serve bravely and skillfully in 
+Iraq. They have sacrificed so much since this war began. We need to 
+honor their sacrifices, not with words but with actions. That means 
+treating their caskets and their families with the respect they 
+deserve.
+  I want to publicly thank my staff in San Diego who stopped a horrible 
+situation from happening, when a military man in a coffin, slain in 
+Iraq, arrived in San Diego aboard a civilian aircraft, a commercial 
+aircraft. When the plane landed, he was not going to be greeted by his 
+unit. No one was going to be there. And the airline was going to keep 
+him with the cargo, off-loaded with no ceremony, no greeting.
+  Thank God, his parents--military people--saw this and called us. We 
+stopped it from happening, and we made sure that casket was greeted by 
+his unit.
+  That is what we need to do. We need to honor our military. It means 
+opening up our eyes to their injuries and getting them the help they 
+need. Medical studies reveal that 17 percent of soldiers returning from 
+Iraq are suffering from mental health problems, including depression, 
+anxiety, and post-traumatic stress disorder. The VA says that 17,000 
+Iraq and Afghanistan vets have been diagnosed with mental disorders 
+through February.
+  I have heard from military people who tell me their loved ones were 
+sent back on to the field of battle when they were diagnosed with post-
+traumatic stress, and the doctor said: Don't send them back.
+  Now, 17,000 Iraq and Afghanistan vets have been diagnosed with mental 
+disorders, just through last February. But despite this huge problem, 
+the American Legion--the American Legion--says that mental health 
+programs are being underfunded by $500 million a year.
+  I offered an amendment to provide these critical resources by 
+canceling future tax cuts for millionaires who have already gotten back 
+tens of thousands of dollars in tax cuts. It sounds reasonable that we 
+would ask a millionaire to help give a veteran the assistance that he 
+or she needs because of mental problems.
+  Well, my amendment failed. The President says he loves our military,
+
+[[Page S14135]]
+
+but he loves tax cuts for millionaires as much or more. They did not 
+weigh in. They did not help us. We could not get it passed.
+  Let's be clear. To finance a war that has already cost $251 billion, 
+this administration did not ask the wealthiest to do one thing to 
+sacrifice. Under the Bush tax cuts, millionaires got--and listen to 
+this number--$242 billion back. They have gotten it back over the past 
+5 years.
+  In the first 2 years of the Iraq war, the average millionaire 
+received $112,000 in tax cuts. And we cannot afford to give a soldier 
+treatment when he comes home, and he is so sick that he might even turn 
+on his own family and hurt them?
+  This makes me sick, Mr. President. This makes me sick.
+  The President did not secure enough real financial commitments from 
+other countries. Instead, our needs are being sacrificed and our 
+children and seniors are paying the price.
+  Talk about waving the white flag of surrender. I want to talk about 
+it. The Republican Congress and this administration are waving a white 
+flag over our children, cutting their afterschool programs, No Child 
+Left Behind. They have underfunded their own program by $13 billion.
+  They are waving a white flag of surrender over our seniors, causing 
+them anxiety and threatening their Social Security.
+  They are waving a white flag over fiscal responsibility, by creating 
+a debt that is more than $8 trillion. That means that approximately $92 
+billion is leaving this country every year to pay off the interest on 
+the debt that foreign countries own.
+  And they are waving a white flag over our homeland security. The 
+administration says all the right things about the terror threat. But 
+they shortchange homeland defense.
+  It has been 4 years since 9/11. We are getting failing grades. We 
+need $555 million this year to better secure our ports, $14 billion so 
+that our first responders can communicate with one another. It is a 
+disgrace that firefighters cannot talk to police officers and health 
+care providers in our communities. Oh, no, oh, we couldn't ask the 
+people who make over $1 million a year to help us.
+  And we are waving the white flag--we are--this Congress and this 
+administration.
+  Fourth, and finally, we need to change course in Iraq. The President 
+presents a false choice between leaving immediately and staying 
+indefinitely. He says: Stay the course, stay the course. The course has 
+to be changed. Frankly, the President, in every speech, connects this 
+war in Iraq to 9/11, even though the 9/11 Commission said there was 
+no connection and the President's own documents show there is no 
+connection. As a matter of fact, it was a diversion from our fight 
+against al-Qaida and bin Laden.
+
+  Do you know what? We are not any safer. Worldwide terrorism is up and 
+increased by more than 1,200 terror attacks last year.
+  Even the President's own Director of Central Intelligence, Porter 
+Goss, says:
+
+       Those jihadists who survive will leave Iraq experienced in 
+     and focused on acts of urban terrorism.
+
+  Now, I agree with the President about importing democracy. But as 
+Robert Pape of the University of Chicago has written:
+
+     . . . spreading democracy at the barrel of a gun in the 
+     Persian Gulf is not likely to lead to a lasting solution 
+     against suicide terrorism.
+
+  Last week's election in Iraq was an important step forward. And I 
+pray that country will put together the kind of coalition that is 
+necessary. But either way, it is time for the Iraqis to control their 
+own destiny. Each election they have had, it seems to me, should be a 
+step in our recognizing their right to run their own country. Their 
+running their own country is a sign of success, not failure. Our long-
+term presence is viewed as open-ended, and it is fueling the 
+insurgency.
+  Too many Iraqis believe that the United States has no intention to 
+leave Iraq and with good reason. Every time the President is asked for 
+benchmarks, he says we will be there as long as it takes, even though 
+general Casey made it clear to me, when I was in Iraq, again, that our 
+long-term presence is counterproductive.
+  And two-thirds of Iraqis oppose the presence of U.S. troops, at least 
+two-thirds. In some polls, it is 80 percent. They do not want us there. 
+They want to run their own country. That is not failure. That is not a 
+white flag. That is not defeat. That is success, when we can redeploy 
+our troops, so if the government there needs us, we are nearby.
+  We must accelerate the training of the Iraqi troops. I am glad the 
+President admitted it has gone far too slowly. But enough with the 
+excuses. They have to get out there and defend themselves. And we need 
+to take the help that is being offered from around the world, around 
+the region. The Egyptian Ambassador lamented the fact that so few 
+troops have been trained in his country. He has offered to help, and we 
+have not taken it.
+  Mr. President, in conclusion, it does not matter if you voted for the 
+war or against the war at this point. We need now to take action. None 
+of us can remain silent.
+
+  As a Senator, I feel obligated to tell the people of my State how I 
+feel. It is time for a new policy. It is time for a new strategy that 
+makes us safer and more secure. It is time to put to rest the notion 
+that to speak out for a new strategy in Iraq is unpatriotic. It is time 
+to realize that turning Iraq over to the Iraqis is what they expect and 
+what we should do. That is what success is. It is time for a real 
+strategy to stop the spread of terrorism and prevent the proliferation 
+of WMDs, not go forward with preemptive wars that isolate America.
+  It is time for a real strategy to stop the spread of terrorism. It is 
+time to remember that a strong America begins at home and that we can't 
+have real security if we abandon our children and our families, our 
+fiscal responsibility, or if we cannot prepare for a terrorist strike 
+or an emergency such as Katrina. It is time for America to once again 
+be a shining example for the rest of the world. We can do it.
+  Again, let's be honest about the past and restore our credibility. 
+Let's honor our military with a clear plan. Let's get our priorities 
+straight. Let's get Iraq right by working in a bipartisan way, not 
+running ugly 30-second commercials while our soldiers die and get 
+wounded. We can do better. We must do better. With the wisdom of the 
+American people, we will do better.
+  I yield the floor.
+  The PRESIDING OFFICER (Mr. Chambliss). Under the previous agreement, 
+the Senator from Arizona is recognized for 15 minutes.
+
+
+                      Patriot Act Reauthorization
+
+  Mr. KYL. Mr. President, one of the key items of business that we have 
+to do before Christmas is to reauthorize the PATRIOT Act. I know there 
+is some confusion about exactly where we stand on that. Let me clarify 
+that right now.
+  First, where are we with respect to the reauthorization of the 
+PATRIOT Act? Why? And what can we do to move forward? I think most 
+folks by now appreciate the fact that after September 11, we understood 
+there were significant problems with our law and we needed to make some 
+changes to fill in some loopholes and to make changes that would give 
+our law enforcement and intelligence agencies the tools they needed to 
+fight this new enemy, the terrorists. As a result, we passed the 
+PATRIOT Act. But we said we wanted to sunset provisions of the PATRIOT 
+Act so that we would have to revisit them before they would become 
+permanent law. We are now at that point. The law will expire on 
+December 31 unless we reauthorize it.
+  So the Senate worked on it for about 8 months. We passed a version of 
+the PATRIOT Act to be reauthorized. The House of Representatives did 
+the same thing. There were some modest differences between the two 
+bodies. We created a conference committee to iron out the differences, 
+and I served on that committee. The Senate got most of its way in the 
+conference committee. Most people have said about 80 percent of the 
+compromising was done by the House. Nonetheless, the version we have 
+before us is a version that I support. It is a good version, as the 
+House of Representatives found when it passed overwhelmingly before the 
+House recessed and left Washington, DC. In fact, I believe 44 Democrats 
+supported the reauthorization of the PATRIOT Act in the House. Now it 
+is up to us to approve it as well and then
+
+[[Page S14136]]
+
+send it on to the President for signature.
+  Once a conference report is completed, it is no longer amendable. We 
+all understand that. But some Members of the Senate decided they wanted 
+to amend it, even though there is no procedure for amending it. So they 
+decided to filibuster the bill. When we took a vote on it, it had 
+majority support. There were over 50 Senators who wanted to reauthorize 
+the PATRIOT Act, but the minority of Senators wouldn't let us vote on 
+it. They successfully filibustered it. They said: We are not going to 
+let you vote on reauthorizing the PATRIOT Act because we would like to 
+make some more changes.
+  The time for making changes is up. You can't make any more changes 
+once a conference report has been filed. They know that. So it is a 
+little curious to me why they keep saying, we want to extend it so we 
+can make some more changes. That is not the procedure of the Senate, 
+and it can't be done. The conference has been discharged. The House of 
+Representatives has gone home. Even if we wanted to go back into the 
+conference and make changes, we couldn't do it.
+  There is a way we can accommodate those who wish to make further 
+changes to the PATRIOT Act, but it is not by filibustering. It is by 
+allowing us to have the vote, pass the PATRIOT Act reauthorization, and 
+then introduce those changes you would like to make in it, and we will 
+deal with those in the regular process of hearings and presenting the 
+matter to the floor. As a matter of fact, I would like to do that 
+myself. There are some things I would like to add to the PATRIOT Act, 
+and I fully intend, after we reauthorize it, to introduce that either 
+as an amendment to a bill next year or as a separate bill, and to seek 
+hearings in the Judiciary Committee so we can try to move the 
+additional things I would like to see in the act.
+
+  My colleagues are certainly welcome to do the exact same thing. We 
+might even get together and try to have one hearing at which that is 
+done. That is the regular order. That is the way we could make the 
+changes they are talking about, if a majority of Senators agree. But I 
+think that is the rub. I suspect they can't get a majority of the 
+Senators to agree to the changes they would like to make. They couldn't 
+get a majority of the conference committee in the House or the Senate 
+to agree. So they would now like to try to use pure force rather than 
+logic to get their changes.
+  If they have the confidence that their changes make sense, then why 
+wouldn't they want to simply offer them next year and let's vote on 
+them? If they have 51 votes, they become law. Instead, they want to 
+somehow pressure us at this point into letting the PATRIOT Act expire, 
+and then everyone feels we have to do something so we accept their 
+unreasonable demands.
+  That is not the way to legislate, and it is not a responsible action. 
+We should defeat the filibuster, not allow the PATRIOT Act to expire 
+but to extend it for the period of time that the conference agreed, 
+which is a period of 4 years. And if additional changes are to be made, 
+they can be made starting as soon as we come back here next January. 
+That is the way to do business.
+  There are those who have said: Let's extend it for a few months. As I 
+said, you can't extend it for a few months. There is no legislative way 
+to do that. It expires December 31. The conference committee is closed 
+down. The House has gone home. We are going to finish up in another day 
+or two here. So you simply can't snap your fingers and extend a law. 
+You have to pass it. It has to be signed into law by the President. He 
+said, no, we are not going to have any short-term extension. We have a 
+long-term extension right in front of us. It is called reauthorization. 
+Allow the Senate to vote. If you do, they will vote with a majority 
+vote to reauthorize the act. Then it is done. If you then want to make 
+changes, you are welcome to do that.
+  What are these big changes that have been talked about? The only ones 
+I have heard about are two that were mentioned by the Senator from 
+California who spoke before I did. I don't understand either one of 
+them. She said we have to make changes, some checks and balances, with 
+regard to these library records or bookstore records. Secondly, if you 
+have your house searched, you need notice within 30 days.
+  That is what the compromise provides. The conference committee 
+provided a 30-day notice if your house is searched, so that instead of 
+the reasonable standard, which is what exists today, you would have to 
+be notified in 30 days. By the way, why aren't you notified 
+immediately? In most cases, you are. But there are some cases where you 
+are not notified of a warrant that has been issued. Why is that so? 
+Suppose you are a couple of gangsters and the prosecutor wants to tap 
+your telephone to find out if you are making illegal deals about drug 
+running. He goes to the court and gets a warrant to tap your phone. Are 
+you told about that? No, of course not. Sometimes a warrant is obtained 
+and you are not told about it. You are not told if your house is 
+searched or if your telephone is tapped because to do so would allow a 
+witness to be compromised or a party of interest to escape the country 
+or the information not to be obtained because you know that you are 
+under the watchful eye of the prosecutor at the time. So sometimes you 
+are not told about a warrant. But there is always a limit on that 
+timewise.
+  In the PATRIOT Act, the House had something like, I believe, 150 days 
+or 180 days. The compromise was 30 days, which is exactly what the 
+Senator from California said we needed. I don't understand what the 
+problem is there.
+  With respect to libraries, this is the section 215 we have talked 
+about forever and ever. This is simply the business records 
+administrative subpoena for which 335 examples exist in our books on 
+the law today. If you are investigating somebody for Medicare fraud, 
+you can get one of these subpoenas. A subpoena is not a warrant. A 
+subpoena is a request for information. If you suspect somebody of fraud 
+on the IRS, the IRS can get one of these administrative subpoenas. It 
+is a request for information. Do you have to have a judge authorize 
+that request? Not for 335 of these. There is only one that you have to 
+have a judge for, and that is if you are investigating terrorism. The 
+one that ought to be the easiest is the hardest because we are so 
+concerned about protecting civil liberties that we say under the 
+PATRIOT Act, you have to go to a judge first, even for a subpoena--not 
+just a warrant, for a subpoena.
+  So it has all the protection I think one would want. But we say we 
+need a standard. So what is the standard the courts have applied? A 
+relevancy standard. We will put that in, too. That is still not enough. 
+We want a three-part test that ties it into international terrorism. 
+Fine, we put that in. And one more thing; we want to make sure any 
+records are destroyed within a reasonable time and that people are not 
+told of this information. We said the Justice Department has to set 
+that up. That is still not good enough. We want to make sure it is not 
+abused. Fine. We will have a report from the executive branch every 6 
+months to Congress explaining in great detail how many subpoenas were 
+issued, what the problems were with them, if any, and anything else 
+that Congress wants to know about the use of these so we can have 
+oversight.
+  There is not much more you could do and still have an effective 
+section 215. Why is section 215 used? As we know, two of the hijackers, 
+al-Mihdhar and al-Hazmi, the two who were on the plane that came into 
+the Pentagon and killed 125 people there, as well as the people on that 
+flight from Dulles Airport, their airline reservations for September 11 
+were checked on August 31 on a computer at a library, and had we had 
+the PATRIOT Act library record ability to check that out, and had we 
+known of those two people who I am talking about here, we could 
+possibly have known they were checking reservations for September 11 
+and intercepted them and prevented them from getting on that airplane.
+  The bottom line is there are circumstances in which you want business 
+records. Libraries have business records the same as any other kinds of 
+entities. There is nothing wrong.
+  This has been the law forever. We have built in a lot of protections. 
+I don't know what more anybody would want with respect to protections 
+for these particular records.
+  So even if you assume that there is more to be done, my question is, 
+how
+
+[[Page S14137]]
+
+much more? The differences have been characterized from the other side 
+as minuscule. They have said let's extend this and a couple of other 
+changes we want to make. If that is the case, then why is the other 
+side willing to let the entire act expire? We don't have the 
+protections of the PATRIOT Act over provisions that are not that 
+important, especially since they could be offered next year in an 
+amendment to any bill. We could have hearings for them in the Judiciary 
+Committee. There would be no problem considering these kinds of 
+requests.
+  If it expires, the PATRIOT Act's provisions no longer protect us. One 
+of those is to allow the FBI and the CIA to talk to each other. Let me 
+explain why this is important. This wall that used to exist was torn 
+down by the PATRIOT Act. Patrick Fitzgerald, who is the U.S. attorney 
+who is currently a special prosecutor, as we know, looking into another 
+matter, testified how the wall worked in practice.
+  He said:
+
+       I was on a prosecution team in New York that began a 
+     criminal investigation of Osama bin Laden in early 1996. The 
+     team . . . had access to a number of sources. We can talk to 
+     citizens. We could talk to local police officers. We could 
+     talk to other U.S. Government agencies. We could talk to 
+     foreign police officers. Even foreign intelligence personnel. 
+     And foreign citizens. . . . We could even talk to al-Qaida 
+     members--and we did. But there was one group of people we 
+     were not permitted to talk to. Who? The FBI agents across the 
+     street from us in lower Manhattan assigned to a parallel 
+     intelligence investigation of Osama bin Laden and al-Qaida. 
+     We could not learn what information they had fathered. That 
+     was ``the wall.''
+
+  The ``wall'' had deadly consequences. The 9/11 Commission report 
+contained detailed examples of how the wall prevented them from 
+cooperating, the FBI and CIA, prior to 9/11--and perhaps the biggest 
+example is the one I cited in which Khalid al-Midhdar and Nawaf al-
+Hazmi, two of the hijackers, were known to the CIA and that they were 
+connected to terrorism. They had been connected to the Cole bombing and 
+they were in the United States. The CIA refused to give the FBI the 
+information because of this wall.
+  I mentioned the fact that we later learned they had actually checked 
+their September 11 airline reservations on a library computer. The FBI 
+agent working on the case in Washington, DC, after being unable to 
+communicate with the CIA, said this:
+
+       Whatever has happened to this--some day someone will die--
+     and wall or not--the public will not understand why we were 
+     not more effective in throwing every resource we had at 
+     certain ``problems.''
+
+  That agent was right, and thousands did die. That wall is going to go 
+back up if the PATRIOT Act is not reauthorized. So those people who 
+have filibustered the PATRIOT Act and prevented us from voting on it, 
+prevented the will of the majority from prevailing in this body. Since 
+a majority of both House of Representatives and the Senate favors 
+reauthorization of the PATRIOT Act, those people will have prevented us 
+from having in place the PATRIOT Act to protect us from the terrorists. 
+They will have allowed this wall to be resurrected to prevent the FBI 
+and the CIA from talking to each other and we are going to be right 
+back where we were before September 11.
+  Again, I say, as the FBI agent did, what happens if some terrorists 
+should strike us and we could have prevented that had the PATRIOT Act 
+been in effect? Those who filibuster this act had better ask themselves 
+that question. They have a very simple way to get around the answer; 
+that is, allow us to have our vote. It will take 20 minutes. We can 
+reauthorize the PATRIOT Act and it is back in force and then any other 
+little changes you want to make to it, we will consider them next 
+January, next February. What is wrong with that offer, considering what 
+is at stake.
+  I urge my colleagues again that the PATRIOT Act needs to be 
+reauthorized. All it takes is for the other side to stop its 
+filibuster, allow us to take the vote and, by a majority vote, we will 
+reauthorize it, thus giving the American people the protection we 
+deserve from the law enforcement and intelligence agencies who need 
+this vital tool.
+  The PRESIDING OFFICER. The Senator from Missouri is recognized.
+
+
+                       Measures Before The Senate
+
+  Mr. BOND. Mr. President, there are a number of subjects I want to 
+address tonight. I appreciate the time. First, the Defense 
+appropriations bill that is before us that is going to have to be 
+clotured is very important. I want to make sure everybody understands 
+what we are talking about. There are some very important things in 
+there, including relief for the Katrina victims, and all of the victims 
+of the hurricanes in the gulf coast over to Florida. These are 
+important funds that need to be provided.
+  It also includes the opening up of ANWR, which will provide revenues 
+that will help us meet the needs of LIHEAP and also of the hurricane 
+victims. Beyond that, it is going to help us meet needs that all 
+Americans have for an adequate energy supply. Nine hundred thousand 
+barrels of oil would have been coming out of the coastal regions of 
+northern Alaska above the Arctic Circle had the previous approval of 
+this bill by the Congress in 1995 not been vetoed. So ANWR is necessary 
+if we are going to bring supply up to help meet the demand for energy.
+  But most important, this provides $50 billion to support our troops 
+in the war on terror. We have heard remarks recently on the floor about 
+what our troops want. I can tell you one thing our troops want is to 
+have the bullets, the supplies, the reinforcements, and the assistance 
+they need to conduct the war. Our troops, by and large, are very 
+enthusiastic about continuing to finish the job. What bothers them is 
+to hear people in this body and in the media say that the President has 
+failed and we ought to impeach him. Their Commander in Chief, they 
+believe, has done the right thing in helping us clean out the murderous 
+tyrant Saddam Hussein and carry the war on terror to the hotbed of 
+terrorism that was and would be Iraq if we left. They are concerned 
+that if we try to pull out the troops before they finish the job, it is 
+going to be a disaster. I am going to talk more about that later on, 
+but the people who claim to be supporting the troops should not be 
+filibustering the Defense appropriations bill.
+  Speaking of the related subject, let me turn now to electronic 
+surveillance of suspected terrorists' conversations with al-Qaida 
+abroad. That is a vitally important area that has been substantially 
+mischaracterized by recent remarks on the floor. The National Security 
+Act of 1947 requires the President to keep Congress fully and currently 
+informed on U.S. intelligence activities to the extent consistent with 
+due regard for the protection from unauthorized disclosure of 
+classified information relating to sensitive intelligence sources and 
+methods.
+  This statutory requirement recognizes that some of the programs or 
+activities may be so sensitive that the information is provided only to 
+a few Members of Congress.
+  Regrettably, a very effective program that the President authorized 
+has now been fully exposed. I hope there will be a full investigation 
+by the Department of Justice and appropriate prosecutions of those 
+found to have leaked that information.
+  Recognizing the need to protect sensitive programs and activities, 
+Congress created the Intelligence Committee and worked with the 
+President to balance the Congress's constitutional need for information 
+and the President's constitutional responsibility to protect national 
+security.
+  Before we start calling the President's efforts illegal or 
+unconstitutional, maybe people ought to take a look at the law and the 
+Constitution. The President has the constitutional authority to conduct 
+warrantless electronic surveillance for foreign intelligence purposes. 
+This is what the President stated he has done. It was for foreign 
+intelligence purposes.
+  In the most recent definitive case addressing this issue, the 1980 
+Truong case from the Fourth Circuit, the Court upheld the Executive's 
+warrantless electronic surveillance of U.S. persons for foreign 
+intelligence purposes. The Court explicitly recognized a foreign 
+intelligence exception to the warrant requirement based on the 
+President's constitutional authority and responsibility to protect 
+national security.
+  Incidentally, the President, under whose authority that warrantless 
+search--eavesdropping--was conducted was Jimmy Carter.
+
+[[Page S14138]]
+
+  The FISA statute that has been passed works with the President's 
+constitutional authorities. It is one way to conduct foreign 
+intelligence surveillance, but it is not the only way. You see, 
+Congress cannot get rid of a President's constitutional authority by 
+passing a law. The President can conduct warrantless foreign 
+intelligence surveillance because he is charged under the Constitution 
+with protecting our Nation and conducting foreign relations.
+  Under the fourth amendment, the surveillance still has to be 
+reasonable; it just doesn't require a warrant. In the context of the 
+war against al-Qaida and worldwide terrorism, the constitutional 
+resolution authorizing the use of all necessary and appropriate force 
+to prevent future attacks makes it clear that the President's 
+determination of what is and isn't reasonable is entitled to some 
+deference. When you are fighting a war, you have to be able to move 
+quickly to respond to threats. The President has said he exercised the 
+authority to maintain speed and flexibility to target terrorists when 
+they are about to harm our country. If the Constitution provides for 
+that agility, the President should use it.
+  As the 9/11 Commission has pointed out, it was clear that enemy 
+communications were made from the United States prior to the September 
+11 attacks. The Commission criticized our inability to link things 
+happening in the United States with things that were happening 
+elsewhere. We know, for example, that Nawaf al Hazmi and Khalid al 
+Midhar, two terrorists who flew a jet into the Pentagon, communicated 
+overseas to other members of al-Qaida while they were in the United 
+States. We knew they were terrorists, but we did not know they were 
+here until it was too late. Reflecting his constitutional 
+responsibilities and authorities, the activities authorized by the 
+President make it far more likely that such killers can be identified 
+and located in time in the future to prevent that tragic occurrence 
+from recurring.
+  The lawful activity conducted under this authorization has given the 
+United States a proven ability to detect and prevent terrorist attacks. 
+It enables us to learn more about those who have a link to al-Qaida in 
+a way that is agile and timely enough to prevent and detect further 
+attacks.
+  The program has been successful, but continuing public discussion of 
+the nature and use of the capability simply will arm our enemies with 
+the knowledge they need to prevent detection and will increase the 
+danger to our country, our citizens, and our values.
+  Speaking of giving the necessary tools to our law enforcement and 
+intelligence agencies, there is the PATRIOT Act, which, again, is being 
+filibustered by those on the other side. Over the past few days, 
+opponents have raised a number of arguments and charges against two 
+controversial provisions from the original PATRIOT Act--FISA business 
+records and national security letters. Unfortunately, many of the 
+arguments have been inaccurate and misleading, particularly the 
+allegations that the conference report does not fix alleged problems 
+with these investigative tools.
+  Let me be clear, as my colleague from Arizona just pointed out, if 
+the USA PATRIOT Act is not reauthorized, we will have done a grave 
+disservice to our Nation's security. That is your and my safety, Mr. 
+President, and the safety of our families, of our communities, of our 
+country. We will be sending the wrong message to terrorists and spies 
+who threaten our national security that we will not use every 
+constitutional tool available. I don't want to send that message.
+  It is far too easy 4 years after September 11 to put restrictions on 
+the intelligence community that are not necessary or appropriate. When 
+we needlessly restrict intelligence investigations, we increase the 
+possibility that the next attack will succeed.
+  The arguments of those who seek further to restrict the PATRIOT Act 
+tools are not based on any factual allegations of abuse but, rather, on 
+unsubstantiated allegations, inaccurate and misleading press accounts, 
+and hypotheticals. To adopt their position and to reject the conference 
+report is to legislate to the possible rogue FBI agent, the one-tenth 
+of 1 percent who might go beyond the law and should be prosecuted if he 
+or she does. If we take that step, we will deprive the other 99.9 
+percent of FBI agents of lawful investigative tools.
+  Rather than basing their votes on inaccurate media reports or 
+hypotheticals, I urge my colleagues to base their position on this 
+important legislation on facts: the fact that terrorists continue to 
+seek to kill Americans; the fact they continue to plot attacks; the 
+fact they are determined to continue the war against us; the fact that 
+this conference report provides significant increased protections for 
+privacy and civil liberties; and the fact that our national security 
+investigations have not abused the authorities provided under the 
+original act.
+  This bill is a compromise. Over the past days, many who have opposed 
+the conference report have suggested we can quickly solve the matter by 
+simply adopting the original Senate bill. They pointed to the Senate 
+passage of this bill by unanimous consent. We did not object to the 
+bill because it needed to proceed to conference quickly. If the Senate 
+bill had been submitted to the conferees for signature, there are some 
+who would not have signed it. That bill went too far, in my view. This 
+conference report strikes the appropriate balance, and just barely.
+  That said, the conferees considered the bill adopted by the Senate 
+and the Senate position on NSLs and FISA business records. All of that 
+has been debated and negotiated. In short, the legislative process 
+resulted in the conference report presented to us.
+  Many opposed to the conference report have made a great deal about 
+what this bill is not. Well, I have a list of thing the bill is not as 
+well. This bill does not place national security investigators on a par 
+with their counterparts investigating criminal cases, regrettably, and 
+it doesn't give them the same access criminal investigators have to our 
+records. Unfortunately, we could not get that done. But neither does it 
+compromise any American civil rights.
+  Speaking, as I was, of the war in Iraq, let me point out that we have 
+had a tremendous milestone. Last Thursday, there was a 70-percent voter 
+turnout, the highest thus far.
+  I ask unanimous consent to print in the Record an op-ed piece by a 
+marine who spoke very eloquently about the reasons why he is signing 
+up, why he is going back to Iraq, why significant numbers of people are 
+reenlisting because they know we are making progress in the war on 
+terror.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+       When I told people that I was getting ready to head back to 
+     Iraq for my third tour, the usual response was a frown, a 
+     somber head shake and even the occasional ``I'm sorry.'' When 
+     I told them that I was glad to be going back, the response 
+     was awkward disbelief, a fake smile and a change of subject. 
+     The common wisdom seems to be that Iraq is an unwinnable war 
+     and a quagmire and that the only thing left to decide is how 
+     quickly we withdraw. Depending on which poll you believe, 
+     about 60 percent of Americans think it's time to pull out of 
+     Iraq. How is it, then, that 64 percent of U.S. military 
+     officers think we will succeed if we are allowed to continue 
+     our work? Why is there such a dramatic divergence between 
+     American public opinion and the upbeat assessment of the men 
+     and women doing the fighting?
+
+  Mr. BOND. Mr. President, our efforts in Iraq are pivotal to our 
+strategic interests in the Middle East and throughout the world. This 
+past Wednesday, Osama Bin Ladin's principal deputy, Aman al-Zawahiri, 
+in his latest video on the internet called for the insurgent groups in 
+Iraq to unite in order to drive out the Americans. Zawahiri has stated 
+consistently that the war in Iraq is his holy jihad and the 
+battleground for establishing a worldwide, Islamo-fascist state. 
+Terrorists like Zawahiri are clear on their goals for Iraq, let us be 
+clear and steadfast in our resolve to defeat their diabolical plans and 
+lay the foundation for a peaceful, free Iraq.
+  As I outlined on the Senate floor earlier this year, Southeast Asia 
+is of vital importance to the economic health and the security of the 
+United States--and I have urged active engagement. Home to over 500 
+million people and two Muslim democracies, U.S. engagement is essential 
+for strategic, economic and security reasons.
+  I have just returned from my second trip to the region this year. In 
+January of this year, I visited Malaysia, Singapore, and Indonesia, 
+including a tour of Aceh in the wake of the devastating tsunami that 
+hit that part of the country. I have just returned from a trip to
+
+[[Page S14139]]
+
+the Philippines, Indonesia and Thailand. Throughout Southeast Asia, I 
+spread the message that America has vital interests in the region and 
+that we will continue to cultivate economic and security ties.
+
+  Foremost, however, I made it known that the United States wants to 
+participate in this and any future East Asian summits. The summit was 
+initially billed as a meeting of East Asian countries, but it continued 
+to expand until it was a meeting of ASEAN countries plus Japan, Korea, 
+China, India, Australia and New Zealand--it has started to look like 
+everyone but the United States.
+  I can understand China wanting to take this opportunity to 
+marginalize the United States while pressing aggressively their 
+priorities in the region. However, I pointed out to the leaders with 
+whom I visited in Southeast Asia that the United States was in Asia 
+during World War II to liberate the region from Japanese aggression; we 
+were in Asia to prevent the region from being taken over from the 
+communists, and we are in the region to fight Islamic fascists bent in 
+turning the region into part of an Islamic caliphate. We were in the 
+region immediately to provide resources to save thousands of lives in 
+Aceh and begin the rebuilding process. We have made a valuable 
+contribution to the quality of life in Asia and we should not be 
+excluded from such an important summit.
+  The Philippines has a population of 87 million people and population 
+is expected to double in the next 30 years. I saw a startling statistic 
+that showed in the same time that median income increased over 2,000 
+percent in Korea, increased over 900 percent in Thailand and almost 700 
+percent in Indonesia, median income increased only 90 percent in the 
+Philippines.
+  Despite its longstanding ties to the United States and the presence 
+of an English speaking population, the country has not advanced 
+economically to the level it should have. The corruption of Marcos was 
+a terrible setback but it is time to move ahead. The country is in need 
+of U.S. Foreign Direct Investment but I heard from the American Chamber 
+of Commerce that reforms are needed before more investment will flow, 
+especially in area of judicial reform and intellectual property 
+protection. We do have extensive U.S. Government presence that is 
+actively working with the government on these and many important 
+reforms.
+  In an excellent meeting I had with President Arroyo, I commended her 
+on the leadership role the Philippines has taken to pushing ASEAN 
+finally to get tough on Myanmar. It is long past time for that country 
+to improve its human rights record and move towards installing the 
+popularly elected government. We also discussed and I thanked her for 
+her support of our objective to advance free trade in Asia.
+  Despite the massive undertaking, the rebuilding of Aceh is 
+progressing. The U.S. remains involved, notably we have been integral 
+to building a 60 mile road to cross the island of Sumatra, an essential 
+artery to rebuilding the country. Between our efforts and between the 
+waiver of military sanctions by the President, our standing in the 
+United States is on the rise.
+  Reviving military to military relations will pay more dividends than 
+support for the United States. The reform-minded President of Indonesia 
+is a graduate of Webster University in St. Louis, MO, but he is also a 
+graduate of the IMET program. While his tasks are immense, he is 
+committed to reform and he has taken on corruption in the government 
+and needed structural reforms in the military. Change will never happen 
+at a pace that will satisfy some in this Congress, but important 
+reforms are advancing and I believe we should seize the opportunity to 
+influence further the professionalism of the Indonesian military 
+through more IMET participation.
+  I also had the opportunity to dine with some very engaging, forward-
+looking members of the Indonesian parliament. They share my concern in 
+the limitations of the Indonesian education system and the holes in 
+curriculum that may be exploited by the paesantrans that are Saudi 
+funded and teach an extreme version of Islam.
+  President Bush has identified an important goal, improving the 
+education system in Indonesia, and has proposed a four year, $157 
+million education program for Indonesia. USAID is implementing the 
+program that will work on curriculum issues and train teachers. This 
+program is targeted at introducing basic education and the teaching of 
+skills to young Indonesians, so that they will leave school with the 
+ability to find work--creating a capable Indonesian labor force in the 
+process.
+  Finally, I had an excellent visit to Thailand, a great and 
+longstanding ally of the United States. Like the other countries in the 
+region, we have active ties with Thailand on a number of levels. We are 
+presently negotiating a FTA with the Thais, successful completion of an 
+FTA will make Thailand our second free trade partner in Asia.
+  But there is also a great deal of success in the region in the war on 
+terrorism and many of the countries in Southeast Asia have been 
+valuable partners. As I have stated on this floor, Southeast Asia has 
+opened up as a second front on the war on terrorism. It is home to its 
+own terrorist network, Jemaah Islamiyah, that has made a number of 
+successful and deadly attacks, including the two devastating bombings 
+in Bali.
+  There have been numerous victories over terrorism in the past 3 years 
+in the Indonesia, Thailand and the Philippines. For example, last month 
+on November 9, 2005, in Indonesia, Indonesian police tracked down and 
+killed Dr. Azahari bin Husin, the Jemaah Islamiyah bomb expert who was 
+known as the most feared terrorist in Asia. Azahari was responsible for 
+the two Bali bombings, an attack on the Australian embassy in Jakarta, 
+and the bombing of the JW Marriott Hotel in Jakarta, among others. He 
+was in the midst of planning a string of terrorist attacks when police 
+assaulted his safe house in East Java. The termination of his terror 
+campaign was the result of a culmination of numerous entities working 
+together to fight terrorism in the region. U.S. assistance was and 
+remains paramount to such efforts and is having great effect.
+  In Thailand on August 11, 2003, Riduan Isamuddin, aka Hambali, was 
+arrested by Thai authorities near Bangkok, Thailand, after extensive 
+coordination between multiple agencies and authorities. The capture of 
+Hambali truly is a testament to the effectiveness that we and the 
+allies we support are having in the global war on terror. When the 
+details of this operation are declassified in the future, the 
+phenomenal tale of his capture should make for a dynamic, nonfiction 
+movie. President Bush described Hambali as ``one of the world's most 
+lethal terrorists'' and a key figure in al Qaeda's global operations. 
+Hambali was a close associate of September 11 mastermind Khalid Shaikh 
+Mohammed, KSM, and it is no coincidence that the information we have 
+gleaned from detainees like KSM has led to captures like that of 
+Hambali.
+  In the Philippines, a great success in the war on terror has taken 
+place over the past year on the southern Philippine island of Basilan. 
+I met with the Commander of the Joint Special Operations Task Force 
+Philippines, JSOTF-P, and he briefed me on this tremendous success. One 
+of the primary terrorist organizations in the Philippines is the Abu 
+Sayyaf Group, ASG. The ASG is primarily a small, violent Muslim 
+terrorist group operating in the southern Philippines. The group split 
+from the much larger Moro National Liberation Front in the early 1990s 
+under the leadership of Abdurajak Abubakar Janjalani, who was killed in 
+a clash with Philippine police in December 1998. His younger brother, 
+Khadaffy Janjalani, replaced him as the nominal leader of the group. 
+The group's goal is to promote an independent Islamic state in western 
+Mindanao and the Sulu Archipelago, area in the southern Philippines 
+heavily populated by Muslims. In April 2000, an ASG faction kidnapped 
+21 persons, including 10 Western tourists, from a resort in Malaysia. 
+On May 27, 2001, the ASG kidnapped three U.S. citizens and 17 Filipinos 
+from a tourist resort in Palawan, Philippines. Several of the hostages, 
+including U.S. citizen Guillermo Sobero, were murdered. Philippine 
+authorities say that the ASG had a role in the bombing near a 
+Philippine military base in Zamboanga in October 2002 that killed a 
+U.S. serviceman. In February 2004, Khadaffy Janjalani's faction bombed 
+SuperFerry
+
+[[Page S14140]]
+
+14 in Manila Bay, killing approximately 132, and in March, Philippine 
+authorities arrested an ASG cell whose bombing targets included the 
+U.S. Embassy in Manila.
+  Today, however, after a year of joint operations between U.S. and 
+Phillipine personnel consisting of combat patrols, civil affairs 
+assistance, and local interaction with the citizens on the island, the 
+majority of ASG personnel and other terrorist groups have been squeezed 
+out of the island. Not only have most of the nefarious characters 
+departed, but as our troops built wells and provided educational 
+assistance they gained the trust of the inhabitants. They showed them a 
+better way of life and thus ensured that once they left the terrorists 
+would not be welcomed back. Thus far the method has worked, and a haven 
+for terrorism has been eliminated. Through establishing security, 
+building infrastructure and winning the confidence of the locals, 
+Basilan Island has transformed into a place where terrorists are no 
+longer welcome, and although U.S. and Philippine forces have largely 
+left, the terrorists have not returned.
+
+
+                           Rajadamri Compound
+
+  Mr. President, on a number of occasions this session, I have 
+addressed my colleagues about the critical importance of engagement and 
+maintaining strong relationships with our allies in Southeast Asia. As 
+I have described, an active U.S. presence is essential for a number of 
+vital economic, security and strategic reasons. The United States has a 
+number of strong allies in the region and these relationships are very 
+important for promoting our policies pursuing peace, stability and 
+prosperity in Southeast Asia. I remind my colleagues that the United 
+States and the Kingdom of Thailand will soon celebrate 175 years of 
+formal relations between the two countries, which makes Thailand our 
+foremost and longest standing ally in Asia. It is in this context that 
+I rise to address the significance of the Rajadamri Diplomatic Compound 
+occupied by the U.S. Embassy in Thailand.
+  After the end of World War II, the U.S. Government intervened with 
+the Government of the United Kingdom on behalf of the Kingdom of 
+Thailand. The United Kingdom was demanding war reparations from the 
+Kingdom of Thailand, which was nominally allied with Japan during the 
+war. However, the United States argued that during the war the Allies 
+received very meaningful assistance from the Free Thai movement, which 
+was composed of a significant number of the Thai leadership. In 1949, 
+in acknowledgment of the U.S. role in assisting the Free Thai movement 
+and in persuading the United Kingdom to forego pursuit of war 
+reparations, the Royal Thai Government sold Rajadamri to the United 
+States for a nominal sum and transferred title to the 17 acre compound.
+  Rajadamri is a beautiful piece of property. Located in the heart of 
+bustling Bangkok, around the corner from the U.S. Embassy and across 
+from the famous Peace Park, Rajadamri is a magnificent setting where a 
+visitor can simultaneously admire the imposing modern towers of 
+downtown Bangkok and feed a Mekong catfish or pet the good-natured 
+Chihuahua that lives on the grounds. The tranquil compound also houses 
+three historic Thai homes that were built by the king for favored 
+members of the royal family. Rajadamri represents a true gesture of 
+friendship from the Thai Government and the people of Thailand. The 
+granting of these royal residences to the U.S. Government is 
+unprecedented and emphasizes even more so that this gift is a true 
+symbol of the gratitude of the Thai people.
+  This compound has played a significant role in the long relationship 
+with our stalwart Thai allies. In addition to the close cooperation 
+between U.S. Forces and the Free Thai during WWII, the Thai Government 
+has stood by the United States during Korean, Vietnam, Gulf, 
+Afghanistan and Iraq wars. The Thais remain a very close friend in 
+Southeast Asia and provide a variety of assistance beyond military, 
+including delivering important assistance to Indonesia, Sri Lanka and 
+other countries affected by the tsunami of 2004; and serving as the 
+strategic center for our efforts to deal with Avian influenza and other 
+pandemic risks. During the Vietnam War, the morgue used for 
+transferring soldiers killed in action from Vietnam to the U.S. was 
+initially located on this compound. Rajadamri has served as a base for 
+regional U.S. financial operations. Rajadamri also continues to house 
+numerous embassy support elements, along with other facilities 
+supporting assistance programs, our war against terrorism, operations 
+to eliminate trafficking in humans and drugs, and our operations to 
+promote peace and stability in the region.
+  As the Rajadamri compound was essentially a gift to the United States 
+by a grateful Royal Thai Government, I believe it is our obligation to 
+continue to use the compound in a manner that is consistent with the 
+spirit in which it was given to the United States. The Kingdom of 
+Thailand is one of the United States true friends in the world. In 
+honor of that friendship, in an effort to strengthen our warm relations 
+and in hopes that the relationship will grow as we continue to meet 
+challenges in the region and the world, we must maintain Rajadamri as a 
+centerpiece of our mission to Thailand. I urge my colleagues to support 
+me on this point.
+  The PRESIDING OFFICER (Mr. Coburn). The Senator from New York is 
+recognized.
+  Mr. SCHUMER. I ask unanimous consent that I be recognized for up to 
+10 minutes as in morning business and that following my remarks Senator 
+Levin be recognized for up to 10 minutes and that the time not be 
+charged against the bill.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+
+                                Wiretap
+
+  Mr. SCHUMER. Mr. President, I rise to read a quote that I thought my 
+colleagues might be interested in. Let me first read the quote. It 
+says:
+
+       Secondly, there are such things as roving wiretaps. Now, by 
+     the way, any time you hear the United States government 
+     talking about wiretap, it requires--a wiretap requires a 
+     court order. Nothing has changed, by the way. So when we're 
+     talking about chasing down terrorists, we're talking about 
+     getting a court order before we do so. It's important for our 
+     fellow citizens to understand, when you think Patriot Act, 
+     constitutional guarantees are in place when it comes to doing 
+     what is necessary to protect our homeland, because we value 
+     the Constitution.
+
+  Now, that sounds like something that would come from somebody saying, 
+of course, we ought to have court orders before we wiretap our 
+citizens. Well, let me tell my colleagues who made this statement. It 
+was President Bush in 2004, on April 20, in my home State of New York, 
+in the great city of Buffalo.
+  Let me read what the President said while we are talking about this 
+new revelation about wiretaps. He says again, this is a quote from 
+President Bush, April 20, 2004:
+
+     . . . any time you hear the United States government talking 
+     about wiretap, it requires--a wiretap requires a court order. 
+     Nothing has changed, by the way. When we're talking about 
+     chasing down terrorists, we're talking about getting a court 
+     order before we do so. It's important for our fellow citizens 
+     to understand, when you think Patriot Act, constitutional 
+     guarantees are in place when it comes to doing what is 
+     necessary to protect our homeland, because we value the 
+     Constitution.
+
+  So I have a question for the President: Sir, with all due respect, 
+what has changed? If, on April 20, 2004, you said we needed a court 
+order to do wiretaps when we listen in on our citizens, why is it now 
+that you are out there busy saying we do not need a court order; that 
+the law does not require it?
+  On April 20, 2004, I would say to the President, you obviously knew 
+that this program of wiretapping citizens was in effect. Why did you 
+say we always need a court order, that that is what the Constitution 
+says, ``because we value the Constitution,'' ``constitutional 
+guarantees,'' your words?
+  I think this shows the speciousness of the argument that has been 
+made by those in the White House, including the President, that, of 
+course, wiretapping citizens without a court order is perfectly allowed 
+by the law. The President himself stated something that you learn in 
+law school, that you probably even learn in a civics class in high 
+school or a constitutional law class in college, that a wiretap for an 
+American citizen requires a court order.
+  The President of the United States stated:
+
+     . . . any time you hear the United States government talking 
+     about wiretap, it requires--a wiretap requires a court order 
+     . . .
+
+  I could not have stated it any better myself. That is the law. That 
+has been
+
+[[Page S14141]]
+
+the law for a long time in this country and many believe that the 
+Constitution, the fourth amendment, so requires.
+  So I would ask the President now to admit that in the heat of the 
+aftermath of 9/11, something we all felt, that a mistake was made; that 
+the Government went ahead and wiretapped American citizens without a 
+court order. That was a mistake and should not be repeated or defended. 
+We Americans realize that we need security as well as liberty and, in 
+fact, in the Pantheon of values, I guess security might come a little 
+bit above liberty, but as the President is implying, when it comes to 
+wiretaps we can have both. So for all the sturm und drang, for all the 
+fuss that has been made, oh, of course, everyone knows the law does not 
+require us to get a court order for wiretaps, the President's basic 
+knowledge--and by the way, from what I am told, this is from the 
+President's archives. He went off the script and just said this on his 
+own, that he knew that a wiretap requires a court order.
+  So I would ask the President to reconsider his words of the last few 
+days. I would ask the President to join the vast majority of Americans 
+who know that if you are going to wiretap an American citizen, of 
+course, you have to go to court. And if it is unwieldy to do so, that 
+you go to Congress and change the law. You do not change it with the 
+flick of a pen.
+  You compare this statement, what the President said in Buffalo, NY, 
+on April 20, 2004, to what the President is saying in the last few 
+days, it is a 180-degree turn.
+  Mr. President, which one do you really mean? Which one do you really 
+believe? Please, no one should be playing political games on something 
+as serious as the delicate balance between security and liberty.
+  So I ask my colleagues, as we consider possibly renewing the PATRIOT 
+Act, to read what the President has said. The view that we have had on 
+this side of the aisle, that it was sort of beyond discussion; that if 
+one is going to wiretap an American citizen, they needed court 
+permission--in emergencies, of course, it is allowed 72 hours after it 
+is done--that that was more or less the consensus in this country, and 
+it was a consensus the President was part of at least as of a year and 
+a half ago.
+  What made the President change his views? What made him reverse the 
+universally accepted view that a wiretap requires a court order is 
+beyond me. But let us move forward here. Let us come together, realize 
+that we must protect ourselves but that we can protect ourselves and 
+protect our liberties at the same time.
+  I urge the President to explain why he said what he did on April 20 
+and why what he is saying now is so different and to return to the 
+position that most Americans accept, the position he had on April 20 
+but has since vanished, and that is that to wiretap an American citizen 
+requires a court order.
+  I yield my remaining time and yield to the Senator from Michigan.
+  The PRESIDING OFFICER. The Senator from Michigan is recognized for 10 
+minutes.
+  Mr. LEVIN. I ask unanimous consent that Senator Cantwell be 
+recognized immediately after I conclude, for 10 minutes under the same 
+conditions as I am speaking under.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+
+                         defense appropriations
+
+  Mr. LEVIN. Mr. President, a totally extraneous provision allowing for 
+oil and gas drilling in Alaska's Arctic National Wildlife Refuge--
+ANWR--has been inserted in the Defense Appropriations Conference 
+Report. The provision was in neither the House or Senate bill which 
+went to conference. This provision clearly violates Senate Rule 28 
+which states:
+
+       Conferees shall not insert in their report matter not 
+     committed to them by either House, nor shall they strike from 
+     the bill matter agreed to by both Houses. If new matter is 
+     inserted in the report, or if matter which was agreed to by 
+     both Houses is stricken from the bill, a point of order may 
+     be made against the report, and if the point of order is 
+     sustained, the report is rejected or shall be recommitted to 
+     the committee of conference if the House of Representatives 
+     has not already acted thereon.
+
+  It is clear that the ANWR provision violates Rule 28 and that the 
+Presiding Officer will, on the advice of the Parliamentarian, so rule. 
+The sponsors have indicated that they will appeal such a ruling of the 
+Presiding Officer and seek to overrule it. If they are successful, this 
+would, in effect, eliminate enforcement of Rule 28.
+  That is why language has been inserted in the Defense Appropriations 
+Conference Report which would, upon the signing of the legislation into 
+law, attempt to reinstate Rule 28's effectiveness. That provision 
+states:
+
+       Effective immediately, the presiding officer shall apply 
+     all the precedents of the Senate under Rule 28 in effect at 
+     the beginning of the 109th Congress.
+
+  Playing ping pong with the Senate rules is an outrageous process. 
+Violating a Senate rule and restoring it, all in the same bill, if 
+permitted to occur, means the rules of the Senate are subject to the 
+whim of conference committees. Rules will exist or can be ignored, 
+violated, or reinstated at the whim of the conferees. Conference 
+reports could be used by a Senate majority to circumvent any Senate 
+rule. Each conference committee becomes a Rules Committee--every 
+conference report can accomplish anything the majority wants regardless 
+of the Standing Rules of the Senate. Senators should play by the rules, 
+not play with the rules. Do we care if the Senate rules take a massive 
+blow? Why are we contemplating destroying our process this way?
+  The majority has cited as a precedent the 1996 Federal Aviation 
+Authorization Conference Report. A Rule 28 point of order was raised 
+against that bill because of out of scope matters which were added in 
+conference. The ruling of the Chair was overturned by the Senate, 
+creating a precedent that the Senate so regretted that, by bipartisan 
+agreement, 4 years later, the Senate restored the enforcement of the 
+rule.
+
+  The trashing of our rules proposed in this Defense Appropriations 
+bill in order to get an unrelated provision passed, is far worse than 
+the mistake we made in 1996. The effort to combine the destruction of a 
+rule and its restoration all in the same legislative act would create a 
+precedent which could lead to the routine circumvention of any Senate 
+rule by conference committees. Is this what we want to do in the 
+Senate--to leave ourselves without rules we can rely on?
+  If the suspension of a rule has merit, the Senate has a process under 
+its rules to suspend it. Suspension of a rule simply requires a 1-day 
+advance notice and a \2/3\ vote. This is the proper way to proceed 
+under the rules, not abusing the conference committee process to allow 
+the majority to change the rules at any time for any purpose by adding 
+language to a conference report.
+  So what can a minority do in response to protect itself in the future 
+against this trashing of the rules? The minority would presumably never 
+agree to allowing the Senate to appoint conferees. Since the steps 
+leading to conference require the cooperation of the minority party in 
+most instances, why would the minority leave itself vulnerable to 
+losing the protections of 200 years of Senate rules, precedents, and 
+history? My colleagues, walking down this road leads us to an abyss. 
+Why are we doing this to the Senate? I am afraid it is because some 
+have the power to do it and get their legislative goal accomplished.
+  Arthur Vandenberg, one of my predecessors from Michigan is one of the 
+giants of Senate history. His portrait was recently added to the Senate 
+Reception Room outside of this chamber where he joined six other greats 
+of the Senate. Senator Vandenberg back in 1949 said:
+
+       I continue to believe that the rules of the Senate are as 
+     important to equity and order in the Senate as is the 
+     Constitution to the life of the Republic, and that those 
+     rules should never be changed except by the Senate itself, in 
+     the direct fashion prescribed by the rules themselves.
+
+  Senator Vandenberg added that when:
+
+     . . . we fit the rules to the occasion, instead of fitting 
+     the occasion to the rules . . . in the final analysis, under 
+     such circumstances, there are no rules except the transient, 
+     unregulated wishes of a majority of whatever quorum is 
+     temporarily in control of the Senate. That, Mr. President, is 
+     not my idea of the greatest deliberative body in the world. . 
+     . . No matter how important [the pending issue's] immediate 
+     incidence may seem to many today, the integrity of the 
+     Senate's rules is our paramount concern, today, tomorrow, and 
+     so long as this great institution lives.
+
+
+[[Page S14142]]
+
+
+  No Senator, no matter how he or she feels about ANWR, should accept 
+the abuse of power which is incorporated in the ANWR add-on to the 
+Defense Appropriations bill. That bill, so important to our troops and 
+our national security should not be misused in this way.
+  Mr. President, I yield the floor. I notice that Senator Cantwell is 
+on the floor.
+  The PRESIDING OFFICER. The minority leader is recognized.
+  Mr. REID. I would say to the Senator from Washington, Senator Frist 
+will be here shortly to do maybe, I hope, a unanimous consent request. 
+If that is the case, I ask the Senator from Washington to allow us to 
+interrupt.
+  Ms. CANTWELL. I am happy to.
+  The PRESIDING OFFICER. The Senator from Washington is recognized.
+  Ms. CANTWELL. Mr. President, many of my colleagues have been on the 
+floor talking about the importance of the votes tomorrow, and I want to 
+remind my colleagues that I do think that these votes are important for 
+the Senate process. I am very disturbed, as are many of my colleagues, 
+that we have moved forward with the Department of Defense 
+appropriations bill that includes language to open up drilling in the 
+Arctic National Wildlife Refuge as well as a provision allowing drug 
+manufacturers to be protected from liability from lawsuits for vaccines 
+that they make.
+  I think most of my colleagues thought we were going to vote on a 
+Department of Defense appropriations bill tomorrow that was going to 
+help our troops and give military pay raises and help provide security 
+for our Nation. The last thing I think many Americans think is a nexus 
+to that is drilling in the Arctic Refuge, particularly when many 
+Americans believe we don't have enough energy independence and need to 
+get over our over dependence on fossil fuels.
+  I hope my colleagues understand how important this issue is. We have 
+been contacted by military leaders, retired military leaders who have 
+said:
+
+     . . . any effort to attach controversial legislative language 
+     authorizing drilling in ANWR to the defense appropriations 
+     conference report will jeopardize Congress' ability to 
+     provide our troops and their families the resources they 
+     need. . . .
+
+  This coming from retired military personnel who thought it was so 
+important they actually sent a letter saying they were concerned that 
+this legislation would hold up funding for our troops. That letter has 
+previously been printed in its entirety in the Record.
+  We have also been contacted by the Retired Military Officers 
+Association. These are individuals, too, who want to see legislation go 
+through because they want to make sure the men and women in the 
+military receive their increase in pay and take care of the troops 
+overseas and get all the enforcements they need in a Defense bill. But 
+they also wrote to us saying:
+
+       We are concerned that the insertion of any divisive, non-
+     defense related issues at the last minute could further delay 
+     the enactment of this crucial legislation.
+  So military leaders from around our country are saying they do not 
+like the antics of putting ANWR drilling, a very divisive issue that 
+has been debated for 25 years, into a Defense appropriations bill. This 
+is coming from the military men and women who want to see a clean 
+defense appropriations bill.
+  I should say to my colleagues that there are other people watching 
+this issue as well. We have newspapers across the country that are also 
+calling out for Congress to be more responsible on this legislation. 
+They are hearing the complaint, as I am, from many parts of the country 
+about this legislation and the way it has been put together.
+  The Statesman Journal in Salem, OR, states that some U.S. lawmakers 
+are still trying to scheme and allow oil drilling in the Arctic 
+National Wildlife Refuge.
+  I heard my colleague talk about the vote tomorrow and the process. I 
+just wish to emphasize that while there will be points of order as it 
+relates to the budget and the budget process allowing for a budget 
+point of order and the rules of the budget as it relates to this bill, 
+the Defense appropriations bill, there is language in here that I 
+believe is outside the scope of this legislation and should not be 
+allowed.
+  I hope my colleagues understand that is one of the possible votes 
+tomorrow--on whether this language on the Arctic National Wildlife 
+Refuge, as my colleague from Michigan said, has no inclusion, neither 
+in the House nor Senate original proposal, has no place showing up in a 
+conference report in the eleventh hour. That is why we are hearing from 
+people all over the country about how absurd it is to include this in 
+the legislation.
+  I hope, if my colleagues are forced to have a vote on upholding the 
+ruling of the Chair, that they will realize they are really overturning 
+the Senate rules if you disagree with the ruling of the Chair on this 
+issue. This is not the same as the budget process. It is part of our 
+Senate rules. The Senate rules, as the Senator from Michigan read, are 
+very clear. You can't include things in a conference report that were 
+in neither House nor Senate version. But that is exactly what the 
+Senator from Alaska has tried to do.
+  Alaska will likely get, from drilling in the Arctic National Wildlife 
+Refuge, $5 billion in bid bonuses. I actually think that this proposal, 
+even for an Alaskan, is shortsighted.
+  America needs to be diversifying into alternative fuels like 
+biofuels, and be focusing on lightweight materials that help us be 
+efficient.
+  I think that is why this newspaper in Oregon calls this plan 
+shortsighted, that it is disgusting that lawmakers would try to equate 
+oil profits with the Nation's true defense needs. That is what 
+newspapers across the country are saying about this legislation. I 
+believe they are right because we are doing a great disservice to the 
+men and women in the military by continuing to talk about this issue 
+without being specific to the fact that we are adding something that 
+should never have been put in this legislation.
+  Another Oregon newspaper, the Oregonian also said that Arctic 
+drilling has been thrown into the Defense bill, and it is an 
+emotionally charged matter of supporting the troops at a time of war, 
+and it does not belong there.
+  This is from another newspaper: It doesn't belong there.
+  Americans are watching and paying attention to the fact that this 
+legislation was thrown in at the eleventh hour. I believe we should 
+pull it out and get on about our business of passing a Defense 
+appropriations bill.
+  Let me mention another issue that I am sorry is in this legislation.
+  I have for the Record several editorials that I would also like to 
+submit for the Record on this issue of immunity for drug and vaccine 
+manufacturers. There are several here that deserve being a part of the 
+Record. I ask unanimous consent that they be printed in the Record.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+                [From the New York Times Dec. 14, 2005.]
+
+                    The Stealth Liability Provision
+
+       Republicans are using the last days of this Congressional 
+     session to try to grant extraordinary liability protection to 
+     the drug companies that will make the vaccines and other 
+     medicines to combat a possible influenza pandemic. But they 
+     have been slow to mount a comparable effort to help the 
+     people who may be harmed by adverse side effects.
+       Although liability protection is being portrayed as a vital 
+     step in carrying out the president's $7 billion flu pandemic 
+     plan, it serves a political purpose as well. The insulation 
+     against liability looks suspiciously like an effort to reward 
+     the drug companies, which help bankroll Republicans, and 
+     punish the trial lawyers, who help bankroll Democrats.
+       Some form of liability protection is clearly needed, if 
+     only to allay the concerns of drug company executives worried 
+     about lawsuits. We know how to provide sensible liability 
+     protection and have done so for routine childhood 
+     immunizations, and for the national swine flu vaccination 
+     campaign of 1976 and the smallpox vaccination effort two 
+     years ago. But each time individuals had a mechanism to seek 
+     compensation, and often, if warranted, the government could 
+     sue the manufacturers.
+       For a pandemic, however, Republican leaders would allow 
+     suits only if there was willful misconduct. The companies 
+     could be reckless or grossly negligent and escape 
+     responsibility. As for victims' compensation, the Republicans 
+     have been vague and secretive, but claim that they will 
+     produce a fair and robust compensation system. Their 
+     provision is expected to be attached to a defense 
+     appropriations bill that is now before a conference committee 
+     and, once approved, cannot be amended on the floor.
+       The conferees ought to shun that provision and leave the 
+     complexities to fuller discussion early next year.
+
+[[Page S14143]]
+
+             [From the Des Moines Register, Dec. 9, 2005.]
+
+                      Drug Makers Don't Need Gift.
+
+       President Bush and Congress are trying to give a Christmas 
+     present to one of their favorite industries--the drugmakers. 
+     Senate legislation seeks to create a new government division 
+     within the Department of Health and Human Services with the 
+     power to shield drug companies from lawsuits.
+       The legislation would allow drug makers to create a product 
+     with no threat of civil accountability--even if they're 
+     negligent.
+       That's wrong on its face. But there's also no reason for 
+     doing it. The motivation appears to be based on an untruth 
+     repeated recently by President Bush.
+       Last month, when he outlined a prevention plan for an 
+     avian-flu outbreak, he also called on Congress to ``remove 
+     one of the greatest obstacles to domestic vaccine production: 
+     the growing burden of litigation.'' He said the industry had 
+     been ``flooded'' with lawsuits.
+       In an independent review of jury verdicts and judicial 
+     decisions for cases involving flu vaccine, two Harvard 
+     researchers found 10 suits in the past 20 years. Just 10.
+       The industry doesn't need protection from litigation--or 
+     any more gifts from its friends in Washington.
+                                  ____
+
+
+             [From the Detroit Free Press, Dec. 16, 2005.]
+
+     Vaccine Makers: Lawmakers Service People, Not Drug Companies.
+
+       As panicky as Americans may some day become about getting 
+     vaccinated against bird flu, that urgency does not translate 
+     into walling off vaccine makers from lawsuits or invoking 
+     secrecy around medical research.
+       Attempts to add those measures to year-end bills piling up 
+     in Congress are subterfuges to dodge the full debate that 
+     would probably sink them.
+       Some vaccines do come with risks. The best model so far for 
+     addressing them is the one used for children's immunizations, 
+     which includes a fund to reimburse anyone harmed by a 
+     vaccine.
+       Shielding drug companies completely could undermine 
+     confidence in the vaccines they do develop for an epidemic, 
+     which would heighten the risk if bird flu mutates into a form 
+     easily transmitted from human to human.
+       Managing public fears--whether of the illness or the 
+     preventive measures or both--is an essential part of any 
+     health strategy.
+       In that context, how to handle a rush vaccination program 
+     merits serious debate.
+       Shoehorning industry favors into other bills, such as the 
+     defense spending bill, does not meet the threshold.
+       Another potential stealth insert is a plan to create a 
+     biomedical research agency that would not have to answer 
+     Freedom of Information Act requests or follow other 
+     accountability rules normally applied to federal agencies.
+       The vaccine shield was part of that plan; groups allied 
+     against it wonder whether some of the secrecy provisions also 
+     could get slipped into a spending bill.
+       The research agency bill allows more information to be 
+     hidden than any current law, according to analyses by 
+     journalists' associations lined up in opposition.
+       Public health programs work best when they live up to that 
+     name by operating in the open and serving the common good.
+       Congress needs to remember that its first responsibility is 
+     to the health of people in this country, not to the companies 
+     that get contracts to help protect it.
+
+  Ms. CANTWELL. For example, the Register-Guard--I don't know why 
+Oregon is paying so much attention to what is happening, but they are 
+on top of things--says in an editorial, ``Unjustifiable protection 
+against lawsuits,'' making sure to protect the drug companies is an 
+immunity deal for vaccine makers that has been slipped into the Defense 
+bill.
+  They think it is unjustifiable.
+  Another paper, the Vindicator, a Youngstown, OH, newspaper with the 
+headline: ``Trading on fear by passing legislation is wrong.''
+  It says that when legislators begin attaching complex legislation 
+with far-reaching effects to must-pass bills, a tactic designed to 
+grease the way for passage with virtually no debate, people should be 
+alarmed.
+  I ask unanimous consent these articles be printed in the Record.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+                [From the Register Guard, Dec. 14, 2005]
+
+                        Vaccines Come With Risk
+
+       President Bush and Republican leaders in Congress are right 
+     to focus special attention on improving the nation's capacity 
+     to develop and distribute vaccines quickly. No response to a 
+     bioterrorism attack or influenza pandemic would save more 
+     lives than rapid, widespread immunization of healthy people.
+       But it's inexcusable to exploit public fears of a flu 
+     pandemic as a means to grant the drug industry unjustifiable 
+     protection against lawsuits filed by injured patients. Senate 
+     Majority Leader Bill Frist is attempting to slip immunity for 
+     drug and vaccine makers into a defense spending bill without 
+     debate.
+       It's not just unseemly to concoct such a blatant Christmas 
+     giveaway for the pharmaceutical industry. Barring injured 
+     patients from seeking compensation undermines the very public 
+     health goals an effective vaccination program seeks to 
+     promote. Case in point: the Bush administration's 2003 effort 
+     to have health professionals and first-responders immunized 
+     against smallpox.
+       Some military personnel and others who received the 
+     smallpox vaccine suffered heart attacks and neurological 
+     disorders. When other first-responders were told there would 
+     be no compensation for anyone who experienced adverse 
+     reactions, the backlash stopped the program in its tracks.
+       President Bush would have Americans believe that greedy 
+     trial lawyers and runaway jury verdicts have crippled vaccine 
+     makers. Hogwash. The idea that U.S. vaccine production has 
+     suffered as a result of product liability lawsuits is a 
+     Trojan horse designed to sneak the administration's tort 
+     reform agenda into must-pass public health legislation.
+       Here are the facts: A study of ``Legal Concerns and the 
+     Influenza Vaccine Shortage'' by two Harvard University School 
+     of Public Health professors found only 10 lawsuits against 
+     the manufacturers of flu vaccine during the past 20 years. 
+     Moreover, pharmaceutical companies have been making heavy 
+     recent investment in vaccine R&D without any additional 
+     liability protection.
+       The common-sense solution to this issue has existed since 
+     1986. It's called the Vaccine Injury Compensation Program, a 
+     no-fault fund that shields drug manufacturers from most 
+     lawsuits by compensating patients who can prove they were 
+     injured by a vaccine.
+       All Congress needs to do is extend the VIC plan to any new 
+     federal flu pandemic vaccine. That solves the problem without 
+     creating the first blanket industry product liability 
+     immunity in the nation's history.
+                                  ____
+
+
+                  [From the Vindicator, Dec. 13, 2005]
+
+          Trading on Fear to Pass Vaccine Legislation Is Wrong
+
+       When legislators start playing on the worst fears of 
+     people, the people should be worried. And when legislators 
+     begin attaching complex legislation with far reaching effects 
+     to must-pass bills--a tactic designed to grease the way for 
+     passage with virtually no debate--people should be alarmed.
+       The American people should be both worried and alarmed by 
+     the efforts of Senate Majority Leader Bill Frist to ram 
+     through legislation in the name of protecting the nation from 
+     a bird flu epidemic. The bill would not only indemnify the 
+     pharmaceutical industry from suits involving death, 
+     disability or sickness resulting from the use of pandemic flu 
+     vaccines, but would create a new secret bureaucracy to shield 
+     the government's health decisions from public scrutiny.
+       The need to provide some sort of protection to 
+     pharmaceutical and biotechnology companies that provide life-
+     saving vaccines is arguably necessary.
+       Even though a study by Harvard public health professors 
+     reported in the October 2005 Journal of the American Medical 
+     Association concluded that there were only 10 vaccine-related 
+     civil lawsuits brought in the United States in the last 20 
+     years, wariness by pharmaceutical companies in pursuing new 
+     vaccines is understandable. In today's litigious climate, it 
+     only takes one big mistake to bankrupt a company.
+
+
+                       Vigorous debate necessary
+
+       But the need to protect vaccine providers from unreasonable 
+     risks should be vigorously and openly debated in Congress. If 
+     companies are to be indemnified against potential 
+     catastrophic losses by the federal government, should the 
+     federal government share in any extraordinary profits a 
+     company makes when its vaccine is a market success?
+       But there will be no such discussion of hypotheticals if 
+     Frist has his way. He is attempting to attach the liability 
+     shield bill of Sen. Richard Burr, R-NC, onto a must-pass 
+     defense spending bill.
+       Even more troubling, S.B 1873 would establish the 
+     Biomedical Advanced Research and Development Agency within 
+     the Department of Health and Human Services. BARDA would be 
+     presided over by a presidential appointee and would assume 
+     many of the functions of the U.S. Centers for Disease Control 
+     and Prevention and the National Institutes of Health.
+       But unlike the CDC and NIH, BARDA would be exempt from the 
+     Freedom of Information Act.
+
+  Ms. CANTWELL. The Toledo Blade editorial said:
+
+       Congress and President Bush have acted sluggishly in 
+     protecting the nation from public health emergencies, but 
+     they can move at lightning speed when it comes to helping 
+     their friends in the pharmaceutical industry.
+
+  I ask unanimous consent to have that printed in the Record.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+            [From the Toledo Blade Editorial, Dec. 16, 2005]
+
+                           Congress, on Drugs
+
+
+          helping their friends in the pharmaceutical industry
+
+       One example: A Senate bill aimed at creating a stealthy new 
+     federal agency to shepherd rapid development of drugs and 
+     vaccines to be used against bio-terrorism and pandemic 
+     disease.
+       Against the backdrop of potentially deadly bird flu 
+     outbreaks worldwide, it sounds like
+
+[[Page S14144]]
+
+     a good idea, but a closer look reveals a plan for blanket 
+     immunity for industry against legal action by anyone hurt or 
+     killed by defective drugs or vaccines. Worse, the agency's 
+     activities would be shielded from public view by an exemption 
+     from the federal Freedom of Information Act, broader even 
+     than the CIA enjoys.
+       The bill, introduced in mid-October by Sen. Richard Burr, 
+     Republican of North Carolina, reportedly is set to be 
+     attached to a defense appropriations bill that Congress must 
+     pass this month before lawmakers leave town for the holidays. 
+     That means there would be little or no debate.
+       The legislation would be welcomed at the White House, which 
+     has demonstrated repeatedly that it wants to govern with the 
+     least amount of public input and as much secrecy as possible.
+       Not surprisingly, the action is being taken in the wake of 
+     two reports that give the Bush Administration low marks for 
+     emergency preparedness.
+       First, the 9/11 commission gave the government an F for 
+     lackluster homeland security efforts since the terrorist 
+     attacks more than four years ago. That was followed by a 
+     stinging D+ from Trust for America's Health, a nonprofit, 
+     nonpartisan Washington organization that graded the 
+     administration's overall public health capability in the 
+     event of a disaster.
+       Senator Burr has been quoted as saying the legislation is 
+     necessary to provide ``the incentives and protections 
+     necessary to bring more and better drugs and vaccines to 
+     market faster.'' Experts, however, say the industry is doing 
+     just fine and doesn't need special treatment. Moreover, 
+     despite claims to the contrary, there has been no disruptive 
+     wave of lawsuits against drug manufacturers.
+       And, working in secrecy, BARDA would have the sole 
+     authority to determine what medical equipment, drugs and 
+     vaccines would be shielded from civil lawsuits.
+       We have editorialized before about the penchant for the 
+     Bush administration, which backs S.B. 1873, to try to expand 
+     the secrecy under which government operates. It began long 
+     before the threat of avian flu, even before Sept. 11, 2001. 
+     But the administration and its supporters have not been shy 
+     about using fears of disease or terrorism or national 
+     security to further a goal of being able to operate with less 
+     and less public oversight.
+       If Burr's bill is a good one, it should be able to survive 
+     the healthy debate that is supposed to be a part of the 
+     legislative process.
+       Likewise, if bureaucrats are making life and death 
+     decisions regarding the medical care that is available to the 
+     American people, they should be subject to the same Freedom 
+     of Information law that existing public health agencies work 
+     under.
+
+     
+                                  ____
+  Ms. CANTWELL. The St. Louis-Dispatch, ``Vaccines: Shot in the dark.''
+
+       Nor is there any reason to provide extraordinary liability 
+     protection for drug companies making bird flu vaccine.
+       It may be attached to a defense appropriations bill . . . 
+     that would be a big mistake.
+
+  I ask unanimous consent that be printed in the Record.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+      [From the St. Louis Post-Dispatch, Editorial, Dec. 15, 2005]
+
+                       Vaccines: Shot in the Dark
+
+       Shielding vaccine makers from accountability won't speed 
+     the development of new drugs to fight bioterrorism. But 
+     that's the approach some in Congress seem bent on taking.
+       Rushing to get home for Christmas vacation, Congress is 
+     poised to approve an ill-considered bill introduced by Senate 
+     Majority Leader Bill Frist, R-Tenn. The bill would create a 
+     new bureaucracy, the Biomedical Advanced Research and 
+     Development Agency, that would perform many of the functions 
+     now carried out by the U.S. Centers for Disease Control and 
+     Prevention and the National Institutes of Health.
+       It's being sold as an essential step in President George W. 
+     Bush's pandemic flu plan, and a short-cut to the development 
+     of vaccines for other diseases that could be used in a 
+     bioterror attack. It is neither.
+       The new agency would be exempt from the federal Freedom of 
+     Information Act. And it would have the authority to block 
+     civil actions on drugs, vaccines and other medical devices 
+     developed for it. That means patients would have no right to 
+     compensation if they were harmed, and professional groups 
+     could be blocked from getting information about things like 
+     complication rates.
+       The foundation of public health is sharing information, 
+     making it as widely available to individuals and local 
+     governments as possible. Arguing that an agency designed to 
+     help combat bird flu or bioterror should work in 
+     extraordinary secrecy is as puzzling as it is wrong-headed.
+       Nor is there any reason to provide extraordinary liability 
+     protection for drug companies making bird flu vaccine. For 20 
+     years, America has had a vaccine injury compensation fund 
+     that helps people injured by side-effects of inoculations and 
+     protects vaccine makers from excessive liability. It works 
+     fine, so why tamper with it?
+       Most analysts say that recent reductions in the number of 
+     vaccine makers are tied to low profit margins and uncertain 
+     markets, not to the fear of lawsuits. Now, with guarantees of 
+     massive government purchases, the industry is gearing up 
+     research and production. It doesn't need these new 
+     protections.
+       Dr. Frist's bill could be voted on by the end of the week. 
+     It may be attached to a defense appropriation bill that would 
+     be the last thing Congress votes on this year. That would be 
+     a big mistake.
+
+  Ms. CANTWELL. The Times-Tribune of Scranton, PA, said:
+
+      . . . the prospect of a pandemic is being used by Congress 
+     to pander to the pharmaceutical industry.
+
+  And:
+
+       Congress should not use legitimate concerns about a flu 
+     epidemic as a wedge to protect the manufacturers from 
+     liability.
+
+  I ask unanimous consent that it be printed in the Record.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+                [From the Times-Tribune, Dec. 12, 2005]
+
+                           Pandering Pandemic
+
+       Fear of an avian flue pandemic has driven the government to 
+     find ways to increase the production of vaccines while 
+     improving monitoring and detection technology. Unfortunately, 
+     the prospect of a pandemic also is being used in Congress to 
+     pander to the pharmaceutical industry.
+       The Biodefense and Pandemic Vaccine and Drug Development 
+     Act of 2005 would create a new federal agency that would be 
+     exempt from public disclosure laws, while superseding many of 
+     the functions now handled by public agencies such as the 
+     National Institutes of Health and the Centers for Disease 
+     Control and Prevention. It would have the power to designate 
+     certain drugs as exempt from civil liability litigation.
+       That measure cannot be directed at vaccines. According to a 
+     study of recent flu vaccine shortages by the Harvard School 
+     of Public Health, only 10 liability suits have been filed 
+     against vaccine manufacturers over the last 20 years. Most 
+     such claims are handled under the National Vaccine Injury 
+     Compensation Program.
+       Economic factors produce vaccine shortages. Vaccines are 
+     difficult and costly to produce, and unlike for prescription 
+     drugs, there is no definitive long-term market. That's why 
+     the federal government, quite rightly, has begun to subsidize 
+     vaccine production.
+       Members should get a copy of the most recent issue of the 
+     New England Journal of Medicine, which accuses Merck of 
+     misrepresenting the results of clinical trials of Vioxx, the 
+     anti-inflammatory medicine that was pulled from the market 
+     this year.
+
+  Ms. CANTWELL. Several other articles that I will go through include 
+the Roanoke Times, that this legislation is in pursuit of secrecy 
+around this issue.
+  The Orlando Sentinel: Drug firms don't deserve virtually unlimited 
+protection against vaccines lawsuits that would shield manufacturers.
+  The Raleigh, NC newspaper: Wrong way immunity.
+  One more, the Las Vegas Sun, titled ``Vaccines and accountability: 
+Bush's proposal to shield avian-flu vaccine makers from liability 
+invites health problems.''
+  I ask unanimous consent to have those printed in the Record.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+                  [From the World News, Dec. 11, 2005]
+
+                       Naughty Pursuit of Secrecy
+
+                           (By Tommy Denton)
+
+       As is his custom this time of year, Santa's been making a 
+     list and checking it twice, finding out who's been naughty 
+     and nice.
+       President Bush and other perpetrators of the nefarious 
+     ``Black Drug Act'' should consider themselves in the 
+     ``naughty'' column.
+       OK, the ``Black Drug Act'' slightly overstates the 
+     nefariousness of the Biodefense and Pandemic Vaccine and Drug 
+     Development Act of 2005, its formal title, but not all that 
+     much.
+       Introduced in October in response to natural and 
+     potentially terrorist-induced pandemics, the bill would 
+     create a new federal bureaucracy under a presidential 
+     appointee charged with overseeing a vast new initiative to 
+     develop remedies for such events.
+       Skeptics might wonder why the administration supports 
+     creating another agency that effectively duplicates the 
+     functions currently assigned to the highly capable U.S. 
+     Centers for Disease Control and Prevention, the National 
+     Institutes of Health and other federal public health 
+     operations.
+       The answer, for those untutored in the ways of Washington 
+     in general and the Bush administration in particular, lies in 
+     the proposed agency's license to operate under smothering 
+     secrecy.
+       That's where the ``black'' comes in under the legislation's 
+     informal title, as in the ``black'' operations of the 
+     military that are exempt from public awareness or exposure.
+       The same would apply for the Biomedical Advanced Research 
+     and Development Agency, which, with its extra-judicial powers 
+     and supervision by a political appointee, would
+
+[[Page S14145]]
+
+     be cloaked in official secrecy while ensuring that remedies 
+     for fighting a biological outbreak or attack would remain 
+     equally ``black.''
+       Translated into operational terms, that means BARDA would 
+     grant astounding levels of secrecy and legal immunity from 
+     civil lawsuits filed by persons harmed by the products of the 
+     drug companies overseen by the agency.
+       Even the business of the agency would be exempt from the 
+     public protections of the federal Freedom of Information Act. 
+     The Defense Department and Central Intelligence Agency are 
+     required to meet the accountability standards of such 
+     scrutiny, for goodness' sake, so the shield provided to BARDA 
+     and its clients in the pharmaceutical industry should elicit 
+     a public denunciation of epic proportions.
+       Yet, under the president's eager support, a squadron of 
+     Republican senators has been shoving the bill closer to 
+     passage with a frightening lack of public attention to its 
+     perils.
+       Bush pleaded early last month: ``One of the greatest 
+     obstacles to domestic vaccine production [is] the growing 
+     burden of litigation. In the past three decades, the number 
+     of vaccine manufacturers has plummeted, as the industry has 
+     been flooded with lawsuits.''
+       Oh? According to a study published in October of 2004 in 
+     the Journal of the American Medical Association by Michelle 
+     Mello and Troyan Brennan, Harvard University School of Public 
+     Health professors, only 10 lawsuits were filed against makers 
+     of flu vaccine in the last 20 years.
+       And the president's alleged flood of lawsuits apparently 
+     has not seriously discouraged such manufacturers of vaccines 
+     for influenza and other infectious diseases as Merck, Wyeth, 
+     GlaxoSmithKline, Novartis and the Swiss company Roche.
+       Sanofi-Pasteur, the nation's largest flu vaccine maker, 
+     already has invested $150 million to double its production 
+     capacity in response to the likely demand for its products, 
+     according to a recent report on National Public Radio.
+       The key for the White House and congressional leadership in 
+     this effort to invoke official secrecy and stymie the civil 
+     justice system in the event of malpractice and negligence is, 
+     simply, fear.
+       Never mind that sound, cutting-edge medical science--
+     indeed, all science--and responsive public policy work best 
+     under the confidence-building conditions of public 
+     transparency.
+       If you have no concern for science or the patience for 
+     transparency, then raise the specter of bio-terrorists 
+     preying on a vulnerable nation, invoke the need to work in 
+     secret to repel that peril, and you're halfway home.
+       Boogy, boogy, boogy!
+       Killer viruses!
+       Hide, take refuge in secrecy, hide!
+       Boogy, boogy, boogy!
+       Under such fear-inspired secrecy, the public would be 
+     stripped of the very openness and accountability required to 
+     acknowledge, assess and overcome threats to public health and 
+     safety--processes essential in a democratic republic.
+       No, the Black Drug Act has precious little to do with much 
+     of anything other than securing an expanded sphere of 
+     official secrecy in which the administration and its favored 
+     corporate benefactors can exploit the fruits of fear.
+       Santa's still making his list, and he's not amused.
+                                  ____
+
+
+               [From the Orlando Sentinel, Dec. 13, 2005]
+
+Learn From Past Vaccines: Drug Firms Don't Deserve Virtually Unlimited 
+                  Protection Against Vaccine Lawsuits
+
+       Even with the threat of a worldwide bird-flu pandemic, U.S. 
+     vaccine manufacturers might be unwilling to respond without 
+     protection from lawsuits. Protection is fine but it needs 
+     limits and some recourse for victims.
+       The leading proposal in Congress, from Senate Majority 
+     Leader Bill Frist, would bar lawsuits except where a 
+     manufacturer's willful misconduct caused injuries or deaths. 
+     That standard is much too permissive; it would shield 
+     manufacturers in cases of gross negligence, such as failing 
+     to follow normal safety procedures.
+       Yet Mr. Frist's proposal would not set up an alternative 
+     system to compensate victims of severe reactions, which are 
+     inevitable in any mass vaccination. Congress made the same 
+     mistake preparing for a swine flu pandemic in 1976. That 
+     program collapsed amid widespread fears about harm from the 
+     vaccine. The country was lucky the pandemic never 
+     materialized.
+       Congress gave lawsuit protections to childhood-vaccine 
+     manufacturers in 1986, but wisely created a compensation 
+     system for severe reactions. Rep. Dave Weldon, a Palm Bay 
+     Republican and doctor, is rightly concerned that the lack of 
+     a system for a bird-flu vaccine could deter doctors and 
+     others on the front lines in a pandemic from getting 
+     vaccinated.
+       Mr. Weldon also sensibly proposes an independent review of 
+     the safety of a bird-flu vaccine, to anticipate problems and 
+     build public confidence in the program.
+       Without limits and the kind of measures Mr. Weldon 
+     advocates, lawsuit protection for flu-vaccine manufacturers 
+     could backfire.
+                                  ____
+
+
+              [From the News and Observer, Dec. 16, 2005]
+
+                           Wrong-Way Immunity
+
+       It's understandable why the Bush administration and its 
+     Capitol Hill allies are trying to speed up the production of 
+     vaccines and drugs to combat pandemics and bioterrorist 
+     attacks. But in that effort, the administration and 
+     Republican Sen. Richard Burr of North Carolina have gone off 
+     course.
+       A bill introduced by Burr has come under wide criticism 
+     because of its intended formation of a large new bureaucracy 
+     wrapped in secrecy and its lack of accountability to the 
+     citizens it is designed to protect. With the measure stalled 
+     in the Senate, the sponsors appear intent on trying to pass 
+     it as a rider to the defense appropriations bill.
+       This kind of end run around fuller consideration would be a 
+     mistake. The Senate especially needs a more complete 
+     exposition of the Burr bill's proposal that the Biomedical 
+     Advanced Research and Development Agency (BARDA) be exempt 
+     from the Freedom of Information Act.
+       Even more sweeping is a provision empowering the new agency 
+     to shield from any legal action those producing vaccines, 
+     drugs, medical equipment or other products turned out to 
+     combat pandemics or bioterrorism. Such a broad exemption from 
+     liability is hardly justified on the record.
+       A study reported by the Journal of the American Medical 
+     Association found, for example, that there had been only 10 
+     lawsuits in 20 years over flu vaccines. Drug companies don't 
+     get out of the vaccine business because of liability, the 
+     study's authors said, but because of low profit margins and 
+     unpredictable demand.
+       These are two factors that clearly should be more fully 
+     dealt with in any legislation to spur the production of 
+     vaccines, for instance, for an avian-flu pandemic.
+       There is another major question hanging over Burr's bill: 
+     Is it desirable to form within the Department of Health and 
+     Human Services a new supersecret agency?
+       Already in place are the U.S. Centers for Disease Control 
+     and Prevention, the Department of Homeland Security and the 
+     National Institutes of Health. Such programs ought to provide 
+     more than enough federal firepower to encourage and monitor 
+     the steps being taken to prevent or counter pandemics or 
+     bioterror attacks. The forming of a large new agency that 
+     would be all but shielded from public and even congressional 
+     scrutiny can hardly be the right answer for Americans.
+                                  ____
+
+
+                 [From the Las Vegas Sun, Nov. 2, 2005]
+
+   Vaccines and Accountability: Bush's Proposal to Shield Avian-Flu 
+         Vaccine Makers From Liability Invites Health Problems
+
+       The Bush administration is planning today to release a 
+     detailed proposal of its plan to thwart an avian flu 
+     pandemic. Scientists say the flu, now present in Asia and 
+     parts of Europe, could develop into a worldwide crisis if the 
+     virus causing it mutates into a form that makes people, and 
+     not just birds, contagious.
+       President Bush spoke Tuesday in general terms of his plan, 
+     most of which we believe is well thought out. The plan would 
+     provide funding for developing a new technology for producing 
+     vaccines. It would commit the country to a continued 
+     partnership with the World Health Organization. It calls for 
+     helping to fund the people and agencies in other countries 
+     who are now battling the virus. It would provide funding for 
+     states to develop emergency plans in the event of a pandemic. 
+     It also calls for manufacturing and stockpiling supplies of a 
+     flu vaccine that shows promise of being effective.
+       These points are all worthy of congressional approval. We 
+     do have reservations, however, about another point in Bush's 
+     plan. He is asking Congress to absolve the manufacturers of 
+     vaccines from all legal liability, meaning they couldn't be 
+     sued if people who took the vaccines died or suffered 
+     physical harm. We believe this aspect of the plan needs a 
+     hard look by Congress.
+       Is there really a good reason to remove accountability from 
+     manufacturers of drugs that are intended to safeguard the 
+     whole country, if not the whole world? We believe that a 
+     solid shield against legal action could lead to a lowering of 
+     safety standards by manufacturing executives, who will be 
+     under pressure to rush vaccines into production. If the 
+     manufacturers want protection from widespread bad outcomes, 
+     let them buy insurance.
+  Ms. CANTWELL. We can see from the editorials there are many people 
+paying attention to what is in this Department of Defense 
+appropriations bill. I should say, because my colleagues all have a 
+copy of the legislation on their desk but they may not have dug deep 
+into these many pages to see, that they should pay special attention to 
+language starting on page 434 about a liability provision exempting 
+drug manufacturers.
+  It was alarming enough to me to have the ANWR language, but certainly 
+to have additional language that is thrown into this bill as these 
+various editorials have said, at a time without the review and the 
+complexity of the legislation being discussed is wrong.
+  I hope my colleagues tomorrow will think about their votes on this 
+process and to say that the Defense bill and appropriations should be 
+about the
+
+[[Page S14146]]
+
+troops. It should be about protecting our country. It is about giving 
+them resources. It should not be about backdoor attempts or legislative 
+blackmail to say force Members to vote for drilling in the Arctic 
+National Wildlife Refuge or this drug liability provision.
+  I hope my colleagues will read this legislation carefully.
+  I suggest the absence of a quorum.
+  The PRESIDING OFFICER. The clerk will call the roll.
+  The legislative clerk proceeded to call the roll.
+  Mrs. HUTCHISON. Mr. President, I ask unanimous consent that the order 
+for the quorum call be rescinded.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mrs. HUTCHISON. Mr. President, I ask unanimous consent to speak up to 
+10 minutes as in morning business.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mrs. HUTCHISON. Mr. President, I don't know what the parliamentary 
+situation is, if my time is not to be charged to the bill or charged to 
+the bill. Could the Presiding Officer inform me?
+  The PRESIDING OFFICER. The last two speakers have asked their time 
+not be charged. They were speaking as if in morning business. The Chair 
+would honor the request that the Senator's time not be charged against 
+the bill.
+  Mrs. HUTCHISON. That would be my request.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+
+                         Defense Appropriations
+
+  Mrs. HUTCHISON. Mr. President, I am rising to say we now know we will 
+get the votes on the reconciliation and we are going to have a vote on 
+the Defense appropriations bill which includes the ANWR legislation as 
+well as the Katrina hurricane relief and the Rita hurricane relief.
+  I rise tonight because I hope we now see the pathway to finishing a 
+very productive year in the Senate. It is never easy to pass 
+legislation in the Senate. We all know that. We have 100 Senators 
+representing 50 States and everyone has a different idea. What we have 
+to do is come together for the good of our country.
+  If ever there was a time when important legislation for the families 
+of our country, for the military men and women of our country, for the 
+children of our country, for the future, to have energy independence 
+for America, this is the time when we must say, even if I don't like 
+everything in this bill we must pass it. I don't like everything in 
+this bill. Not one Member would say we liked everything in this bill.
+  However, what we have pending in the appropriations bill for our 
+Department of Defense and regarding ANWR is essential for the future of 
+our country. I hope my colleagues will look at this last opportunity we 
+have this year to do what is right for our country.
+  On the appropriations bill, the chairman of the committee has done an 
+incredible job. We are going to have a budget to which we will adhere. 
+It is going to have an across-the-board cut to pay for the Katrina 
+relief we all are seeking. We are trying to do the responsible thing. 
+That is to meet the crises facing our country, the war on terror, doing 
+what is right for our military men and women with boots on the ground 
+as we speak, helping to make sure terrorists are stopped from 
+disrupting Iraq and Afghanistan and coming back to America.
+  We are trying to do those things. We are trying to help the victims 
+of Katrina, Rita, and Wilma. We are trying to make these important new 
+expenditures in a responsible way with an offset of an across-the-board 
+1-percent cut in discretionary expenditures with the exception of 
+veterans' health benefits. We are not going to cut those. We know the 
+Veterans' Administration was running out of health care money, so we 
+gave them an emergency supplemental to make sure veterans' health care 
+needs are addressed.
+  Other than that, we have a 1-percent across-the-board cut in 
+discretionary spending as an offset, because that is the responsible 
+way to help rebuild the gulf coast that has been hit so hard this year.
+  We are taking up the Defense appropriations bill along with ANWR. 
+Sometimes I hear on the other side of the aisle arguments as if we had 
+not passed ANWR in the Senate. We have passed drilling in ANWR in the 
+Senate because we know we must have an energy policy in this country 
+that will produce more energy, more types of energy.
+  We have to employ conservation to conserve energy. At the same time, 
+we have to promote solar energy; renewable sources, such as wind 
+energy; research into other types of new fuels, which we are doing 
+every day, so we have new sources; and increasing our domestic supply 
+of oil and gas, which is the bread and butter of our energy needs for 
+this country.
+  We are over 50 percent dependent on foreign sources for our energy 
+needs in America. That is not a position in which the strongest Nation 
+on Earth should find itself. We should have the capability to provide 
+our own energy and depend on no one.
+  Drilling in ANWR would give us the amount of oil that we get from 
+Saudi Arabia every day. We are looking at 4 billion to 11 billion 
+barrels of recoverable oil and gas in this area.
+  I will never understand why the people who are so opposed to this 
+will not go and look at it. The Wildlife Refuge is an area the size of 
+the State of South Carolina. The area to be drilled is under 2,000 
+acres. Because we have new technologies, you can now drill for miles 
+underground without ever marring the surface.
+  So we are talking about an area the size of Dulles Airport that would 
+be the drilling site in an area the size of South Carolina.
+  Are there trees in this area? No. There is not a tree in this area. 
+It is grassy plains. Drilling is not going to harm the environment. It 
+is going to be done in an environmentally safe way. It will increase 
+the energy supply in our country. The people of Alaska, where this is 
+to be done, want it. They have overwhelmingly supported it time and 
+time and time again. They have supported it in polls. They have 
+supported it in coming to Washington to seek the approval of Congress 
+because they want the jobs. They want the economic boost. So this is 
+something that is good for everyone, and it is the right thing to do 
+for our country.
+  So I hope, as we start voting on these very important bills and 
+finish the business of this year--I hope very soon because so many of 
+our Members want to be with their families at this time of year, just 
+like everyone in America does--I hope we will do the responsible thing.
+  We were elected to represent the people and to stay here as long as 
+it takes. I hope we do that tomorrow and we deliver to the American 
+people a reconciliation bill that sets the budget on a path to lower 
+our deficit by half, as the President has asked us to do, over the next 
+5 years; a Defense appropriations bill that will give the Katrina and 
+Rita victims the help they need and deserve, and to be able to drill in 
+ANWR so we will be able to add one more new source of energy for our 
+country that we control, that we do not depend on foreign sources to 
+produce for us. That is another vote for the stability of the economy 
+and the national security of our country.
+  I urge my colleagues to do the right thing as we start these 
+important votes tomorrow.
+  Thank you, Mr. President. I yield the floor.
+  Mr. DURBIN. I rise today to talk about a few of the many ways that 
+this spending reconciliation bill reinforces the misplaced priorities 
+of the Republican leadership of this Congress.
+  With the 2 reconciliation bills--the bill that we are considering 
+today that cuts services for the poor and the bill that we will see 
+again in January that cuts taxes for the wealthy--we again are saying 
+to the American people that we believe in shared sacrifice . . . so 
+long as this sacrifice is made only by those who can least afford it. 
+Especially in a time of war, this is wrong.
+  I didn't vote for the Senate version of the spending reconciliation 
+bill a few weeks ago because I didn't think that it was right to try to 
+reduce our huge budget deficit by cutting funding for those who need it 
+most while cutting taxes for those who need it least.
+  Never mind, of course, that these two bills would actually increase 
+the deficit, and therefore not even meet the purpose they were meant to 
+serve.
+  Now we have received the conference report on the spending 
+reconciliation bill, after the House passed this report late last night 
+with almost no review or debate. The report cuts funding for the needy 
+far more than the original
+
+[[Page S14147]]
+
+Senate bill did, and therefore is even worse than the bill we saw a few 
+weeks ago.
+  I will attempt to address 6 of the many areas in which this bill cuts 
+services to those who need these services most: Medicaid, Child Support 
+Enforcement, Child Care, Supplemental Security Income for the Disabled, 
+Foster Care, and Higher Education.
+  First, this conference report asks for more from those who need 
+Medicaid services while asking nothing of pharmaceutical companies and 
+HMOs. In fact, this bill was a victory for big business.
+  This conference report allows States to increase the Medicaid 
+copayments that many beneficiaries must pay in order to receive health 
+care services and medications. The original Senate bill included no 
+increases in copayments or premiums.
+  This conference report, however, reflects the House cuts, which 
+overwhelmingly impact beneficiaries.
+  The House and Senate conferees also chose to leave a $10 billion 
+Medicare slush fund for managed care companies intact.
+  The Medicare Payment Advisory Commission, MedPAC, an independent 
+commission appointed to advise Congress on Medicare spending, found 
+that the $10 billion slush fund was unnecessary and unwarranted, and 
+recommended its elimination.
+  The Senate included its elimination in the Senate-passed budget bill, 
+but the managed care companies and the administration went to work on 
+the conferees, and the slush fund lives.
+  That means the Secretary of Health and Human Services will have $10 
+billion to dole out to multimillion dollar managed care companies while 
+States will be allowed to increase the copayments of patients making 
+below the Federal poverty level, which is slightly more than $19,000 
+per year for a family of four.
+  The average compensation of the highest paid executive in each of the 
+11 largest managed care companies in America was approximately $15 
+million in 2002. These companies are not the ones in need of Government 
+subsidies.
+  Another example of this conference agreement's choice of big business 
+over working Americans is the giveaway to pharmaceutical companies 
+while punishing poor seniors who need nursing home care.
+  The Senate version of this bill insisted that Medicaid get the best 
+pharmaceutical prices by increasing the minimum rebates drug 
+manufacturers are required to pay the Medicaid program.
+  In a victory for the pharmaceutical industry, this provision was 
+stripped. Meanwhile, provisions that would substantially impact middle-
+income seniors in need of nursing home care were maintained.
+  Medicaid was not meant for people who have enough money to afford 
+their own nursing home care, and rules restricting the transfer of 
+assets to qualify for Medicaid are necessary.
+  However, the rules adopted by the conferees are overly restrictive 
+and punish middle-income seniors.
+  Under the rules outlined in this conference report: A woman who 
+helped her granddaughter with her college tuition 5 years ago would be 
+penalized.
+  A widow who doesn't know what her husband spent their money on before 
+he died 4 years ago would be penalized.
+  A senior whose home appreciated during the housing boom to $500,000 
+would be refused Medicaid, even if her house is modest. Medicaid has 
+always had the right to collect from the home of a beneficiary through 
+a lien. Now, we are going to deny coverage altogether to a senior who 
+happens to live in an active real estate market.
+  The typical nursing home resident is a widow in her 80s with 3 to 5 
+medical diagnoses who needs help with most daily activities. Almost 
+half have Alzheimer's disease or another dementia. Many have no 
+immediate family. Why are we punishing them and rewarding HMOs and 
+pharmaceutical companies?
+  A budget is more than a collection of numbers; it is a reflection of 
+values. We should all value health care for the least among us.
+  This conference report makes many more cuts beyond the cuts to 
+Medicaid.
+  Many low-income mothers cannot afford to lose the child support 
+payments to which they are legally entitled simply because deadbeat 
+dads can get away with not paying to support their children. Yet the 
+House has created a conference report that cuts $1.5 billion over the 
+next 5 years and $4.9 billion over the next 10 years from the funding 
+for child support enforcement.
+  The CBO estimates that this will result in $8.4 billion being taken 
+out of the pockets of mothers who are owed child support over the next 
+10 years.
+  This conference report includes $1 billion in additional funding for 
+childcare. That sounds pretty good. But since the report would 
+dramatically change the way the Temporary Assistance for Needy Families 
+program works, the negative effects on childcare of the conference 
+report as a whole are simply huge.
+  The Congressional Budget Office estimates that this conference report 
+provides $11 billion less than what States would need in order to 
+support the new TANF work requirements that this bill requires and to 
+maintain the existing childcare programs for low-income working 
+families not on TANF.
+  Because of this shortfall in funding, many States will likely be 
+forced to reduce the number of childcare slots available for TANF 
+families. According to the Center on Budget and Policy Priorities, an 
+estimated 255,000 fewer low-income children will receive childcare 
+assistance by 2010 compared to the children who received it in 2004.
+  This conference report also uses a budget gimmick to make it appear 
+that the bill saves more money that it actually does. Shamefully, this 
+gimmick comes at the expense of poor people who need supplemental 
+security income.
+  Let me explain. Today, when disabled people are forced to wait for 
+many months to be approved for supplemental security income by the 
+Social Security Administration--and unfortunately this seems to happen 
+quite often--the money that these disabled individuals are owed is paid 
+in one lump sum once these folks are approved for this supplemental 
+income. Under this conference report, however, these people would 
+instead receive the support for which they are eligible in 
+installments.
+  Why? So that when the savings of this conference report are 
+calculated, it will appear that the savings are bigger than they really 
+are, since some of these payments will be pushed outside of the 5-year 
+``budget window.'' But this accounting gimmick comes with a real cost: 
+the disabled have to wait longer for the help that they need. That is 
+just shameful.
+  The conference report also cuts $343 million in foster care funding, 
+including cuts that will make it more difficult for some grandparents 
+to raise their own grandchildren.
+  Finally, much has been said already about the $13 billion cut in 
+Federal financial aid for college students in this bill. About one-
+third of the total cost-savings in the budget reconciliation bill come 
+from the student loan program.
+  This bill dramatically increases the cost to middle-income families 
+of borrowing money to send their kids to school.
+  The PLUS program, Parent Loans for Undergraduate Students, is 
+available to families who have exhausted their Stafford loan 
+eligibility, are credit worthy, but have run out of money for college 
+before their kids are done with school.
+  Today, PLUS loans are made to parents at an interest rate of 6.1 
+percent. This conference report hikes that interest rate to 8.5 
+percent. For the 800,000 families with a PLUS loan, that is an average 
+increase of $550 per year. Instead of paying $989 in interest, they 
+will pay $1,541.
+  At a time when we should be doing everything we can to prepare our 
+students to compete in the economy of the 21st century, it simply makes 
+no sense whatsoever to make it harder for low- and middle-income 
+students to go to college.
+  In summary, there is simply no reason why we should support this 
+conference report which goes much farther in cutting support for the 
+needy than the bill that we barely passed by a vote of 52 to 47 a few 
+weeks ago. If we are going to ask some Americans to share in the 
+sacrifice that wartime requires, we should ask all Americans to share 
+in that sacrifice, not only those who are most in need.
+
+[[Page S14148]]
+
+  Mr. ENZI. Mr. President, I rise today to discuss the Deficit 
+Reduction and Omnibus Reconciliation Act of 2005.
+  The purpose of this bill is deficit reduction. We did it without 
+taking anything away from students. In fact, we gave new money and a 
+new program to college students. Let me summarize some of the things we 
+did.
+  Academic Competitiveness and SMART grants: Creates new grant programs 
+that award academic competitiveness grants and SMART grants to Pell-
+eligible students in an undergraduate program of study. Students in 
+their first and second years may receive awards of $750 and $1300 
+respectively, provided they have completed a rigorous program of study 
+at the secondary level. Undergraduate students in their third and 
+fourth year may receive up to $4,000 in grant aid if they major in 
+math, science, technology, engineering or critical foreign languages 
+and make progress toward a degree. Students at both 2-year and 4-year 
+academic colleges will be eligible for the academic competitiveness 
+grants.
+  Increase loan limits: Increases loan limits for first- and second-
+year students to $3,500 and $4,500 respectively and increases graduate 
+borrowing limits to $12,000 per year for unsubsidized loans. In 
+addition, the bill permits graduate students to borrow PLUS loans.
+  Interest rates: Reduces the cap on student loan interest rates from 
+where they are currently capped at 8.25 percent and stabilizes them at 
+6.8 percent. The interest rate on parent loans, currently capped at 9.0 
+percent, would be fixed at 8.5 percent.
+  Lender payment cap: Requires lenders to rebate to the Federal 
+Government the difference between the borrower rate and the lender rate 
+when the borrower rate exceeds the lender rate.
+  Reduction of work penalty: Reduces the work penalty by increasing the 
+income protection allowance for students and encourages saving for 
+college by reducing the percent of savings that are assessed.
+  Simplified needs analysis: Simplifies the application process for 
+student aid by permitting students and families who are receiving 
+means-tested assistance to file a shorter form and raises the ``auto-
+zero'' amount to $20,000 so that families with income levels below that 
+amount are automatically determined to have zero expected family 
+contribution.
+  Reduction of origination fees: Reduces origination fees charged to 
+borrowers by 1 percentage point immediately and by half of a percentage 
+point for each year beginning July 1, 2007, and continuing through July 
+1, 2010.
+  Distance learning: Eliminates the ``50 percent'' rules for 
+institutions offering distance education programs. One 50 percent rule 
+limits the percentage of courses offered through distance learning and 
+the other rule limits the percent of an institution's students that may 
+be enrolled in distance education courses.
+  School as Lender Program: Imposes a moratorium on the School as 
+Lender Program effective April 1, 2006. To be grandfathered, schools 
+must be making loans prior to or on April 1. In addition, the bill 
+requires that the proceeds of the sale of loans, in addition to any 
+interest and special allowance payments, must be used for need-based 
+student assistance programs at the school. Limits expenses to 
+reasonable administrative expenses.
+  Extension of loan foregiveness: Permanently extends teacher loan 
+forgiveness up to $17,500 to math, science, and special education 
+teachers in low-income schools. Private school teachers become eligible 
+for loan foregiveness.
+  9.5 percent loans: Eliminates the recycling of 9.5 loans and extends 
+the limitations already in effect under the Taxpayer-Teacher Protection 
+Act. Provides a 5-year extension for the smallest of the non profit 
+lenders.
+  Over the past year, I have worked to reauthorize the Higher Education 
+Act. I worked closely with my colleague and good friend from 
+Massachusetts to develop legislation that would provide students with 
+access to postsecondary education, make it more affordable for students 
+to get to college, and provide them with new opportunities.
+  In March of this year, the Senate adopted a budget resolution that 
+included reconciliation instructions for several committees, including 
+mine. The Senate HELP Committee was given a target that represented 40 
+percent of the total deficit reduction package. In conference, the 
+Senate HELP Committee again was given the heaviest lift. We were given 
+a target that made up an even higher percentage, saving $16.1 billion 
+of the $39 billion total.
+  One of the principles that guided the committee's efforts to achieve 
+the savings was ensuring that a significant portion of the savings 
+would be used to provide student benefits. In September, the committee 
+approved bipartisan legislation unanimously that included several 
+provisions designed to help students, including $8 billion in need-
+based grant aid. Of that $8 billion, over $2 billion was targeted to 
+encourage students in their junior and senior year to major in math, 
+science, and critical foreign languages. In November, the Senate 
+approved this program as part of the larger reconciliation bill.
+  While the conference report is less generous to students than what 
+the Senate had agreed to, the reconciliation bill we are considering 
+provides $10 billion in spending on student benefits. First among 
+these, the bill creates a new academic competitiveness program that 
+provides grant aid to low-income students. Students eligible for Pell 
+grants are able to receive up to $700 in additional grant aid their 
+first year of college, and $1,300 in their second year. Students 
+majoring in math, science, and critical foreign language programs in 
+their third and fourth years are eligible for up to $4,000 in 
+additional grant aid.
+  This report dedicates $3.75 billion to grant aid for the next 5 
+years. This is an extraordinary commitment and a larger increase in 
+grant aid than we have seen in the last 5 years under Pell or any other 
+Federal student aid source. This is real money that will help today's 
+students enter and succeed in college. It will also help support 
+students in programs of study critical to our national security and 
+economy and create a strong incentive for more students to enter these 
+fields.
+  The $3.75 billion grant program is smaller than this body approved in 
+November. This is a first step, and the first step is a critical step 
+to take, but it is often the most difficult and misunderstood. I 
+believe this is a good start, but we must continue to work toward what 
+it takes to ensure this Nation's competitiveness. Access to 
+postsecondary education is critical to this effort, and we cannot lose 
+sight of the goal of a strong and competitive American economy.
+  The reconciliation conference report also includes provisions to 
+reduce borrower origination fees in both major Federal student loan 
+programs. Borrowers currently pay origination fees of up to 3 percent 
+when they take out their loans. The conference report provides for the 
+reduction of these fees, so that students will not pay more than 1 
+percent in either program.
+  These fees cost students millions of dollars every year, and they 
+don't provide any benefit. They make college more expensive, and 
+students typically end up paying interest on these fees for 10 years or 
+longer. The reduction of these fees will save individual students 
+hundreds of dollars over the life of their loans.
+  The bill allows current law to take effect on schedule, setting 
+borrower interest rates at 6.8 percent. Many people have suggested that 
+the 6.8 percent rate will cost students more over the life of their 
+loans. They don't realize that this provision is already part of 
+current law. Four years ago, when Congress approved the fixed interest 
+rate for borrowers, students supported this change because they had 
+paid interest rates of up to 8.25 percent for years. Now, after 4 years 
+of historically low interest rates, the 6.8-percent fixed rate doesn't 
+seem as attractive.
+
+  I want to point out, however, that current trends and projections 
+don't support the conclusion that the 6.8 percent interest rate will 
+cost students more in the long run. At each of the last 13 meetings, 
+the Federal Reserve Board has voted to increase interest rates. The 
+historic lows that interest rates have been set will not continue and 
+will likely to continue to go up. The rate increases accounted for a 
+nearly 2 percent increase in borrower interest rates in 1 year. By 
+setting the student loan interest rate at a set rate
+
+[[Page S14149]]
+
+we will save future interest rate increases from effecting student 
+lending. This is the same interest rate policy that passed the Senate 
+HELP Committee unanimously.
+  Only 5 years ago, borrower interest rates exceeded 8 percent. At the 
+current rate of increases, students would be paying more than 6.8 
+percent by July 1, 2006. That is before the next school year. In fact, 
+they would be paying more than 7.3 percent if we had kept the current 
+interest rate structure. The same can be said of the parent loan 
+provisions. Parent loans are currently capped at 9 percent. At the 
+current rate of increase, parent borrowers would be paying more than 
+8.5 percent by July 1, 2006. This is the same rate that passed the HELP 
+Committee unanimously.
+  The bill that initially established the 6.8-percent fixed interest 
+rate was passed by unanimous consent over 4 years ago. In September, 
+the HELP Committee voted unanimously in support of these provisions. In 
+October, the HELP Committee, with the support of five Democrats, voted 
+again to allow the scheduled interest rate change to take effect.
+  The conference report also provides for increased loan limits for 
+students. This has been criticized as a provision that will only 
+encourage more students to take out increased loans. However, since 
+1994, many students have been taking out significantly more private 
+loans to meet their education expenses. Many of these loans have 
+interest rates of up to 18 percent or more. The difference between a 
+$10,000 private loan at the 18-percent rate and a federally guaranteed 
+loan at a rate of 6.8 percent would save a student almost $8,000 over 
+the life of the loan. As the cost of college across the country has 
+skyrocketed, this provision will help more students afford the 
+increased cost of tuition and subsidize their interest, so they don't 
+have to take out private high-interest student loans.
+  As I said earlier, this bill provides almost $10 billion in student 
+benefits over 5 years and significantly more over the long term. At the 
+same time, we have been able to additionally net more than $12 billion 
+from Federal loan programs to make them operate more efficiently, which 
+contributes to reducing the deficit.
+  While I am very disappointed that the conference report does not 
+include broader-based grant aid to improve access to and persistence in 
+postsecondary education, I am pleased that the report includes the 
+grant funding that it does. These are funds that will benefit low-
+income students and will help our country and its economy to remain 
+competitive by ensuring that tomorrow's workforce has the skills 
+necessary to compete in the global economy. I will continue to work 
+next year and in the coming years on legislation to further our goal to 
+provide the opportunity for all Americans to go to college if they 
+choose.
+  There were a number of provisions important to students included in 
+the conference report provided to the Budget Committee that were 
+stripped from the final language due to Senate procedural rules. Among 
+these provisions was one that would have clarified the purpose of the 
+new grant program. That section used to read: ``The purpose of this 
+section is to increase the number of postsecondary students from low-
+income backgrounds who are enrolled in studies leading to baccalaureate 
+degrees in physical, life, and computer sciences, mathematics, 
+technology, engineering, and foreign languages critical to national 
+security.'' This language was removed from the conference report 
+because of potential conflicts with the ``Byrd rule.'' It is my hope 
+that the Department of Education will consider this language when they 
+promulgate the appropriate regulations on the administration of this 
+program.
+
+  Another important provision that was stripped from the report was 
+language to repeal the so-called single holder rule, which limits the 
+ability of students to consolidate their loans with the lender of their 
+choice. I hope the Senate will take action on this important issue 
+quickly and permit students to take advantage of this additional 
+flexibility.
+  I will continue to work toward the goals we held for the 
+reauthorization of the Higher Education Act. I hope that this process 
+can continue in a bipartisan way, because ultimately, it is about 
+students, it is about the economy, and it is about our national 
+security.
+  With respect to pensions, the conference report also adjusted 
+premiums payable to the Pension Benefit Guaranty Corporation, PBGC, and 
+will save a total of $3.6 billion. These savings will be achieved by a 
+series of increases to pension insurance premiums.
+  The per-person premium for single employer plans will rise from $19 
+to $30 and will be indexed; the per-person premium payable for 
+multiemployer plans will rise from $2.60 to $8 and will be indexed; and 
+a new premium will be charged against underfunded, terminated plans of 
+$1,250 per person and will be payable for the first 3 years after the 
+sponsor emerges from bankruptcy. This ``termination premium'' will 
+apply to plans of sponsors whose parent company filed for protection 
+under Chapter 11 after October 18, 2005. This increase in premiums 
+payable by plan sponsors to the PBGC is long overdue. Single-employer 
+premiums have not been increased since the early 1990s. This conference 
+report marks the first instance in which multiemployer plan premiums 
+have been increased since 1980. Now, all of the language in the pension 
+part of this bill will be superceded when the full pension bills passed 
+by the House and by the Senate are conferenced to one bill to provide 
+full pension reform to protect the pensions of all hard-working 
+Americans who were promised a defined benefit plan.
+  This bill meets the goal of deficit reduction, and it does so by 
+taking the money from corporate windfalls, not students. It protects 
+current student programs. It adds a new student grant program to the 
+tune of $3.75 billion. Much of what is in the education part passed the 
+Senate Health, Education, Labor, and Pensions Committee unanimously. 
+That means that Republicans and Democrats voted for it. We did not get 
+all the money we wanted for students. We got more than they had before. 
+We had to settle for some limitations--but limitations that will 
+improve America's competitiveness. In legislation you seldom get all 
+that you would like to have. We can be proud of what we have done for 
+students--and for people on pensions.
+  Overall, the bill provides significant saving measures while at the 
+same time providing billions of dollars in new student grant aid. In 
+addition, this bill will help to stabilize our Nation's defined benefit 
+pension system.
+  Mr. OBAMA. Mr. President, I rise today to speak in opposition to the 
+spending reconciliation conference report.
+  The Federal budget should reflect the Nation's priorities. 
+Unfortunately, the priorities on display in this year's budget 
+reconciliation process are out of touch with those of the American 
+people. Worse yet, the rhetoric we hear about fiscal responsibility is 
+at odds with the reality of the pending legislation.
+  This bill cuts deeply into programs that serve our country's most 
+vulnerable citizens in order to fund tax breaks for those who need them 
+the least. I support lower taxes. I also support lower Government 
+spending. Most Americans do. But at what cost, and for what purpose?
+  What sacrifices in our domestic priorities, our economic security and 
+independence, our humanity are we asking the American people to endure 
+so that the wealthiest can pocket a little more income each year, even 
+as working class Americans--facing rising fuel prices and health care 
+costs--are pocketing a lot less?
+  And it is not even as if the spending cuts here will fully pay for 
+the tax breaks. The majority's campaign to do away with pay-as-you-go 
+rules has meant that the tax breaks over the past 4 years have been 
+financed by debt. Debt that now exceeds $8 trillion and keeps rising.
+  Debt, not discipline, has been the hallmark of the majority's fiscal 
+strategy. They want us to believe that we can't afford the Government 
+we need. But funding our domestic priorities like education, health 
+care, and equal opportunity for America's children is not inconsistent 
+with budget discipline. In fact, a responsible fiscal policy is a 
+prerequisite to tackling the challenges of a relentlessly competitive 
+global economy.
+
+[[Page S14150]]
+
+  First, ensuring access to basic health care is critical to our 
+Nation's productivity. But this bill undermines Medicaid and essential 
+health services for the poor, cutting benefits by $6.3 billion over 10 
+years.
+  Second, education is the key to economic competitiveness. But this 
+bill cuts student loans by $12.7 billion, the largest cut in history. I 
+don't understand how the majority expects middle-class American 
+families to make it in the 21st century workforce if we turn our backs 
+on students.
+  Third, helping people move from dependence to independence, from 
+poverty to prosperity is in all of our best interests. And many States 
+have made great progress implementing TANF requirements and moving 
+people from welfare to work. But this bill deprives States of the 
+flexibility they need to set realistic and meaningful work targets for 
+their caseloads. It also dramatically underfunds childcare, thus 
+assuring that it will be even more difficult for States and families to 
+fulfill the Federal mandates.
+  The TANF program affects millions of American children and families 
+and deserves a full and fair debate. Under the rules, the 
+reconciliation process does not permit that debate. Reconciliation is 
+therefore the wrong place for policy changes and the wrong place for 
+the proposed changes to the TANF program.
+  In short, the reconciliation process appears to have lost its proper 
+meaning. A vehicle designed for deficit reduction and fiscal 
+responsibility has been hijacked to facilitate reckless deficits and 
+unsustainable debt. Instead of being a tool to get us back on track to 
+deal with our serious economic challenges, reconciliation has become a 
+tool for enacting tax cuts for the wealthy while punishing the poor.
+  This is a profound disappointment to me. Indeed the entire 2006 
+budget process has been a disappointment.
+  Mr. President, as we wrap up this session and look towards next year, 
+I hope we will find ways to work in a bipartisan manner on the issues 
+and choices that really matter to American families. The importance of 
+our task and the demand for responsible leadership will only grow in 
+the years ahead.
+  I urge my colleagues to vote against the conference report on 
+spending reconciliation.
+  Mrs. FEINSTEIN. Mr. President, I rise today to oppose the budget 
+reconciliation conference report. The conference report cuts total 
+$39.7 billion versus the Senate proposed $34.6 billion. It reduces 
+mandatory outlays for entitlement programs by relying heavily on added 
+financial burdens on poor, working Americans.
+  This ``deficit-reduction'' effort of cuts in vital programs is offset 
+by provisions soon to come which will provide $95 billion in additional 
+tax cuts--including cuts to capital gains and dividends rates. The 
+conference report will raise $39.7 billion while capital gains and 
+dividends tax cuts passed by the House will reduce revenues by $20 
+billion over 5 years and $50 billion over 10 years. This strategy is 
+clearly not reducing the deficit, and it does not justify cutting 
+programs for the poor to benefit the wealthy.
+  This bill is just another step to further the Republican agenda of 
+severely cutting benefits to working-class families while handing out 
+tax cuts to the wealthy. The fiscal year 2006 Department of Defense 
+appropriations conference report is another illustration of this--this 
+bill contains a 1 percent across-the-board cut to discretionary 
+programs totaling $8.6 billion in fiscal year 2006.
+  While Republican leaders had the opportunity to create significant 
+savings in the conference report by reducing prescription drug costs 
+and eliminating unnecessary payments to HMOs, they chose not to. This 
+bill provides relief for special interests in exchange for greater 
+burdens on poor, working families, welfare recipients, and children.
+  Here is an overview of who wins and who loses in this conference 
+report.
+  The conference report fails to include provisions in the Senate bill 
+that would have limited what Medicaid pays for prescription drugs. The 
+Senate bill increased the minimum rebates that drug manufacturers are 
+required to pay the Medicaid Program for drugs provided to Medicaid 
+beneficiaries. The Senate bill also applied the rebates to drugs 
+provided to Medicaid beneficiaries in managed care plans. In total, the 
+prescription drug provisions in the Senate bill would have saved $3.9 
+billion over 5 years and $10.5 billion over 10 years. The conference 
+report eliminates all but a few hundred million of these cuts.
+  Although not in this bill, the drug industry scored another major 
+victory in the fiscal year 2006 Department of Defense conference report 
+by being handed broad liability protection even in instances of 
+reckless disregard or gross negligence. This egregious provision 
+protects drug companies even when there are criminal violations of FDA 
+standards.
+  I think we can safely say this holiday season will be a merry one for 
+the drug industry. Unfortunately, the same cannot be said for poor and 
+working Americans on Medicaid under this bill.
+  The conference report maintains the $10 billion Preferred Provider 
+Organization, PPO, stabilization fund even though 52 Senators voted to 
+eliminate it and the extremely strong showing of private health 
+insurance participation in the Medicare prescription drug benefit 
+obviates the need for it.
+  Even the independent, non-partisan Medicare Payment Advisory 
+Commission, MedPAC, recommended, nearly unanimously, that the $10 
+billion stabilization fund be eliminated because it is unnecessary and 
+unwarranted and provides an unfair competitive advantage to PPOs.
+  In total, the conference report contains $1.9 billion in increased 
+copays and premiums for poor families and children in Medicaid. That is 
+over 5 years. If you look at the 10-year figure, that amount jumps to 
+$10.1 billion.
+  The Senate bill contained no such increases in premiums and copays.
+  In total, the conference report cuts $3 billion that will directly 
+impact Medicaid beneficiaries.
+  What is going to happen to these families once they are required to 
+pay possibly as much as 20 percent of the cost of each medication they 
+take or 20 percent for each doctor visit with no annual limit on how 
+much they have to pay out-of-pocket? They simply won't go to the 
+doctor, they won't take their medications, or they will simply not 
+enroll in Medicaid at all.
+  For those Medicaid beneficiaries who can no longer afford to stay 
+enrolled in Medicaid or choose not to enroll, who wind up in an 
+emergency room for their medical care, under this bill there is no 
+limit on what they may be charged, other than a 10-percent limit of the 
+cost of service for those who are between 100 percent and 150 percent 
+of poverty, which is equivalent to between $9,570 and $14,355 of 
+individual annual income.
+  As under the House-passed spending reconciliation bill, the 
+conference report allows providers to deny a service if the patient has 
+no ability to pay the charges at the time of services and States can 
+terminate Medicaid coverage if the family cannot pay premiums.
+  The conference report allows States to provide any child, without 
+regard to income, a lower benefits package than they have today. That 
+means low-income children, no matter how poor they are, are no longer 
+guaranteed vision screenings, eyeglass coverage, therapy services, and 
+medical equipment that would allow them to attend school.
+
+  I am disappointed that the conference report eliminates a provision 
+that Senator Hutchison and I worked hard to get included in the Senate 
+bill which protects Medicaid adult day health care services in eight 
+States: California, Texas, New York, New Jersey, Maryland, 
+Massachusetts, New Hampshire, and Washington. In California alone, the 
+elimination of this provision means that 47,000 seniors and disabled 
+people are at risk of losing community-based health care services.
+  And why are they at risk? They are at risk because of aggressive 
+actions by this administration to force California's adult day health 
+care program into a 1915(c) Medicaid waiver which the State of 
+California estimates will make 40 percent of currently eligible program 
+participants ineligible for the services they receive today. These 
+services include skilled nursing care, physical, occupational, and 
+speech therapy, and nutrition services for low-income, frail elders and 
+disabled adults.
+  The administration is pursuing this despite vocal, bipartisan 
+opposition from California's Congressional Delegation. I ask unanimous 
+consent to
+
+[[Page S14151]]
+
+enter into the record two letters from the California delegation to the 
+administration opposing a waiver.
+  Cuts to Federal student loan programs in the conference report will 
+push college out of reach for many middle- and low-income families. The 
+$12.7 billion reduction over 5 years, nearly one-third of the 
+conference report's total cuts, will be the largest cut to student aid 
+ever enacted.
+  This conference report makes it more expensive for students and their 
+parents to borrow for college by increasing the interest rates and fees 
+they pay on loans. At the same time, this bill protects private lenders 
+at a higher cost to the Government.
+  This is being done as students and families are struggling to pay 
+skyrocketing college costs. The average cost of attending a public 
+university for 1 year in our country has increased 66 percent within 
+the last decade.
+  Students will be forced to take out more loans to meet the cost of 
+increasing tuition. This will only drive them greater into debt, making 
+it even more expensive for students to pursue a college degree.
+  The conference report reauthorizes the TANF Program for 5 years 
+despite overwhelming opposition in the Senate to including TANF 
+reauthorization in budget reconciliation. The conference report 
+contains drastically inadequate child care funding and will cost 
+California approximately $350 million more annually as a result of 
+changes to work participation requirements.
+  Lastly, I am deeply concerned about the impact this conference report 
+will have on child welfare in California. This bill, like the House-
+passed bill, reduces Federal foster care supports that help 
+grandparents and other relatives care for abused and neglected 
+children. It also contains a provision overturning a 2003 Ninth Circuit 
+Court of Appeals decision in Rosales v. Thompson that may harm more 
+than 4,400 foster kids in California alone.
+  Mr. President, the bill before us today represents a victory for 
+special interests over the interests of our nation's poorest and most 
+vulnerable citizens. I urge my colleagues to join me in rejecting this 
+bill.
+  I ask unanimous consent that two letters be printed in the Record.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+                                                  U.S. Senate,
+
+                                    Washington, DC, July 29, 2005.
+     Hon. Michael O. Leavitt,
+     Secretary, Department of Health and Human Services, 
+         Washington, DC.
+       Dear Secretary Leavitt: As Senators representing 
+     California, we are very concerned about the future of adult 
+     day health care (ADHC) in California due to the recent 
+     requirement imposed by the Centers for Medicare and Medicaid 
+     Services (CMS) to convert the ADHC program to a 1915(c) 
+     waiver. If implemented, this proposal would radically 
+     diminish what services are provided. how the services are 
+     delivered, and to which populations the services are 
+     provided.
+       As you know, ADHC services manage disease and chronic 
+     conditions; prevent and reduce hospitalizations, physician 
+     and emergency department visits; and maintain or improve 
+     health status while permitting the individual to retain 
+     important community and familial contacts. The provision of 
+     these services is qualitatively equivalent to those provided 
+     in institutional long term care environments but less costly 
+     than when the same services are provided in such settings.
+       California and seven other states have long been innovators 
+     in providing ADHC services as an alternative to institutional 
+     long-term care for the frail elderly and disabled. ADHC 
+     services have been offered in California and the other states 
+     as an optional state plan benefit under Medicaid since the 
+     1970's, prior to the introduction of the 1915(c) home and 
+     community based services waiver.
+       ADHC services are currently provided to 47,000 participants 
+     in California, including the frail elderly, persons with 
+     disabilities, persons with Alzheimer's disease and related 
+     dementia, persons with developmental disabilities, persons 
+     with psychological disabilities and those infected with HIV.
+       In 2003, CMS ordered California to remove ADHC services 
+     from the state plan as an optional benefit and offer the 
+     services through a 1915(c) waiver. CMS's stated rationale for 
+     taking this action is that, despite the provision of these 
+     services under Medicaid for more than two decades, they are 
+     not defined in the federal statute and therefore must be 
+     stopped.
+       Unfortunately, transposing ADHC into a waiver would deny 
+     access to these services to many of those within the 
+     currently served populations. It is estimated that the 
+     transition to a waiver would leave approximately 40 percent 
+     without ADHC services in California due to the restrictive 
+     rules governing 1915(c) waivers.
+       While seven other states also offer ADHC services as an 
+     optional state plan benefit under Medicaid, it is our 
+     understanding that to date none of those states have been 
+     requested to transform their ADHC services into a waiver. Yet 
+     the policies your agency is pursuing make those states 
+     vulnerable to the same consequences that are anticipated 
+     in California.
+       The action by CMS, attempting to reinvent a program that 
+     has worked for more than 25 years and saves the Medicaid 
+     program money, is totally contrary to your own stated 
+     interest in reducing the institutional bias in Medicaid and 
+     encouraging the use of community-based services. Further, it 
+     occurs as CMS is launching a new demonstration program in 
+     Medicare to allow beneficiaries access to ADHC under the home 
+     health benefit.
+       At a time when both your Administration and the National 
+     Governors' Association have identified Medicaid's 
+     institutional bias as a serious policy problem and are 
+     examining options for enhancing home and community-based 
+     care, it is puzzling that CMS's Medicaid program is moving in 
+     the opposite direction by proposing to dismantle existing 
+     ADHC programs and force them into waivers, thereby 
+     undermining their effectiveness. Maintaining ADHC services as 
+     an optional Medicaid benefit would be consistent with the 
+     Administration's New Freedom Initiative and the United States 
+     Supreme Court's Olmstead decision, which give priority to the 
+     provision of services at home and in the community,
+       We urge you to withdraw CMS's attempt to overturn existing 
+     Medicaid policy and thus continue Medicaid beneficiaries' 
+     uninterrupted access to ADHC services in California and other 
+     affected states. We look forward to your response.
+           Sincerely,
+                                                 Dianne Feinstein.
+     Barbara Boxer.
+                                  ____
+
+
+
+                                Congress of the United States,
+
+                                    Washington, DC, July 29, 2005.
+     Michael O. Leavitt,
+     Secretary, Department of Health and Human Services, 
+         Washington, DC.
+     Re Adult Day Health Care
+
+       Dear Secretary Leavitt: As Members of the California 
+     delegation, we are very concerned about the future of adult 
+     day health care (ADHC) in California due to the recent 
+     requirement imposed by the Centers for Medicare and Medicaid 
+     Services (CMS) to convert the ADHC program to a 1915(c) 
+     waiver. If implemented, this proposal would radically 
+     diminish what services are provided, how the services are 
+     delivered, and to which populations the services are 
+     provided.
+       As you know, ADHC services manage disease and chronic 
+     conditions; prevent and reduce hospitalizations, physician 
+     and emergency department visits; and maintain or improve 
+     health status while permitting the individual to retain 
+     important community and familial contacts. The provision of 
+     these services is qualitatively equivalent to those provided 
+     in institutional long term care environments but less costly 
+     than when the same services are provided in such settings.
+       California and seven other states have long been innovators 
+     in providing ADHC services as an alternative to institutional 
+     long-term care for the frail elderly and disabled. ADHC 
+     services have been offered in California and the other states 
+     as an optional state plan benefit under Medicaid since the 
+     1970's, prior to the introduction of the 1915(c) home and 
+     community based services waiver.
+       ADHC services are currently provided to 47,000 participants 
+     in California, including the frail elderly, persons with 
+     disabilities, persons with Alzheimer's disease and related 
+     dementia, persons with developmental disabilities, persons 
+     with psychological disabilities and those infected with HIV.
+       In 2003, CMS ordered California to remove ADHC services 
+     from the state plan as an optional benefit and offer the 
+     services through a 1915(c) waiver. CMS's stated rationale for 
+     taking this action is that, despite the provision of these 
+     services under Medicaid for more than two decades, they are 
+     not defined in the federal statute and therefore must be 
+     stopped.
+       Unfortunately, transposing ADHC into a waiver would deny 
+     access to these services to many of those within the 
+     currently served populations. It is estimated that the 
+     transition to a waiver would leave approximately 40 percent 
+     without ADHC services in California due to the restrictive 
+     rules governing 1915(c) waivers.
+       While seven other states also offer ADHC services as an 
+     optional state plan benefit under Medicaid, it is our 
+     understanding that to date none of those states have been 
+     requested to transform their ADHC services into a waiver. Yet 
+     the policies your agency is pursuing make those states 
+     vulnerable to the same consequences that are anticipated in 
+     California.
+       The action by CMS, attempting to reinvent a program that 
+     has worked for more than 25 years and saves the Medicaid 
+     program money, is totally contrary to your own stated 
+     interest in reducing the institutional bias in Medicaid and 
+     encouraging the use of community-based services. Further, it 
+     occurs as CMS is launching a new demonstration program in 
+     Medicare to allow beneficiaries access to ADHC under the home 
+     health benefit.
+       At a time when both your Administration and the National 
+     Governors' Association have identified Medicaid's 
+     institutional bias as a serious policy problem and are 
+     examining options for enhancing home and community-based 
+     care, it is puzzling that CMS's Medicaid program is moving in 
+     the opposite
+
+[[Page S14152]]
+
+     direction by proposing to dismantle existing ADHC programs 
+     and force them into waivers, thereby undermining their 
+     effectiveness. Maintaining ADHC services as an optional 
+     Medicaid benefit would be consistent with the 
+     Administration's New Freedom Initiative and the United States 
+     Supreme Court's Olmstead decision, which give priority to the 
+     provision of services at home and in the community.
+       We urge you to withdraw CMS's attempt to overturn existing 
+     Medicaid policy and thus continue Medicaid beneficiaries' 
+     uninterrupted access to ADHC services in California and other 
+     affected states. We look forward to your response.
+           Sincerely,
+         Mary Bono, Jerry Lewis, Henry A. Waxman, Anna Eshoo, 
+           Randy ``Duke'' Cunningham, Darrell Issa, Elton 
+           Gallegly, John T. Doolittle, Howard P. ``Buck'' McKeon, 
+           Gary Miller, Lois Capps, Pete Stark, Howard Berman, 
+           Adam B. Schiff, Linda T. Sanchez, Joe Lofgren, Tom 
+           Lantos, Hilda L. Solis, Doris O. Matsui, Lucille 
+           Roybal-Allard, Xavier Becerra, Jane Harman, Bob Filner.
+
+  Mr. REED. Mr. President, I strongly oppose the Deficit Reduction Act 
+of 2005 Conference Report. This conference report and the 
+Administration's budget are fiscally irresponsible and reflect 
+misguided priorities.
+  The dual reconciliation process this year illustrates these misplaced 
+priorities, as middle- and low-income families are being asked to pay 
+the price for tax cuts for the wealthiest. The second reconciliation 
+bill, which will soon be negotiated by the House and the Senate, will 
+contain a reduction of as much as $70 billion in tax revenue that will 
+more than eliminate the effect of the spending cuts to critical 
+programs in the conference report that we are considering today. With 
+the enactment of the two reconciliation bills, there is a real effort 
+by this administration and the majority to perform a bait and switch on 
+the American people and at the end of the day the ``so-called'' deficit 
+reduction bill along with the tax reconciliation bill will further 
+increase the deficit by as much as $30 billion over the next 5 years.
+  The President's claim at his news conference yesterday that his 
+policies are focused on the priorities of average Americans belies the 
+experience of most working families. The economy has grown this year, 
+but the benefits of that growth continue to show up in the bottom lines 
+of companies rather than in the paychecks of workers. The Minority 
+Views of the Joint Economic Committee 2005 Annual Report released 
+yesterday finds that in the recovery from the 2001 recession, working 
+families have been left behind from the start, and they continue to be 
+left behind today.
+  The unemployment rate is nearly a full percentage point higher than 
+when President Bush took office, about 5 million fewer jobs have been 
+created in this recovery than at this point after the 1990-91 
+recession, and millions of Americans who want to work do not have jobs.
+  Higher prices for gasoline, home heating fuel, and medical care are 
+also squeezing the take-home pay of workers. In the past year, average 
+hourly earnings are down, after adjusting for inflation. Moreover, wage 
+growth has been uneven, with low-earning workers hit hardest by 
+sluggish wage gains and more recently by declining real wages.
+  The signature policies of the administration and the majority have 
+not addressed the problems facing ordinary American families. 
+Successive rounds of tax cuts were poorly designed to stimulate job 
+creation and produced a legacy of large budget deficits. Those large 
+and persistent budget deficits contributed to an ever-widening trade 
+deficit and massive borrowing from abroad.
+  Most of the benefits of the tax cuts accrued to very high-income 
+taxpayers, while--as this reconciliation bill shows--cuts in programs 
+that benefit middle- and lower-income families are viewed as the best 
+way to pay for those tax cuts.
+  As far as health and human service programs go, this bill has gone 
+from bad to worse as compared to the Senate-passed bill. As expected, 
+significant portions of the reduction that are achieved in this 
+reconciliation bill are achieved by cuts in programs that low- and 
+moderate income Americans rely on. The reconciliation package before us 
+includes roughly $40 billion in spending cuts over 5 years, of which 
+$11.2 billion will come from Medicaid and Medicare.
+  Included among these `savings' are new copayments on Medicaid 
+beneficiaries and additional flexibility to States to scale back 
+coverage for certain vulnerable populations. It also tightens rules 
+designed to limit the ability of elderly people to shed assets in order 
+to qualify for nursing home care. And, for the first time, people with 
+home equity of $500,000 or greater would be ineligible for nursing home 
+care under Medicaid.
+  During Senate consideration of the reconciliation bill, I offered an 
+amendment to restore targeted case management services, TCM, to assist 
+eligible high-need Medicaid beneficiaries gain access to needed 
+medical, social, educational, and other services. Despite promises that 
+this provision would be corrected, the conference report jeopardizes an 
+essential bridge to services for these populations.
+  While low-income Medicaid beneficiaries are bearing the brunt of 
+budget cuts, drug companies and Medicare managed care plans emerged 
+virtually unscathed in the conference report. Specifically, the report 
+drops a Senate provision that would have eliminated the $10 billion 
+slush fund to health insurers a key recommendation of the Medicare 
+Payment Advisory Commission, MedPAC, because it is unnecessary, 
+unwarranted, and provides an unfair competitive advantage to private 
+health plans over traditional Medicare. Nevertheless, under veto threat 
+by the President, the conference report leaves this fund fully intact, 
+forgoing $5.4 billion in savings over 5 years and twice that amount 
+over 10 years.
+  The bill also shed most of the drug rebate provisions contained in 
+the Senate-passed bill and includes only two minor provisions that 
+generate savings of only $220 million over 5 years and $720 million 
+over 10 years.
+  I would remind my colleagues that this body passed by a vote of 75 to 
+16 a Baucus motion to instruct conferees to reject provisions that 
+would undermine Medicaid coverage for pregnant women, the disabled, 
+low-income children, the elderly, or other vulnerable populations. Yet, 
+this conference report entirely ignores the will of the majority of the 
+Senate in this area.
+  At the same time, this conference report strikes yet another blow to 
+community health care providers who serve Medicare and Medicaid 
+recipients. On the Medicaid side, pharmacy payment reform provisions 
+contained in this bill will be devastating to the Nation's community 
+retail pharmacies and could significantly reduce Medicaid recipients' 
+access to their essential services. The provisions cut $6.3 billion out 
+of community retail pharmacies payments over the next 5 years by 
+reducing the amount that Medicaid pays for generic medications at a 
+time when the program should be doing everything it can to encourage 
+utilization of generic medications. Every time a pharmacy dispenses a 
+generic medication, Medicaid saves about $100, but this report drives 
+pharmacies to either dispense more expensive medications or simply not 
+serve Medicaid customers at all.
+
+  The conference committee also included cuts to Medicare providers 
+that were not included in either the House- or Senate-passed bills. 
+Under the conference report, home health care providers will see their 
+reimbursement rates frozen in 2006, in addition to the already 
+scheduled .8 percent reduction implemented as part of the Medicare 
+Modernization Act of 2003. Again, this conference report puts into 
+effect the exact opposite policy at a time when the administration and 
+States have made access to home- and community-based care a priority. 
+I, along with Senator Collins, had urged the conferees to not consider 
+such cuts, and I am disappointed that is exactly what the conference 
+did.
+  Another unfortunate provision in this conference report will impact 
+individuals with disabilities who have languished for months waiting 
+for the Social Security Administration to review and approve their 
+applications for Social Security Supplemental Income, SSI, and are owed 
+back benefits as a result of these delays. They will now have to wait 
+even longer under this package. Instead of receiving a single lump sum 
+payment as they do under current law, SSI beneficiaries will receive 
+back benefits in installments that could stretch out over the course of 
+a year.
+  This provision means many poor SSI recipients with disabilities who 
+have
+
+[[Page S14153]]
+
+been unable to work and who have probably been unable to pay their 
+mortgage, heating, and other bills will be forced to endure financial 
+destitution even longer.
+  Another area of concern is the inclusion of the House reauthorization 
+for Temporary Assistance for Needy Families, TANF. This bill adds tough 
+new requirements on States and recipients with no additional funding 
+for child care. The Congressional Budget Office, CBO, has estimated 
+that an additional $11 billion in childcare funding is needed to meet 
+these requirements. Unfortunately, this bill only provides $1 billion 
+in additional childcare funding.
+  If my Republican colleagues were truly committed to helping families 
+break the cycle of poverty, they would not create tough new 
+requirements that States and recipients will be challenged to meet and 
+then provide no additional childcare funding to help them do so.
+  Moreover, the policy goals of this conference report are quite 
+detrimental to States like my home State of Rhode Island. We are a 
+leader among States in providing childcare assistance to low-income 
+families. We recognize that all working families need help paying for 
+childcare and that high quality early care is the key to the healthy 
+development of our children. Rhode Island has made a commitment to help 
+all low-income families pay for childcare, giving equal treatment to 
+families on welfare and those who are working but cannot afford the 
+high cost of childcare. In Rhode Island, we have seen childcare budgets 
+rise as Federal investments have remained stagnant. The new TANF work 
+requirements, coupled with inadequate funding for childcare, 
+jeopardizes my State's commitment to assure that all children have 
+safe, nurturing, and enriching childcare.
+  New harsh requirements will now apply to separate State programs as 
+well, hurting States that have been successful in helping families 
+transition to work through other State initiatives. The Congressional 
+Budget Office, CBO, has estimated a cost to States of $8.4 billion over 
+the next 5 years in order to meet these work requirements. This amounts 
+to a higher cost to States than even the controversial House-passed 
+bill.
+  I want to take this opportunity to remind my colleagues that last 
+week Senator Carper introduced and this body approved by a vote of 64 
+to 27 a motion to instruct conferees not to include the reauthorization 
+for Temporary Assistance for Needy Families in this reconciliation 
+package. I am most troubled that such a vote was ignored, and we now 
+face the reauthorization of TANF without allowing the Senate to put 
+forth its own bill and have a fair debate on this issue.
+  The reconciliation conference report also includes a $1.5 billion cut 
+in Federal funding for child support enforcement efforts over the next 
+5 years and $4.9 billion cut over the next 10 years. Some of my 
+colleagues on the other side of the aisle might suggest that these 
+child support cuts are modest, but the fact remains that the CBO has 
+estimated that, as a result of these cuts, $2.9 billion in child 
+support will go uncollected over the next 5 years.
+  In my home State of Rhode Island, 45,000 families rely on the Office 
+of Child Support Services for help in securing and maintaining child 
+support payments. This is an agency that needs more not fewer resources 
+in order to continue to make collections efficient. I am baffled that 
+the leadership of this Chamber would cut a program that is cost 
+effective, promotes responsibility, and helps families. This program 
+has garnered strong bipartisan support because of its cost 
+effectiveness.
+  During consideration of S. 1932, the Budget Deficit Reduction Act, 
+the Senate approved a sense-of-the-Senate amendment offered by Senator 
+Harkin, stating that the Senate should not accept any cuts to the child 
+support enforcement program during this Congress. In addition, last 
+week Senator Kohl introduced and this Chamber passed by a vote of 75 to 
+16 a motion to instruct conferees not to include any provisions that 
+would reduce funding for the child support program. How can a program 
+that has this level of bipartisan support receive a $1.5 billion dollar 
+cut?
+  This reconciliation conference report also hurts college students by 
+eliminating the Pro-Gap Program that would have provided $6.5 billion 
+in much-needed aid for college students. In its place is a single 
+modest math/science initiative. While I fully support initiatives that 
+boost our global competitiveness through encouraging study of math and 
+science, I am dismayed that this bill compromises the successful and 
+important Pell grant program to do so. For the first time need-based 
+financial aid under the Pell grant program is tied to curriculum, 
+essentially stifling academic freedom for low-income students.
+  Again, I remind my colleagues that last week Senator Kennedy 
+introduced and this Chamber passed by 83 to 8 a motion to instruct 
+conferees to insist that the Senate provisions increasing need-based 
+financial aid, which were fully offset by savings in S. 1932, be 
+included in the final conference report. I am disappointed that such a 
+vote was ignored.
+  In the wake of Hurricanes Katrina and Rita, escalating home energy 
+prices, and stagnant wage growth, taking money from important Federal 
+programs in order to pave the way for billions of dollars in tax cuts 
+shows how out of touch the majority and administration are with hard-
+working Americans.
+  Unfortunately, there has been no change in the priorities or policies 
+of the administration and the majority to address the problems facing 
+the country's most disadvantaged citizens or to help ordinary working 
+families.
+  And instead of sound budget policies aimed at preparing for the 
+imminent retirement of the baby boom generation, this administration 
+and this majority have refused to adopt the kinds of budget enforcement 
+rules that helped achieve fiscal discipline in the 1990s and have 
+remained committed to extending tax cuts that will add further to the 
+budget deficit.
+  The end result is that policy priorities are distorted and programs 
+that help working families cope in a difficult economy have become 
+candidates for budget cutting in order to fund tax cuts for the 
+wealthiest. Meanwhile the problems of large budget and trade deficits 
+and the economic insecurity felt by many American families remain 
+unaddressed.
+  Mr. AKAKA. Mr. President, I express deep concern about the conference 
+report for S. 1932, the Deficit Reduction bill. Like many of my 
+colleagues, I too have called for fiscal responsibility and restraint 
+in government spending. However, my opposition to this conference 
+report is not just based on fiscal restraint, but also against 
+misplaced priorities. I voted against the bill when it first passed the 
+Senate because of the draconian message that it sent to the American 
+people, and now we face a package that is worse.
+  We are all conscious that we are heading into the holidays--a time 
+for celebration and reflection. Unfortunately, this is not true for 
+some of us, especially for certain low-income families and individuals 
+affected by this reconciliation package. While families who are well 
+off sit at their lavishly decorated dining room tables, calculating the 
+largess they enjoy as a result of tax cut extensions advocated by the 
+majority party, other families will sit in stark contrast with spare 
+fixings, worry, anxiety, and fear that comes with not knowing how they 
+will survive.
+  The package before us will hit families across the country right in 
+the wallet. The cuts in the conference agreement decrease Medicaid 
+benefits and increase Medicaid copayments and premiums. According to 
+the Center on Budget and Policy Priorities, people living just above 
+the poverty line may experience the most hardship, finding that they 
+need to pay $20 to $100 for health care services that now cost no more 
+than $3. These Medicaid changes, which total roughly $16 billion over 
+the next 10 years, were not included in the original Senate bill.
+  Welfare reform has been pending for several years now, but that is 
+because the issues are complicated and there exists great contention in 
+how far we want to go to ensure that welfare recipients are fully-
+participating members of the workforce. The approach in my State of 
+Hawaii has been a kinder, realistic approach that works to ensure that 
+recipients have the education, training, and other tools that they need 
+to become and remain self-sufficient, for their own good and the good
+
+[[Page S14154]]
+
+of their children. However, the provisions in the reconciliation 
+conference report deny the Senate's balanced view on welfare reform and 
+instead adopt some of the most controversial policy changes that will 
+impose major unfunded mandates on States.
+  It makes no sense to eliminate the flexibility States have to design 
+work requirements for those families served wholly by State funds. 
+According to preliminary estimates, Hawaii would have to increase its 
+work participation rate by 16 percent or bring another 1,600 families 
+into work from FY 2007 and beyond to meet the new standard, or face 
+severe penalties. It also makes no sense to bring more welfare parents 
+into the workforce without ensuring that their children will be 
+adequately cared for through appropriate and adequate childcare 
+assistance. According to CBPP, under this package, childcare would be 
+available to an estimated 255,000 fewer children in low-income working 
+families not receiving cash welfare assistance than in 2004. It is 
+unconscionable to do this to our low-income families, particularly 
+without giving Senators the opportunity for further and adequate 
+deliberation.
+  The conference agreement does not include cuts in food stamps, but 
+that is one of the few bright lights in this package for vulnerable 
+families. It also makes significant cuts in child support enforcement 
+funding, Supplemental Security Income, and foster care assistance--none 
+of which were included in the original Senate bill. These are clearly 
+misplaced priorities. The better choice would have been to achieve 
+savings by going after special interests catered to by the health care 
+industry, but we are again seeking spending cuts on the backs of low-
+income families and individuals in our country.
+  Finally, we may say that we are for increasing higher education 
+opportunities, but this reconciliation conference report includes the 
+largest cuts to student loan programs in history, a total of $12.7 
+billion. Some additional assistance is provided for certain students 
+who are eligible for Pell grants, but the most needy students are not 
+prioritized and additional hurdles make it difficult to apply for aid 
+in the first place. The general Pell population--including about 14,000 
+students in my state of Hawaii--have been waiting for an increase in 
+the base grant for several years now, but will have to wait longer 
+because this conference report does not include that additional help 
+for them to stay in school.
+  For these and other reasons, I strongly oppose the conference report 
+before us. I cannot vote in favor of a package with such harmful cuts--
+particularly not this close to Christmas, and particularly not to 
+impact those that need our help the most. Human kindness should abide 
+throughout the year, but particularly at this time of year. This 
+conference report simply embodies the opposite message.
+  Mr. ROCKEFELLER. Mr. President, there are many provisions within this 
+reconciliation conference report that are deeply troubling to me, but 
+at this point, I want to focus my concerns on provisions that undermine 
+the historic 1996 welfare reform bill. That bill changed the old broken 
+welfare system into a new program that encouraged people to work their 
+way into self-sufficiency.
+  In 1996, I was an active participant in the controversial but 
+bipartisan negotiations to boldly change our outdated welfare system, 
+known then as the Aid to Families with Dependent Children, AFDC. Under 
+the old rules, parents were discouraged and penalized from trying to 
+work. In 1996, after contentious but full bipartisan debate by the 
+House and Senate, we passed a bold new program called Temporary 
+Assistance for Needy Families, TANF.
+  The new rules encouraged and required parents to move from welfare to 
+work, but there were incentives to help parents, and billions of new 
+dollars in childcare so parents could work with the knowledge that 
+their child had childcare. Such supports are essential so that parents 
+can make a successful transition.
+  The historic reform of 1996 also made changes in the child support 
+enforcement programs, and further enhancements were made in 1998 to 
+improve child support enforcement. While progress has been made on both 
+programs, the child support enforcement has been a real success story. 
+In 1996, child support enforcement collected $12 billion. Thanks to the 
+changes in welfare reform, child support enforcement is now collecting 
+$21.9 billion. In the President's fiscal year 2006 budget, the Office 
+of Management and Budget, OMB, rated the Federal child support 
+enforcement programs among the highest, most efficient programs in all 
+of the Federal Government.
+  Despite this record of success, the reconciliation conference cuts 
+child support enforcement by $1.5 billion over the next 5 years and a 
+$4.9 billion cut over the next 10 years. These cuts are outrageous 
+because States use this funding to track down absent parents, establish 
+legally enforceable child support orders, and collect and distribute 
+child support owed to families. CBO has estimated that this loss in 
+Federal child support funding will result in $2.9 billion in child 
+support going uncollected over the next 5 years and $8.4 billion going 
+uncollected over the next 10 years. The reality is that children and 
+families will be shortchanged. How, in any way, does this lack of 
+investment promote personal responsibility? The answer is that it does 
+not--in fact, this provision actually undermines past reforms.
+  I want to express my appreciation to Chairman Grassley for his effort 
+in forging a bipartisan welfare reform reauthorization bill during 
+recent debates. In March, the Senate Finance Committee secured such 
+consensus that it was able to move the TANF reauthorization package on 
+a voice vote. On December 14, the Senate voted 64 to 27 on a motion by 
+Senator Carper not to include TANF in reconciliation. This amendment 
+was a clear sense of the Senate about the importance of investing in 
+childcare as an essential support for families making the transition 
+from welfare to work.
+  Despite this bipartisan discussion in the Senate, the welfare reform 
+authorization has been sandwiched into a massive reconciliation 
+conference report that we have been given only 10 hours to debate. We 
+have 10 hours to debate on a whole host of issues, many of which, 
+including welfare reforms, have serious problems that were not part of 
+the original Senate bill.
+  Previous Republican proposals were designed to pressure the States to 
+have at least 50 percent of their TANF families in work activities, 
+but, under these earlier discussions, States would have 5 years to 
+achieve these new, tougher standards. The reconciliation package that 
+we are forced to vote on now would impose this new, tougher 
+participation rate by 2007. And it gets even worse. Under the 
+conference report, the Department of Health and Human Services will 
+issue new regulations to re-define work activities and how States will 
+be required to verify the hours and activities to avoid serious 
+financial penalties. These new regulations will be issued in June of 
+2006, just a few months before new, tougher standards are imposed. 
+Adding insult to injury, very little childcare money is provided--only 
+$1 billion over 5 years. The Congressional Budget Office reports that 
+the cost to States of this new bill would be $8.4 billion over the next 
+5 years, which is slightly more than the cost would have been under the 
+House reconciliation bill. CBO projects that some States would not meet 
+the new mandates and would face fiscal penalties as a consequence. This 
+is not fair because it essentially sets up States to fail. It will not 
+promote work and self-sufficiency among welfare parents. It will 
+encourage States to push families off the welfare rolls.
+  West Virginia currently has a 27 percent participation rate. Under 
+these new rules, it would have to reach 50 percent in 2007, and State 
+officials do not even know, at this point, what the rules will be. In 
+my own State of West Virginia, Gov. Joe Manchin has said, ``The 
+proposed Federal funding cuts in TANF will greatly impact the families 
+and children who depend upon the childcare, transportation assistance 
+and welfare-to-work transitional periods. I urge Congress and the 
+President to reconsider this action. We cannot lose sight of the fact 
+that the individuals affected are those who are the neediest.'' I 
+wholeheartedly agree with West Virginia Governor Manchin.
+  In addition to policy concerns raised by this conference report, the 
+process has been equally unfair. The 774-page conference report on the 
+reconciliation spending cut bill was filed in the House of 
+Representatives at 1:12 a.m. on Monday, December 19. Four hours later,
+
+[[Page S14155]]
+
+after less than 40 minutes of debate on the measure, the House began 
+the final vote on the reconciliation spending cut bill. Now the Senate 
+has only 10 hours to debate this package with no ability to make 
+changes.
+  This package is patently unfair to our children. It will hinder the 
+effort to move parents from welfare to work. It will undermine efforts 
+to promote personal responsibility and ensure that parents pay the 
+child support they owe their children.
+  It is unfair to our States to change the rules on welfare reform. 
+Even worse, they will be changed just months before States have to meet 
+these new standards.
+  This reconciliation conference report turns its back on 
+bipartisanship.
+  It turns its back on needy children and families.
+  It turns its back on personal responsibility.
+  It is the wrong approach to welfare reform, and it should be rejected 
+along with the other cuts in reconciliation.
+  Mr. BINGAMAN. Mr. President, the budget conference report that is 
+about to be voted on by the Senate decreases access to and 
+affordability of needed health care through the Medicaid Program for 
+low-income children, parents, seniors, and people with disabilities 
+while protecting a $10 billion fund for Medicare private health plans 
+that are already acknowledged to receive payments far in excess of 
+Medicare fee-for-service.
+  Clearly, the conferees made the choice to protect private health plan 
+overpayments in Medicare while cutting access to care for some of our 
+most vulnerable citizens enrolled in the Medicaid Program.
+  The conference report permit States to cut back on benefits for 
+nearly all of the 27 million low-income children enrolled in Medicaid, 
+including allowing States to restrict and limit benefits even for those 
+with little or no income. The language is ambiguous about whether Early 
+Periodic Screening Diagnostic and Treatment, EPSDT, services, which are 
+critical to ensuring that children have access to all medically 
+necessary services they need, will continue to be provided. Benefits 
+that could be lost include comprehensive developmental assessments, 
+assessment and treatment for elevated blood lead levels, eyeglasses, 
+dental care, hearing aids, wheelchairs and crutches, respiratory 
+treatment, comprehensive mental health services, prescription drugs, 
+and speech and therapy services.
+  While certain populations, like pregnant women, people with 
+disabilities, dual eligibles, and people with long-term care needs, are 
+explicitly protected from benefit reductions, all other children 
+enrolled in Medicaid, with the exception of children in foster care, 
+are no longer ensured such protections.
+  The conference report also permits, States to reduce Medicaid 
+benefits for many low-income parents and some people with disabilities 
+to something called a benchmark package, even if it is bare-bones 
+coverage with minimal benefits. The Congressional Budget Office, CBO, 
+had previously written that it expected a reduction in benefits by 15 
+percent to 35 percent due to this provision. The conference report 
+estimates that over $6 billion in cuts will occur to benefits for low-
+income people in Medicaid.
+  The conference report also allows States to impose substantial cost-
+sharing charges upon Medicaid beneficiaries that will impact millions 
+of low-income beneficiaries. Currently, States can generally charge no 
+more than $3 for copayments per service or prescription drugs with 
+groups like children entirely exempt. That is all changed by the 
+conference report.
+  For very low-income people, the Secretary would increase the nominal 
+copayments of $3 by the medical portion of the Consumer Price Index, or 
+M-CPI, which rises twice as fast as inflation generally. Of course, it 
+will result in sharp rises in cost-sharing for our Nation's most 
+vulnerable citizens, which a large body of research indicates will 
+result in having people forgo needed health care services and 
+prescription drugs.
+  Meanwhile, beneficiaries with income between 100 and 150 percent of 
+poverty could be charged copayments up to 10 percent, and beneficiaries 
+with income over 150 percent of poverty could be charged copayments of 
+up to 20 percent of the cost of medically necessary care.
+  Furthermore, providers are allowed to deny care to anyone that cannot 
+afford such cost-sharing. There are not even protections for children 
+facing life-threatening conditions and in dire need of medically 
+necessary care, as the language states that it would be incumbent upon 
+the provider to waive the copayment in this case and only if the State 
+allows it.
+  It should be further noted that there really are no statutory 
+limitations because even those protections or limitations on cost-
+sharing that I have cited may be waived by the Secretary under the 
+conference report.
+  CBO estimates that the conference report will result in $10.1 billion 
+in cuts over 10 years resulting from increases in beneficiary 
+copayments and premiums and these reductions are about 90 percent of 
+the size of the cuts in the House package that they previous analyzed. 
+It is important to remind my colleagues what the CBO said about the 
+House bill, as it so closely mirrors what came out of the conference.
+  As CBO's analysis of the House bill states, ``We estimate that the 
+number of affected enrollees [due to increased cost-sharing 
+requirements] would increase from 7 million in 2010 to 11 million by 
+2015, and that about half of those enrollees would be children.''
+  CBO added that, due to added premiums, ``about 70,000 enrollees would 
+lose coverage in fiscal year 2010 and that 110,000 would lose coverage 
+in fiscal year 2015 because of the imposition of premiums.''
+  In sharp contrast, the Senate bill had nothing that increased 
+premiums or cost-sharing.
+  Without the Medicaid Program, the number of children without health 
+insurance--8.3 million in 2004--would be substantially higher. In fact, 
+the number of uninsured children has dropped by over 300,000 children 
+over the past 4 years due in large part to Medicaid and the State 
+Children's Health Insurance Program, or SCHIP. We should not at this 
+time be taking steps backward by reducing coverage for low-income and 
+vulnerable populations, including children.
+  Senators need to fully recognize, understand, and reject what the 
+House of Representatives and conferees have done with respect to the 
+health and well-being of children, seniors, and the disabled in their 
+budget reconciliation bill. Our Nation's most vulnerable citizens 
+should not be asked to bear the burden of billions of dollars in budget 
+cuts--cuts that are not even being used to reduce the deficit but, 
+rather, to help pay for tax cuts.
+  There is also the fact that the conference report will significantly 
+restrict eligibility for nursing home care under Medicaid. The 
+conference report adopts most of the punitive provisions in the House-
+passed bill to limit eligibility for long-term care services, but adds 
+additional restrictions so that savings in this area would actually be 
+11 percent larger than the House bill and 7 times larger than the 
+Senate bill.
+  There are numerous problems with the provisions in this section that 
+I do not have time to address today, but I would like to ask unanimous 
+consent to place into the Record a letter from AARP expressing concern 
+about these provisions, that CBO estimates will cut $6.5 billion out of 
+nursing home spending over the next 10 years. It should be noted that 
+these figures are just Federal amounts and that if you add State cuts 
+in spending that there are billions and billions more in cuts to 
+eligibility and services to Medicaid beneficiaries.
+  In addition, I also want to raise another major problem that I asked 
+conferees to address and was highlighted by my introduction of S. 2074, 
+the Medicaid Indian Health Act. That legislation would have exempted 
+American Indians and Alaska Natives, AI/ANs, and Indian health programs 
+from those provisions and changes being proposed to Medicaid that will 
+all have devastating consequences for Native Americans.
+  Unfortunately, the conference report failed mightily in this regard. 
+In fact, there is not even a mention of Native Americans or Indian 
+health program in the legislation despite the fact the Federal 
+Government's responsibility for Indian health, the uniqueness of the 
+Indian health care system, and the serious health problems of Indian 
+people require that protection of access to health care services for 
+Native Americans be reflected in Federal Medicaid
+
+[[Page S14156]]
+
+policy. Failure of the conferees to address this fact will have 
+significant harmful consequences for American Indians and Alaska 
+Natives.
+  For example, the budget conference report would allow States to 
+impose cost-sharing on Medicaid beneficiaries similar to and at even 
+higher levels than those allowed under the SCHIP program, with the 
+stated policy objective of achieving more appropriate utilization of 
+cored services. This objective, however, would not be achieved at 
+Indian Health Service, IHS, or Indian tribal health facilities, as 
+these programs do not charge their American Indian and Alaska Native 
+patients for health care. Rather, imposition of premiums and copays 
+would produce the following unintended--and very harmful impact--on the 
+Indian health system:
+  Medicaid enrollment of AI/ANs who are eligible for coverage is 
+already low, since the IHS user population receives health care without 
+charge at IHS and tribal facilities. The financial barriers imposed by 
+assessment of Medicaid premiums would further depress AI/AN enrollment. 
+Decreases in Medicaid enrollment would deprive already-underfunded 
+Indian health programs of vital Medicaid revenues on which they are 
+heavily dependent.
+  The imposition of copayments will not change utilization habits of 
+Indian Medicaid beneficiaries because IHS and tribal providers do not 
+charge copays to their Indian patients. Copay amounts would be simply 
+cost-shifted to the Indian health programs, causing a further reduction 
+in the services they can offer, and reducing the resources they need to 
+purchase contract health care.
+  These reductions in resources available to the Indian health system 
+will decrease the health services they can provide and cause further 
+decline in the health status of Indian populations. Everybody voting on 
+today's package should be fully aware of that fact.
+  In addition, the budget reconciliation bill would, for the first 
+time, allow States to offer different Medicaid benefit packages to 
+``individuals within one or more groups of individuals'' in the State 
+by requiring enrollment in ``benchmark'' or ``benchmark-equivalent'' 
+Medicaid coverage. This authority would allow a State to reduce the 
+amount, duration and scope of Medicaid benefits to many beneficiaries. 
+The Indian Health Service, which is now funded at less than 60% of need 
+and is heavily dependent on Medicaid payments, would be decimated by 
+any reductions in Medicaid-covered services.
+  While States receive 100% FMAP for Medicaid services provided in an 
+IHS or tribal facility, those facilities have limited capabilities and 
+are not able to directly supply all needed care. When the IHS or tribal 
+facility must refer an Indian Medicaid beneficiary to a private or 
+public provider, the State must pay the regular State Medicaid match. 
+Thus, States would have an incentive to limit the benefits AI/ANs 
+referred to outside providers could receive under the State Medicaid 
+plan.
+  If Native Americans stay within the IHS system and the benefits are 
+not covered, this is simply yet another cost shift to Indian health 
+care programs.
+  As part of the Indian Health Care Improvement Act of 1976 report, the 
+Congress said, ``The most basic human right must be the right to enjoy 
+decent health. Certainly, any effort to fulfill Federal 
+responsibilities to the Indian people must begin with the provision of 
+health services. In fact, health services must be the cornerstone upon 
+which rest all the other Federal programs for the benefit of Indians. 
+Without a proper health status, the Indian people will be unable to 
+fully avail themselves of the many economic, educational, and social 
+programs already directed to them or which this Congress and future 
+Congresses will provide them.''
+  The Federal Government has a ``Federal trust responsibility'' to 
+Indian people that it is simply not fulfilling. This budget conference 
+agreement is yet another example of this failure and should be rejected 
+for this reason, as well as the negative consequences that it will have 
+on low-income children, senior citizens, and people with disabilities 
+across this Nation.
+  Finally, although I do not have the time today to talk at length 
+about the problems with the Medicare provisions, I will say that I am 
+very disappointed and deeply concerned about the $8.1 billion in home 
+health cuts that have been included in the conference report. It is 
+also disturbing that the conferees would choose to add a provision that 
+was in neither the House nor Senate bills to cut $3 billion out of the 
+Medicare disproportionate share hospital, DSH Program, which provides 
+financial assistance to our Nation's safety net hospitals. These cuts 
+will undoubtedly have negative consequences on safety net hospitals 
+across the country. With 46 million uninsured people in our country, it 
+makes little sense to be cutting our Nation's safety net providers at 
+this time.
+  This is all about choices. The Senate reconciliation bill contained 
+the same level of savings in Medicaid and Medicare without all of these 
+provisions that will certainly have negative consequences on millions 
+of people served by Medicaid and Medicare. The conferees had before 
+them the choice of protecting vulnerable, low-income citizens or to do 
+things such as protecting the interests of private health plans.
+  For example, such cuts were added in conference to help pay for 
+decisions such as the dropping of savings that had been obtained in the 
+Senate bill by such things as elimination of what is known as the 
+health plan ``slush fund.'' This $10 billion fund was created in the 
+Medicare prescription drug bill to encourage participation by private 
+health plans, but the Medicare Payment Advisory Commission, MedPAC, 
+almost unanimously recommended its elimination and the Senate bill had 
+included such savings.
+  The dropping of such reasonable cost savings out of the conference 
+report has clearly left low income people to pay the price through 
+cost-sharing increases and benefit restrictions that will undoubtedly 
+have negative consequences on the health and well-being of our Nation's 
+most vulnerable citizens enrolled in Medicaid.
+  I would also like to express my opposition to section 1101 of this 
+budget reconciliation conference report the Senate is now considering.
+  I am disappointed the budget reconciliation bill includes a 2-year 
+extension of the Milk Income Loss Contract, or MILC, a wasteful subsidy 
+that primarily benefits dairy farmers in only a few states. I helped 
+lead the opposition in the Senate in 2002 when this new dairy subsidy 
+program was created as part of the farm bill. The MILC program has 
+already cost taxpayers over $2 billion. I strongly oppose extending it 
+further.
+  The Milk Income Loss Contract Program expired on September 30, but 
+this conference report extends it for 2 years at a cost to the 
+taxpayers of almost $1 billion. I oppose the extension because I 
+believe this MILC Program is basically unfair and unnecessary.
+  Since the subsidy payments began in 2002, almost half the MILC 
+payments--about $950 million--has gone to producers in only four 
+States, Wisconsin, New York, Pennsylvania, and Minnesota. In fact, 20 
+percent of the payments, over $410 million, went to producers in just a 
+single state, Wisconsin. The other half of the Federal payments is 
+shared among all the remaining 46 States.
+  California, on the other hand, by far the nation's largest dairy 
+state, isn't even among the top four in Federal MILC payments. 
+California's dairies produce 20 percent of the nation's milk but get 
+only about 7 percent of the payments. Idaho is 4th in dairy production, 
+but 12th in MILC payments. How can anyone say that is a fair and 
+equitable use of the taxpayers' dollars? Dairy producers my State of 
+New Mexico rank 7th in the Nation in milk production but are 28th in 
+Federal MILC payments.
+  Some of the supporters of this $1 billion boondoggle say that dairy 
+farmers need a safety net. However, I hope all Senators know dairy 
+producers already have a safety net, one that has been in place for 
+over 50 years. It's called the Federal Price Support Program, and it 
+was extended in the 2002 farm bill. So this $1 billion program subsidy 
+program is really just a case of some dairy farmers trying to double 
+dip at the taxpayers' expense.
+  Another argument I have heard is that MILC helps the family farms. 
+Nearly all dairies in this country, regardless of size, are family 
+farms; that
+
+[[Page S14157]]
+
+is, owned and run by families. The families who run New Mexico's 
+dairies are strongly opposed to extending MILC.
+  Finally, a recent study by the U.S. Department of Agriculture shows 
+the MILC program actually lowers prices paid to diary farmers. This 
+shouldn't be a surprise to anyone, it is just basic economics. Taxpayer 
+subsidies invariable lead to excess production, which pushes prices 
+down. In my opinion, this is a simple case of an unnecessary and 
+counterproductive program that should have been left to die.
+  I understand President Bush made a campaign promise last year to 
+support extending the MILC Program. But at hearing on October 27 in the 
+Senate Finance Subcommittee on International Trade, where I am a 
+member, the deputy trade representative, Ambassador Allgeier, stated 
+the administration would prefer MILC not be extended because of the 
+possible impact on the President's ongoing world trade negotiations. 
+MILC is a huge trade-distorting subsidy, and extending it now sends the 
+wrong signals to our trading partners.
+  I didn't sign the conference report, and I plan to vote against this 
+budget reconciliation bill because I do believe this bill is a missed 
+opportunity to establish spending priorities and deal with the nation's 
+burgeoning deficit.
+  This bill sets aside $1 billion for an unnecessary subsidy to benefit 
+mainly Northeast and Midwest dairy farmers, while at the same time 
+making deep cuts to essential health care and housing initiatives. 
+Agriculture spending for farmers and ranchers has had to be cut an 
+extra $1 billion to pay for the MILC subsidy. Our country is in deep 
+financial trouble which requires us to make difficult choices and set 
+priorities. In my view, we have laid out the wrong priorities in this 
+bill.
+  Decisions that cost the taxpayers a billion dollars shouldn't be made 
+on the basis of partisan politics. Section 1101 in this reconciliation 
+bill will cost taxpayers $1 billion over the next 3 years. That means 
+$1 billion more that has to be borrowed; another $1 billion added to 
+the deficit.
+  New Mexico's family-owned dairies are some of the most efficient in 
+the Nation, and they should be free to compete without this costly and 
+totally unnecessary subsidy program. I do believe it is bad policy to 
+put an extra $1 billion of the taxpayers' money into this unnecessary 
+MILC subsidy.
+  Groups that oppose this 2-year extension of the MILC subsidy include 
+the International Dairy Foods Association, the American Conservative 
+Union, Americans for Tax Reform, Citizens against Government Waste, 
+Freedom Works, and the National Taxpayers Union.
+  In addition to the letter from AARP previously mentioned, I ask that 
+letters expressing major concerns and opposition to the conference 
+report from 35 organizations that are part of the Consortium for 
+Citizens with Disabilities, the American Cancer Society, the National 
+Council of La Raza, and an organization representing 2,500 police 
+chiefs and other law enforcement leaders be printed in the Record.
+  I also ask unanimous consent that a recent article opposing extending 
+MILC by Thomas Schatz, president of the Council for Citizens Against 
+Government Waste, and John Berthoud, president of the National 
+Taxpayers Union, be printed in the Record.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+
+                                                         AARP,
+
+                                                December 19, 2005.
+     Hon. Bill Frist,
+     Majority Leader, U.S. Senate,
+     Washington, D.C.
+       Dear Majority Leader Frist: AARP strongly opposes the 
+     budget reconciliation conference agreement scheduled to come 
+     before the Senate for a vote today. Rather than reflecting 
+     the rational provisions of the Senate reconciliation bill, 
+     the final conference agreement is irresponsible policy.
+       The final conference agreement does not ask for shared 
+     sacrifice to achieve budgetary savings. Rather it protects 
+     the pharmaceutical industry, the managed care industry, and 
+     other providers at the expense of low-income Medicaid 
+     beneficiaries and Medicare beneficiaries who will foot the 
+     bill.
+       AARP members and your other constituents will question why 
+     members of the Senate would vote for a bill that would:
+       Make it harder for Americans needing long-term care to 
+     qualify for Medicaid;
+       Force some Americans to forfeit their homes in order to pay 
+     for long-term care services;
+       Require all Medicare Part B beneficiaries to pay higher 
+     premiums;
+       Reopen the MMA, not to make improvements in the new drug 
+     benefit, but to require those with more income to pay higher 
+     Part B premiums sooner; and
+       Force low-income Medicaid recipients to pay more for their 
+     care--and if they cannot afford to do so--to potentially be 
+     denied care entirely.
+       The conference agreement systematically undermines the 
+     critical protections built into both the Medicaid and 
+     Medicare programs. If the conference agreement becomes law, 
+     then over the course of the next few weeks and months we will 
+     make sure that our members across the country fully 
+     understand the impact of this conference agreement on them 
+     and on their families.
+       We urge the Senate to oppose the reconciliation conference 
+     package and urge Congress to instead return to the fair and 
+     responsible policies of the original Senate package.
+           Sincerely,
+     William D. Novelli.
+                                  ____
+
+                                           Consortium for Citizens
+
+
+                                            With Disabilities,
+
+                                                December 20, 2005.
+       Dear Senator: We are writing as members of the Consortium 
+     for Citizens with Disabilities (CCD). We strongly urge you to 
+     opposes the budget reconciliation conference report because 
+     of the serious harm it would cause the 9.2 million children 
+     and adults with disabilities and others who rely on Medicaid 
+     for essential health and long-term services. Unlike the 
+     Senate-passed budget reconciliation package, the conference 
+     report achieves budget savings in ways that would weaken 
+     critical Medicaid protections upon which people with 
+     disabilities and other low-income beneficiaries rely. This 
+     includes cost-sharing provisions that will only lead to 
+     necessary services being denied and effectively punishing 
+     people with disabilities who have extensive health and long-
+     term services needs. Changes to the EPSDT requirement can 
+     only lead to a bifurcated system that will impose formidable 
+     barriers for children in Medicaid trying to access the full 
+     range of covered services. The home- and community-based 
+     services provisions permit enrollment caps and waiting 
+     lists--the very policies that currently prevent Medicaid from 
+     meeting the needs of all people with disabilities otherwise 
+     eligible for community services. The asset transfer policies 
+     also go beyond the consensus reforms in the Senate bill and 
+     will make it harder for some seniors with disabilities to 
+     qualify for Medicaid--even if they do not have substantial 
+     incomes or were not purposefully divesting assets to qualify 
+     for Medicaid.
+       CCD is also very concerned about the negative impact of the 
+     TANF provisions on people with disabilities and oppose the 
+     inclusion of these provisions in the conference report.
+       While we are supportive of the Family Opportunity Act and 
+     the Money Follows the Person demonstration, these provisions 
+     alone do not justify supporting a Medicaid and TANF reform 
+     package that is excessively harmful to people with 
+     disabilities.
+       Sincerely,
+       Academy for Educational Development
+       American Association on Mental Retardation
+       American Association of People with Disabilities
+       American Foundation for the Blind
+       American Congress of Community Supports and Employment 
+     Services
+       American Council of the Blind
+       American Network of Community Options and Resources
+       American Therapeutic Recreation Association
+       APSE: The Network on Employment
+       Association of University Centers on Disabilities
+       Brain Injury Association of America
+       Council of State Administrators of Vocational 
+     Rehabilitation
+       Easter Seals
+       Epilepsy Foundation
+       International Association of Business, Industry and 
+     Rehabilitation
+       LDA, Learning Disabilities Association of America
+       Lutheran Services in America
+       National Alliance on Mental Illness
+       National Association for the Advancement of Orthotics and 
+     Prosthetics
+       National Association of Social Workers
+       National Association of School Psychologists
+       National Association of State Head Injury Administrators
+       National Disability Rights Network
+       National Down Syndrome Congress
+       National Mental Health Association
+       National Organization of Social Security Claimants' 
+     Representatives
+       National Spinal Cord Injury Association
+       NISH
+       Paralyzed Veterans of America
+       Research Institute for Independent Living
+       The Arc of the United States
+       Tuberous Sclerosis Alliance
+       United Cerebral Palsy
+       United Spinal Association
+       Volunteers of America.
+                                  ____
+
+
+American Cancer Society Speaks Out Against Conference Report Provisions 
+   That Increase Cost Sharing and Limit Benefits in Medicaid Program
+
+                                                 December 19, 2005
+       Dear Senator: The American Cancer Society is disappointed 
+     in House passage of provisions in the Reconciliation Spending 
+     Cuts
+
+[[Page S14158]]
+
+     Act Conference Report (H.R. 4241) that will have an adverse 
+     impact on access to care for Medicaid beneficiaries who have 
+     cancer or are at high risk for cancer. Specifically, we are 
+     deeply concerned about the provisions which achieve budget 
+     savings by increasing cost sharing and putting benefits 
+     packages at risk. We urge the Senate to stand up for a 
+     reconciliation package that minimizes the negative impact on 
+     beneficiaries by deleting these provisions, as reflected in 
+     the Senate bill (S. 1932).
+       Cancer is a disease where up front financial costs are 
+     substantial, timely treatment is absolutely critical upon 
+     diagnosis, and treatment modalities vary widely. We know that 
+     access to screening and quality cancer care can have a 
+     substantial impact on outcomes. Therefore policy changes, 
+     such as imposing undue financial barriers or reducing 
+     benefits that inadvertently limit Medicaid beneficiary access 
+     to screening, treatment, and follow up care can be a 
+     particular problem for those with cancer.
+       The Society is greatly concerned about cost-saving 
+     provisions in the conference report that seek to secure most 
+     of its required savings by eliminating the guarantee of 
+     coverage, increasing cost sharing and allowing for changes in 
+     benefits packages that could negatively impact those who are 
+     most vulnerable--particularly low-income individuals with or 
+     at greatest risk of chronic diseases such as cancer. We 
+     believe that Medicaid beneficiaries' existing access to 
+     specialty services and covered cancer protections, including 
+     ``optional'' benefits like screenings, cessation services, 
+     and prescription drug coverage, should be protected, and not 
+     diminished.
+       The Congressional Budget Office estimated that much of the 
+     savings from these provisions in the conference report would 
+     be achieved by beneficiaries foregoing critical health 
+     services or participation in coverage altogether. The Senate 
+     has voted in the past to achieve its savings through both the 
+     Medicare and Medicaid programs by limiting fraud, waste, and 
+     abuse, and by reducing drug prices and other payments--
+     savings which are less likely to hurt beneficiaries. The 
+     Senate again expressed its intent to protect beneficiaries in 
+     overwhelmingly passing a Motion to Instruct on Medicaid last 
+     week. The Society stands in support of this bipartisan 
+     approach for achieving cost-savings while protecting access 
+     to care for Medicaid beneficiaries.
+       The Medicaid program plays a significant role in providing 
+     access to cancer prevention, screening and early detection, 
+     treatment, and follow up care for the nation's most 
+     vulnerable populations, and we applaud Congress for providing 
+     this safety net for Hurricane survivors.
+       While we recognize the fiscal constraints faced by states 
+     and the federal government in controlling overall health care 
+     costs in addition to administering the Medicaid program, we 
+     believe that reforms must be achieved while continuing 
+     quality coverage and comprehensive access for cancer patients 
+     and those at risk for cancer in the Medicaid program. 
+     Therefore, we ask that you support provisions that maximize 
+     protection of Medicaid beneficiaries and delete provisions 
+     that increase cost sharing, jeopardize benefits, and 
+     eliminate the guarantee of coverage. If you have any 
+     questions, please contact Kelly Green Kahn, Senior Federal 
+     Representative at 202-661-5718.
+           Sincerely,
+     Daniel E. Smith,
+       National Vice President, Federal and State Government 
+     Relations.
+     Wendy K. D. Selig,
+       Vice President, Legislative Affairs.
+                                  ____
+
+
+
+                                  National Council of La Raza,
+
+                                                December 19, 2005.
+       Dear Senator: On behalf of the National Council of La Raza 
+     (NCLR), the largest national Hispanic civil rights and 
+     advocacy organization in the United States, I write to 
+     strongly urge you to oppose current budget reconciliation 
+     legislation, the ``Deficit Control Act of 2005'' (S. 1932). 
+     This budget reconciliation would cut vital programs that were 
+     established to protect the economic security of low-income 
+     families, including Latinos.
+       S. 1932 will move our nation in the wrong direction. In the 
+     past, when hardworking Latino families faced economic 
+     hardship, they could count on temporary relief such as 
+     Medicaid or Temporary Assistance for Needy Families (TANF) to 
+     sustain their households until they could ``get back on their 
+     feet.'' The reconciliation package would weaken the ability 
+     of federal programs to provide effective services that help 
+     Americans move up the economic ladder by cutting services, 
+     increasing costs to beneficiaries, or severely compromising 
+     program structure.
+       Today there are more than 41 million Hispanics in the U.S.; 
+     more than 19 million are in the labor force making 
+     contributions to the nation's prosperity and economic growth. 
+     With respect to federal budget and tax priorities, six in ten 
+     (61%) of registered Latino voters say they would rather pay 
+     higher taxes for a government to provide more services. 
+     Three-quarters (74%) say the government is spending too 
+     little on education and a similar share (76%) say we as a 
+     country should spend more to provide health insurance for 
+     everyone who needs it, even if it means raising taxes. Yet, 
+     Congress is following the opposite route. In addition, this 
+     proposal would bring us no closer to a balanced budget.
+       More troubling, the budget reconciliation proposals 
+     continue to be described, in some cases, as an effort to pay 
+     for disaster relief and in others as must-do legislation to 
+     reduce the federal budget deficit. While NCLR agrees that 
+     providing relief to disaster victims and improving the budget 
+     deficit are critical, we believe that the budget 
+     reconciliation package would shift the burden to other low-
+     income families while failing to balance our nation's budget. 
+     To close the deficit gap, Congress should seriously consider 
+     strategies to raise revenues. Tax cuts increased the budget 
+     deficit; low-income families should not now have to pay for 
+     them.
+       Much is at stake for Latinos in this budget reconciliation. 
+     We hope that the Senate will send a clear message to Latinos 
+     and all Americans that Congress is serious about enhancing 
+     life opportunities for working families. This budget 
+     reconciliation package fails to send that message. Thus, NCLR 
+     urges you to VOTE ``NO'' on the budget reconciliation 
+     package. NCLR will recommend that the National Hispanic 
+     Leadership Agenda include votes associated with this 
+     legislation in its Congressional Scorecard.
+           Sincerely,
+                                                    Janet Murguia,
+     President and CEO.
+                                  ____
+
+
+
+                                  Fight Crime: Invest in Kids,
+
+                                Washington, DC, December 19, 2005.
+       Dear Senator: On behalf of the 2,500 police chiefs, 
+     sheriffs, prosecutors, and victims of violence who constitute 
+     the anticrime group, Fight Crime: Invest in Kids, we urge you 
+     to support investments in kids proven to reduce crime, and 
+     reject proposed bills--which may be considered sometime 
+     today--that would reduce those investments. The research 
+     confirms what the law enforcement leaders of Fight Crime: 
+     Invest in Kids have seen on the front lines; investments in 
+     kids like safe foster care homes for abused and neglected 
+     children, high-quality early care and education, and 
+     comprehensive screenings and treatment through Medicaid help 
+     prevent later crime and violence.
+       We thus urge you to reject the House/Senate Conference 
+     Report on Reconciliation (S. 1932), expected to be considered 
+     later today by the U.S. Senate, which--unlike the original 
+     Senate-passed S. 1932--would cut low-income, at-risk kids' 
+     access to Medicaid, foster care and child care assistance.
+       Also, we urge you to reject the Defense Appropriations 
+     conference report--to be considered by the Senate in the next 
+     day or two--which would make indiscriminate (so-called 
+     ``across-the-board'') cuts that would, in 2006, leave 25,000 
+     more low-income at-risk children out of Head Start, and would 
+     deny 11,000 more low-income at-risk kids the assistance their 
+     parents need to access quality child care.
+       Please reject these two fiscally-shortsighted conference 
+     reports, which would reduce children's access to proven 
+     programs that cut crime, save lives and save money.
+       Medicaid
+       Unlike the original Senate-passed S. 1932, the 
+     Reconciliation Conference Report would cut many low-income 
+     children from the Early and Periodic Screening, Diagnosis and 
+     Treatment (EPSDT) program that can help reduce later 
+     delinquency. Currently, EPSDT provides comprehensive early 
+     screening and treatment to help identify and treat behavioral 
+     and emotional problems and mental illnesses while children 
+     are young, preventing more serious problems later that 
+     increase a child's risk of involvement with the juvenile 
+     justice system. Studies show that behavior problems in young 
+     children are linked to later antisocial behavior. For 
+     example, an estimated 7 percent or more of preschoolers have 
+     levels of disruptive, aggressive behaviors severe enough to 
+     qualify for a mental health diagnosis and approximately 60% 
+     of these children will later manifest high levels of 
+     antisocial and delinquent behavior. Eliminating the state 
+     requirement to offer EPSDT services would limit at-risk kids' 
+     access to proven treatment that can help keep them on the 
+     right track and away from the road to crime.
+       The Reconciliation Conference Report would limit kids' 
+     access to mental health treatment that can reduce the risk of 
+     repeat involvement with the juvenile justice system, Medicaid 
+     pays for over 50% of public mental health services, helping 
+     cover evidence-based, intensive individual and family therapy 
+     programs. For example, Functional Family Therapy (FFT) works 
+     individually with troubled, delinquent youths to change their 
+     behavior and break the peer connections that lead to crime. 
+     FFT cuts re-arrest rates in half, while saving money; the 
+     public saves over $26,000 for each youth treated. By 
+     eliminating the EPSDT benefit guarantee for many low-income 
+     children, the Reconciliation Conference Report would also 
+     allow states to adopt benefits packages that would clearly be 
+     inadequate for many at-risk children in need of intense 
+     mental health intervention. For example, in Colorado, kids 
+     could be limited to 20 outpatient mental health visits per 
+     year. Mental health treatment under Medicaid helps kids get 
+     the care they need, while making our communities safer.
+       Unlike Senate-passed S. 1932, the Reconciliation Conference 
+     Report would eliminate affordability guarantees for millions 
+     of children on Medicaid (those with incomes just above the 
+     poverty line), leaving low-income children subject to new and 
+     sometimes unaffordable costs that experts expect will
+
+[[Page S14159]]
+
+     prevent these children from receiving necessary care. 
+     Currently, federal law exempts Medicaid-eligible children 
+     from cost-sharing and premiums. As a result, low-income 
+     children covered by Medicaid are even more likely than low-
+     income children with private insurance to have a well-child 
+     visit, helping ensure that children get off to a good start 
+     in life. Participation in health insurance programs has been 
+     shown to drop to fewer than one in five eligible people when 
+     premiums reach the levels allowed under this proposal) 
+     however, suggesting that fewer children would receive needed 
+     care--care that prevents crime and saves money.
+       Foster Care
+       Unlike Senate-passed S. 1932, the Reconciliation Conference 
+     Report would limit the ability of relatives to care for 
+     abused and neglected children in need of a safe foster care 
+     home, increasing pressure on the already inadequate number of 
+     non-relative foster care homes and potentially leaving more 
+     children in dangerous homes. Reversing the Rosales court 
+     decision would limit federally IV-E foster care reimbursement 
+     to some relatives who can now receive these reimbursements. 
+     The proposal would also limit federal Title IV-E funds for 
+     case management and other services for children living with 
+     relatives under certain circumstances. This cut in federal 
+     foster care support will decrease the likelihood of safe 
+     foster care homes being available for all of the abused and 
+     neglected children who need them, resulting in re-abuse and 
+     later crime.
+       The Reconciliation Conference Report would put new limits 
+     on funding that would restrict states' ability to support 
+     prevention services for kids ``at imminent risk of removal 
+     from the home'' and limit caseworkers'' ability to perform 
+     crucial case management roles. Limiting the ability of states 
+     (under certain circumstances) to support prevention services 
+     for kids at high risk of entering the foster care system 
+     would increase child abuse and neglect and foster care 
+     placements, as well as later crime. Restricting caseworkers' 
+     ability to help with family reunification and other case 
+     management when children are transitioning between foster 
+     care and juvenile institutional placements would place an 
+     additional burden on the already underfunded juvenile justice 
+     system, diverting funding that would otherwise support 
+     effective violence prevention programs for at-risk kids and 
+     intervention programs for kids who have already committed a 
+     criminal or delinquent act.
+       Early Care and Education
+       Unlike the original S. 1932, the Reconciliation Conference 
+     Report ''Child Care and Development Block Grant'' (CCDBG) 
+     provisions would cut 255,000 low-income children from child 
+     care in 2010 (compared to 2004). The Defense Conference 
+     Report would, this year alone, deny tens of thousands of low-
+     income at-risk kids access to CCDBG and Head Start. CCDBG and 
+     Head Start support the type of quality early childhood care 
+     and education programs that have been proven to prevent 
+     children from turning to crime. For example, a study of the 
+     High/Scope Perry Preschool program showed that three- and 
+     four-year-olds from low-income families who were left out of 
+     the program were five times more likely to become chronic 
+     offenders by age 27 than those who were in the program, and 
+     the program saved $17 for every $1 invested. The 
+     Reconciliation Conference report provides such a small 
+     increase in CCDBG funding over five years that it doesn't 
+     account for: (1) inflation; (2) increased work requirements 
+     in the proposed Temporary Assistance to Needy Families 
+     reauthorization; (3) the need to increase quality; or (4) 
+     current unmet need (only 1 in 7 eligible children is now 
+     served). The two Conference Reports. together, would limit 
+     CCDBG and Head Start funding, thus preventing hundreds of 
+     thousands of children from receiving quality early childhood 
+     care that can help them become productive citizens rather 
+     than criminals.
+       We urge you to reject conference reports that include any 
+     of these harmful provisions. Cutting Medicaid, foster care 
+     and early care and education now will only lead to higher 
+     crime rates and far greater criminal justice system 
+     expenditures down the road. The United States Senate must not 
+     allow a rush-to-adjournment to result in enactment of bad 
+     laws. Your constituents--and the Nation--deserve better.
+           Sincerely,
+                                                 Miriam A. Rollin,
+     Vice President.
+                                  ____
+
+
+                        Deal Milks Taxpayers Dry
+
+                (By Thomas A. Schatz and John Berthoud)
+
+       The dairy-farm lobby is at it again. With the assistance of 
+     several key lawmakers, the industry is using must-pass year-
+     end legislation to gain additional subsidies.
+       The latest shenanigans involve the milk income-loss 
+     contract (MILC), a costly program that expired Sept. 30.
+       The dairy lobby's objective is to resurrect the MILC 
+     program by attaching it to the Deficit Reduction Act of 2005, 
+     which is supposed to reduce spending by about $50 billion 
+     over the next five years. Adding insult to injury, the House 
+     Republican leadership is making back-room deals to help the 
+     dairy lobby secure its subsidy.
+       To garner the votes necessary to pass the Deficit Reduction 
+     Act, Speaker of the House Dennis Hastert (R-Ill.) promised a 
+     number of Republican lawmakers that he would ``instruct House 
+     conferees to secure an extension of a MILC program through 
+     September 2007.'' This would be accomplished by receding to 
+     the Senate, which included a renewal of the MILC program in 
+     its version of the Deficit Reduction Act. The failure to vote 
+     upon down on the program in the House is a betrayal of the 
+     taxpayers.
+       Congress did the right thing when it allowed the MILC 
+     program to expire at the end of September. During its 
+     existence, the MILC scheme perpetuated economic distortions, 
+     created inefficient markets and unnecessarily harmed 
+     taxpayers and consumers.
+       When MILC was created as part of the 2002 farm bill, the 
+     Congressional Budget Office (CBO) estimated that the four-
+     year price tag would be ``only'' $1.3 billion. Since the 
+     program's inception, however, taxpayers have been tapped for 
+     more than $2 billion. Now, the estimate for a scaled-back, 
+     two-year version of MILC is $998 million. If the CBO is as 
+     wrong now as it was in 2002, this new two-year concoction 
+     will cost taxpayers closer to $1.5 billion.
+       Whether the actual cost turns out to be $1 billion or $1.5 
+     billion or even more, there is no justification for bringing 
+     the MILC program back to life, particularly as part of the 
+     Deficit Reduction Act. Taxpayers have already taken too many 
+     forced trips to this milking machine.
+       The industry is currently subsidized through the dairy-
+     price support program, which cost taxpayers an average of 
+     $500 million per year from fiscal year 1999 to fiscal year 
+     2004 for the purchase of surplus products.
+       The absurdity of MILC is evident in its own past history. 
+     Even the U.S. Department of Agriculture (USDA), which 
+     oversees the program, agrees that the costly subsidies simply 
+     aren't working and have produced unfortunate and unintended 
+     consequences.
+       A comprehensive study released by the USDA last year 
+     concluded that the MILC program leads to expanded output 
+     through production-linked subsidies. Then, incongruously, the 
+     federal government purchases the surplus milk production 
+     caused by the MILC program through the price supports. In 
+     short, taxpayers shell out for the same unneeded milk not 
+     once but twice.
+       The MILC program was based on the failed Northeast Dairy 
+     Compact, which was also the product of a back-room deal, and, 
+     like the late price cartel, MILC primarily benefits certain, 
+     less efficient dairy farms.
+       In rewarding and perpetuating such inefficiency, the MILC 
+     program is not just expensive for taxpayers but at the end of 
+     the day is simply bad, backward policy. Particularly at a 
+     time of staggering federal deficits, it would seem hard to 
+     justify spending an additional $1 billion to resuscitate a 
+     program that never worked in the first place.
+       Aside from the problems inherent in the program itself, 
+     using the Deficit Reduction Act to reconstitute MILC is 
+     another example of the way in which Washington has grown ever 
+     more beholden to special interests. After all, legislation 
+     that would have extended the MILC program failed to move 
+     ahead earlier this year in either the House or the Senate. 
+     Attempting furtively to funnel MILC into legislation that is 
+     meant to save tax dollars, not squander them, is deplorable 
+     and pathetic.
+       After more than 70 years of meddling in the U.S. dairy 
+     industry, Congress was right to begin phasing out our 
+     convoluted system of antiquated subsidies by allowing the 
+     MILC program to sunset. They ought at least to protect this 
+     victory for taxpayers by keeping the menace of MILC out of 
+     the Deficit Reduction Act.
+       More important, the House leadership ought to show 
+     taxpayers respect, rather than using deficit-reduction 
+     legislation to create new government programs and making 
+     back-room deals that milk the taxpayers dry.
+
+
+               revisions to payments for therapy services
+
+  Mr. ENSIGN. Mr. President, I would like to raise an issue of 
+clarification regarding section 5107, Revisions to Payments for Therapy 
+Services. It is my understanding that this provision retains the 
+therapy limitation of $1,740 for outpatient physical therapy and 
+speech-language pathology and $1,740 for outpatient occupation therapy 
+but provides an exception process for services that are needed by a 
+beneficiary over this amount. This exception process is expressly to 
+permit services above the cap that are medically necessary. Mr. 
+President, I ask the Chairman of the Senate Finance Committee whether 
+this interpretation is correct.
+  Mr. GRASSLEY. Mr. President, this is correct.
+  Mr. ENSIGN. In addition, there should be no delay in implementing the 
+exceptions process. CMS should work diligently to develop a process to 
+determine whether a service is medically necessary. This process could 
+include a ``code modifier'' and standard audit review of medical 
+necessity and reflect similar processes that currently exist. It is my 
+understanding, based on the language, that if CMS does not develop a 
+process, a request for therapy services will be deemed medically 
+necessary if CMS does not act on the request within 10 business days. 
+Further, the language also appears to permit a beneficiary to request 
+medically necessary coverage outside the caps at the
+
+[[Page S14160]]
+
+outset of treatment. If CMS does not develop a process and fails to act 
+within 10 business days, then the beneficiary can receive covered 
+therapy services in excess of the cap. I would hope that further 
+information from CMS regarding the exceptions process is laid out as we 
+approach January 1, 2006, when the therapy caps go into effect. Senator 
+Grassley, do you agree with these statements?
+  Mr. GRASSLEY. I agree that CMS needs to develop a process to permit 
+medically necessary Part B therapy services that exceed the cap in a 
+timely manner. I also believe that this process should not result in 
+the delay of needed therapy services. I would hope that CMS would 
+provide an outline as to how they envision the exceptions process to 
+work so that beneficiaries needing therapy services beyond the $1,740 
+caps receive the therapy they need if medically necessary.
+  Mr. KENNEDY. Mr. President, in follow-up with respect to the 
+education provisions in the conference report on the pending bill, it 
+is important to note that the Senate bill included $6 billion for Pell 
+grants, to do more to ensure that every talented student who has the 
+opportunity to go to college can afford to do so. In addition, the 
+Senate bill included a further $2 billion for college students studying 
+math and science.
+  By contrast, the conferees' bill reduces spending in the student loan 
+programs by $13 billion and allocates only $3.75 billion to new grant 
+aid. That's $13 billion in tax giveaways for the wealthy and only a 
+meager $3.75 billion increase in grants to help students go to college.
+  It gets worse. In order to receive the funds that are available, 
+students must jump through multiple hoops. As a result, only a very 
+small percentage of students will ever see the aid. In fact, based on 
+an analysis by the Congressional Budget Office, our estimates show only 
+about 10 percent of the students who currently receive Pell grants will 
+receive additional assistance under this bill--hardly a commitment to 
+educational opportunity for all students.
+  We need to provide incentives for students to study math and science. 
+But it makes no sense to do so at the expense of other students. As the 
+cost of college rises and Pell grants remain stagnant, it's wrong to 
+take $13 billion in savings from the student loan program and not give 
+a single penny to 90 percent of the students struggling to make it 
+through college.
+  Senator Gregg pointed to the loan forgiveness provisions in this 
+conference report. I strongly support those provisions and urged their 
+inclusion in the Senate bill. But these provisions are merely an 
+extension of current law. They ensure that we won't now eliminate the 
+incentive we've been providing for teachers who agree to teach in high-
+need fields in high-poverty schools. Loan forgiveness is an extremely 
+important program, but it does nothing for the almost 170,000 college-
+ready students, who each year fail to go to college because they can't 
+afford the upfront costs of doing so. These students need additional 
+grant aid--even if they choose to be teachers and not scientists and 
+engineers.
+  Senator Gregg also said that the fixed interest rate structure in 
+this conference report will cost students $5 billion. In fact, the 
+fixed interest rate structure actually saves about $6 billion more than 
+the variable rate structure proposed by Senator Gregg and included in 
+the House bill.
+  Instead of the variable interest rate capped at 8.25 percent, as 
+proposed by Senator Gregg, the Senate bill kept the current law 
+structure of 6.8 percent fixed rate, which is obviously better for 
+students than an 8.25 percent rate. The Federal Reserve has increased 
+interest rates in each of its last 13 meetings. The Senate bill was 
+designed to protect more students from the current trend of increasing 
+rates.
+  I had proposed a variable rate capped at 6.8 percent--the option 
+supported by the student groups. But our Republican colleagues refused 
+to accept this option.
+  Many of us wanted to do even more for students than we achieved in 
+the Senate bill. Instead, we were forced to find $7 billion in 
+savings--now $13 billion in this final version--so that this Republican 
+Congress and the Bush administration can provide greater tax giveaways 
+to the wealthy.
+  Our Senate bill opened the doors of opportunity for many more young 
+people. We took the fat out of bank profits and put most of it back 
+where it belongs--helping the nation's neediest students. This 
+conference report puts an additional $6 billion into tax cuts for the 
+wealthy--on top of the $7 billion in the Senate bill--while doing 
+nothing for 90 percent of those struggling to pay for college. Those 
+are the wrong priorities, Mr. President, and I very much regret that 
+our Republican colleagues have insisted on turning a good Senate bill 
+into a shameful retreat on aid to college education.
+
+
+                      UNANIMOUS CONSENT AGREEMENT
+
+  Mr. FRIST. Mr. President, I ask unanimous consent that when the 
+Senate convenes on Wednesday, December 21, it immediately resume debate 
+on the conference report to accompany S. 1932; provided further that 
+all time be considered expired under the statute other than 5 minutes 
+each for the chairman and ranking member; further, that following that 
+time, Senator Conrad be recognized in order to raise a Budget Act point 
+of order against the conference report and that immediately after the 
+point of order is raised Senator Gregg be recognized in order to make a 
+motion to waive.
+  I further ask unanimous consent that following the vote on the 
+waiver, Senator Conrad be recognized to make a further point of order 
+and Senator Gregg be recognized immediately in order to move to waive 
+for his point of order; provided that the only Byrd rule points of 
+order in order be from the list that is currently at the desk and that 
+if both points of order are waived, the Senate proceed to a vote on the 
+adoption of the conference report, with no intervening action or 
+debate; further, that if either motion to waive is rejected and the 
+Chair sustains either point of order following the votes on the motions 
+to waive, the Senate then immediately vote on the motion to concur in 
+the House amendment with the Senate amendment as provided under the 
+Budget Act, again with no further intervening action or debate, and 
+that there be 4 minutes equally divided before each point of order 
+vote.
+  Mr. REID. Mr. President, reserving the right to object, I direct 
+these remarks as much to myself as to all other Senators.
+  Tomorrow is an extremely important and very difficult day. I ask all 
+Senators to be patient, not be upset if things don't go the way they 
+think they should. It is going to be a hard day tomorrow. With a little 
+bit of good luck, we should be able to finish everything tomorrow. But 
+I hope all Senators would understand that getting to the point where we 
+are is very difficult. And tomorrow, I hope everyone will, as I have 
+said, be considerate of others and try to move through this with the 
+understanding that we are all trying to get out of here. Everyone 
+understands that there are a lot of things going on. We are also doing 
+the people's business, and we need to focus attention on that.
+  I have no objection.
+  Mr. CONRAD. Mr. President, reserving the right to object, just on the 
+one point we probably need to clarify, that after the point of order I 
+make, Senator Gregg be recognized to make a motion to waive, that our 
+understanding is that would be a motion to waive on the specific items 
+which I have raised.
+  Mr. GREGG. That is correct.
+  Mr. CONRAD. I thank my colleague, and I thank the Chair. I will not 
+object.
+  The PRESIDING OFFICER. Is there objection? Without objection, it is 
+so ordered.
+  The majority leader.
+  Mr. FRIST. Mr. President, I will return later tonight to make further 
+announcements about the schedule for tomorrow. I wish to emphasize what 
+the distinguished minority leader has said. There will be a lot of 
+votes tomorrow. We will begin voting around 10 minutes after 9 
+tomorrow. Thereafter, we are going to have a whole series of votes, 
+with the goal of getting people out sometime tomorrow. It is going to 
+take everybody's patience and cooperation. We will start bright and 
+early. I will have more to say on that later.
+  Mr. DURBIN. Mr. President, I ask unanimous consent to speak in 
+morning business.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+[[Page S14161]]
+
+                         Defense Appropriations
+
+  Mr. DURBIN. Mr. President, tomorrow morning we will consider the 
+Defense appropriations conference report with very little debate. It is 
+an important measure. Earlier I came to the floor to speak about one 
+aspect of the bill which relates to drilling in the Arctic National 
+Wildlife Refuge. It is a large bill, about 1,000 pages. It contains 
+many things. I would like to address the other elements that are 
+included in that bill.
+  This conference report provides $453 billion in defense spending, 
+money for body armor, armored vehicles, protective equipment for our 
+troops that they need and haven't always had. The conference reports 
+includes $1 billion for equipment for National Guard and Reserve units.
+  In Illinois, our National Guard units have been forced to leave their 
+equipment behind in Iraq for use by the units that follow. Other 
+States' National Guard and Reserve units have done the same. Leaving 
+their equipment thousands of miles away makes it difficult to train our 
+guardsmen in my State and many others. It also makes it harder for 
+Guard and Reserve units to respond to civilian disasters here at home. 
+We saw that in Hurricane Katrina. I voted for the Leahy amendment, 
+offered by the Senator from Vermont, to increase funding for Guard and 
+Reserve equipment by $1.3 billion. I am pleased that most of this 
+funding is included in this final conference report.
+  The bill also adds $10 million for the Rock Island Arsenal to ensure 
+that this important military-owned-and-operated facility is ready to 
+make the equipment our troops need when they need it. That Rock Island 
+Arsenal proved its value to America when we needed to retrofit the 
+humvees with armor plating to protect our troops. The men and women of 
+the Rock Island Arsenal worked 24/7 to meet that need. It provides $20 
+million to purchase or refurbish the heavy construction equipment 
+needed by the Navy Seabees and Army Guard and Reserve engineer units. I 
+am proud that we make this gear in Illinois.
+  It includes more than $20 million for upgrades to Navy and Marine 
+Corps FA-18 fighter aircraft because our pilots deserve the best 
+equipment there is. This conference reports also includes $29 billion 
+for Katrina disaster relief. It is important to note that not one dime 
+of this $29 billion is new money; $5.1 billion is from the 1-percent 
+across-the-board cuts in this bill as well as other rescissions. The 
+rest, $23.4 of the $29 billion total, was already earmarked for FEMA. 
+FEMA programs are being cut to pay for Katrina relief. Would you 
+believe that this conference reports actually cuts FEMA's preparedness, 
+mitigation, recovery, and response programs by $2 million? It cuts 
+Federal programs, funds for programs such as catastrophic planning and 
+planning for mass evacuations. It is hard to imagine, in the wake of 
+Hurricane Katrina, that we are reducing spending in this bill for 
+planning for mass evacuations. God forbid we face another one in the 
+near future.
+  Inadequate resources clearly was not the only reason FEMA was 
+overwhelmed by Katrina. The main reason was cronyism and incompetence 
+at the top. But does anyone seriously believe that cutting FEMA's 
+disaster prevention and preparedness programs is the right way to 
+respond to Katrina? It isn't. Of the $29 billion for Katrina relief, 
+one-tenth of that total, $2.9 billion, is for Army Corps of Engineers 
+projects including levee repairs. I am glad the administration has 
+acknowledged the need for the Federal Government to take the lead to 
+rebuild the levees. Homeowners can't rebuild, business owners won't 
+relocate until New Orleans' levees are safe and rebuilt.
+  Let's be clear, $2.9 billion is a very small downpayment on what is 
+needed to rebuild the levees and restore the wetlands. Estimates of 
+what it will cost range from $18 billion to $32 billion to reach 
+category 5 hurricane protection. Restoring the wetlands could cost an 
+additional $18 billion. As any good environmental engineer will tell 
+you, strong levees and restored wetlands are needed to fully protect 
+New Orleans and the surrounding areas. In his nationally televised 
+speech from New Orleans' Jackson Square in mid-September, President 
+Bush promised the Federal Government would help New Orleans and 
+Louisiana make the flood protection system stronger than it has ever 
+been. The $2.9 billion in this bill is a small downpayment on that 
+promise. We will look for the next installment next year.
+  The President should also make it clear right now that New Orleans' 
+levees will be rebuilt to withstand a category 5 hurricane. If we don't 
+want New Orleans to turn into a permanent ghost town, the people have 
+to know that it is safe to return. Assurance from the President would 
+make that difference.
+  What is missing in this bill? Unfortunately, several critically 
+important provisions have been stripped out behind the closed doors of 
+the conference committee. Let me tell you one that has become a 
+perennial. The Reservist Pay Security Act, which the Senate has now 
+passed four different times--I have sponsored this bill and it passed 
+in the Senate four different times--is one of the measures that should 
+be in this bill but always gets stripped out in conference. The same 
+Senators who stand here and vote proudly for it can't wait to get 
+behind closed doors and strip it out. Four straight years. What is it 
+about? When Guard and Reserve members of top companies such as Sears, 
+GM, and Home Depot are called to active duty, companies they work for 
+make up their difference in pay. They can worry about defeating 
+terrorism and don't have to worry about missing mortgage payments.
+
+  Thirty State governments do the same thing. They believe their 
+workers who sacrifice to defend America are worth a helping hand. I 
+introduced the Reservist Pay Security Act with a bipartisan team of 
+Republicans and Democrats in the Senate, including my lead cosponsors 
+Senator Barbara Mikulski of Maryland, Senator George Allen of Virginia, 
+Lindsey Graham of South Carolina, and others who believe the Federal 
+Government should make the same commitment to the troops that other 
+employers make. One out of every ten Guard and Reserve members is a 
+Federal employee. Yet they don't have the same salary and income 
+protection as those in the private sector. How can you possibly explain 
+that? How can we say, as a Federal Government, we won't stand behind 
+our troops when the private sector does, when State governments do, 
+when local governments do?
+  Again and again that is passed on the Senate floor. We pat ourselves 
+on the back and it heads to the conference committee and disappears. 
+Think about this: The Department of Defense hands out awards to 
+companies that stand behind the Guard and Reserve. The Federal 
+Government should hand out a demotion to those in the Senate who 
+consistently vote for this on the floor with a big smile on their 
+faces, head to the conference committee and kill it every time. If they 
+think they are getting even with me, that isn't what it is about. It is 
+about helping our troops.
+  On a bipartisan basis, Members of the Senate have said it is time to 
+get this done. This bill doesn't do it. The Department of Defense 
+claims that it would cause disparity and discord if an activated 
+reservist is being paid more than an Active-Duty soldier. Active-Duty 
+soldiers don't stand around comparing pay stubs and what they are 
+making back home. The Reservist Pay Disparity Act doesn't create 
+disparities, it reduces them, by ensuring fewer soldiers have to 
+sacrifice a substantial part of their income to serve the Nation. We 
+talk all the time about supporting our troops. It is interesting, we 
+support it when there is a rollcall on the floor. When it gets to the 
+darkness of a conference committee, that support has been taken out 
+time and time again.
+  I hope we will have a chance to pass this in the next session. I will 
+offer it again. This time I hope the conference committee will give us 
+a helping hand instead of turning its back on our guardsmen and 
+reservists.
+  I am also deeply disappointed this defense conference report contains 
+no relief funds for farmers who suffered serious income losses this 
+year because of drought and other natural disasters. The year 2005 was 
+a tough year for farmers from coast to coast. Hurricanes Katrina and 
+Rita, the drought in the Midwest, the flooding in the upper Midwest, 
+all of these things have taken their toll on my State and so many
+
+[[Page S14162]]
+
+others. Year in and year out we have had a disaster assistance program 
+for farmers. This year we need it and we need it badly in Illinois and 
+many other States. When Senator Byron Dorgan of North Dakota offered a 
+$1.6 billion amendment in the conference committee to restore the 
+disaster assistance program, it was defeated on the House side. The 
+House Republican leadership refused to agree to an agriculture disaster 
+assistance relief program. That is unfortunate. I hope that the 
+Congressmen who represent farming areas will come back to Washington 
+after the first of the year and encourage their colleagues to pass 
+this.
+  We need it so a lot of farmers will have the resources they need to 
+get back to work and back to farming this next year. What is also 
+missing is this: At least 300,000 innocent people have died in the 
+genocide in Sudan. The number may be 400,000. Nobody knows for sure. 
+Two million people have been driven from their homes and 500 people die 
+every day in refugee camps. We missed an important opportunity to stop 
+or slow down that genocide in this conference report. We refused to 
+help the work of the African Union Mission in Sudan in this bill. The 
+United States provides approximately $8 million a month in support of 
+the African Union Mission in Sudan. That amounts to one-third of their 
+total funding. These funds are vital to the African Union peacekeeping 
+troops in Darfur.
+  The Senate included $50 million in our version of the bill, the 
+Foreign Operations appropriations bill, to support the African Union, 
+which was dropped in conference. Secretary Rice said these funds are 
+critical. She requested they be included in this Defense appropriations 
+bill. The Secretary noted the State Department already had to reprogram 
+$13 million that was intended to train the new Afghan Army and use it 
+instead for our commitments in Africa.
+  United States funds for Africa will run out January 1. Without 
+additional funding, the State Department will have to choose between 
+diverting funds from other important priorities and making this 
+genocide situation worse in Darfur. I will quote from Secretary Rice in 
+a letter she sent to Congress:
+
+       We now face a critical juncture in supporting the African 
+     Union Mission in Sudan. . . . Through reprogramming of other 
+     peacekeeping monies, the administration has found a way to 
+     fund our contribution to AMIS through the end of this year. 
+     But the FY2006 Foreign Operations Appropriations Act provided 
+     no funding for this peacekeeping mission. We are in critical 
+     need of funding to continue this mission at a robust level 
+     into 2006.
+
+  She continued:
+
+       To meet ongoing operational costs and to provide adequate 
+     logistical and communications support, we are seeking at 
+     least $50 million for AMIS.
+
+  She went on to say:
+
+       I have discussed this matter with others in the 
+     administration and can assure you that taking immediate 
+     action to meet this unanticipated expense is of the highest 
+     priority.
+
+  Those are her words--``highest priority.''
+  Despite the urgency of the situation, the House Republican leaders 
+removed the funds for the African Union Mission in Sudan from this 
+conference report.
+  Just a few weeks ago, I was with Senator Sam Brownback of Kansas in 
+Rwanda. We stayed in that hotel in the movie ``Hotel Rwanda.'' That was 
+the hotel that 11 years ago was a refuge for Rwandan victims of the 
+genocide. At the direction of the manager of that hotel, he managed to 
+secrete away and protect hundreds of people who otherwise would have 
+been hacked to death and killed in the Rwanda genocide.
+  I remember that genocide as a Member of the House of Representatives, 
+because my senior Senator and close friend, the late Paul Simon, was 
+one of the few Senators to speak out. He said to the Clinton 
+administration: What is going on in Rwanda is terrible. Whether you 
+call it a genocide or not, with a few American troops, we can bring 
+stability to the area and save innocent lives. Senator Simon's request 
+fell on deaf ears. The Clinton administration did not respond and the 
+genocide continued.
+  The death toll, when it was all over, is estimated at 800,000 people. 
+I went to a Catholic church a few blocks away from this hotel in 
+Rwanda. The church looked like an ordinary church, filled with people 
+who came to worship at 6 a.m. in the morning. I learned later that a 
+thousand people were hacked to death in that church. They came in there 
+for refuge. They were, unfortunately, turned over to the rebels and 
+killed on the spot. They thought they were saving a church.
+  That is what genocide is all about, the wanton killing of people. 
+President Bill Clinton, when he does his assessment of his 
+administration and lists the liabilities or negatives, is usually going 
+to put at the top of the list his failure to respond to the Rwanda 
+genocide. He deeply regrets the fact that our Nation didn't speak up 
+and stand up to stop that genocide.
+  Fast forward now 9 or 10 years to the situation in Darfur in Sudan. 
+We have a new President, George W. Bush; we had a new Secretary of 
+State, Colin Powell; and now it is Condoleezza Rice. They were able to 
+say the word about Darfur in Sudan which the Clinton administration 
+would not say about Rwanda. They said we are dealing with a 
+``genocide.'' That is a word you have to use very carefully. It has 
+happened rarely in the history of the world, but when it has, it has 
+had cataclysmic consequences. So our administration, our Government, 
+our country has declared that a genocide is occurring in Darfur in 
+Sudan. The obvious question to us and those people around the world who 
+care is: What are we going to do? We have not committed any American 
+troops. Maybe we never will, but at the least we should be supporting 
+the African Union troops who are trying to bring order there on the 
+ground.
+
+  This bill we are going to consider tomorrow took out the money for 
+these African Union troops, despite the pleas of Secretary of State 
+Rice, despite the knowledge that we are dealing with a genuine genocide 
+where innocent people are being killed, raped, and displaced every day. 
+We could not find $50 million in a multibillion dollar budget to keep 
+these troops there to protect the poor people in this region. It is 
+unthinkable, yet it is a fact.
+  Earlier this year, the Senate unanimously approved the Darfur Peace 
+and Accountability Act, calling for the rapid expansion of the African 
+Union force. That legislation stated that if the AU Mission fails to 
+stop the ongoing genocide, ``the international community should take 
+additional . . . measures to prevent and suppress acts of genocide in 
+the Darfur region.''
+  In recent months, the violence has worsened. Some aid groups are 
+leaving the region because of security concerns. Even the African Union 
+troops have been the target of violence.
+  With the resurgent violence of Darfur, the Sudanese Government and 
+its partners, the jingaweit militias, appear to be testing the resolve 
+of the African Union, the West, and the United States of America. Not 
+providing these funds--$50 million for troops to protect these innocent 
+people--is inexcusable. It is a signal to the perpetrators of these 
+atrocities that we cannot be bothered. We cannot afford to come up with 
+$50 million to stop a genocide.
+  Mr. President, $50 million for AMIS won't resolve the crisis there, 
+but it will enable the African Union to maintain its current size and 
+scope of operations. It would allow this Nation, America, to stand on 
+the right side of history against the repression and genocide in 
+Darfur.
+  How can we in good conscience vow ``never again'' and then cut the 
+funds needed to keep that promise? How can we watch genocide in our own 
+time and refuse to do what is needed to stop it? What if a God-fearing, 
+caring Nation such as America declares there is a genocide and does 
+nothing? That is what we are up against in this bill.
+  I hope that men and women of conscience in the Senate on both sides 
+of the aisle, as soon as we return in January, will do something 
+immediately to provide the assistance they need in Darfur to provide 
+the African Union the support they need.
+  I spoke earlier about ANWR. I will not go into that any further, 
+other than to say it is truly unfortunate that a bill of this 
+importance and this magnitude is being dragged down the road in an 
+effort to provide this giveaway to the State of Alaska and to oil 
+companies. Of all of the things we should be doing, this is the last--
+to be drilling for oil in a wildlife refuge set aside almost 50 years 
+ago to be protected for generations, so some oil company can make a 
+profit and the State of Alaska can end up benefiting.
+
+[[Page S14163]]
+
+  This conference report contains also a huge gift of nearly unlimited 
+immunity for the pharmaceutical industry, one of the wealthiest 
+industries in America. When I first came to Congress, I would have to 
+say the strongest lobby on Capitol Hill in the 1980s was the tobacco 
+lobby. You could not beat them. I know because I tried several times 
+unsuccessfully before I passed a bill banning smoking on airplanes. It 
+was the first real loss they ever had on the floor of the House. And 
+when it came to the Senate, Senator Lautenberg led the fight here and 
+we won. It made the news because nobody beat them. The tobacco lobby 
+was unbeatable. Now they have been replaced as the king of K Street. 
+That distinction now goes to the pharmaceutical industry. Hardly a bill 
+passes through here where the pharmaceutical industry and drug 
+companies don't end up getting some little favor that has been offered 
+by the majority in the Senate.
+  The Republican leaders in Congress exploited in this bill a real need 
+to push through a big favor for wealthy special interests. To prepare 
+for a potentially deadly breakout of avian flu, Senate Democrats, 
+including Senators Obama, Harkin, Reid, Kennedy, and others, sought 
+twice to add as much as $7.9 billion for the avian flu prevention and 
+response efforts.
+  In response, the President requested $7.1 billion for avian flu. This 
+conference report provides $3.8 billion for avian flu, a little bit 
+over half of what the President requested. How in the world will we 
+answer our critics when they come forward and say, Did anyone speak out 
+here in the face of this potential devastation from avian flu, that the 
+funding in this bill was inadequate to the task? We know it is in 
+Congress; the President knows it is. But when it comes to the 
+conferees, they have decided: Let's save some money here. It is a false 
+savings if this pandemic strikes the United States and endangers the 
+lives of innocent citizens.
+  It also includes something that was not in the President's plan nor 
+in the Senate Democrats' plans, and that is where the pharmaceutical 
+companies come in again. It includes sweeping immunity protections that 
+would shield pharmaceutical companies from legal responsibility, even 
+when their mistakes result in injury and death.
+  In the middle of the night, after conferees were assured that the 
+controversial liability immunity provision would not be included in the 
+bill, after the report had been signed, after all of that, the 
+Republican leadership added 47 new pages to the bill.
+  These new liability protections are not limited to avian flu vaccine, 
+which is what the press releases said. Oh, it is all about creating a 
+market for new vaccines to be made. Nope. These immunity provisions are 
+so broad that they include drugs such as Tylenol, Advil, even Vioxx.
+  The Republican proposal would shield the drug industry from legal 
+accountability for sickness, disability, and even death resulting from 
+vaccines, drugs, and other products. The only exception is in cases of 
+willful misconduct. Do you know what it takes to prove willful 
+misconduct? You have to prove a drug company knew its product would 
+injure or kill someone and went ahead and sold it anyway.
+  That is an unrealistically high standard, and it just means fewer 
+people will have a day in court. If that is not bad enough, even if a 
+drug company acts with willful misconduct, it is still shielded from 
+immunity unless the Secretary of Health and Human Services or the 
+Attorney General initiates an enforcement action. If no such action is 
+taken, a drug company could knowingly kill hundreds or thousands of 
+Americans and still not be held liable.
+  There are other loopholes. The Secretary of Health and Human Services 
+can declare an emergency at any time. These declarations would also 
+shield drug companies from legal accountability. They are not subject 
+to appeal or to independent judicial review. This bill overrides State 
+laws.
+  Supporters of this proposal claim it establishes a compensation fund 
+for victims. However, the fund is operated under regulations 
+established by the Secretary alone. It includes caps on compensation. 
+There is no guarantee Congress will provide sufficient funds to make 
+certain that victims receive any compensation. It could turn out to be 
+nothing more than empty promises.
+  Think about the fact that virtually anyone in America, with two 
+exceptions now, is held responsible for the products they sell. And if 
+those products cause harm to individuals, they can be held accountable. 
+That kind of standard is used for all of America and for all 
+businesses, for the products, the goods and services they sell.
+  Just a few months ago, we decided to create the first exception. We 
+decided that people who manufacture firearms should not be held 
+responsible if those firearms injure someone or kill them. That is 
+right, firearms. The gun lobby came in here, pushed the bill through, 
+and the President signed it gleefully. Now comes the next one, the 
+pharmaceutical industry, that they will not be held liable for the 
+drugs and vaccines they sell in the ordinary course of business if they 
+have been negligent in preparing those drugs or misrepresenting what 
+those drugs will do to the American public.
+  Let's get down to business. None of these protections in this bill 
+are really needed. The Federal Government already has authority to 
+waive liability during a public health crisis. That authority is part 
+of the President's pandemic influenza plans. These protections are not 
+needed to lure drug companies into the vaccine. This is a lucrative 
+market. Roche, the company that makes Tamiflu, estimates that sales of 
+its antiviral will reach $1 billion this year, four times the 2004 
+level--$1 billion. And we are building into this law protections for 
+drug companies that are so profitable when, in fact, they are not being 
+held as accountable as other businesses.
+  Other biotech firms are competing to develop improved vaccines and 
+see their stock value soar in the process. The most profitable sector 
+in the American economy has scored another big one. It is Christmas on 
+K Street for drug company lobbyists. I am sure there are big parties 
+this week as they can't wait for this bill to be signed into law and 
+escape liability.
+  Why has this bill been stuck into this conference report at the last 
+minute? Here is a hint. Big PhRMA, the pharmaceutical companies, is the 
+single largest influence operation in Washington today. They spent $123 
+million lobbying Congress in 2004, according to the Center for Public 
+Integrity. Since 1998, pharmaceutical companies have contributed $87 
+million to Federal candidates, nearly all Republicans, but not 
+exclusively, according to the same center. This is the worst kind of 
+special interest dealmaking.
+
+  It is unfortunate that, once again, we are saying to the American 
+people that we are creating a special class in America--a class of 
+businesses that cannot be held accountable for their wrongdoing.
+  We are also saying to the victims of their wrongdoing: Sorry, you 
+can't go to a jury in your neighborhood and in your community and ask 
+them to judge whether you have been wronged improperly.
+  A third provision that ought not to be included in this bill is in 
+the Katrina relief package. It would create the first national 
+education voucher program. Under this proposal, a disproportionate 
+share of school funding would go to private and religious schools at 
+the expense of public education. At the same time, the bill removes all 
+prohibitions against using Federal money for religious education and 
+sectarian activity.
+  Using public education dollars for religious purposes is contrary to 
+our Constitution, it is contrary to the feelings of most Americans, and 
+it is contrary usually to the will of the Senate. The Senate version of 
+the Katrina education proposal, which I supported, and I know Senator 
+Landrieu supported it as well, contained assurances that Government 
+funds would not be used ``for religious instruction, proselytization, 
+or worship.'' That language was stripped out of the House bill.
+  This is a sad pattern in Congress. For example, the House version of 
+Head Start reauthorization would repeal the longstanding civil rights 
+protections that prohibited Head Start teachers and staff from being 
+discriminated against based on their personal religious belief.
+  House amendments to the Workforce Investment Act would also repeal 
+the important civil rights protections that prevent employment 
+discrimination based on religion.
+
+[[Page S14164]]
+
+  In the same manner, there is no language in the House conference 
+report that bans schools that receive these funds under the Katrina 
+relief provisions from practicing employment discrimination. If the 
+private and religious schools refuse to hire people who don't share 
+their religious belief, according to this bill, that is just fine.
+  The bill also says if your family is forced from your home because of 
+Hurricane Katrina, and your child is now attending a religious school 
+because it is the only option available where you are now living, your 
+child will receive religious instruction unless you opt out. It places 
+the burden on the parents. Yet there is no language in this bill 
+requiring that parents and students be notified of the right to opt out 
+of religious instruction.
+  We can have a debate about using public school dollars for private 
+and religious schools, but to use an unprecedented disaster to in a 
+backhanded way include religious school vouchers in the Federal budget 
+without adequate public debate is just wrong. When you combine these 
+back-door cuts to public schools, the 1-percent across-the-board 
+reductions in educational programs designed to help poor children and 
+children with disabilities, this bill makes a mockery of the promise to 
+leave no child behind.
+  There was recently an editorial, a column in the Chicago Tribune on 
+Monday, written by Dennis Burns, in which he was arguing for the 
+teaching of intelligent design in public schools. He believes 
+Government should require that to be taught. He argued that faith-based 
+belief is not inconsistent with science, and he felt the Government 
+should step in and make it clear that you can include religious 
+education as part of a public school curriculum.
+  What was interesting was the column next to it. It was a column by 
+Charles Krauthammer, and it was about the President of Iran. If you 
+have been following the lunatic ravings of the President of Iran about 
+the fact that he believes there was no Holocaust and he believes that 
+the Israelis have no right to their own homeland, you will find that 
+his crazed beliefs are grounded in his strong religious convictions.
+  That tells us for a moment of the wisdom of our Founding Fathers, who 
+understood the important necessity of separating church and state in 
+America.
+  Our Constitution is explicit. It says that one has the right to 
+believe what they want to believe, and if they want to believe in no 
+God, they have that right in America, too. It is a matter of personal 
+conscience. I believe they were absolutely right in that regard.
+  The second thing they said is this Government will not choose a 
+religion, this Government will not have an official religion. That, 
+too, was a very incisive and wise observation by those who founded this 
+country.
+  I hope that many people who are now trying to force religious issues 
+into appropriation after appropriation and issue after issue should 
+consider for just one moment what they are doing. This time of year, 
+when many of us turn to our religious belief to enrich this holiday 
+season, I hope that everyone will say a little prayer that the 
+intelligent design of the Constitution of the United States of America 
+will be respected by the Congress.
+  Finally, this conference report includes a 1-percent across-the-board 
+cut in all Federal programs except veterans and spending on the wars in 
+Iraq and Afghanistan. Managing the Federal budget is supposed to be 
+about making responsible and moral choices. A calculator can cut 
+everything by 1 percent, but not every line item in the budget is of 
+equal importance. We have been sent here to use some judgment. Cutting 
+every program is an abdication of responsibility and no way to manage a 
+budget.
+  We could spend hours listing examples of why this thoughtless 
+approach to budgeting is bad government, but in the interest of time, I 
+will simply highlight a few, based on the Center on Budget and Policy 
+Priorities.
+  To really understand what these across-the-board cuts mean to the 
+people and the programs, we need to compare this year's funding with 
+the 1-percent cut to the funding level in 2005 adjusted for inflation. 
+That is the budgetary baseline of the Congressional Budget Office.
+  When we look at the funding levels we have already appropriated and 
+in some cases already cut for each program in 2006 and then impose an 
+additional 1-percent cut, the results are troubling. Let me go through 
+them quickly. In education, a 1-percent cut in elementary and secondary 
+education amounts to $1.2 billion cut in education for poor children, 
+special education, school improvement efforts, and vocational and adult 
+education. Senator Tom Harkin of Iowa today told us that this is the 
+first time we have lost ground in special education in recent memory. 
+We will have less money to educate the children who are born with 
+special needs and disabilities. In my State of Illinois, we will lose 
+$49 million for those kids.
+  A 1-percent cut in child and family services means $350 million less 
+for Head Start, less for services for abused and neglected kids, less 
+for adoption-related services, less for abstinence education, less for 
+services for homeless children and other programs. Funding for early 
+education and health care through Head Start will be cut by $195 
+million, and that means 25,000 more children will not be included in 
+Head Start next year. Childcare development block grants helping lower 
+and moderate-income families afford childcare face a 1-percent cut, 
+meaning 11,000 fewer children from low-income families, working 
+families, trying to make sure their kids are in a safe environment, 
+will not be helped because of this 1-percent cut. In my State of 
+Illinois, we will lose $16 million.
+  In housing, the section 8 Housing Choice Voucher Program is the 
+Federal Government's main rental assistance program for low-income 
+families. A 1-percent across-the-board cut means approximately 65,000 
+fewer low-income households receive rental assistance next year. Think 
+of the struggle of working families in lower income categories to find 
+decent housing. Section 8 is one of the fewer programs that helps them. 
+We are going to make sure that 65,000 fewer people are helped next 
+year. In my State of Illinois, we will lose 3,300 vouchers.
+  Community development block grant--a 1-percent across-the-board cut 
+means $777 million lost. That is nearly 16 percent below this year's 
+funding level. Illinois losses $24 million.
+  The Environmental Protection Agency provides Federal funding to 
+States to improve water quality to construct and improve drinking and 
+wastewater treatment. If we cut these programs by 1 percent, or $243 
+million, it means we are cutting them 12 percent below current levels. 
+Illinois loses $11 million.
+  These examples are only the beginning. If one thinks these cuts are 
+absolutely essential, remember that we will come back next year and 
+consider another bill by this administration and by the Republican 
+leadership in this Congress to give tax cuts to the wealthiest people 
+in America. In the midst of a war, facing the biggest deficit in our 
+history, with Hurricane Katrina and its responsibilities looming over 
+us, we are cutting basic programs for education, health care, 
+childcare, and environmental protection to provide tax cuts for the 
+wealthy. Those are the priorities of the Republican leadership, 
+priorities reflected in this bill. Real fiscal discipline requires 
+thoughtful choices. Across-the-board cuts simply hack away 
+indiscriminately at all programs.
+  I know the hour is late, and I thank my colleagues for their 
+patience. I thank those in the Senate, the staff in particular, as we 
+draw closer to the holiday season, and they are all wishing they could 
+go home, and I am, too. I hope we will consider these bills tomorrow. I 
+hope the votes in the Senate will reflect the priorities and values of 
+America.
+  I yield the floor, and I suggest the absence of a quorum.
+  The PRESIDING OFFICER. The clerk will call the roll.
+  The assistant legislative clerk proceeded to call the roll.
+  Mr. FRIST. Mr. President, I ask unanimous consent the order for the 
+quorum call be rescinded.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```
