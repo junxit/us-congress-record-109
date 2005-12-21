@@ -1,0 +1,44 @@
+---
+granule: CREC-2005-12-21-pt2-PgS14408
+date: 2005-12-21
+edition: CREC
+section: SENATE
+page: S14408
+citation: 151 Cong. Rec. S14408
+---
+
+# RUSSIAN FEDERATION PROTECTION OF INTELLECTUAL PROPERTY RIGHTS
+
+**Speaking:** Frist, William H. (F000439) [R-TN]
+
+**Measures:** H.Con.Res. 230
+
+```
+     RUSSIAN FEDERATION PROTECTION OF INTELLECTUAL PROPERTY RIGHTS
+
+  Mr. FRIST. I ask unanimous consent the Committee on Foreign Relations 
+be discharged from further consideration of H. Con. Res. 230, and the 
+resolution be referred to the Committee on Finance.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. FRIST. I ask unanimous consent that the Committee on Finance be 
+discharged and the Senate proceed to the immediate consideration of H. 
+Con. Res. 230.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The clerk will report the concurrent resolution by title.
+  The legislative clerk read as follows:
+
+       A concurrent resolution (H. Con. Res. 230) expressing the 
+     sense of the Congress that the Russian Federation must 
+     protect intellectual property rights.
+
+  There being no objection, the Senate proceeded to consider the 
+concurrent resolution.
+  Mr. FRIST. I ask unanimous consent the resolution be agreed to, the 
+preamble be agreed to, and the motion to reconsider be laid upon the 
+table.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The concurrent resolution (H. Con. Res. 230) was agreed to.
+  The preamble was agreed to.
+
+                          ____________________
+```
