@@ -1,0 +1,42 @@
+---
+granule: CREC-2005-12-22-pt1-PgS14423
+date: 2005-12-22
+edition: CREC
+section: SENATE
+page: S14423
+citation: 151 Cong. Rec. S14423
+---
+
+# Senate
+
+```
+[[Page S14423]]
+
+-----------------------------------------------------------------------
+
+                                 Senate
+
+  The Senate met at 8 p.m. and was called to order by the Honorable 
+John Warner, a Senator from the State of Virginia.
+                                 ______
+                                 
+
+                                 Prayer
+
+  The Chaplain, Dr. Barry C. Black, offered the following prayer:
+  Let us pray.
+  Spirit of Holiness, we thank You for the joyous gift of the holidays 
+that are beyond price. For friends who grow dearer through the passing 
+years, for the homes we call our own, for loyal devotion and patient 
+understanding, for all these we lift our voices in praise.
+  Lord, as we observe the traditions and keep the customs of this 
+season, make us thankful and keep us humble. Keep us mindful of our 
+many spiritual blessings so we will not forget the reason for this 
+season. Give us eyes to see Your stars and ears to hear the song of the 
+angels.
+  Bless our Senators with generous' hearts. Let the kindly holiday 
+spirit penetrate all our deeds in the days to come. We pray in Your 
+loving Name. Amen.
+
+                          ____________________
+```
