@@ -1,0 +1,39 @@
+---
+granule: CREC-2006-02-07-pt1-PgH159-3
+date: 2006-02-07
+edition: CREC
+section: HOUSE
+page: H159
+citation: 152 Cong. Rec. H159
+---
+
+# ADMINISTRATION CUTS OFF FEDERAL FUNDS TO OSU STUDY
+
+**Speaking:** Inslee, Jay (I000026) [D-WA]
+
+```
+           ADMINISTRATION CUTS OFF FEDERAL FUNDS TO OSU STUDY
+
+  (Mr. INSLEE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. INSLEE. Mr. Speaker, we have another concern today arising about 
+the administration's potential abuse of the scientific process in 
+making policy.
+  Today, the Associated Press reported that the Bureau of Land 
+Management under this administration has suspended funding for the 
+final year of a study from Oregon State University on the impact of 
+logging in national forests burned by wildfires.
+  Findings of these studies were published last month in the magazine 
+Science, and they suggested that the administration's stance on salvage 
+logging runs counter to the real goals regarding forest regeneration 
+and fire prevention. I am concerned in this case that we have seen yet 
+another situation where funding may have been frozen to punish 
+scientific results legitimately conducted at Oregon State University, 
+and that is why I have called on the Interior Department's inspector 
+general today to investigate whether or not this in fact has occurred.
+  Did Daniel Donato and his research team from OSU lose funding because 
+of this cause? Is this another punishment situation? We need to find 
+out. We have got to respect science and use it accordingly.
+
+                          ____________________
+```
