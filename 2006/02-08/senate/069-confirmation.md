@@ -1,0 +1,26 @@
+---
+granule: CREC-2006-02-08-pt1-PgS873
+date: 2006-02-08
+edition: CREC
+section: SENATE
+page: S873
+citation: 152 Cong. Rec. S873
+---
+
+# CONFIRMATION
+
+```
+                              CONFIRMATION
+
+  Executive nomination confirmed by the Senate Wednesday, February 8, 
+2006:
+
+
+                          DEPARTMENT OF STATE
+
+       ROLAND ARNALL, OF CALIFORNIA, TO BE AMBASSADOR TO THE 
+     KINGDOM OF THE NETHERLANDS.
+       THE ABOVE NOMINATION WAS APPROVED SUBJECT TO THE NOMINEE'S 
+     COMMITMENT TO RESPOND TO REQUESTS TO APPEAR AND TESTIFY 
+     BEFORE ANY DULY CONSTITUTED COMMITTEE OF THE SENATE.
+```
