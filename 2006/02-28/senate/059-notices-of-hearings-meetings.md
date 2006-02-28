@@ -1,0 +1,27 @@
+---
+granule: CREC-2006-02-28-pt1-PgS1552
+date: 2006-02-28
+edition: CREC
+section: SENATE
+page: S1552
+citation: 152 Cong. Rec. S1552
+---
+
+# NOTICES OF HEARINGS/MEETINGS
+
+```
+                      NOTICES OF HEARINGS/MEETINGS
+
+
+                      COMMITTEE ON INDIAN AFFAIRS
+
+  Mr. McCain. Mr. President, I would like to announce that the 
+Committee on Indian Affairs will meet on Wednesday, March 1, 2006, at 
+9:30 a.m., in room 106 of the Dirksen Senate Office Building to conduct 
+a joint oversight hearing with the House Committee on Resources on the 
+Settlement of Cobell v. Norton.
+  Those wishing additional information may contact the Indian Affairs 
+Committee at 224-2251.
+
+                          ____________________
+```
