@@ -1,0 +1,60 @@
+---
+granule: CREC-2006-03-01-pt1-PgS1577-2
+date: 2006-03-01
+edition: CREC
+section: SENATE
+page: S1577
+citation: 152 Cong. Rec. S1577
+---
+
+# KIMMIE MEISSNER
+
+**Speaking:** Mikulski, Barbara A. (M000702) [D-MD]
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+                            KIMMIE MEISSNER
+
+● Ms. MIKULSKI. Mr. President, I rise today to honor Kimmie 
+Meissner, a great Olympian and the pride of Bel Air, MD. We in Maryland 
+are so proud of Kimmie. Sixth at the Olympics at the age of 16 is a 
+monumental achievement.
+  Like many of my colleagues, I was glued to the television set to 
+watch our U.S. athletes in Torino. I was so impressed with Kimmie's 
+performance, I only wish I could have been there to lead the applause 
+for our hometown girl. She may have come in sixth in Torino, but she 
+came in first in the hearts of the people of my great State.
+  But Kimmie's accomplishments didn't begin in Torino. She began her 
+figure skating career 10 years ago at the age of 6. At the age of 6. 
+She has been a true student athlete for almost her entire life, 
+balancing her school work with her training. Kimmie goes to Fallston 
+High School in Harford County every day, and when school is over she 
+drives to Delaware to train for her second shift as a competitive 
+figure skater.
+  Kimmie shows maturity far beyond her years, both on and off the ice. 
+She supports the Leukemia Society and the Johns Hopkins Hospital 
+Children's Center, taking time out of her life to visit with sick young 
+people.
+  On the ice, Kimmie couldn't have a better attitude. She says her 
+motto is, ``enjoy what you do; do what you enjoy.'' I can think of few 
+young people who have such a thoughtful approach to life. At 16 years 
+old, she has the brightest future of anyone of our Olympic skaters, and 
+I can't wait for the Vancouver Olympics in 2010.
+  March is Women's History Month and the time when we celebrate the 
+achievements and struggles of women in America. Frequently, we point to 
+those who have come before us and who have paved the way for current 
+advances. But it is only right and proper that in this 2006 Women's 
+History Month, we salute young women like Kimmie and the honor she 
+brought the United States with her talent, skill, and sportsmanship.
+  Thank you, Kimmie, for making us so proud. Thank you for representing 
+all that is good and true about America's young people. And though I 
+cannot tell a salchow from an axel, let alone a loop from a lutz, even 
+I could recognize your grit, grace, and promise of an even more 
+glittering future.●
+
+                          ____________________
+```
