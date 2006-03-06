@@ -1,0 +1,35 @@
+---
+granule: CREC-2006-03-06-pt1-PgS1798-5
+date: 2006-03-06
+edition: CREC
+section: SENATE
+page: S1798
+citation: 152 Cong. Rec. S1798
+---
+
+# Text of Senate Amendment 2904
+
+**Speaking:** Snowe, Olympia J. (S000663) [R-ME]
+
+```
+  SA 2904. Ms. SNOWE submitted an amendment intended to be proposed by 
+her to the bill S. 2320, to make available funds included in the 
+Deficit Reduction Act of 2005 for the Low-Income Home Energy Assistance 
+Program for fiscal year 2006, and for other purposes; which was ordered 
+to lie on the table; as follows:
+
+       In section 1, strike paragraphs (1) through (4) and insert 
+     the following:
+       (1) in subsection (a)--
+       (A) by striking ``for a 1-time only obligation and 
+     expenditure'';
+       (B) in paragraph (1), by striking ``$250,000,000 for fiscal 
+     year 2007'' and inserting ``$500,000,000 for fiscal year 
+     2006''; and
+       (C) in paragraph (2), by striking ``$750,000,000 for fiscal 
+     year 2007'' and inserting ``$500,000,000 for fiscal year 
+     2006''; and
+       (2) in subsection (b), by striking ``September 30, 2007'' 
+     and inserting ``September 30, 2006''.
+                                 ______
+```

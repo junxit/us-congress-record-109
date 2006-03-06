@@ -1,0 +1,26 @@
+---
+granule: CREC-2006-03-06-pt1-PgS1806-4
+date: 2006-03-06
+edition: CREC
+section: SENATE
+page: S1806
+citation: 152 Cong. Rec. S1806
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate Monday, March 6, 2006:
+
+
+                             The Judiciary
+
+       TIMOTHY C. BATTEN, SR., OF GEORGIA, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE NORTHERN DISTRICT OF GEORGIA.
+       THOMAS E. JOHNSTON, OF WEST VIRGINIA, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE SOUTHERN DISTRICT OF WEST VIRGINIA.
+       AIDA M. DELGADO-COLON, OF PUERTO RICO, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE DISTRICT OF PUERTO RICO.
+```
