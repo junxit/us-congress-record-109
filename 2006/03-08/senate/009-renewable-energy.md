@@ -1,0 +1,87 @@
+---
+granule: CREC-2006-03-08-pt1-PgS1859-8
+date: 2006-03-08
+edition: CREC
+section: SENATE
+page: S1859
+citation: 152 Cong. Rec. S1859
+---
+
+# RENEWABLE ENERGY
+
+**Speaking:** Allard, Wayne (A000109) [R-CO]
+
+```
+                            RENEWABLE ENERGY
+
+  Mr. ALLARD. Mr. President, I would like to take a few minutes to 
+comment on the trip that President Bush recently made to my home State 
+of Colorado. The President visited several sites that are involved with 
+furthering renewable energy. One of those sites included the National 
+Renewable Energy Laboratory, or NREL as it is often called, in Golden, 
+CO. Due to previous commitments, I was unable to join the President 
+during his trip, but I want to thank him for visiting there, and thank 
+him for the commitments he has made to the lab and to renewable energy.
+  NREL is on the cutting edge in bringing renewable energy technologies 
+out of the laboratory and into the mainstream of American business and 
+society. Although America has rivals in many Asian and European nations 
+in investing in the development of these technologies, NREL deserves 
+credit for many wonderful accomplishments.
+  In recognition of these accomplishments, I have, during my tenure in 
+Congress, led a coalition to push for sufficient funding for both the 
+Department of Energy's renewables budget and NREL. Earmarks have 
+created problems for our national laboratories throughout the United 
+States. The President has addressed the problem, and I am working to 
+prevent this in the future.
+  The environmental benefits of renewable energy are well noted and 
+widely praised. Not only are renewable sources of energy beneficial to 
+our national security, but they reduce greenhouse gas emissions and 
+decrease demands for other energy resources.
+  Wind, solar, geothermal, biomass, photovoltaic and other renewable 
+energies have few if any harmful byproducts. It is simply good policy 
+to do all we can to effectively harness and utilize the natural, clean, 
+reusable sources of energy that are abundant all around us.
+  However we should also be looking at energy efficient technologies. 
+There is a saying that energy saved is like extra
+
+[[Page S1860]]
+
+energy made. I think it is important that we continue investing in 
+research and development of renewable energy and energy efficient 
+technologies. Further developing these technologies is a win-win 
+solution in every sense. Jobs are created, taxpayer money is saved, our 
+national security is enhanced, and the environment is protected.
+  For example, a hog farm near Lamar, CO, is seeing both economic and 
+environmental benefits from converting to a renewable energy source 
+that they have in abundance. The farm was built with an anaerobic 
+digester, which is fueled by hog waste, and uses its methane as a fuel 
+to supply power to the farm operations. An example of how increased 
+efficiency saves money comes from Harmony Library in Fort Collins, CO. 
+The library is considered to be a showcase for state-of-the-art, 
+energy-efficient technologies and building design. They are projected 
+to use about 40 percent less energy than a comparable new building in 
+Fort Collins. They estimate that this will save nearly $12,000 in 
+annual operation costs. The library will be able to use these savings 
+to increase stock and provide additional library services.
+  Renewable and efficient technologies are an important part of a 
+balanced domestic energy portfolio, and our energy future and national 
+security will be enriched by the technologies being developed and 
+perfected today. We must maintain our commitment to funding the 
+research and development that will bring those technologies to the 
+market. The future of our security and prosperity depends on the 
+commitments we make today.
+  I would also like to remind my colleagues of the Renewable Energy and 
+Energy Efficiency Caucus within the Senate. The caucus works to keep 
+Members informed about issues important to the renewables and 
+efficiency communities. We currently have 36 members, but we would like 
+to have more.
+  I also want to thank the President again for his sincere interest in 
+solar and biofuels. The visit to NREL by President Bush and his staff 
+is appreciated by those of us who have been advocating a role in our 
+energy policy for renewable energy. I will continue to work with the 
+administration and my colleagues on the issues facing renewable energy 
+resources.
+  The PRESIDENT pro tempore. The Senator from Nevada is recognized.
+
+                          ____________________
+```
