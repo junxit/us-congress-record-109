@@ -1,0 +1,27 @@
+---
+granule: CREC-2006-03-15-pt1-PgS2220-5
+date: 2006-03-15
+edition: CREC
+section: SENATE
+page: S2220
+citation: 152 Cong. Rec. S2220
+---
+
+# Text of Senate Amendment 3124
+
+**Speaking:** Coleman, Norm (C001057) [R-MN]
+
+```
+  SA 3124. Mr. COLEMAN submitted an amendment intended to be proposed 
+by him to the concurrent resolution S. Con. Res. 83, setting forth the 
+congressional budget for the United States Government for fiscal year 
+2007 and including the appropriate budgetary levels for fiscal years 
+2006 and 2008 through 2011; which was ordered to lie on the table; as 
+follows:
+
+       On page 18, line 24, increase the amount by $143,000,000.
+       On page 18, line 25, increase the amount by $143,000,000.
+       On page 27, line 23, decrease the amount by $143,000,000.
+       On page 27, line 24, increase the amount by $143,000,000.
+                                 ______
+```
