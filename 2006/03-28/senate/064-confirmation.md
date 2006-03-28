@@ -1,0 +1,30 @@
+---
+granule: CRECB-2006-pt3-Pg4116-3
+date: 2006-03-28
+edition: CRECB
+section: SENATE
+page: 4116
+---
+
+# CONFIRMATION
+
+```
+                              CONFIRMATION
+
+  Executive nomination confirmed by the Senate Tuesday, March 28, 2006:
+
+
+                           IN THE COAST GUARD
+
+       THE FOLLOWING NAMED INDIVIDUAL FOR APPOINTMENT AS 
+     COMMANDANT OF THE UNITED STATES COAST GUARD AND TO THE GRADE 
+     INDICATED UNDER TITLE 14, U.S.C., SECTION 44:
+
+                             To be admiral
+
+VICE ADM. THAD W. ALLEN
+
+       THE ABOVE NOMINATION WAS APPROVED SUBJECT TO THE NOMINEE'S 
+     COMMITMENT TO RESPOND TO REQUESTS TO APPEAR AND TESTIFY 
+     BEFORE ANY DULY CONSTITUTED COMMITTEE OF THE SENATE.
+```

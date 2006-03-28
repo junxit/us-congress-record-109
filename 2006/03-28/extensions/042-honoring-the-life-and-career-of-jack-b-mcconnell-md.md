@@ -1,0 +1,57 @@
+---
+granule: CRECB-2006-pt3-Pg4195-5
+date: 2006-03-28
+edition: CRECB
+section: EXTENSIONS
+page: 4195
+---
+
+# HONORING THE LIFE AND CAREER OF JACK B. McCONNELL, MD
+
+```
+         HONORING THE LIFE AND CAREER OF JACK B. McCONNELL, MD
+
+                                 ______
+                                 
+
+                            HON. JOE WILSON
+
+                           of south carolina
+
+                    in the house of representatives
+
+                        Tuesday, March 28, 2006
+
+  Mr. WILSON of South Carolina. Mr. Speaker, the American Medical 
+Association has established a new honor, the Jack B. McConnell, MD, 
+Award for Excellence in Volunteerism, which recognizes the work of a 
+senior physician who provides treatment to U. S. patients who lack 
+access to health care. After a full career of practice, this physician 
+remains dedicated to the future of medicine through the spirit of 
+volunteerism.
+  Jack B. McConnell, MD, is a distinguished physician and scientist who 
+served as Corporate Director of Advanced Technology at Johnson & 
+Johnson. Widely acknowledged for his medical contributions, he directed 
+the development of the TB Tine Test used in the detection of 
+tuberculosis, participated in the early stages of the development of 
+the Polio Vaccine, supervised the discovery of Tylenol, was 
+instrumental in developing the technology for MRI's and helped write 
+the enabling legislation to map the genome.
+  Dr. McConnell saved his greatest achievement for retirement: the 
+creation of Volunteers in Medicine. His visionary concept--using 
+retired medical personnel to volunteer their time and talents in a 
+network of free community clinics for the working uninsured--coupled 
+with his enthusiasm and determination has enabled the VIM program to 
+grow to over 40
+
+[[Page 4196]]
+
+clinics in less than a decade. The initial VIM clinic was opened on 
+Hilton Head Island, South Carolina, and continues to serve with over 
+20,000 patient visits in 2005.
+  Today, I am honored to recognize the tremendous life and career of 
+Dr. McConnell. His service has benefited so many citizens throughout 
+the Second District of South Carolina.
+
+                          ____________________
+```
