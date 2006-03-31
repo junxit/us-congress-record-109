@@ -1,0 +1,87 @@
+---
+granule: CRECB-2006-pt4-Pg4682
+date: 2006-03-31
+edition: CRECB
+section: SENATE
+page: 4682
+---
+
+# SENATE RESOLUTION 418--DESIGNATING THE WEEK BEGINNING APRIL 2, 2006, AS ``WEEK OF THE YOUNG CHILD''
+
+```
+SENATE RESOLUTION 418--DESIGNATING THE WEEK BEGINNING APRIL 2, 2006, AS 
+                      ``WEEK OF THE YOUNG CHILD''
+
+  Mr. SALAZAR (for himself, Mr. DeWine, Mr. Dodd, Ms. Landrieu, Mr. 
+Kerry, Mr. Burr, Mr. Levin, Mrs. Clinton, Mr. Conrad, and Mrs. Murray) 
+submitted the following resolution; which was considered and agreed to:
+
+                              S. Res. 418
+
+       Whereas there are 20,000,000 children under the age of 5 in 
+     the United States;
+       Whereas numerous studies, including the Abecedarian Study, 
+     the Study of the Chicago Child-Parent Center, and the High/
+     Scope Perry Preschool Study, indicate that low-income 
+     children who have enrolled in quality, comprehensive early 
+     childhood education programs--
+       (1) improve their cognitive, language, physical, social, 
+     and emotional development; and
+       (2) are less likely to--
+       (A) be placed in special education;
+       (B) drop out of school; or
+       (C) engage in juvenile delinquency;
+       Whereas the enrollment rates of children under the age of 5 
+     in early childhood education programs have steadily increased 
+     since 1965 with--
+       (1) the creation of the Head Start program carried out 
+     under the Head Start Act (42 U.S.C. 9831 et seq.);
+       (2) the establishment of the Early Head Start program 
+     carried out under the Head Start Act (42 U.S.C. 9831 et 
+     seq.); and
+       (3) the enactment of the Child Care and Development Block 
+     Grant Act of 1990 (42 U.S.C. 9858 et seq.);
+       Whereas many children eligible for, and in need of, quality 
+     early childhood education services are not served due to 
+     inadequate funding;
+       Whereas over 4,000,000 children under the age of 5 live in 
+     poverty;
+       Whereas only about \1/2\ of all preschoolers who are 
+     eligible to participate in Head Start programs have the 
+     opportunity to do so, and even fewer eligible babies and 
+     toddlers receive the opportunity to participate in Early Head 
+     Start;
+       Whereas only about 1 out of every 7 eligible children 
+     receives an amount of child care assistance sufficient to--
+       (1) enable the parents of the child to continue working; 
+     and
+       (2) provide the child with safe and nurturing early 
+     childhood care and education;
+       Whereas, although State and local governments have 
+     responded to the numerous benefits of early childhood 
+     education by making significant investments in programs and 
+     classrooms, there remains--
+       (1) a large unmet need for those services; and
+       (2) a need to improve the quality of those programs; and
+       Whereas, according to numerous studies on the impact of 
+     investments in high-quality early childhood education, the 
+     programs yield to the public a return of 4 dollars to 13 
+     dollars for each dollar invested: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) designates the week beginning April 2, 2006, as ``Week 
+     of the Young Child'';
+       (2) encourages the citizens of the United States to 
+     celebrate--
+       (A) young children; and
+       (B) the citizens who provide care and early childhood 
+     education to the young children of the United States; and
+       (3) urges the citizens of the United States to recognize 
+     the importance of--
+       (A) quality, comprehensive early childhood education 
+     programs; and
+       (B) the value of those services for preparing children to--
+       (i) appreciate future educational experiences; and
+       (ii) enjoy lifelong success.
+
+                          ____________________
+```
