@@ -1,0 +1,30 @@
+---
+granule: CREC-2006-03-31-pt1-PgS2698-4
+date: 2006-03-31
+edition: CREC
+section: SENATE
+page: S2698
+citation: 152 Cong. Rec. S2698
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate Friday, March 31, 2006:
+
+
+                     SMALL BUSINESS ADMINISTRATION
+
+       ERIC M. THORSON, OF VIRGINIA, TO BE INSPECTOR GENERAL, 
+     SMALL BUSINESS ADMINISTRATION.
+
+
+                         DEPARTMENT OF JUSTICE
+
+       SHAREE M. FREEMAN, OF VIRGINIA, TO BE DIRECTOR, COMMUNITY 
+     RELATIONS SERVICE, FOR A TERM OF FOUR YEARS.
+       JEFFREY L. SEDGWICK, OF MASSACHUSETTS, TO BE DIRECTOR OF 
+     THE BUREAU OF JUSTICE STATISTICS.
+```
