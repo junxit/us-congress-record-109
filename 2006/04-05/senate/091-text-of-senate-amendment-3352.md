@@ -1,0 +1,661 @@
+---
+granule: CREC-2006-04-05-pt1-PgS2945-3
+date: 2006-04-05
+edition: CREC
+section: SENATE
+page: S2945
+citation: 152 Cong. Rec. S2945
+---
+
+# Text of Senate Amendment 3352
+
+**Speaking:** Vitter, David (V000127) [R-LA]
+
+```
+  SA 3352. Mr. VITTER submitted an amendment intended to be proposed to 
+amendment SA 3192 submitted by Mr. Specter (for himself, Mr. Leahy, and 
+Mr. Hagel) to the bill S. 2454, to amend the Immigration and 
+Nationality Act to provide for comprehensive reform and for other 
+purposes; which was ordered to lie on the table; as follows:
+
+       On page 225, beginning on line 17, strike all that follows 
+     and insert the following:
+
+                       TITLE V--BACKLOG REDUCTION
+
+     SEC. 501. ELIMINATION OF EXISTING BACKLOGS.
+
+       (a) Family-Sponsored Immigrants.--Section 201(c) (8 U.S.C. 
+     1151(c)) is amended to read as follows:
+       ``(c) Worldwide Level of Family-Sponsored Immigrants.--The 
+     worldwide level of family-sponsored immigrants under this 
+     subsection for a fiscal year is equal to the sum of--
+
+[[Page S2946]]
+
+       ``(1) 480,000;
+       ``(2) the difference between the maximum number of visas 
+     authorized to be issued under this subsection during the 
+     previous fiscal year and the number of visas issued during 
+     the previous fiscal year;
+       ``(3) the difference between--
+       ``(A) the maximum number of visas authorized to be issued 
+     under this subsection during fiscal years 2001 through 2005 
+     minus the number of visas issued under this subsection during 
+     those fiscal years; and
+       ``(B) the number of visas calculated under subparagraph (A) 
+     that were issued after fiscal year 2005.''.
+       (b) Employment-Based Immigrants.--Section 201(d) (8 U.S.C. 
+     1151(d)) is amended to read as follows:
+       ``(d) Worldwide Level of Employment-Based Immigrants.--
+       ``(1) In general.--Subject to paragraph (2), the worldwide 
+     level of employment-based immigrants under this subsection 
+     for a fiscal year is equal to the sum of--
+       ``(A) 290,000;
+       ``(B) the difference between the maximum number of visas 
+     authorized to be issued under this subsection during the 
+     previous fiscal year and the number of visas issued during 
+     the previous fiscal year; and
+       ``(C) the difference between--
+       ``(i) the maximum number of visas authorized to be issued 
+     under this subsection during fiscal years 2001 through 2005 
+     and the number of visa numbers issued under this subsection 
+     during those fiscal years; and
+       ``(ii) the number of visas calculated under clause (i) that 
+     were issued after fiscal year 2005.
+       ``(2) Visas for spouses and children.--Immigrant visas 
+     issued on or after October 1, 2004, to spouses and children 
+     of employment-based immigrants shall not be counted against 
+     the numerical limitation set forth in paragraph (1).''.
+
+     SEC. 502. COUNTRY LIMITS.
+
+       Section 202(a) (8 U.S.C. 1152(a)) is amended--
+       (1) in paragraph (2)--
+       (A) by striking ``, (4), and (5)'' and inserting ``and 
+     (4)''; and
+       (B) by striking ``7 percent (in the case of a single 
+     foreign state) or 2 percent'' and inserting ``10 percent (in 
+     the case of a single foreign state) or 5 percent''; and
+       (2) by striking paragraph (5).
+
+     SEC. 503. ALLOCATION OF IMMIGRANT VISAS.
+
+       (a) Preference Allocation for Family-Sponsored 
+     Immigrants.--Section 203(a) (8 U.S.C. 1153(a)) is amended to 
+     read as follows:
+       ``(a) Preference Allocations for Family-Sponsored 
+     Immigrants.--Aliens subject to the worldwide level specified 
+     in section 201(c) for family-sponsored immigrants shall be 
+     allocated visas as follows:
+       ``(1) Unmarried sons and daughters of citizens.--Qualified 
+     immigrants who are the unmarried sons or daughters of 
+     citizens of the United States shall be allocated visas in a 
+     quantity not to exceed the sum of--
+       ``(A) 10 percent of such worldwide level; and
+       ``(B) any visas not required for the class specified in 
+     paragraph (4).
+       ``(2) Spouses and unmarried sons and daughters of permanent 
+     resident aliens.--
+       ``(A) In general.--Visas in a quantity not to exceed 50 
+     percent of such worldwide level plus any visas not required 
+     for the class specified in paragraph (1) shall be allocated 
+     to qualified immigrants who are--
+       ``(i) the spouses or children of an alien lawfully admitted 
+     for permanent residence; or
+       ``(ii) the unmarried sons or daughters of an alien lawfully 
+     admitted for permanent residence.
+       ``(B) Minimum percentage.--Visas allocated to individuals 
+     described in subparagraph (A)(i) shall constitute not less 
+     than 77 percent of the visas allocated under this paragraph.
+       ``(3) Married sons and daughters of citizens.--Qualified 
+     immigrants who are the married sons and daughters of citizens 
+     of the United States shall be allocated visas in a quantity 
+     not to exceed the sum of--
+       ``(A) 10 percent of such worldwide level; and
+       ``(B) any visas not required for the classes specified in 
+     paragraphs (1) and (2).
+       ``(4) Brothers and sisters of citizens.--Qualified 
+     immigrants who are the brothers or sisters of a citizen of 
+     the United States who is at least 21 years of age shall be 
+     allocated visas in a quantity not to exceed 30 percent of the 
+     worldwide level.''.
+       (b) Preference Allocation for Employment-Based 
+     Immigrants.--Section 203(b) (8 U.S.C. 1153(b)) is amended--
+       (1) in paragraph (1), by striking ``28.6 percent'' and 
+     inserting ``15 percent'';
+       (2) in paragraph (2)(A), by striking ``28.6 percent'' and 
+     inserting ``15 percent'';
+       (3) in paragraph (3)(A)--
+       (A) by striking ``28.6 percent'' and inserting ``35 
+     percent''; and
+       (B) by striking clause (iii);
+       (4) by striking paragraph (4);
+       (5) by redesignating paragraph (5) as paragraph (4);
+       (6) in paragraph (4)(A), as redesignated, by striking ``7.1 
+     percent'' and inserting ``5 percent'';
+       (7) by inserting after paragraph (4), as redesignated, the 
+     following:
+       ``(5) Other workers.--Visas shall be made available, in a 
+     number not to exceed 30 percent of such worldwide level, plus 
+     any visa numbers not required for the classes specified in 
+     paragraphs (1) through (4), to qualified immigrants who are 
+     capable, at the time of petitioning for classification under 
+     this paragraph, of performing unskilled labor that is not of 
+     a temporary or seasonal nature, for which qualified workers 
+     are determined to be unavailable in the United States.''; and
+       (8) by striking paragraph (6).
+       (c) Conforming Amendments.--
+       (1) Definition of special immigrant.--Section 101(a)(27)(M) 
+     (8 U.S.C. 1101(a)(27)(M)) is amended by striking ``subject to 
+     the numerical limitations of section 203(b)(4),''.
+       (2) Repeal of temporary reduction in workers' visas.--
+     Section 203(e) of the Nicaraguan Adjustment and Central 
+     American Relief Act (Public Law 105-100; 8 U.S.C. 1153 note) 
+     is repealed.
+
+     SEC. 504. RELIEF FOR MINOR CHILDREN.
+
+       (a) In General.--Section 201(b)(2) (8 U.S.C. 1151(b)(2)) is 
+     amended to read as follows:
+       ``(2)(A)(i) Aliens admitted under section 211(a) on the 
+     basis of a prior issuance of a visa under section 203(a) to 
+     their accompanying parent who is an immediate relative.
+       ``(ii) In this subparagraph, the term `immediate relative' 
+     means a child, spouse, or parent of a citizen of the United 
+     States (and each child of such child, spouse, or parent who 
+     is accompanying or following to join the child, spouse, or 
+     parent), except that, in the case of parents, such citizens 
+     shall be at least 21 years of age.
+       ``(iii) An alien who was the spouse of a citizen of the 
+     United States for not less than 2 years at the time of the 
+     citizen's death and was not legally separated from the 
+     citizen at the time of the citizen's death, and each child of 
+     such alien, shall be considered, for purposes of this 
+     subsection, to remain an immediate relative after the date of 
+     the citizen's death if the spouse files a petition under 
+     section 204(a)(1)(A)(ii) before the earlier of--
+       ``(I) 2 years after such date; or
+       ``(II) the date on which the spouse remarries.
+       ``(iv) In this clause, an alien who has filed a petition 
+     under clause (iii) or (iv) of section 204(a)(1)(A) remains an 
+     immediate relative if the United States citizen spouse or 
+     parent loses United States citizenship on account of the 
+     abuse.
+       ``(B) Aliens born to an alien lawfully admitted for 
+     permanent residence during a temporary visit abroad.''.
+       (b) Petition.--Section 204(a)(1)(A)(ii) (8 U.S.C. 1154 
+     (a)(1)(A)(ii)) is amended by striking ``in the second 
+     sentence of section 201(b)(2)(A)(i) also'' and inserting ``in 
+     section 201(b)(2)(A)(iii) or an alien child or alien parent 
+     described in the 201(b)(2)(A)(iv)''.
+
+     SEC. 505. SHORTAGE OCCUPATIONS.
+
+       (a) Exception to Direct Numerical Limitations.--Section 
+     201(b)(1) (8 U.S.C. 1151(b)(1)) is amended by adding at the 
+     end the following new subparagraph:
+       ``(F)(i) During the period beginning on the date of the 
+     enactment the Comprehensive Immigration Reform Act of 2006 
+     and ending on September 30, 2017, an alien--
+       ``(I) who is otherwise described in section 203(b); and
+       ``(II) who is seeking admission to the United States to 
+     perform labor in shortage occupations designated by the 
+     Secretary of Labor for blanket certification under section 
+     212(a)(5)(A) due to the lack of sufficient United States 
+     workers able, willing, qualified, and available for such 
+     occupations and for which the employment of aliens will not 
+     adversely affect the terms and conditions of similarly 
+     employed United States workers.
+       ``(ii) During the period described in clause (i), the 
+     spouse or dependents of an alien described in clause (i), if 
+     accompanying or following to join such alien.''.
+       (b) Exception to Nondiscrimination Requirements.--Section 
+     202(a)(1)(A) (8 U.S.C. 1152(a)(1)(A)) is amended by striking 
+     ``201(b)(2)(A)(i)'' and inserting ``201(b)''.
+       (c) Exception to Per Country Levels for Family-Sponsored 
+     and Employment-Based Immigrants.--Section 202(a)(2) (8 U.S.C. 
+     1152(a)(2)), as amended by section 502(1), is further amended 
+     by inserting ``, except for aliens described in section 
+     201(b),'' after ``any fiscal year''.
+       (d) Increasing the Domestic Supply of Nurses and Physical 
+     Therapists.--Not later than January 1, 2007, the Secretary of 
+     Health and Human Services shall--
+       (1) submit to Congress a report on the source of newly 
+     licensed nurses and physical therapists in each State, which 
+     report shall--
+       (A) include the past 3 years for which data are available;
+       (B) provide separate data for each occupation and for each 
+     State;
+       (C) separately identify those receiving their initial 
+     license and those licensed by endorsement from another State;
+       (D) within those receiving their initial license in each 
+     year, identify the number who received their professional 
+     education in the United States and those who received such 
+     education outside the United States; and
+       (E) to the extent possible, identify, by State of residence 
+     and country of education, the number of nurses and physical 
+     therapists who were educated in any of the 5 countries (other 
+     than the United States) from which the most nurses and 
+     physical therapists arrived;
+       (F) identify the barriers to increasing the supply of 
+     nursing faculty, domestically trained nurses, and 
+     domestically trained physical therapists;
+
+[[Page S2947]]
+
+       (G) recommend strategies to be followed by Federal and 
+     State governments that would be effective in removing such 
+     barriers, including strategies that address barriers to 
+     advancement to become registered nurses for other health care 
+     workers, such as home health aides and nurses assistants;
+       (H) recommend amendments to Federal legislation that would 
+     increase the supply of nursing faculty, domestically trained 
+     nurses, and domestically trained physical therapists;
+       (I) recommend Federal grants, loans, and other incentives 
+     that would provide increases in nurse educators, nurse 
+     training facilities, and other steps to increase the domestic 
+     education of new nurses and physical therapists;
+       (J) identify the effects of nurse emigration on the health 
+     care systems in their countries of origin; and
+       (K) recommend amendments to Federal law that would minimize 
+     the effects of health care shortages in the countries of 
+     origin from which immigrant nurses arrived;
+       (2) enter into a contract with the National Academy of 
+     Sciences Institute of Medicine to determine the level of 
+     Federal investment under titles VII and VIII of the Public 
+     Health Service Act necessary to eliminate the domestic 
+     nursing and physical therapist shortage not later than 7 
+     years from the date on which the report is published; and
+       (3) collaborate with other agencies, as appropriate, in 
+     working with ministers of health or other appropriate 
+     officials of the 5 countries from which the most nurses and 
+     physical therapists arrived, to--
+       (A) address health worker shortages caused by emigration;
+       (B) ensure that there is sufficient human resource planning 
+     or other technical assistance needed to reduce further health 
+     worker shortages in such countries.
+
+     SEC. 506. RELIEF FOR WIDOWS AND ORPHANS.
+
+       (a) Short Title.--This section may be cited as the ``Widows 
+     and Orphans Act of 2006''.
+       (b) New Special Immigrant Category.--
+       (1) Certain children and women at risk of harm.--Section 
+     101(a)(27) (8 U.S.C. 1101(a)(27)) is amended--
+       (A) in subparagraph (L), by inserting a semicolon at the 
+     end;
+       (B) in subparagraph (M), by striking the period at the end 
+     and inserting ``; or''; and
+       (C) by adding at the end the following:
+       ``(N) subject to subsection (j), an immigrant who is not 
+     present in the United States--
+       ``(i) who is--
+
+       ``(I) referred to a consular, immigration, or other 
+     designated official by a United States Government agency, an 
+     international organization, or recognized nongovernmental 
+     entity designated by the Secretary of State for purposes of 
+     such referrals; and
+       ``(II) determined by such official to be a minor under 18 
+     years of age (as determined under subsection (j)(5))--
+
+       ``(aa) for whom no parent or legal guardian is able to 
+     provide adequate care;
+       ``(bb) who faces a credible fear of harm related to his or 
+     her age;
+       ``(cc) who lacks adequate protection from such harm; and
+       ``(dd) for whom it has been determined to be in his or her 
+     best interests to be admitted to the United States; or
+       ``(ii) who is--
+
+       ``(I) referred to a consular or immigration official by a 
+     United States Government agency, an international 
+     organization or recognized nongovernmental entity designated 
+     by the Secretary of State for purposes of such referrals; and
+       ``(II) determined by such official to be a female who has--
+
+       ``(aa) a credible fear of harm related to her sex; and
+       ``(bb) a lack of adequate protection from such harm.''.
+       (2) Statutory construction.--Section 101 (8 U.S.C. 1101) is 
+     amended by adding at the end the following:
+       ``(j)(1) No natural parent or prior adoptive parent of any 
+     alien provided special immigrant status under subsection 
+     (a)(27)(N)(i) shall thereafter, by virtue of such parentage, 
+     be accorded any right, privilege, or status under this Act.
+       ``(2)(A) No alien who qualifies for a special immigrant 
+     visa under subsection (a)(27)(N)(ii) may apply for derivative 
+     status or petition for any spouse who is represented by the 
+     alien as missing, deceased, or the source of harm at the time 
+     of the alien's application and admission. The Secretary of 
+     Homeland Security may waive this requirement for an alien who 
+     demonstrates that the alien's representations regarding the 
+     spouse were bona fide.
+       ``(B) An alien who qualifies for a special immigrant visa 
+     under subsection (a)(27)(N) may apply for derivative status 
+     or petition for any sibling under the age of 18 years or 
+     children under the age of 18 years of any such alien, if 
+     accompanying or following to join the alien. For purposes of 
+     this subparagraph, a determination of age shall be made using 
+     the age of the alien on the date the petition is filed with 
+     the Department of Homeland Security.
+       ``(3) An alien who qualifies for a special immigrant visa 
+     under subsection (a)(27)(N) shall be treated in the same 
+     manner as a refugee solely for purposes of section 412.
+       ``(4) The provisions of paragraphs (4), (5), and (7)(A) of 
+     section 212(a) shall not be applicable to any alien seeking 
+     admission to the United States under subsection (a)(27)(N), 
+     and the Secretary of Homeland Security may waive any other 
+     provision of such section (other than paragraph 2(C) or 
+     subparagraph (A), (B), (C), or (E) of paragraph (3) with 
+     respect to such an alien for humanitarian purposes, to assure 
+     family unity, or when it is otherwise in the public interest. 
+     Any such waiver by the Secretary of Homeland Security shall 
+     be in writing and shall be granted only on an individual 
+     basis following an investigation. The Secretary of Homeland 
+     Security shall provide for the annual reporting to Congress 
+     of the number of waivers granted under this paragraph in the 
+     previous fiscal year and a summary of the reasons for 
+     granting such waivers.
+       ``(5) For purposes of subsection (a)(27)(N)(i)(II), a 
+     determination of age shall be made using the age of the alien 
+     on the date on which the alien was referred to the consular, 
+     immigration, or other designated official.
+       ``(6) The Secretary of Homeland Security shall waive any 
+     application fee for a special immigrant visa for an alien 
+     described in section 101(a)(27)(N).''.
+       (3) Expedited process.--Not later than 45 days after the 
+     date of referral to a consular, immigration, or other 
+     designated official (as described in section 101(a)(27)(N) of 
+     the Immigration and Nationality Act, as added by paragraph 
+     (1))--
+       (A) special immigrant status shall be adjudicated; and
+       (B) if special immigrant status is granted, the alien shall 
+     be paroled to the United States pursuant to section 212(d)(5) 
+     of that Act (8 U.S.C. 1182(d)(5)) and allowed to apply for 
+     adjustment of status to permanent residence under section 245 
+     of that Act (8 U.S.C. 1255) within 1 year after the alien's 
+     arrival in the United States.
+       (4) Report to congress.--Not later than 1 year after the 
+     date of the enactment of this Act, the Secretary shall submit 
+     a report to the Committee on the Judiciary of the Senate and 
+     the Committee on the Judiciary of the House of 
+     Representatives on the progress of the implementation of this 
+     section and the amendments made by this section, including--
+       (A) data related to the implementation of this section and 
+     the amendments made by this section;
+       (B) data regarding the number of placements of females and 
+     children who faces a credible fear of harm as referred to in 
+     section 101(a)(27)(N) of the Immigration and Nationality Act, 
+     as added by paragraph (1); and
+       (C) any other information that the Secretary considers 
+     appropriate.
+       (5) Authorization of appropriations.--There are authorized 
+     to be appropriated such sums as may be necessary to carry out 
+     this subsection and the amendments made by this subsection.
+       (c) Requirements for Aliens.--
+       (1) Requirement prior to entry into the untied states.--
+       (A) Database search.--An alien may not be admitted to the 
+     United States unless the Secretary has ensured that a search 
+     of each database maintained by an agency or department of the 
+     United States has been conducted to determine whether such 
+     alien is ineligible to be admitted to the Untied States on 
+     criminal, security, or related grounds.
+       (B) Cooperation and schedule.--The Secretary and the head 
+     of each appropriate agency or department of the United States 
+     shall work cooperatively to ensure that each database search 
+     required by subparagraph (A) is completed not later than 45 
+     days after the date on which an alien files a petition 
+     seeking a special immigration visa under section 
+     101(a)(27)(N) of the Immigration and Nationality Act, as 
+     added by subsection (b)(1).
+       (2) Requirement after entry into the united states.--
+       (A) Requirement to submit fingerprints.--
+       (i) In general.--Not later than 30 days after the date that 
+     an alien enters the United States, the alien shall be 
+     fingerprinted and submit to the Secretary such fingerprints 
+     and any other personal biometric data required by the 
+     Secretary.
+       (ii) Other requirements.--The Secretary may prescribe 
+     regulations that permit fingerprints submitted by an alien 
+     under section 262 of the Immigration and Nationality Act (8 
+     U.S.C. 1302) or any other provision of law to satisfy the 
+     requirement to submit fingerprints of clause (i).
+       (B) Database search.--The Secretary shall ensure that a 
+     search of each database that contains fingerprints that is 
+     maintained by an agency or department of the United States be 
+     conducted to determine whether such alien is ineligible for 
+     an adjustment of status under any provision of the 
+     Immigration and Nationality Act (8 U.S.C. 1101 et seq.) on 
+     criminal, security, or related grounds.
+       (C) Cooperation and schedule.--The Secretary and the head 
+     of each appropriate agency or department of the United States 
+     shall work cooperatively to ensure that each database search 
+     required by subparagraph (B) is completed not later than 180 
+     days after the date on which the alien enters the United 
+     States.
+       (D) Administrative and judicial review.--
+       (i) In general.--There may be no review of a determination 
+     by the Secretary, after a search required by subparagraph 
+     (B), that an alien is ineligible for an adjustment of status, 
+     under any provision of the Immigration and Nationality Act (8 
+     U.S.C. 1101 et seq.) on criminal, security, or related 
+     grounds except as provided in this subparagraph.
+
+[[Page S2948]]
+
+       (ii) Administrative review.--An alien may appeal a 
+     determination described in clause (i) through the 
+     Administrative Appeals Office of the Bureau of Citizenship 
+     and Immigration Services. The Secretary shall ensure that a 
+     determination on such appeal is made not later than 60 days 
+     after the date that the appeal is filed.
+       (iii) Judicial review.--There may be no judicial review of 
+     a determination described in clause (i).
+
+     SEC. 507. STUDENT VISAS.
+
+       (a) In General.--Section 101(a)(15)(F) (8 U.S.C. 
+     1101(a)(15)(F)) is amended--
+       (1) in clause (i)--
+       (A) by striking ``he has no intention of abandoning, who 
+     is'' and inserting the following: ``except in the case of an 
+     alien described in clause (iv), the alien has no intention of 
+     abandoning, who is--
+       ``(I)'';
+       (B) by striking ``consistent with section 214(l)'' and 
+     inserting ``(except for a graduate program described in 
+     clause (iv)) consistent with section 214(m)'';
+       (C) by striking the comma at the end and inserting the 
+     following: ``; or
+       ``(II) engaged in temporary employment for optional 
+     practical training related to the alien's area of study, 
+     which practical training shall be authorized for a period or 
+     periods of up to 24 months;'';
+       (2) in clause (ii)--
+       (A) by inserting ``or (iv)'' after ``clause (i)''; and
+       (B) by striking ``, and'' and inserting a semicolon;
+       (3) in clause (iii), by adding ``and'' at the end; and
+       (4) by adding at the end the following:
+       ``(iv) an alien described in clause (i) who has been 
+     accepted and plans to attend an accredited graduate program 
+     in mathematics, engineering, technology, or the sciences in 
+     the United States for the purpose of obtaining an advanced 
+     degree.''.
+       (b) Admission of Nonimmigrants.--Section 214(b) (8 U.S.C. 
+     1184(b)) is amended by striking ``subparagraph (L) or (V)'' 
+     and inserting ``subparagraph (F)(iv), (L), or (V)''.
+       (c) Requirements for F-4 Visa.--Section 214(m) (8 U.S.C. 
+     1184(m)) is amended--
+       (1) by inserting before paragraph (1) the following:
+       ``(m) Nonimmigrant Elementary, Secondary, and Post-
+     Secondary School Students.--''; and
+       (2) by adding at the end the following:
+       ``(3) A visa issued to an alien under section 
+     101(a)(15)(F)(iv) shall be valid--
+       ``(A) during the intended period of study in a graduate 
+     program described in such section;
+       ``(B) for an additional period, not to exceed 1 year after 
+     the completion of the graduate program, if the alien is 
+     actively pursuing an offer of employment related to the 
+     knowledge and skills obtained through the graduate program; 
+     and
+       ``(C) for the additional period necessary for the 
+     adjudication of any application for labor certification, 
+     employment-based immigrant petition, and application under 
+     section 245(a)(2) to adjust such alien's status to that of an 
+     alien lawfully admitted for permanent residence, if such 
+     application for labor certification or employment-based 
+     immigrant petition has been filed not later than 1 year after 
+     the completion of the graduate program.''.
+       (d) Off Campus Work Authorization for Foreign Students.--
+       (1) In general.--Aliens admitted as nonimmigrant students 
+     described in section 101(a)(15)(F) of the Immigration and 
+     Nationality Act (8 U.S.C. 1101(a)(15)(F)) may be employed in 
+     an off-campus position unrelated to the alien's field of 
+     study if--
+       (A) the alien has enrolled full time at the educational 
+     institution and is maintaining good academic standing;
+       (B) the employer provides the educational institution and 
+     the Secretary of Labor with an attestation that the 
+     employer--
+       (i) has spent at least 21 days recruiting United States 
+     citizens to fill the position; and
+       (ii) will pay the alien and other similarly situated 
+     workers at a rate equal to not less than the greater of--
+
+       (I) the actual wage level for the occupation at the place 
+     of employment; or
+       (II) the prevailing wage level for the occupation in the 
+     area of employment; and
+
+       (C) the alien will not be employed more than--
+       (i) 20 hours per week during the academic term; or
+       (ii) 40 hours per week during vacation periods and between 
+     academic terms.
+       (2) Disqualification.--If the Secretary of Labor determines 
+     that an employer has provided an attestation under paragraph 
+     (1)(B) that is materially false or has failed to pay wages in 
+     accordance with the attestation, the employer, after notice 
+     and opportunity for a hearing, shall be disqualified from 
+     employing an alien student under paragraph (1).
+       (e) Adjustment of Status.--Section 245(a) (8 U.S.C. 
+     1255(a)) is amended to read as follows:
+       ``(a) Authorization.--
+       ``(1) In general.--The status of an alien, who was 
+     inspected and admitted or paroled into the United States, or 
+     who has an approved petition for classification under 
+     subparagraph (A)(iii), (A)(iv), (B)(ii), or (B)(iii) of 
+     section 204(a)(1), may be adjusted by the Secretary of 
+     Homeland Security or the Attorney General, under such 
+     regulations as the Secretary or the Attorney General may 
+     prescribe, to that of an alien lawfully admitted for 
+     permanent residence if--
+       ``(A) the alien makes an application for such adjustment;
+       ``(B) the alien is eligible to receive an immigrant visa;
+       ``(C) the alien is admissible to the United States for 
+     permanent residence; and
+       ``(D) an immigrant visa is immediately available to the 
+     alien at the time the application is filed.
+       ``(2) Student visas.--Notwithstanding the requirement under 
+     paragraph (1)(D), an alien may file an application for 
+     adjustment of status under this section if--
+       ``(A) the alien has been issued a visa or otherwise 
+     provided nonimmigrant status under section 101(a)(15)(F)(iv), 
+     or would have qualified for such nonimmigrant status if 
+     section 101(a)(15)(F)(iv) had been enacted before such 
+     alien's graduation;
+       ``(B) the alien has earned an advanced degree in the 
+     sciences, technology, engineering, or mathematics;
+       ``(C) the alien is the beneficiary of a petition filed 
+     under subparagraph (E) or (F) of section 204(a)(1); and
+       ``(D) a fee of $2,000 is remitted to the Secretary on 
+     behalf of the alien.
+       ``(3) Limitation.--An application for adjustment of status 
+     filed under this section may not be approved until an 
+     immigrant visa number becomes available.''.
+       (f) Use of Fees.--
+       (1) Job training; scholarships.--Section 286(s)(1) (8 
+     U.S.C. 1356(s)(1)) is amended by inserting ``and 80 percent 
+     of the fees collected under section 245(a)(2)(D)'' before the 
+     period at the end.
+       (2) Fraud prevention and detection.--Section 286(v)(1) (8 
+     U.S.C. 1356(v)(1)) is amended by inserting ``and 20 percent 
+     of the fees collected under section 245(a)(2)(D)'' before the 
+     period at the end.
+
+     SEC. 508. VISAS FOR INDIVIDUALS WITH ADVANCED DEGREES.
+
+       (a) Aliens With Certain Advanced Degrees Not Subject to 
+     Numerical Limitations on Employment Based Immigrants.--
+       (1) In general.--Section 201(b)(1) (8 U.S.C. 1151(b)(1)), 
+     as amended by section 505, is amended by adding at the end 
+     the following:
+       ``(G) Aliens who have earned an advanced degree in science, 
+     technology, engineering, or math and have been working in a 
+     related field in the United States under a nonimmigrant visa 
+     during the 3-year period preceding their application for an 
+     immigrant visa under section 203(b).
+       ``(H) Aliens described in subparagraph (A) or (B) of 
+     section 203(b)(1)(A) or who have received a national interest 
+     waiver under section 203(b)(2)(B).
+       ``(I) The spouse and minor children of an alien who is 
+     admitted as an employment-based immigrant under section 
+     203(b).''.
+       (2) Applicability.--The amendment made by paragraph (1) 
+     shall apply to any visa application--
+       (A) pending on the date of the enactment of this Act; or
+       (B) filed on or after such date of enactment.
+       (b) Labor Certification.--Section 212(a)(5)(A)(ii) (8 
+     U.S.C. 1182(a)(5)(A)(ii)) is amended--
+       (1) in subclause (I), by striking ``or'' at the end;
+       (2) in subclause (II), by striking the period at the end 
+     and inserting ``; or''; and
+       (3) by adding at the end the following:
+
+       ``(III) has an advanced degree in the sciences, technology, 
+     engineering, or mathematics from an accredited university in 
+     the United States and is employed in a field related to such 
+     degree.''.
+
+       (c) Temporary Workers.--Section 214(g) (8 U.S.C. 1184(g)) 
+     is amended--
+       (1) in paragraph (1)--
+       (A) by striking ``(beginning with fiscal year 1992)''; and
+       (B) in subparagraph (A)--
+       (i) in clause (vii), by striking ``each succeeding fiscal 
+     year; or'' and inserting ``each of fiscal years 2004, 2005, 
+     and 2006;''; and
+       (ii) by adding after clause (vii) the following:
+       ``(viii) 115,000 in the first fiscal year beginning after 
+     the date of the enactment of this clause; and
+       ``(ix) the number calculated under paragraph (9) in each 
+     fiscal year after the year described in clause (viii); or'';
+       (2) in paragraph (5)--
+       (A) in subparagraph (B), by striking ``or'' at the end;
+       (B) in subparagraph (C), by striking the period at the end 
+     and inserting ``; or''; and
+       (C) by adding at the end the following:
+       ``(D) has earned an advanced degree in science, technology, 
+     engineering, or math.'';
+       (3) by redesignating paragraphs (9), (10), and (11) as 
+     paragraphs (10), (11), and (12), respectively; and
+       (4) by inserting after paragraph (8) the following:
+       ``(9) If the numerical limitation in paragraph (1)(A)--
+       ``(A) is reached during a given fiscal year, the numerical 
+     limitation under paragraph (1)(A)(ix) for the subsequent 
+     fiscal year shall be equal to 120 percent of the numerical 
+     limitation of the given fiscal year; or
+       ``(B) is not reached during a given fiscal year, the 
+     numerical limitation under paragraph (1)(A)(ix) for the 
+     subsequent fiscal year shall be equal to the numerical 
+     limitation of the given fiscal year.''.
+       (d) Applicability.--The amendment made by subsection (c)(2) 
+     shall apply to any visa application--
+
+[[Page S2949]]
+
+       (1) pending on the date of the enactment of this Act; or
+       (2) filed on or after such date of enactment.
+                                 ______
+```
