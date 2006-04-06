@@ -1,0 +1,40 @@
+---
+granule: CREC-2006-04-06-pt1-PgS3291-2
+date: 2006-04-06
+edition: CREC
+section: SENATE
+page: S3291
+citation: 152 Cong. Rec. S3291
+---
+
+# Text of Senate Amendment 3504
+
+**Speaking:** Kennedy, Edward M. (K000105) [D-MA]
+
+```
+  SA 3504. Mr. KENNEDY submitted an amendment intended to be proposed 
+by him to the bill S. 2454, to amend the Immigration and Nationality 
+Act to provide for comprehensive reform and for other purposes; which 
+was ordered to lie on the table; as follows:
+
+       At the appropriate place, insert ``(other than subparagraph 
+     (C)(i)(II) of such paragraph (9))'' after ``212(a)''.
+       At the appropriate place, insert the following:
+
+     this paragraph to waive the provisions of section 212(a).
+     ``(3) Ineligibility.--An alien is ineligible for conditional 
+     nonimmigrant work authorization and status under this section 
+     if--
+       ``(A) the Secretary of Homeland Security determines that--
+       ``(i) the alien, having been convicted by a final judgment 
+     of a serious crime, constitutes a danger to the community of 
+     the United States;
+       ``(ii) there are reasonable grounds for believing that the 
+     alien has committed a serious crime outside the United States 
+     prior to the arrival of the alien in the United States; or
+       ``(iii) there are reasonable grounds for regarding the 
+     alien as a danger to the security of the United States;
+       ``(B) the alien has been convicted of any felony or three 
+     or more misdemeanors; or
+                                 ______
+```
