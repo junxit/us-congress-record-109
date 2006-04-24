@@ -1,0 +1,25 @@
+---
+granule: CREC-2006-04-24-pt1-PgS3427-4
+date: 2006-04-24
+edition: CREC
+section: SENATE
+page: S3427
+citation: 152 Cong. Rec. S3427
+---
+
+# Text of Senate Amendment 3589
+
+**Speaking:** Burr, Richard (B001135) [R-NC]
+
+```
+  SA 3589. Mr. BURR submitted an amendment intended to be proposed by 
+him to the bill H.R. 4939, making emergency supplemental appropriations 
+for the fiscal year ending September 30, 2006, and for other purposes; 
+which was ordered to lie on the table; as follows:
+
+       On page 238, line 23, strike ``Control and Prevention, 
+     and'' and insert ``Control and Prevention, $65,000,000 shall 
+     be for the Smithsonian Institution to carry out global and 
+     domestic disease surveillance, and''.
+                                 ______
+```
