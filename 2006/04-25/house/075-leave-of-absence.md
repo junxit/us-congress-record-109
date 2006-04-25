@@ -1,0 +1,25 @@
+---
+granule: CRECB-2006-pt5-Pg5978
+date: 2006-04-25
+edition: CRECB
+section: HOUSE
+page: 5978
+---
+
+# LEAVE OF ABSENCE
+
+```
+                            LEAVE OF ABSENCE
+
+  By unanimous consent, leave of absence was granted to:
+  Ms. Moore of Wisconsin (at the request of Ms. Pelosi) for today on 
+account of personal business.
+  Ms. Millender-McDonald (at the request of Ms. Pelosi) for today on 
+account of personal matters.
+  Mr. Osborne (at the request of Mr. Boehner) for today and until 3:30 
+p.m. on April 26 on account of official business.
+  Ms. Ros-Lehtinen (at the request of Mr. Boehner) for today on account 
+of a family emergency.
+
+                          ____________________
+```
