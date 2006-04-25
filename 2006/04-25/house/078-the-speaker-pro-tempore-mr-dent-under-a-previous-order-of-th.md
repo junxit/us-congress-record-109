@@ -1,0 +1,20 @@
+---
+granule: CREC-2006-04-25-pt1-PgH1715
+date: 2006-04-25
+edition: CREC
+section: HOUSE
+page: H1715
+citation: 152 Cong. Rec. H1715
+---
+
+# The SPEAKER pro tempore (Mr. Dent). Under a previous order of the House, the gentleman from Oregon (Mr. Blumenauer) is recognized for 5 minutes.
+
+```
+  The SPEAKER pro tempore (Mr. Dent). Under a previous order of the 
+House, the gentleman from Oregon (Mr. Blumenauer) is recognized for 5 
+minutes.
+  (Mr. BLUMENAUER addressed the House. His remarks will appear 
+hereafter in the Extensions of Remarks.)
+
+                          ____________________
+```
