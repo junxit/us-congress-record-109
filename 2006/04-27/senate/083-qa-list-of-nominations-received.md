@@ -1,0 +1,68 @@
+---
+granule: CREC-2006-04-27-pt1-PgS3766
+date: 2006-04-27
+edition: CREC
+section: SENATE
+page: S3766
+citation: 152 Cong. Rec. S3766
+---
+
+# QA LIST OF NOMINATIONS RECEIVED
+
+```
+                    QA LIST OF NOMINATIONS RECEIVED
+
+
+                   executive office of the president
+
+       PN1484 ROBERT J. PORTMAN
+
+
+                          DEPARTMENT OF STATE
+
+       PN1485 ROBERT ANTHONY BRADTKE
+
+
+              DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT
+
+       PN1486 JAMES B. LOCKHART III
+
+
+                     NUCLEAR REGULATORY COMMISSION
+
+       PN1487 DALE KLEIN
+
+
+                            IN THE AIR FORCE
+
+       PN1488 LT. GEN. KEVIN P. CHILTON, 0000
+       PN1489 MAJ. GEN. NORMAN R. SEIP, 0000
+       PN1490 MAJ. GEN. JAMES G. ROUDEBUSH, 0000
+       PN1491 BRIG. GEN. DANA T. ATKINS, 0000
+       PN1492 COL. LAWRENCE A. STUTZRIEM, 0000
+
+
+                              IN THE ARMY
+
+       PN1493 BRIG. GEN. STEPHEN V. REEVES, 0000
+
+
+                              IN THE NAVY
+
+       PN1494 REAR ADM. (LH) SHARON H. REDPATH, 0000
+       PN1495 REAR ADM. (LH) NORTON C. JOERG, 0000
+       PN1496 REAR ADM. BRUCE E. MACDONALD, 0000
+
+
+                              IN THE ARMY
+
+       PN1497 KENNETH A. KRAFT, 0000
+       PN1498 MARK A. BURDT, 0000 THROUGH ROBERT L. PORTER, 0000
+       PN1499 BETTY J. WILLIAMS, 0000 THROUGH HENRY R. LEMLEY, 
+     0000
+       PN1500 THOMAS F. NUGENT, 0000
+       PN1501 MICHAEL F. LORICH, 0000
+       PN1502 BRIAN O. SARGENT, 0000
+
+                          ____________________
+```
