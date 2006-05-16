@@ -1,0 +1,34 @@
+---
+granule: CREC-2006-05-16-pt1-PgH2617-2
+date: 2006-05-16
+edition: CREC
+section: HOUSE
+page: H2617
+citation: 152 Cong. Rec. H2617
+---
+
+# HAPPY MOTHER'S DAY
+
+**Speaking:** McCotter, Thaddeus G. (M001147) [R-MI]
+
+```
+                           HAPPY MOTHER'S DAY
+
+  (Mr. McCOTTER asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. McCOTTER. Mr. Speaker, ordinarily I would have recognized the 
+work and dedication of a special constituent from Michigan's 11th 
+District on Sunday. However, she was away from home.
+  I would like to thank Georgia Joan McCotter, a mother, for a lifetime 
+of trying to make sure that her two sons, Thaddeus and Dennis, were 
+raised to be good and decent people. Although she fully succeeded in my 
+brother's case, I would like to assure her that I am still trying, but 
+that the love in my heart for her will never diminish over time.
+  So, to her belatedly, if you are home, if you are listening, Happy 
+Mother's Day.
+
+
+
+
+                          ____________________
+```
