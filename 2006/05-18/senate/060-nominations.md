@@ -1,0 +1,47 @@
+---
+granule: CREC-2006-05-18-pt1-PgS4817-4
+date: 2006-05-18
+edition: CREC
+section: SENATE
+page: S4817
+citation: 152 Cong. Rec. S4817
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate May 18, 2006:
+
+
+                         Federal Reserve System
+
+       DONALD L. KOHN, OF VIRGINIA, TO BE VICE CHAIRMAN OF THE 
+     BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM FOR A TERM 
+     OF FOUR YEARS, VICE ROGER WALTON FERGUSON, RESIGNED.
+
+
+                   Securities and Exchange Commission
+
+       KATHLEEN L. CASEY, OF VIRGINIA, TO BE A MEMBER OF THE 
+     SECURITIES AND EXCHANGE COMMISSION FOR A TERM EXPIRING JUNE 
+     5, 2011, VICE CYNTHIA A. GLASSMAN, RESIGNED.
+
+
+                             The Judiciary
+
+       BOBBY E. SHEPHERD, OF ARKANSAS, TO BE UNITED STATES CIRCUIT 
+     JUDGE FOR THE EIGHTH CIRCUIT, VICE MORRIS S. ARNOLD, 
+     RETIRING.
+       KIMBERLY ANN MOORE, OF VIRGINIA, TO BE UNITED STATES 
+     CIRCUIT JUDGE FOR THE FEDERAL CIRCUIT, VICE RAYMOND C. 
+     CLEVENGER, III, RETIRED.
+
+
+                         Department of Justice
+
+       MARTIN J. JACKLEY, OF SOUTH DAKOTA, TO BE UNITED STATES 
+     ATTORNEY FOR THE DISTRICT OF SOUTH DAKOTA FOR THE TERM OF 
+     FOUR YEARS, VICE STEVEN KENT MULLINS.
+```
