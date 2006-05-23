@@ -1,0 +1,22 @@
+---
+granule: CREC-2006-05-23-pt1-PgS4982
+date: 2006-05-23
+edition: CREC
+section: SENATE
+page: S4982
+citation: 152 Cong. Rec. S4982
+---
+
+# Text of Senate Amendment 4145
+
+**Speaking:** Lautenberg, Frank R. (L000123) [D-NJ]
+
+```
+  SA 4145. Mr. LAUTENBERG submitted an amendment intended to be 
+proposed by him to the bill S. 2611, to provide for comprehensive 
+immigration reform and for other purposes; which was ordered to lie on 
+the table; as follows:
+
+       On page 575, strike lines 22 through 24.
+                                 ______
+```
