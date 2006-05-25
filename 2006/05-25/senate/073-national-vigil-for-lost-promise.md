@@ -1,0 +1,103 @@
+---
+granule: CREC-2006-05-25-pt1-PgS5272
+date: 2006-05-25
+edition: CREC
+section: SENATE
+page: S5272
+citation: 152 Cong. Rec. S5272
+---
+
+# NATIONAL VIGIL FOR LOST PROMISE
+
+**Speaking:** Frist, William H. (F000439) [R-TN]
+
+**Measures:** S.Res. 495
+
+```
+                    NATIONAL VIGIL FOR LOST PROMISE
+
+  Mr. FRIST. Mr. President, I ask unanimous consent that the Senate now 
+proceed as if in morning business to the consideration S. Res. 495 
+which was submitted earlier today.
+  The PRESIDING OFFICER. The clerk will report the resolution by title.
+  The assistant legislative clerk read as follows:
+
+       A resolution (S. Res. 495) designating June 8 National 
+     Vigil for Lost Promise.
+
+  There being no objection, the Senate proceeded to the consideration 
+of the resolution.
+  Mr. FRIST. Mr. President, I ask unanimous consent that the resolution 
+be agreed to, the preamble be agreed to, and the motion to reconsider 
+be laid upon the table.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The resolution (S. Res. 495) was agreed to.
+  The preamble was agreed to.
+  The resolution, with its preamble, reads as follows:
+
+                              S. Res. 495
+
+       Whereas over 26,000 citizens die from the effects of drug 
+     abuse each year;
+       Whereas the damage from drugs is not limited to drug 
+     abusers, the collateral damage from drugs is enormous, and 
+     drug abuse costs society over $60,000,000,000 in social costs 
+     and lost productivity;
+       Whereas drugs rob users, their families, and all the people 
+     of the United States of dreams, promises, ambitions, talents, 
+     and lives;
+       Whereas drug abuse affects millions of families in the 
+     United States;
+       Whereas the stigma of drug abuse and the cloak of denial 
+     keep many individuals and families from dealing with the 
+     impact of drugs;
+       Whereas many friends and families are ashamed to 
+     acknowledge the death of their loved ones caused by drug 
+     abuse;
+       Whereas all the people of the United States can benefit 
+     from illuminating the problem of drug abuse and its impact on 
+     families, communities, and society;
+       Whereas the futures of thousands of youth of the United 
+     States have been cut short because of drug abuse, including 
+     the life of--
+       (1) Irma Perez, who suffered and died of an Ecstasy 
+     overdose at age 14;
+       (2) David Manlove, who wanted to be a doctor, but died from 
+     inhalant abuse at age 16;
+       (3) David Pease, an articulate debater, who died of a 
+     heroin overdose at age 23;
+       (4) Ian Eaccarino, a college student who died of a heroin 
+     overdose at age 20;
+       (5) Jason Surks, who was studying to be a pharmacist, but 
+     died of prescription drug abuse at age 19;
+       (6) Kelley McEnery Baker, who died of an overdose of 
+     Ecstasy at age 23;
+       (7) Ryan Haight, who died of an overdose of prescription 
+     drugs he had purchased over the Internet at age 18; and
+       (8) Taylor Hooton, a high school baseball star whose life 
+     was cut short by steroids at age 16;
+       Whereas these deaths represent only a small sample of the 
+     lost promise that drug abuse has cost the future of the 
+     United States;
+       Whereas law enforcement, public health and research 
+     organizations, community coalitions, drug prevention outreach 
+     organizations, individual parents, siblings, friends, and 
+     concerned citizens are joining together on June 8, 2006, in a 
+     Vigil for Lost Promise, to call public attention to the 
+     tremendous promise which has been lost with the deaths of 
+     those affected by drugs: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) designates June 8, 2006, as the day of a National Vigil 
+     for Lost Promise; and
+       (2) encourages all young people to choose to live a drug-
+     free life;
+       (3) encourages all people of the United States to work to 
+     stop drug abuse before it starts and remain vigilant against 
+     the far reaching loss of promise caused by deaths from drug 
+     abuse;
+       (4) encourages all citizens of the United States to 
+     remember the lost promise of youth caused by drug abuse on 
+     this day.
+
+                          ____________________
+```
