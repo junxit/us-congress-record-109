@@ -1,0 +1,105 @@
+---
+granule: CREC-2006-06-08-pt1-PgE1066-3
+date: 2006-06-08
+edition: CREC
+section: EXTENSIONS
+page: E1066
+citation: 152 Cong. Rec. E1066
+---
+
+# DEPARTMENT OF HOMELAND SECURITY APPROPRIATIONS ACT, 2007
+
+**Speaking:** Crowley, Joseph (C001038) [D-NY]
+
+**Measures:** H.R. 5441
+
+```
+        DEPARTMENT OF HOMELAND SECURITY APPROPRIATIONS ACT, 2007
+
+                                 ______
+                                 
+
+                               speech of
+
+                          HON. JOSEPH CROWLEY
+
+                              of new york
+
+                    in the house of representatives
+
+                         Tuesday, June 6, 2006
+
+       The House in Committee of the Whole House on the State of 
+     the Union had under consideration the bill (H.R. 5441) making 
+     appropriations for the Department of Homeland Security for 
+     the fiscal year ending September 30, 2007, and for other 
+     purposes:
+
+  Mr. CROWLEY. Mr. Chairman, I rise to support passage of this bill.
+  While I am upset that the Democratic Motion offered by my colleague 
+Nita Lowey, which would have increased the first responder grants for 
+urban areas by $750 million, was defeated on a party line basis, she 
+raises important issues that must be addressed.
+  Where have foreign terrorists struck when they attack our country?
+  They attack major urban areas, as they look to create spectacular 
+havoc while maximizing the killing of civilians--that is the calling 
+card of Osama bin Laden. Remember him? Sometimes we forget him in the 
+discussion of tax cuts and gay marriage and all the other issues--but 
+he is still out there and still threatening our country, and especially 
+New York and Washington, almost everyday.
+  Al-Qaeda is not human--but we need to be ready for other attacks. 
+That means proactive preparedness, as well as improving our reactive 
+response as well.
+  Proactively, we need to better protect our urban areas--the terrorist 
+targeted areas--like New York.
+  New York was the target in 1993 when terrorists bombed the World 
+Trade Center, and again on September 11, 2001, when they completed the 
+job they started 8 years earlier. New York City is the most targeted 
+city in the country and likely on Earth by terrorists.
+  This is a reality Congress and the White House need to face. And if 
+we are serious about protecting America--all Americans--regardless of 
+their voting patterns, then we must go about protecting these most 
+targeted and most vulnerable areas.
+  And I don't just say New York City is targeted to get my hometown 
+more money. We know we are targeted due to information our U.S. 
+intelligence services provide to us.
+  Being on al-Qaeda's hit list is one of the few distinctions New York 
+City has that I am not proud of, and not happy to talk about.
+  But we must talk about it--because it is, again, reality.
+  I salute the Appropriations Committee for working with me and 
+agreeing to the amendment I offered with my colleague from New York, 
+Vito Fossella, to increase the current urban area security initiative 
+by $20 million--a $12.7 million increase over last year. But more 
+funding is needed.
+  But this issue of homeland security and ensuring the resources are 
+there for our first responders--both for proactive and reactive 
+preparedness--is more then an issue of funding in total dollar amounts. 
+It comes down to the flawed funding formulas developed by Congress and 
+the Bush White House to distribute homeland security dollars.
+  These flawed formulas were crystallized last week when President Bush 
+announced a 40 percent cut in urban security aid to New York City, 
+saying the funds weren't needed for us.
+  Instead, these urban security dollars went to places like Louisville, 
+Kentucky, while certainly at risk, cannot claim to have the critical 
+infrastructure of New York City under the terrorist microscope.
+  This is a reality too--a sad and pathetic reality that our homeland 
+security dollars have become the latest pot of federal funding to be
+
+[[Page E1067]]
+
+politicized by this White House instead of being used to protect 
+Americans at greatest risk of terror attack.
+  Other realities:
+  Our country takes urban security funds created for places like New 
+York and diverts them to Louisville;
+  Our Nation provides more homeland security dollars per capita to 
+Wyoming than to New York;
+  And sadly, protecting our homeland security is more about politics 
+than security.
+  We haven't caught Osama bin Laden, the Taliban is returning to 
+Afghanistan, and Congress is not providing the funds to our first 
+responders to protect our targeted cities--our Nation's homeland 
+security is a sad reflection of our great country.
+
+                          ____________________
+```
