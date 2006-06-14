@@ -1,0 +1,40 @@
+---
+granule: CREC-2006-06-14-pt1-PgH3913
+date: 2006-06-14
+edition: CREC
+section: HOUSE
+page: H3913
+citation: 152 Cong. Rec. H3913
+---
+
+# STOP GLOBAL WARMING
+
+**Speaking:** Inslee, Jay (I000026) [D-WA]
+
+```
+                              {time}  1015
+                          STOP GLOBAL WARMING
+
+  (Mr. INSLEE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. INSLEE. Mr. Speaker, last week, the President of the Marshall 
+Islands visited Bainbridge Island, Washington. In discussions with me 
+he made a specific plea. He asked America and the U.S. Congress to 
+finally do something about global warming. The reason he said that is 
+that rising sea levels literally could drown his entire nation.
+  He basically told me that his entire nation could become the first 
+nation state to be environmental refugees, and he said, you know, we 
+don't hardly put any carbon dioxide in the air. You put 25 percent of 
+all the carbon dioxide in the world into the air, and your Congress 
+does nothing. I think he had a pretty good point.
+  While the science of global warming becomes unambiguous and 
+inarguable and clear, this Congress has lined the pockets of the oil 
+and gas companies with giant subsidies and done absolutely nothing 
+about global warming. It is a tragedy.
+  You know, we have had a lot of Republicans historically to stand up 
+for the environment, such as Teddy Roosevelt; Bill Ruckelshaus, who met 
+with us yesterday, who said do something about global warming. We need 
+some action instead of passivity.
+
+                          ____________________
+```
