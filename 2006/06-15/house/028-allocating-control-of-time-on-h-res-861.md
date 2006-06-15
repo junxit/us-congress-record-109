@@ -1,0 +1,15051 @@
+---
+granule: CREC-2006-06-15-pt1-PgH4024-2
+date: 2006-06-15
+edition: CREC
+section: HOUSE
+page: H4024
+citation: 152 Cong. Rec. H4024
+---
+
+# ALLOCATING CONTROL OF TIME ON H. RES. 861
+
+**Speaking:** Murtha, John P. (M001120) [D-PA], Hyde, Henry J. (H001022) [R-IL], Hastert, J. Dennis (H000323) [R-IL], Skelton, Ike (S000465) [D-MO], Hunter, Duncan (H000981) [R-CA], Lewis, Jerry (L000274) [R-CA], Waxman, Henry A. (W000215) [D-CA], Hoekstra, Peter (H000676) [R-MI], Wilson, Heather (W000789) [R-NM], Rogers, Mike J. (R000572) [R-MI], Thornberry, Mac (T000238) [R-TX], Davis, Jo Ann (D000597) [R-VA], Miller, George (M000725) [D-CA], Duncan, John J., Jr. (D000533) [R-TN], Emanuel, Rahm (E000287) [D-IL], DeLauro, Rosa L. (D000216) [D-CT], Everett, Terry (E000268) [R-AL], Clyburn, James E. (C000537) [D-SC], Tiahrt, Todd (T000260) [R-KS], Larson, John B. (L000557) [D-CT], Young, C. W. Bill (Y000031) [R-FL], Harman, Jane (H000213) [D-CA], Renzi, Rick (R000574) [R-AZ], Boswell, Leonard L. (B000652) [D-IA], Reyes, Silvestre (R000170) [D-TX], Eshoo, Anna G. (E000215) [D-CA], Holt, Rush (H001032) [D-NJ], Issa, Darrell (I000056) [R-CA], Ruppersberger, C. A. Dutch (R000576) [D-MD], Tierney, John F. (T000266) [D-MA], Gutknecht, Gil (G000536) [R-MN], Crowley, Joseph (C001038) [D-NY], McHugh, John M. (M000472) [R-NY], Van Hollen, Chris (V000128) [D-MD], Hart, Melissa A. (H001033) [R-PA], Waters, Maxine (W000187) [D-CA], Castle, Michael N. (C000243) [R-DE], Lee, Barbara (L000551) [D-CA], Gilchrest, Wayne T. (G000180) [R-MD], Woolsey, Lynn C. (W000738) [D-CA], Wicker, Roger F. (W000437) [R-MS], McDermott, Jim (M000404) [D-WA], Murphy, Tim (M001151) [R-PA], Schakowsky, Janice D. (S001145) [D-IL], Snyder, Vic (S000672) [D-AR], Shadegg, John B. (S000275) [R-AZ], Frank, Barney (F000339) [D-MA], Weldon, Dave (W000267) [R-FL], Owens, Major R. (O000159) [D-NY], Frelinghuysen, Rodney P. (F000372) [R-NJ], Jackson Lee, Sheila (J000032) [D-TX], Brown, Henry E., Jr. (B001235) [R-SC], Watson, Diane E. (W000794) [D-CA], Young, Don (Y000033) [R-AK], Solis, Hilda L. (S001153) [D-CA], Brady, Kevin (B000755) [R-TX], Kaptur, Marcy (K000009) [D-OH], DeFazio, Peter A. (D000191) [D-OR], Ros-Lehtinen, Ileana (R000435) [R-FL], Nadler, Jerrold (N000002) [D-NY], Pryce, Deborah (P000555) [R-OH], Capps, Lois (C001036) [D-CA], Knollenberg, Joe (K000288) [R-MI], Pastor, Ed (P000099) [D-AZ], Kucinich, Dennis J. (K000336) [D-OH], Wolf, Frank R. (W000672) [R-VA], Hinchey, Maurice D. (H000627) [D-NY], Leach, James A. (L000169) [R-IA], Jones, Stephanie Tubbs (J000284) [D-OH], Smith, Christopher H. (S000522) [R-NJ], Hoyer, Steny H. (H000874) [D-MD], Rohrabacher, Dana (R000409) [R-CA], Buyer, Steve (B001203) [R-IN], Spratt, John M., Jr. (S000749) [D-SC], Royce, Edward R. (R000487) [R-CA], Ortiz, Solomon P. (O000107) [D-TX], McCotter, Thaddeus G. (M001147) [R-MI], Meehan, Martin T. (M000627) [D-MA], McCaul, Michael T. (M001157) [R-TX], Abercrombie, Neil (A000014) [D-HI], Harris, Katherine (H001035) [R-FL], Barrett, J. Gresham (B001239) [R-SC], Poe, Ted (P000592) [R-TX], Smith, Adam (S000510) [D-WA], Johnson, Nancy L. (J000163) [R-CT], Boustany, Charles W., Jr. (B001255) [R-LA], Sanchez, Loretta (S000030) [D-CA], Lewis, Ron (L000293) [R-KY], Davis, Susan A. (D000598) [D-CA], Platts, Todd Russell (P000585) [R-PA], Langevin, James R. (L000559) [D-RI], Miller, Candice S. (M001150) [R-MI], Cooper, Jim (C000754) [D-TN], Osborne, Tom (O000165) [R-NE], Marshall, Jim (M001146) [D-GA], Diaz-Balart, Mario (D000600) [R-FL], Udall, Mark (U000038) [D-CO], Crenshaw, Ander (C001045) [R-FL], McKinney, Cynthia A. (M000523) [D-GA], Johnson, Sam (J000174) [R-TX], Schiff, Adam B. (S001150) [D-CA], Maloney, Carolyn B. (M000087) [D-NY], Lantos, Tom (L000090) [D-CA], Hefley, Joel (H000444) [R-CO], Saxton, Jim (S000097) [R-NJ], Ackerman, Gary L. (A000022) [D-NY], Brown, Sherrod (B000944) [D-OH], Drake, Thelma D. (D000605) [R-VA], Engel, Eliot L. (E000179) [D-NY], Franks, Trent (F000448) [R-AZ], Conaway, K. Michael (C001062) [R-TX], Delahunt, Bill (D000210) [D-MA], Shuster, Bill (S001154) [R-PA], Wexler, Robert (W000314) [D-FL], Foxx, Virginia (F000450) [R-NC], Hayes, Robin (H001029) [R-NC], Sherman, Brad (S000344) [D-CA], Otter, C. L. (Butch) (O000166) [R-ID], Brown-Waite, Ginny (B001247) [R-FL], Blumenauer, Earl (B000574) [D-OR], Neugebauer, Randy (N000182) [R-TX], Ryun, Jim (R000566) [R-KS], Meeks, Gregory W. (M001137) [D-NY], Akin, W. Todd (A000358) [R-MO], Brown, Corrine (B000911) [D-FL], Weldon, Curt (W000268) [R-PA], Farr, Sam (F000030) [D-CA], Calvert, Ken (C000059) [R-CA], Thompson, Mike (T000460) [D-CA], Dingell, John D. (D000355) [D-MI], Lofgren, Zoe (L000397) [D-CA], McNulty, Michael R. (M000590) [D-NY], Coble, Howard (C000556) [R-NC], Smith, Lamar (S000583) [R-TX], Rangel, Charles B. (R000053) [D-NY], Keller, Ric (K000361) [R-FL], Chabot, Steve (C000266) [R-OH], Conyers, John, Jr. (C000714) [D-MI], King, Steve (K000362) [R-IA], Tanner, John S. (T000038) [D-TN], Kelly, Sue W. (K000078) [R-NY], Allen, Thomas H. (A000357) [D-ME], Hayworth, J. D. (H000413) [R-AZ], Simmons, Rob (S001152) [R-CT], Lewis, John (L000287) [D-GA], Lungren, Daniel E. (L000517) [R-CA], Green, Gene (G000410) [D-TX], Gohmert, Louie (G000552) [R-TX], Sanders, Bernard (S000033) [I-VT], Ferguson, Mike (F000443) [R-NJ], Rothman, Steven R. (R000462) [D-NJ], Kennedy, Mark R. (K000358) [R-MN], Price, David E. (P000523) [D-NC], Herger, Wally (H000528) [R-CA], Larsen, Rick (L000560) [D-WA], Ryan, Paul D. (R000570) [R-WI], Andrews, Robert E. (A000210) [D-NJ], Kline, John (K000363) [R-MN], Watt, Melvin L. (W000207) [D-NC], Sherwood, Don (S001146) [R-PA], Pascrell, Bill (P000096) [D-NJ], Blackburn, Marsha (B001243) [R-TN], Shays, Christopher (S001144) [R-CT], Miller, Jeff (M001144) [R-FL], Boozman, John (B001236) [R-AR], Bono Mack, Mary (B001228) [R-CA], Bass, Charles F. (B000220) [R-NH], DeGette, Diana (D000197) [D-CO], Terry, Lee (T000459) [R-NE], Lowey, Nita M. (L000480) [D-NY], Myrick, Sue Wilkins (M001134) [R-NC], Sullivan, John (S001155) [R-OK], Ramstad, Jim (R000033) [R-MN], McIntyre, Mike (M000485) [D-NC], Biggert, Judy (B001232) [R-IL], Weller, Jerry (W000273) [R-IL], Davis, Lincoln (D000599) [D-TN], Moore, Gwen (M001160) [D-WI], Turner, Michael R. (T000463) [R-OH], Stearns, Cliff (S000822) [R-FL], Nussle, Jim (N000172) [R-IA], Simpson, Michael K. (S001148) [R-ID], LaTourette, Steven C. (L000553) [R-OH], Serrano, Jose E. (S000248) [D-NY], Wu, David (W000793) [D-OR], Higgins, Brian (H001038) [D-NY], Porter, Jon C. (P000589) [R-NV], Clay, Wm. Lacy (C001049) [D-MO], Baca, Joe (B001234) [D-CA], Whitfield, Ed (W000413) [R-KY], Stark, Fortney Pete (S000810) [D-CA], Honda, Michael M. (H001034) [D-CA], Marchant, Kenny (M001158) [R-TX], Markey, Edward J. (M000133) [D-MA]
+
+**Measures:** H.J.Res. 70, H.J.Res. 73, H.Con.Res. 472, H.Res. 640, H.Res. 645, H.Res. 685, H.Res. 841, H.Res. 861, H.R. 861, H.Res. 868, H.Res. 869, S. 1290
+
+```
+               ALLOCATING CONTROL OF TIME ON H. RES. 861
+
+
+
+ =========================== NOTE =========================== 
+
+  
+  June 15, 2006--On Page H4024 under: Mr. MURTHA. The following 
+appeared: Mr. Speaker, I ask unanimous consent that the time 
+allocated by House Resolution 868 to the ranking minority members 
+of four committees instead be controlled by the minority leader or 
+her designees.
+  
+  The online version should be corrected to read: ALLOCATING 
+CONTROL OF TIME ON H. RES. 861 Mr. MURTHA. Mr. Speaker, I ask 
+unanimous consent that the time allocated by House Resolution 868 
+to the ranking minority members of four committees instead be 
+controlled by the minority leader or her designees.
+
+
+ ========================= END NOTE ========================= 
+
+  Mr. MURTHA. Mr. Speaker, I ask unanimous consent that the time 
+allocated by House Resolution 868 to the ranking minority members of 
+four committees instead be controlled by the minority leader or her 
+designees.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Pennsylvania?
+  There was no objection.
+  Mr. HYDE. Mr. Speaker, pursuant to the rule, I call up the resolution 
+(H. Res. 861) declaring that the United States will prevail in the 
+Global War on Terror, the struggle to protect freedom from the 
+terrorist adversary, and ask for its immediate consideration.
+  The Clerk read the title of the resolution.
+  The text of the resolution is as follows:
+
+                              H. Res. 861
+
+       Whereas the United States and its allies are engaged in a 
+     Global War on Terror, a long and demanding struggle against 
+     an adversary that is driven by hatred of American values and 
+     that is committed to imposing, by the use of terror, its 
+     repressive ideology throughout the world;
+       Whereas for the past two decades, terrorists have used 
+     violence in a futile attempt to intimidate the United States;
+       Whereas it is essential to the security of the American 
+     people and to world security that the United States, together 
+     with its allies, take the battle to the terrorists and to 
+     those who provide them assistance;
+       Whereas the Taliban, Al Qaeda, and other terrorists failed 
+     to stop free elections in Afghanistan and the first 
+     popularly-elected President in that nation's history has 
+     taken office;
+       Whereas the continued determination of Afghanistan, the 
+     United States, and the North Atlantic Treaty Organization 
+     will be required to sustain a sovereign, free, and secure 
+     Afghanistan;
+       Whereas the steadfast resolve of the United States and its 
+     partners since September 11, 2001, helped persuade the 
+     government of Libya to surrender its weapons of mass 
+     destruction;
+       Whereas by early 2003 Saddam Hussein and his criminal, 
+     Ba'athist regime in Iraq, which had supported terrorists, 
+     constituted a threat against global peace and security and 
+     was in violation of mandatory United Nations Security Council 
+     Resolutions;
+       Whereas the mission of the United States and its Coalition 
+     partners, having removed Saddam Hussein and his regime from 
+     power, is to establish a sovereign, free, secure, and united 
+     Iraq at peace with its neighbors;
+       Whereas the terrorists have declared Iraq to be the central 
+     front in their war against all who oppose their ideology;
+       Whereas the Iraqi people, with the help of the United 
+     States and other Coalition partners, have formed a permanent, 
+     representative government under a newly ratified 
+     constitution;
+       Whereas the terrorists seek to destroy the new unity 
+     government because it threatens the terrorists' aspirations 
+     for Iraq and the broader Middle East;
+       Whereas United States Armed Forces, in coordination with 
+     Iraqi security forces and Coalition and other friendly 
+     forces, have scored impressive victories in Iraq including 
+     finding and killing the terrorist leader Abu Musab al-
+     Zarqawi;
+       Whereas Iraqi security forces are, over time, taking over 
+     from United States and Coalition forces a growing proportion 
+     of independent operations and increasingly lead the fight to 
+     secure Iraq;
+       Whereas the United States and Coalition servicemembers and 
+     civilians and the members of the Iraqi security forces and 
+     those assisting them who have made the ultimate sacrifice or 
+     been wounded in Iraq have done so nobly, in the cause of 
+     freedom; and
+       Whereas the United States and its Coalition partners will 
+     continue to support Iraq as part of the Global War on Terror: 
+     Now, therefore, be it
+       Resolved,  That the House of Representatives--
+       (1) honors all those Americans who have taken an active 
+     part in the Global War on Terror, whether as first responders 
+     protecting the homeland, as servicemembers overseas, as 
+     diplomats and intelligence officers, or in other roles;
+       (2) honors the sacrifices of the United States Armed Forces 
+     and of partners in the Coalition, and of the Iraqis and 
+     Afghans who fight alongside them, especially those who have 
+     fallen or been wounded in the struggle, and honors as well 
+     the sacrifices of their families and of others who risk their 
+     lives to help defend freedom;
+       (3) declares that it is not in the national security 
+     interest of the United States to set an arbitrary date for 
+     the withdrawal or redeployment of United States Armed Forces 
+     from Iraq;
+       (4) declares that the United States is committed to the 
+     completion of the mission to create a sovereign, free, 
+     secure, and united Iraq;
+       (5) congratulates Prime Minister Nuri Al-Maliki and the 
+     Iraqi people on the courage they have shown by participating, 
+     in increasing millions, in the elections of 2005 and on the 
+     formation of the first government under Iraq's new 
+     constitution;
+       (6) calls upon the nations of the world to promote global 
+     peace and security by standing with the United States and 
+     other Coalition partners to support the efforts of the Iraqi 
+     and Afghan people to live in freedom; and
+       (7) declares that the United States will prevail in the 
+     Global War on Terror, the noble struggle to protect freedom 
+     from the terrorist adversary.
+
+  The SPEAKER pro tempore. Pursuant to House Resolution 868 and the 
+special order of today, debate shall not exceed 10 hours, with 5 hours 
+equally divided among and controlled by the chairman of the Committees 
+on International Relations, Armed Services, the Judiciary and the 
+Permanent Select Committee on Intelligence, and 5 hours controlled by 
+the minority leader or her designee.
+  The gentleman from Illinois (Mr. Hyde) is recognized to control 75 
+minutes.
+
+
+                             General Leave
+
+  Mr. HYDE. Mr. Speaker, I ask unanimous consent that all Members may 
+have 5 legislative days in which to revise and extend their remarks on 
+H. Res. 861.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Illinois?
+  There was no objection.
+  Mr. HYDE. Mr. Speaker, I yield to the gentleman from Illinois, the 
+Speaker of the House (Mr. Hastert).
+  Mr. HASTERT. Mr. Speaker, one of our greatest Presidents, Ronald 
+Reagan, was fond of saying that ``Freedom is never more than one 
+generation away from extinction.'' President Reagan's wise words are 
+still true today.
+  Mr. Speaker, I rise in support of H. Res. 861. This resolution is 
+about more than the war in Iraq and Afghanistan. It is about a global 
+war to protect American ideals, and the democracy and values on which 
+this great Nation was founded.
+  This resolution, Mr. Speaker, like this war itself, is about freedom. 
+Just 12 days ago I returned from Iraq. I can tell this House that the 
+morale of our fighting men and women there is sky high. They are not 
+suffering from doubt and ``second guessing.'' And they are certainly 
+not interested in the political posturing about the war that often goes 
+on in this city. They know why they are there. They know they are 
+liberators doing good. And they believe passionately in their mission.
+  It is not possible to talk to these men and women without being 
+inspired by their courage, their determination, their professionalism 
+and their patriotism.
+  I came home from Iraq believing even more strongly, that it is not 
+enough for this House to say ``we support our troops.'' To the men and 
+the women in the field, in harm's way, that statement rings hollow if 
+we don't also say we support their mission.
+  The clarity with which our men and women in uniform understand the 
+reason they are in Iraq is a stark contrast to some here at home who 
+talk about this war as a ``war of choice.''
+  The facts are clear. America has been struck repeatedly. Despite the 
+life-ending attacks on Khobar Towers, our East African embassies, the 
+USS Cole and the first World Trade Center bombing, U.S. policy tended 
+to confuse these attacks with isolated law-enforcement events. We 
+failed to recognize them as
+
+[[Page H4025]]
+
+the escalating strikes that they were. We failed to identify the 
+networks behind the bombs. We convinced ourselves that these attacks 
+were just somehow random acts of violence. And yet the attacks 
+continued.
+  The terrorists did not admire or appreciate our limited response. 
+They did not come to the table to discuss points of political concern, 
+and they did not de-escalate, demobilize or disappear. Our response was 
+inconstant and limited, but their reactions were not. They plotted and 
+they practiced, while we hoped for the best and fired an occasional 
+cruise missile into the desert. We were wrong and we slumbered in 
+denial.
+  And then came the day when terrorism slapped us in the face, 
+awakening us to a stark reality. I remember it as a crisp, fall day. 
+Where the clear blue sky was filled with fluffy white clouds. But that 
+peaceful scene was transformed in an instant when planes went crashing 
+into buildings and the clear sky turned to choking ash and soot.
+  I stood in my Capitol office, just a few yards from where I am 
+speaking here today. I saw the black smoke rising from the Pentagon. 
+The third plane had hit just across the river from this Capitol 
+building.
+  On 9/11 the terrorists were not a distant threat, they were in our 
+front yard, and they were very real and very deadly. In that moment, we 
+were afraid. None of us had anticipated the lengths to which our 
+enemies would go to destroy our American way of life, our ideals and 
+our belief.
+  Of course, we knew that foreign terrorists had caused trouble 
+elsewhere, maybe in Israel or in Northern Ireland, but we found it hard 
+to imagine that they came to our shores hoping to kill tens of 
+thousands of men, women and children, innocent, unarmed people, 
+peacefully going about their daily lives.
+
+                              {time}  1215
+
+  It is hard, even now, to comprehend such enormous evil.
+  As we watched some of our fellow citizens leap from burning buildings 
+to their deaths, our fear turned to anger and then anger to resolute 
+determination.
+  America's response started high above a corn field in rural 
+Pennsylvania. Brave men and women, armed with nothing more than boiling 
+water, dinner forks and broken bottles, stood up, as Americans always 
+do when our freedom is in peril, and they struck back.
+  We know from the messages they left behind that their final thoughts 
+were for their families and their loved ones, but they also spoke of 
+their love of their country.
+  ``Freedom is never more than one generation from extinction.'' 
+Perhaps the brave souls on United Flight 93 reflected Ronald Reagan's 
+words because the generation represented on that plane, like the 
+patriots at Concord Bridge, were not going to let freedom be 
+extinguished, not on their watch.
+  We in this Congress must show the same steely resolve as those men 
+and women on United Flight 93, the same sense of duty as the first 
+responders who headed up the stairs of the Twin Towers.
+  We must stand firm in our commitment to fight terrorism and the evil 
+it inflicts throughout the world. We must renew our resolve that the 
+actions of evildoers will not dictate American policy. And we must 
+decide, right here, today what kind of a Nation we want to leave for 
+our children and their generation.
+  We are not alone in the fight on global terror. I cannot list them 
+all, but they include countries large and small, rich and poor: Great 
+Britain, Japan, Canada, Jordan, Portugal, Denmark, Mali, Latvia, 
+Romania, Italy, Poland, South Korea. In fact, the number of countries 
+working to defeat our common enemy continues to grow.
+  Pakistan, a nation that once recognized the oppressive Taliban 
+regime, has changed its course and now works closely with the coalition 
+to round up terrorists. Yemen, Indonesia, and Saudi Arabia have also 
+moved aggressively within their borders to fight terrorism. Libya has 
+given up her nuclear capability.
+  Today, more than three-quarters of al Qaeda's known leaders and 
+associates have been detained or killed.
+  There is no doubt that since 9/11 our military, as well as our law 
+enforcement intelligence agencies, have made great strides in uprooting 
+terrorism. Nearly a dozen serious al Qaeda plots have been stopped 
+since September 11th. But there is good reason for ongoing vigilance 
+because the threat is still very real.
+  Just recently, our neighbor to the north, Canada, foiled a terrorist 
+plot to storm that country's parliament and one of its major television 
+headquarters. The terrorists planned to behead those they captured.
+  Mr. Speaker, today in parts of the Middle East, where once oppression 
+choked out freedom, we are now seeing democracy take root.
+  Afghanistan was once a safe haven for the al Qaeda terrorist network. 
+In remote training camps, terrorists planned and practiced attacks on 
+the United States and other freedom loving peoples. Those camps are now 
+gone. In their place is a developing democracy with an elected 
+President and a new Constitution that gives unprecedented rights and 
+freedoms to all Afghans.
+  Just 3 years ago, Afghan women were whipped in the streets; schooling 
+was denied to girls. Today, women have the right to vote, and two 
+Afghan cabinet ministers are women.
+  In Iraq, just 3 years ago, a brutal dictator sat in palatial luxury. 
+Unhampered by the United Nations, Saddam and his family stole the Oil-
+for-Food money from starving Iraqi children in order to support their 
+lifestyle of debauchery and brutality. Schoolgirls were raped. Iraqi 
+patriots were thrown alive into meat grinders. Unspeakable atrocities 
+of all kinds were common, including the use of chemical weapons on 
+Saddam's own people, the Kurds.
+  Saddam invaded the sovereign nation of Kuwait. He harbored terrorists 
+in his midst, and he defied 17 United Nations Security Council 
+Resolutions.
+  Just a few days ago, I was listening to the radio, and a pundit 
+remarked on the sectarian violence in Iraq. He observed that perhaps 
+the Iraqi people were better off under Saddam. Given the unspeakable 
+and systematic brutality of Saddam's regime, such a remark either 
+reflects a serious misreading of history or a very naive and forgiving 
+nature.
+  It might have been easier for us in America to turn our heads and 
+look the other way, as much as the rest of the world did, but I would 
+submit that Saddam was an evil cancer on the world. He was a threat to 
+our country, and Mr. Speaker, America, not just Iraq, is better off 
+today because Saddam Hussein sits in a court of law, answering for 
+crimes he committed against humanity.
+  While I was in Iraq, I met with Prime Minister al Maliki as well as 
+my counterpart, the Speaker of the Iraqi Parliament. We talked about 
+the birth of democracy in Iraq.
+  I looked at the Speaker. I looked him in the eye and I said, ``Mr. 
+Speaker, I admire you. The Iraqi people represent an ancient 
+civilization, but your democracy is just beginning. Your challenges are 
+great, but so too are your opportunities.''
+  I urged the Iraqi people to look forward and not back, to listen to 
+the voices of reconciliation, not division, I urged them to choose 
+unity.
+  They told me that they were succeeding in putting together a unity 
+cabinet, and shortly after my return, they announced the names of the 
+last three ministers that deal with critical security issues.
+  Each Iraqi official I met with, even the Iraqi Speaker, who 
+originally viewed the U.S. presence in Iraq negatively, thanked me for 
+the help America has given their country. He went further and urged us 
+to stay with them while they build up the capacity to take over the 
+task of providing security for their people.
+  Today in Iraq we are working together with Iraqi patriots, men and 
+women elected by their fellow citizens.
+  Along with brave Iraqi soldiers and police, we are moving toward a 
+day when the Iraqi Government on its own has the strength to protect 
+their people, a day when our men and women, and their coalition 
+partners, can come home.
+  The ``stand up'' of this new Iraqi Government, which is the fruit of 
+three elections where Iraqi citizens held up their ink-stained fingers 
+and resisted intimidation, brings us closer to that day.
+
+[[Page H4026]]
+
+  President Bush told us from the beginning that this road would not be 
+easy. We have lost many American lives. And each one is precious to us.
+  But our fighting men and women remain committed to the effort. Active 
+duty retention and recruiting is meeting or exceeding all objectives, 
+and we are making progress toward our goal, but the battle is not over.
+  It is a battle that we must endure and one in which we can, and will, 
+be victorious. The alternative would be to cut and run and wait for 
+them to regroup and bring the terror back to our shores. When our 
+freedom is challenged, Americans do not run.
+  ``Freedom is the very essence of our Nation,'' President Reagan said 
+in 1990 when a section of the Berlin Wall was presented to his 
+Presidential library. America, he said, ``remains a beacon of hope for 
+oppressed peoples everywhere.''
+  President Reagan also observed that freedom is not passed on at 
+birth. It must be fought for and protected and handed on. And that is 
+happening. Freedom is being handed on.
+  Our soldiers, sailors, Coast Guardsmen, airmen, marines, and our 
+Reserves are serving proudly and bravely in harsh conditions, far from 
+their families.
+  When I was in Iraq, I told them that their task was important and how 
+proud we all were of their service. But frankly our men and women in 
+uniform did not need to be told. In fact, it is we who should listen to 
+them.
+  They know their sacrifices on foreign shores are keeping the battle 
+against terrorists out of our cities. They know that by going into 
+harm's way they are keeping American freedoms safe, and they know that 
+they are helping a proud but brutalized people to throw off tyranny and 
+stand tall once again. They know that they are liberators, not 
+occupiers.
+  Our men and women in uniform know all this, and they are proud of it. 
+It is time for this House of Representatives to tell the world that we 
+know it too; that we know our cause is right and that we are proud of 
+it.
+  Stand up for freedom. Adopt this resolution.
+  Mr. MURTHA. Mr. Speaker, I yield to the gentleman from Missouri.
+  Mr. SKELTON. I thank the gentleman for yielding.
+  Mr. Speaker, the media just reported the sad news that we have just 
+reached a sad milestone: 2,500 Americans have lost their lives in the 
+Iraq war. Mr. Speaker, I respectfully ask at the outset of this very 
+important debate that the House observe a moment of silence for all 
+those who have given the ultimate sacrifice on behalf of our country.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Missouri?
+  There was no objection.
+  Mr. MURTHA. Mr. Speaker, I yield myself 30 minutes.
+  All of us know, all of us understand stability in Iraq is important, 
+not only to the United States but to the world.
+  It is no secret that Iraq is of particular importance because of its 
+oil. The United States consumes 20.6 billion barrels of oil per day. 
+Yet we produce only 5.1 billion barrels of oil a day. China is the 
+second largest consumer, with 6.9 million barrels per day, and they 
+produce 3.6 million barrels per day. Iraq has the fourth largest oil 
+reserve in the world. Saudi Arabia is number one, Canada number two and 
+Iran number three. So all of us agree Iraq is important. But how do we 
+get to a conclusion?
+  Let me compare Gulf War I with Gulf War II. In Gulf War I, Kuwait was 
+attacked by Saddam Hussein. It was a brutal attack. President Bush I 
+immediately reacted. He sent his emissary, Secretary Cheney, to Saudi 
+Arabia. They got an agreement from Saudi Arabia to use their land to 
+put troops in. He immediately sent in the Airborne Division, and he 
+immediately sent in F-16 fighters to deter Saddam Hussein. All of us 
+knew that there was a possibility at that time that he would have 
+complete control of the oil in the Middle East. So we knew how 
+important it was.
+  Then President Bush started calling up the Reserves. He called a 
+number of Members of Congress over to the White House, and he consulted 
+and talked to them. I do not remember if the gentleman from Illinois 
+was there, but there were seven or eight of us went to the White House. 
+We talked to him about calling up the Reserves and having other people 
+pay.
+  This is important not only to the United States. This is important 
+internationally. This oil supply, this stability in the Middle East is 
+important to the whole world, and he went to work. He called every 
+major nation. He called Egypt, and this was no easy task for these 
+countries to come around to decide to support the United States.
+  Matter of fact, President Mubarak said to me that King Hussein came 
+to him and said if you support the United States, you will cut the 
+throat of Saddam Hussein, and yet Egypt decided that they were going to 
+go along with us.
+  Then he talked about that we needed to have a U.N. resolution, which 
+we did have. Then we had to have a resolution in the Congress of the 
+United States. But the big thing that he promoted was he got a 
+coalition together, and this coalition ended up with 400,000 American 
+troops and 160,000 coalition troops.
+
+                              {time}  1230
+
+  And I remember during this debate, I remember calling Secretary 
+Cheney, calling General Scowcroft saying, you have got 250,000 troops 
+over there, you don't need any more. Let's get this war going. And 
+General Scowcroft said something I have never forgotten. He said, we 
+are going to give General Schwarzkopf whatever he wants. He wants more 
+troops, we are going to give him more troops. And Secretary Cheney 
+called me and said we are going to have to send another 180,000 troops. 
+We are going to have overwhelming force when we go into Kuwait.
+  And they did have overwhelming force. It went on for 6 months. The 
+troops were out in the field, they trained, and when they went in they 
+did a magnificent thing. It was overwhelming. And it was paid for by 
+other countries. Sixty billion dollars came from other countries. 
+President Bush I convinced other countries that they had to help pay 
+for this because it was not only important to the United States, it was 
+important to them, the stability in the Middle East.
+  Now, let me talk about the second Gulf War. The second Gulf War we 
+had intelligence that said there were weapons of mass destruction; 
+there was an al Qaeda connection. I believed that. As a matter of fact, 
+I listened to the reports, and I was hesitant about the al Qaeda 
+connection, but I believed that they had biological weapons. Matter of 
+fact, a week or so before the war started, Ms. Pelosi, as the new 
+minority leader, wanted to go overseas on her first trip. She wanted to 
+visit the troops. Even though she had been against the resolution to go 
+to war, she wanted to tell the troops she supported the troops. And 
+anybody that votes for the Defense Subcommittee appropriations, anybody 
+that belongs to the Armed Services Committee shows their support of the 
+troops.
+  So we went over, and on our way over we stopped in Turkey. Imagine, 
+the 4th Division was sitting outside Turkey. It was supposed to 
+outflank the Iraqis. And the State Department asked me, okay, talk to 
+the Turkish government about letting us go through. Now, we had the 
+most modern division, the most technologically advanced division in the 
+whole world sitting there off Turkey. I talked to them and I became 
+convinced they weren't going to let us go through, even though they had 
+voted the very day I was there, and they voted by a majority, but not 
+the supermajority they needed to allow the United States to go through.
+  I went then to Kuwait and we listened to the commanders. The 
+commanders told us that there is a red line drawn around Baghdad and if 
+we cross the red line they are going to use biological weapons. And I 
+believed that. I believed. As a matter of fact, they said if you cross 
+this red line, we have already verified this by monitoring their 
+telephones, by monitoring their cell phones. When we monitored cell 
+phones of Saddam Hussein's headquarters they said use biological 
+weapons. The troops believed it. They were prepared. They felt like 
+they could go in there with protective gear, they could go in there 
+with what they needed and the hot air, the winds, would dissipate the 
+weapons. And, of course, they crossed the red line and nothing 
+happened.
+  But I still thought there were weapons of mass destruction. I still 
+thought there were biological weapons. I came back and we sent a team 
+over there.
+
+[[Page H4027]]
+
+And the team went over and the team looked for those weapons of mass 
+destruction. Matter of fact, at first a fella named Kay, that was so 
+strong about it, former CIA, said, we will find them. And he looked for 
+months and couldn't find anything at all. Absolutely no evidence of any 
+kind of weapons of mass destruction. No biological weapon, no 
+capability, no nuclear capability, no al Qaeda connection.
+  When we go to war, we should go to war, first of all, if it is a 
+threat to our national security. It was a threat to our national 
+security when you talk about the first war, because it destabilized and 
+he would have controlled all the oil in the Middle East, which is so 
+important to the free world. The second time was no threat to our 
+national security. Now, we didn't find that out, those of us who voted 
+for it, didn't find this out until after we had gone to war.
+  The second thing is you go with overwhelming force. I talked to one 
+of the commanders who was in a meeting with five officials; there was 
+him, there was Secretary Rumsfeld, there was Secretary Wolfowitz, 
+General Pace, and General Myers. And he said we recommended 350,000 
+troops. And as you know, they gave him a lot less troops than that. The 
+coalition troops at the most were up to 30,000 and now they are down to 
+20,000.
+  The first war, 160,000. And the first war was all paid for. It cost 
+us $5 billion. The reason I remember this so vividly is I was chairman 
+of the committee at the time the money came through our committee, and 
+we then sent it over, reprogrammed it over to the Defense Department 
+itself. But the discrepancy that we have seen, the mischaracterization, 
+the optimistic predictions are the problems that I have had.
+  Now, I sent a letter, with Duncan Hunter and a number of other 
+people, and I said to the President, we need 100,000 more troops. Well, 
+the President decided he didn't need 100,000 more troops. Now, imagine 
+this, we are on the ground and we have won the war. The troops did a 
+magnificent job, as we knew they would, but they completely 
+miscalculated the problems that we were going to have afterwards.
+  Now, I talked to a tribal leader the other day in Anbar Province. He 
+told me that, as far as he saw, the first 6 months we had occupied 
+Anbar. Now, Anbar is the province we are having the most trouble right 
+now. It is where Ramadi and Fallujah are. Those are the areas where 
+there is the most contention. In the first 6 months there wasn't a shot 
+fired. Not a shot fired. I said, let me ask you right now, what kind of 
+progress have we made economically? No water, no electricity, no jobs 
+in Anbar Province. Two million people.
+  And we talk about Saddam Hussein. Almost 900,000 people left when 
+Saddam Hussein was there. They left the country as refugees. The time 
+we have been there 900,000 people have left the country. They voted 
+with their feet. The President went in the other day, he says he was 
+glad to see democracy in action. You know where he went? The same place 
+I go, in the fortress. In the Green Zone. That is where he went. They 
+are afraid to go outside the Green Zone.
+  When I first went there, the first two or three trips I went, I could 
+go anyplace. I drove around all over Iraq. The last time I landed at 
+Baghdad Airport, they flew me to Anbar Province down in Haditha, and we 
+flew so low because of the threat we had to come up over the wires in 
+order to get down, and I didn't see a person the whole time. There were 
+2 million people in Anbar Province. Not one project. Not one.
+  I said on the floor of the House the most important thing in that 
+first supplemental, in the $87 billion, was the $18 billion that went 
+for reconstruction. And of course there are so many projects that 
+haven't been finished. Now, after we sent the letter about the 100,000, 
+and during that period of time, we asked a fella named Hamre, who was 
+the former Under Secretary of Defense, who went over to Iraq and he did 
+a study for the Defense Department. He came back and said, you have got 
+3 to 6 months to get this straightened out.
+  And what did he suggest had to be done? They weren't big projects. He 
+suggested we had to have trash picked up, sewage taken care of, 
+electricity, and jobs. Those are the kinds of things he talked about, 
+and securing the border. Those are the things he said had to be done in 
+3 to 6 months, and if it is not done, it will go the other way. And all 
+of us know what has happened. All of us know what has happened with the 
+insurgency.
+  Now, let me go through why I get so distressed by the reports that I 
+get about how well it is going. First of all, the number of daily 
+attacks in Iraq have gone from in 2004, daily, 53 attacks in 2004, 70 
+attacks in 2005, and in 2006, 90 attacks a day.
+  Estimated size of the insurgency. Now, we are supposed to be making 
+progress. That is what we hear. The estimated size of the insurgency in 
+2004 was 15,000. In May of 2005 it was 16,000. In May of 2006 it was 
+20,000.
+  This is the way I measure whether there is progress or not progress.
+  The amount of cash paid to families, this is an important point, to 
+Iraqi civilians killed or maimed by the operation involving American 
+troops went from in 2004, $5 million to $20 million.
+  Now, what does that mean? The problem is that all of us want to solve 
+the problem, all of us want to have a satisfactory answer in Iraq. The 
+problem is the way we have to operate as a military. The reason we won 
+the first Gulf War is we were fighting a conventional force and we 
+wiped them out. Nobody can match our military. They are the best in the 
+world. But now we are fighting a guerilla war, and that is the type of 
+problem that we have.
+  For instance, we went into Fallujah, we put 300,000 people outside 
+their homes and only 100,000 have come back now. And when we put 
+300,000 people outside their home, every one of those are an enemy.
+  Abu Ghraib. Why did Abu Ghraib happen? Abu Ghraib happened because we 
+had insufficient forces and untrained people and unsupervised people in 
+that prison.
+  Now, what do I mean by untrained? We had one fella, who happened to 
+be from my district, that had a court order against him because he had 
+abused his family, and he couldn't carry a gun in Pennsylvania. And he 
+said, I can't do this. This is against my nature. I don't know anything 
+about taking care of prisoners. He is now in jail. But the point is he 
+was untrained in that particular job, and even though he told them, 
+they put him in the job. And of course we know the tremendous 
+consequence, at the very time we went into Fallujah, at the very time 
+we put 300,000 people outside their home.
+  And listen, I endorse this. I know we have to have, when we go into 
+an area, we have to use overwhelming force. That is the way the 
+military has to operate. But, you see, these payments from $5 million 
+in 2004 to $20 million last year, that is because when we go into a 
+place we kill them inadvertently. And when we kill people inadvertently 
+we make enemies, and Abu Ghraib was the biggest public relations 
+disaster we had since My Lai during the Vietnam War.
+  The number of complete or reconstructed projects, as I said, in al 
+Anbar Province, imagine now, this is one-third of the geography of 
+Iraq, and they have 2 million people, zero. Zero. Number of civilians 
+who died in Baghdad last month, 1,400, in sectarian violence. What is 
+the definition of sectarian violence? A civil war.
+  All of us want to end this thing. All of us want to find a way to 
+prevail in Iraq. This is a civil war and we are caught in a civil war. 
+There is less than a thousand al Qaeda in Iraq. They have diminished al 
+Qaeda. But we are caught in this civil war between 100,000 Shiias and 
+20,000 Sunnis fighting with each other.
+  The average monthly U.S. war expenditure in Iraq: $4.4 billion in 
+2003, $5 billion in 2004, $6.1 billion in 2005, and $8 billion. The 
+average monthly expenditure, $8 billion. Now, think what I am saying. 
+The first Gulf War, and Duncan Hunter remembers this, they paid 
+internationally. We paid $5 billion. He was on the Armed Services 
+Committee. He knows what I am talking about. We paid $5 billion and 
+they paid $60 billion. They had 160,000 troops in the first Gulf War.
+  Now, let me talk about the sentiment and talk about the polls taken. 
+We all look at the polls to see what is going on. Now, the only poll 
+taken of U.S. forces in Iraq, about 3\1/2\ months ago: 72 percent of 
+the American troops serving in Iraq think the U.S. should exit the 
+country within a year.
+
+[[Page H4028]]
+
+  Now, I can understand that. Let me tell you, it is hot, they are 
+wearing 70 pounds every day when they are out there in the field, and I 
+can certainly understand that. Forty-two percent say they do not know 
+what the mission is. And that is devastating when they do not 
+understand the mission.
+  A public opinion Iraqi poll, a segment of 18 provinces, all 18 
+provinces: More than half the Iraqis say they are headed in the wrong 
+direction, and 82 percent say the economic situation is either poor or 
+fair. Now, these are the Iraqis. Ninety percent say the security 
+situation is poor or fair.
+  And who do they trust? Who do they trust for personal security? 
+Forty-three percent trust the Iraqi police, 35 percent trust the Iraqi 
+army, 6 percent trust the insurgents, 6 percent trust the insurgents, 4 
+percent trust the armed militia, and 1 percent, 1 percent trust the 
+multinational force. In another poll taken at the beginning of this 
+year, 47 percent approve the attacks on the United States forces, and 
+87 percent of the Iraqis endorse a timetable for withdrawal.
+  Our global image couldn't have been higher after the first Gulf War, 
+with 80 to 90 percent of the people in the world thinking the United 
+States did a marvelous job. We had recovered from Vietnam, finally, in 
+the first Gulf War.
+  Ten of 14 countries polled said the war in Iraq has made the world 
+more dangerous, and most of the countries rated the U.S. troops in Iraq 
+a bigger danger to world peace than the threat posed by Iran. Britain, 
+France, Germany, Spain, Russia, Egypt, Indonesia, Pakistan, Jordan, and 
+Turkey all have more favorable ratings of China than the U.S.
+  Now, this resolution is a restatement of the failed policy of this 
+administration, and it is no surprise that that is what this is.
+
+                              {time}  1245
+
+  We can't win this. This cannot be won rhetorically. We cannot sit 
+here, stand here in an air-conditioned office and say we support the 
+troops, say we support the policy.
+  I visit the hospitals every week, and the only person to visit them 
+more than I do is Bill Young and his wife. I see these young people. I 
+am so impressed by their determination, and I am so hopeful we can end 
+this terrible tragedy.
+  When I got into this 6 months ago, I got into it because of the 
+troops and because of the fact that I felt we couldn't do anything more 
+militarily. We had done everything we could do militarily, and, second, 
+because of the future of the military.
+  The bill we are going to pass next week, and very few people are 
+going to vote against it, if you want to really support the troops, 
+that is what you vote for. You vote for that legislation. That will say 
+we will run out of money for personnel for the troops because we cut $4 
+billion out of the base bill by September. We will take care of that. 
+We will find a way to do it. But the point is the base bill was cut by 
+$4 billion.
+  Now let me tell you the difference in what I believe is the answer. I 
+believe we redeploy and be ready; that is what I say. I say redeploy 
+and be ready.
+  We are the targets. We are causing the problem. You know who wants us 
+to stay in Iraq right now, the al Qaeda wants us there because it 
+recruits people for them. China wants us there. North Korea wants us 
+there. Russia wants us there. We are depleting our resources, just like 
+Russia depleted their resources in Afghanistan. The same thing is 
+happening with the United States. We will have spent $450 billion by 
+the end of this fiscal year. Now think, the first gulf war we spent $5 
+billion. We have spent $450 billion.
+  Stay and we will pay, not only pay in dollars, in money; we are going 
+to pay long term.
+  I figure it took us through the Reagan administration to pay for the 
+Vietnam War. We had 18 to 21 percent interest rates during the Reagan 
+administration, and the reason we did was because Lyndon Johnson, the 
+President of the United States, said we can have butter and we can have 
+guns, and he didn't raise the taxes he should have raised when we had 
+the war going on.
+  So we continue to pay with lives lost in terms of financial treasure 
+and more than $8 billion a month. We pay in terms of international 
+reputation. We pay in terms of the future of our military. We stay and 
+pay. I say redeploy and be ready.
+  Let me tell this one last story.
+  When I came out of Vietnam, they gave me this small bullet. It is a 
+45 caliber without any powder in it. It says: ``First Marines, 
+everything is going to be all right.''
+  A month after I came out of Vietnam in 1967, Lyndon Johnson said, and 
+I believed in the Vietnam War. I thought we were fighting communism. 
+But Lyndon Johnson said, and they had an election, one month after I 
+came out of Vietnam, everything was going to be all right. Do you know 
+how many people we lost from 1967 until we pulled out? 37,000.
+  Rhetoric does not answer the problem. Only the Iraqis can solve the 
+problem in Iraq. They are fighting with each other, and our troops are 
+caught in between. I say it is time to redeploy and be ready.
+  Mr. HYDE. Mr. Speaker, I yield myself such time as I may consume.
+  Mr. Speaker, I can't help but comment on my good friend Mr. Murtha's 
+eulogy for the first gulf war. The problem we have had there is we quit 
+too soon. We quit before the victory was secure. We left the Republican 
+Army, we left Saddam Hussein, we just washed our hands and left. I hope 
+we learned a lesson from that, what a mistake it was and it led to 
+later difficulties.
+  Mr. Speaker, so much of what we do in this Chamber is 
+inconsequential; but the subject of this debate is anything but 
+trivial. Let us then be serious as life and death are serious.
+  The capacity to reproduce that fearful mushroom cloud which first 
+terrorized the world in 1945 is multiplying and becoming the deadly 
+plaything of rogue nations across the globe.
+  Partisans have charged the President with misleading us into war, 
+``misleading'' being a pale euphemism for lying. The acquisition is 
+made more grave by the assertion that he concocted the war for purely 
+political purposes.
+  By any measure this is a monstrous charge, but questions persist that 
+must be answered if we are to honestly examine the President's 
+rationale for intervention. It is essential to first understand the 
+context in which the decision was made.
+  President Bush has cited two factors for his decision to intervene in 
+Iraq: the first, his belief that Saddam was reconstituting his arsenal 
+of weapons of mass destruction; and, secondly, that the Iraqi dictator 
+was cooperating with al Qaeda and other terrorist organizations.
+  The threat from Saddam Hussein stretches back much further than many 
+of today's critics care to remember. Saddam's effort to develop a 
+nuclear weapon began in the 1970s, centered around the nuclear reactor 
+being constructed at Osirak.
+  Despite the alarming evidence of its purpose, the world casually 
+contemplated what it saw as a distant, perhaps even benign, 
+development.
+  But the luxury of inaction was not available to Israel because her 
+leaders knew that the country was certain to be among Saddam's first 
+targets. They also knew that the responsibility for Israel's safety was 
+theirs alone, and that the world would do nothing to save their country 
+if they failed to act.
+  So act they did, launching a bold attack in 1981, destroying the 
+reactor complex and setting Saddam's nuclear quest back many years. But 
+far from praising this heroic act that benefited humanity, the world 
+community responded with condemnation, even outrage. Yet, in hindsight, 
+is anyone so foolish as to assert that Israel should have waited for 
+the United Nations to confirm that a threat existed, that Israel should 
+not have taken action to destroy the reactor, even in defiance of the 
+international community?
+  Had Israel not acted, the future of the Middle East and the West 
+would likely have unfolded quite differently and far more tragically.
+  Unchastened by this setback, Saddam continued his aggressive campaign 
+to dominate the region and control the world's oil supply, launching a 
+decade-long war against Iran in 1980 during which over a million people 
+were killed and in which he used poison gas and other means of mass 
+slaughter.
+  After being beaten back from Iran, his attention then turned to 
+Kuwait,
+
+[[Page H4029]]
+
+which he invaded and annexed in 1990, assuming the world would meekly 
+accept this fait accompli.
+  Many forget that for a time that outcome was a real possibility. Much 
+of the initial response in the world community, and in this country, 
+was one of let's look the other way and hope for the best.
+  Only when the United States decided to forcefully eject Saddam from 
+Kuwait and to assume the principal burden for doing so was the 
+international community finally persuaded to go along. We refused to 
+allow our fate and that of the world to be shaped by a dictator, and 
+all sensible people are glad of it.
+  What we providentially discovered after that war astonished the 
+entire world. Despite years of inspections and the best efforts of 
+numerous intelligence services, Saddam had managed to secretly 
+construct a massive program to develop nuclear, chemical and biological 
+weapons. The experts estimate that he was only 6 months from an 
+operational nuclear device. Had he postponed his invasion of Kuwait by 
+half a year, the world would now be a much darker place.
+  This record of unrelenting aggression and implacable menace was the 
+only context in which a reasonable person could view Saddam's future 
+designs. This was the background in which the events of 9/11 occurred.
+  Imagine yourself as President, confronting the fact that an unknown 
+group of terrorists had incinerated 3,000 Americans in an attack 
+carried out by individuals who gladly committed suicide to create this 
+horror. We had no idea how extensive their resources were, how global 
+the threat was, who were their allies, how massive were the hidden 
+terrorists to come.
+  In this context, let us consider the alternative to our intervention 
+in Iraq: The President is presented with evidence that once again 
+Saddam Hussein has developing weapons of mass destruction, that he once 
+again refuses to cooperate with international arms inspectors, that he 
+has had contact with al Qaeda and other terrorist organizations, that 
+he is even harboring terrorist organizations. And yet the President 
+decides not to act. He decides to wait, to see if those same inspectors 
+who had previously been deceived by Saddam will again give him a clean 
+bill of health months or years in the future, to wait until our allies 
+or the United Nations grudgingly grant us a narrow warrant to act. To 
+wait until Saddam perhaps gives to some terrorist organization a 
+nuclear, chemical, or biological weapon to detonate in some U.S. city.
+  To trust our fate to those who would destroy us is to die and leave 
+no descendants.
+  Is it possible to imagine the storm of condemnation that would 
+justifiably fall on a President who, by not acting, allowed Saddam to 
+arm himself once again with nuclear, chemical or biological weapons? To 
+allow the possibility that these might be made available to a terrorist 
+organization, to acquiesce in the death of thousands, tens of 
+thousands, perhaps of millions of Americans simply because the 
+available evidence was not 99 percent, no, 100 percent certain?
+  For if al Qaeda had had a nuclear device, there can be no doubt it 
+would have used it on 9/11 and we would be mourning the death of 3 
+million Americans, not a tragic 3,000.
+  Which then was the greater risk in the face of decades of evidence? 
+To act or not to act? To trust Saddam? Who in this body is willing to 
+assert that it is ever wise, that it is ever moral to risk the 
+destruction of the American people? That is the context in which the 
+decision to intervene in Iraq was taken.
+  Was our intelligence imperfect? In retrospect, that is obvious. But 
+when is it ever perfect? Nor was this shortcoming uniquely ours. Every 
+intelligence service in the world assumed that Saddam was once again 
+engaged in developing weapons of mass destruction. After the invasion, 
+we learned the astonishing fact that even Saddam's own generals 
+believed he possessed them and was prepared to use them.
+  It is certainly worth noting that among the shrillest voices 
+condemning our intelligence failure are many who once devoted their 
+efforts to weakening our intelligence capabilities, who employed their 
+energies towards imposing restrictions, cutting budgets, sounding 
+alarms about imaginary ``rogue elephants.''
+  Permit me to quote from some of the most strident critics of this 
+administration and its campaign against the terrorists.
+  The first is a United States Senator now serving with great 
+distinction in the other body. And on September 23, 2001, 12 days after 
+the events of 9/11 this Senator stated: ``The tragedy is at this moment 
+that the single most important weapon for the United States of America 
+is intelligence.
+
+                              {time}  1300
+
+  ``We are weakest, frankly, in that particular area. So it is going to 
+take us time to be able to build up here to do this properly.'' You 
+will find that on CBS's Face the Nation, September 23, 2001.
+  But this same Senator, in 1995, introduced a bill, S. 1290, that 
+would have reduced the intelligence budget by $300 million in each of 
+the fiscal years, 1996, 1997, 1998, 1999 and 2000.
+  Then we have a gentlewoman serving with distinction in this body, 
+from sunny California, and in 1998 she stated, ``it is time to totally 
+eliminate the CIA.'' Congressional Record, March 18, 1997.
+  On several occasions in the 1990s, following the collapse of the 
+Soviet empire, a majority of Democrats in the House voted to cut the 
+U.S. intelligence budget. Yet, following the horrific events of 
+September 11, the chorus of voices that had previously advocated 
+reducing our intelligence capabilities quickly reversed their theme. 
+Even they must thank God that they had been unsuccessful in their 
+efforts. But on this subject we hear nothing but deafening silence.
+  One inescapable lesson of history is that passivity in the face of a 
+threat is an invitation to strike. The desire to run away only 
+encourages pursuit. We are seeing that fatal approach gather strength 
+elsewhere in the world manifested in efforts to bind the hands of those 
+who would attack terrorism at its source. The hope is that, as with the 
+passing of a storm, the threat will move on and blue skies reappear and 
+that the nightmare will at last be over. But the terrible reality is by 
+succumbing to the fear of terrorism, by doing too little in the fear 
+that we are doing too much, we condemn ourselves to a future of 
+unending assaults.
+  Other countries have learned that, however meager their contribution 
+to their own and the world's security, however ineffectual their 
+actions, in the end the United States will rescue them. We will make 
+the world right again. We will defend against all threats. We, however, 
+no longer have that luxury. If we do not take action to defend 
+ourselves, then we are lost because no one exists to rescue us if we 
+fail.
+  So, aware of its responsibilities, aware of the horrific consequences 
+that might occur from indecision and a reliance on trust and hope, 
+President Bush acted to remove the threat posed by Saddam. What he did 
+is called leadership. And for doing his duty for all of us, he has been 
+denounced by many of the same people who would have denounced him had 
+he not acted, denounced by people who bear no responsibility, who take 
+no responsibility, even for their own actions.
+  Saddam is no longer a threat to anyone. That is a salutary lesson for 
+those around the world who watch and wait for opportunities for 
+unopposed aggression. They now know that their invulnerability has 
+vanished. Even more important, and almost entirely unnoticed amid the 
+torrent of criticism focused on President Bush, is that his actions 
+have greatly enhanced the credibility of the United States. For the 
+next time this or any President warns a foreign despot to cease actions 
+we believe are threatening to us, there can be little doubt that we 
+will take decisive and forceful action, no matter how great the 
+opposition of the world community.
+  No one can credibly question that this greatly enhanced credibility 
+paid off with Libya's decision to abandon its efforts to acquire 
+weapons of mass destruction. Qaddafi understood what President Bush's 
+critics still refuse to acknowledge, that this administration is 
+determined to eliminate threats to our country, both actual and 
+potential, and if necessary, will use force to do so.
+
+[[Page H4030]]
+
+  That is in sharp contrast to the passivity of the previous 
+administration, whose failure to react to the repeated attacks on the 
+United States only encouraged our enemies to make further attacks. What 
+other conclusion could al Qaeda and others have reached from our 
+baffling inaction and response to their assaults on our embassy, on our 
+military, on us? They were taught the false lesson that they were free 
+to slaughter us and we would do nothing.
+  Incredibly, senior officials from the administration now shamelessly 
+criticize this President for taking decisive measures to address the 
+threat that they themselves could not be brought to contemplate. By 
+acting first in Afghanistan, and then Iraq to remove Saddam, President 
+Bush has rendered the need for future interventions much less likely.
+  It is unfortunate that the quest for political advantage and a high 
+decibel partisanship have intruded into the national discussions of how 
+best to address the problems we face in Iraq. But there can be no doubt 
+that the more we appear disunited, and the more voluble our dissent 
+into weakness, dissension and inaction, the greater the aid and comfort 
+we give to our enemies.
+  The world of predictability and relative safety we once knew is gone. 
+We are now engaged in a cruel, brutal struggle with those who would 
+destroy us, one unprecedented in its challenge to our perseverance and 
+courage, and one that will be fought not just in foreign lands but on 
+our own soil.
+  To insist that decisions must await perfect intelligence, that the 
+risk of action is to be more feared than the risk of inaction, that 
+others will save us, is to guarantee our defeat. But defeat in this new 
+and more dangerous world means annihilation. The smoking gun that some 
+critics insist on might well be some of our cities.
+  We in this Chamber, our country, the entire world, owe this President 
+not condemnation but our thanks for acting in Iraq, for refusing to 
+wait for an avowed enemy to strike, for not temporizing and letting the 
+forces of destruction wage unopposed their pitiless war to destroy 
+everything we believe in.
+  To those faint of heart from temporary setbacks in Iraq or who seek 
+to benefit politically from our differences there, permit me to quote 
+from Thomas Paine. Thomas Paine wrote, ``These are the times that try 
+men's souls. The summer soldier and the sunshine patriot will in this 
+crisis shrink from the service of their country. But he that stands by 
+it now deserves the love and thanks of men and women. Tyranny, like 
+hell, is not easily conquered. Yet, we have this consolation with us, 
+that the harder the conflict, the more glorious the triumph.''
+  Charles De Gaulle once said, ``France would not be true to herself if 
+she weren't engaged in some great enterprise.'' Our great enterprise is 
+the defense of freedom, and may we be worthy of the challenge.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. MURTHA. Mr. Speaker, I yield myself 2 minutes.
+  Let me comment on a couple of things the distinguished gentleman from 
+Illinois said.
+  He talks about early exit. This war has gone on, Mr. Chairman, this 
+war has gone on longer than the Korean War. It has gone on longer than 
+World War I, and it has gone almost as long as the European War.
+  If I believed we were making progress, we can't win this militarily. 
+What I am saying is to redeploy, to get our troops out of harm's way is 
+the key. I see no progress at all in this operation. I see the 
+opposite.
+  When I see, you talk about al Qaeda being encouraged by what we say. 
+Al Qaeda has gone from 15,000 to 20,000. Incidents have gone from 50 a 
+day to 90 a day. That is the thing that worries me. And we are not 
+making progress. We are losing progress.
+  I yield 10 minutes to the gentleman from Missouri (Mr. Skelton).
+
+
+                Announcement by the Speaker Pro Tempore
+
+  The SPEAKER pro tempore (Mr. LaHood). The Chair reminds Members to 
+direct their comments to the Chair.
+  Mr. SKELTON. Mr. Speaker, I appreciate the opportunity to speak on 
+this issue today, this important issue for so many Americans across the 
+country, from my home State of Missouri. So many families such as mine 
+have young people in uniform. But this resolution before us today is 
+not what we requested, nor is it what we were told we would have before 
+us to debate. We expected a resolution confined to the country of Iraq 
+and the conflict there. That is not what the resolution is. This 
+resolution covers the Middle East waterfront, trying to blend together 
+the Iraqi war and the war against terrorism, which has its genesis in 
+Afghanistan.
+  Mr. Speaker, these are two separate and distinct wars. We did the 
+right thing by going into Afghanistan, toppling the Taliban, which 
+supported and protected the al Qaeda terrorists. And then came along 
+the discussion, the international discussion about Iraq and Saddam 
+Hussein and the weapons of mass destruction.
+  We made the decision, as a country, to go into Iraq. At that time, 
+Mr. Speaker, knowing the history and the culture of the Middle East, I 
+sent two letters to the President of the United States, one on 
+September 4, 2002, and one on March 18, 2003, before we went into Iraq. 
+My letters warned against the aftermath.
+  They sent an Assistant Secretary of State and an Assistant Secretary 
+of Defense over to see me and said, ``Ike, it will be all right.''
+  We know what happened in the aftermath insurgency because we allowed 
+the looting, we sent the Iraqi Army home, rather than give them a 
+paycheck and a shovel, and didn't have enough troops to quell any 
+insurgency. And it arose. And here we are, some 3 years later.
+  Despite the fact that this resolution is a broad one, let's talk 
+about Iraq, which should be the complete subject of the resolution 
+before us.
+  Mr. Speaker, this Nation is at a strategic crossroads. We are 
+spending $8 billion a month, over $300 billion on this war. And more 
+strikingly, we are losing, Mr. Speaker, a battalion's worth of 
+casualties killed or injured between Iraq and Afghanistan. By far, most 
+of them are, sadly, in Iraq. And there are increasing insurgent 
+inspired attacks.
+  Now, what makes this resolution so interesting is the fact that it 
+flies in the face of the law that we passed here in the Congress of the 
+United States and the President signed. The bill, the defense bill of 
+2005 said this: ``Calendar year 2006 should be a period of significant 
+transition to full Iraqi sovereignty with Iraqi security forces taking 
+the lead for the security of a free and sovereign Iraq, thereby 
+creating conditions for the phased redeployment of the United States 
+forces from Iraq.'' That is the law of our land. That is what the 
+defense bill said last year. ``Thereby creating conditions for the 
+phased redeployment of the United States forces from Iraq.''
+
+                              {time}  1315
+
+  What does this mean to us in the long run? Well, farmers in Missouri 
+know that the quality of the corn that they plant will bring about the 
+quality of the corn that grows. And we find ourselves militarily eating 
+our seed corn in the country of Iraq. Sadly, a few moments ago we had a 
+moment of silence for the 2,500th American that sacrificed a life in 
+that sad country. But it means eating up the equipment, and we are 
+using equipment right and left and it is going to take 3 years to 
+refurbish the United States Army if the war would stop today equipment-
+wise. There are challenges in recruiting and retention. But I have to 
+tell you how proud I am of those young people in uniform today. But if 
+we do not take serious thought about the phraseology that is in the law 
+creating the condition for the phased redeployment of United States 
+forces from Iraq, I think that we may be eating our military seed corn. 
+And what does this mean? It means that the United States of America 
+will be less prepared to either deter or defend an attack that might 
+come at some future date.
+  This is serious business. We need to remain strong militarily. That 
+is the way you deter problems. Should North Korea, somewhere in Asia, 
+somewhere in Latin America, somewhere in Africa that would cause us to 
+be involved, the question is, Mr. Speaker, would we be prepared 
+militarily to meet that challenge?
+  That is why it is very important that we do our very best to take 
+seriously the law regarding transition this year, the significant 
+transition.
+
+[[Page H4031]]
+
+  And what will it take? It will take the Iraqi government to stand up 
+on its own, and it is on its way there, to transfer the security 
+problem and situation to their police force and to their military, and 
+we have some 250,000 Iraqi military either fully trained or nearly 
+fully trained. We have to hand the baton over to them. We as a country, 
+whether militarily or not, cannot determine the fate of Iraq. The 
+Iraqis have to do it themselves, their own government, their own 
+military, and their own police force. We can be of help. We have been 
+of help. We have been there some 3 years. I think it is time for us to 
+seriously look at where we are, where we are going, and do our very 
+best to keep ourselves militarily strong for those days that are bound 
+to happen.
+  And, Mr. Speaker, let me remind the Members I have been in Congress 
+29 plus years thanks to those wonderful folks in Missouri. During that 
+time, we have had 10 military confrontations with other countries. 
+History being what it is reflects that, and the future may hold 
+something similar. We hope not. But the question is will we be 
+militarily prepared when the time comes?
+  The Iraq adventure needs to be looked at in light of the law that we 
+passed last year. The calendar year 2006 should be a period of 
+significant transition to full Iraqi sovereignty with Iraqi security 
+forces taking the lead for the security of a free and sovereign Iraq, 
+thereby creating the conditions for the phased redeployment of United 
+States forces from Iraq. That is the law. That is what the Congress 
+passed. That is what the President signed. And that is where we are.
+  Mr. Speaker, I will enter into the Record at this point my letters in 
+full to the President, dated September 4, 2002, and March 18, 2003.
+
+                                      Committee on Armed Services,
+
+
+                                     House of Representatives,
+
+                                Washington, DC, September 4, 2002.
+     The President,
+     The White House,
+     Washington, DC.
+       Dear Mr. President: Thank you for inviting me to the 
+     briefing this morning. I share your concern about the 
+     continuing threat posed by Saddam Hussein and his efforts to 
+     produce weapons of mass destruction (WMD). I would like to 
+     offer my assistance as the administration considers how to 
+     deal with this threat.
+       Before Congress can authorize any military action that 
+     might be part of the administration's plan, we must have 
+     answers to more questions than were able to be raised. at 
+     today's meeting. Our constitutional duty requires us to 
+     ensure that all implications of such action are considered in 
+     advance. The case has not yet been fully made as to what the 
+     threat is, why military force is an appropriate way of 
+     addressing the threat, and why action must occur now. In 
+     short, Congress and the American people must be clear on your 
+     strategic vision before we can authorize a specific course of 
+     action. I believe, like Clausewitz, that in strategy there is 
+     an ``imperative . . . not to take the first step without 
+     considering the last.''
+       Your strategy for dealing with Iraq must address the 
+     fundamental questions of the threat, the method of acting, 
+     and the timing. Furthermore, any strategy to eliminate Iraqi 
+     WMD must also address several component issues, each of which 
+     raises critical questions.
+       1. How to manage Iraq's transition to a stable post-Saddam 
+     regime:
+       As I mentioned to you this morning, this is a crucial 
+     question for administration strategy to answer in advance of 
+     any military action. I have no doubt that our military would 
+     decisively defeat Iraq's forces and remove Saddam. But like 
+     the proverbial dog chasing the car down the road, we must 
+     consider what we would do after we caught it.
+       As Sun-Tzu said in the classic strategic treatise, The Art 
+     of War, ``To win victory is easy; to preserve its fruits, 
+     difficult.'' Military planners and political leaders alike 
+     knew this in World War II. Planning for the occupation of 
+     Germany and Japan--two economically viable, technologically 
+     sophisticated nations--took place well in advance of the 
+     end of the war. The extreme difficulty of occupying Iraq 
+     with its history of autocratic rule, its balkanized ethnic 
+     tensions, and its isolated economic system argues both for 
+     careful consideration of the benefits and risks of 
+     undertaking military action and for detailed advanced 
+     occupation planning if such military action is approved.
+       Specifically, your strategy must consider the form of a 
+     replacement regime and take seriously the possibility that 
+     this regime might be rejected by the Iraqi people, leading to 
+     civil unrest and even anarchy. The effort must be to craft a 
+     stable regime that will be geopolitically preferable to 
+     Saddam and will incorporate the disparate interests of all 
+     groups within Iraq--Shi'a, Sunni, and Kurd. We must also plan 
+     now for what to do with members of the Baath party that 
+     continue to support Saddam and with the scientists and 
+     engineers who have expertise born of the Iraqi WMD program.
+       All these efforts require careful planning and long-term 
+     commitment of manpower and resources. The American people 
+     must be clear about the amount of money and the number of 
+     soldiers that will have to be devoted to this effort for many 
+     years to come.
+       2. How to ensure the action in Iraq does not undermine 
+     international support for the broader war on terrorism:
+       In planning for military operations in Iraq, we cannot 
+     ignore the lack of international support to date. Pre-emptive 
+     action against Iraq is currently vocally opposed by many of 
+     our allies and friends throughout the world and particularly 
+     in the Middle East.
+       When we are seen as acting against the concerns of large 
+     numbers of our friends, it calls into question the ``humble'' 
+     approach to international relations you espoused during the 
+     presidential campaign. More than that, it has several 
+     potentially damaging long-term consequences. First, it risks 
+     losing the large number of partners needed to prosecute the 
+     global war on terrorism. To ferret terrorist groups out of 
+     their many hiding places, we must have broad allied support. 
+     Second, it risks seriously damaging U.S. moral legitimacy, 
+     potentially providing states like India and Pakistan with a 
+     preemptive option that could drive long-standing conflicts 
+     beyond containable bounds.
+       Finally and perhaps most dangerously, actions without broad 
+     Arab support may inflame the sources of terrorism, causing 
+     unrest and anger throughout the Muslim world. This dynamic 
+     will be worse if Iraq attacks Israel--perhaps with weapons of 
+     mass destruction--and draws them into the conflict. Iran, 
+     which has the potential to seize a reformist path, may well 
+     move away from the United States in the face of attacks that 
+     could next be taken against them. Together, these dynamics 
+     will make achieving peace in the Middle East more difficult 
+     and may well provide the rationale for more terrorist attacks 
+     against Americans.
+       These concerns do not make military action in Iraq 
+     untenable. They do, however, highlight the depth and 
+     importance of the issues to be addressed before we strike. We 
+     need to ensure that in taking out Saddam, we don't win the 
+     battle and lose the war.
+       3. How to ensure that the United States can execute this 
+     operation successfully as well as its other military 
+     missions:
+       As you are well aware, Mr. President, the consideration of 
+     military action against Iraq comes at a time when U.S. forces 
+     are actively engaged throughout the world in a range of 
+     missions. Given the operational pressures these forces 
+     currently face, we must ask what the risks and trade-offs 
+     will be of defeating Iraq, particularly if Iraqi forces mass 
+     in Baghdad for urban operations. How many casualties must the 
+     American people be prepared to take in a worst-case scenario? 
+     What will the impact of sustained operations be on so-called 
+     high-demand, low-density assets? What military operations 
+     might we have to forego because of continued demands in Iraq? 
+     Will we still be prepared for the range of other threats that 
+     might emerge throughout the world? With little allied support 
+     and contributions, will we still be able to maintain military 
+     spending on transformational technologies and on sound 
+     quality of life for our forces if we are bearing a huge 
+     wartime cost alone? What will be the impact on the domestic 
+     economy of these resources drains and of the long-term costs 
+     of reconstructing Iraq? These questions must be answered 
+     before any military action commences so that the American 
+     people understand the risks and the sacrifices involved.
+       I ask these questions only to highlight the complexity of 
+     the undertaking and the need for Congress, the American 
+     people, and our friends around the world to understand 
+     exactly what is at stake and why we must act now. Only such a 
+     comprehensive strategic approach will ensure that we commit 
+     U.S. troops consciously and with full knowledge of the range 
+     of challenges we face--both in the initial campaign and in 
+     the long aftermath to follow. Even a strategy that has 
+     military action as its centerpiece will require great 
+     diplomatic efforts to ensure its success. I look forward to 
+     hearing the administration's answers and to working with you 
+     to find the best course of action.
+           Sincerely,
+                                                      Ike Skelton,
+     Ranking Democrat.
+                                  ____
+
+                                      Committee on Armed Services,
+
+
+                                     House of Representatives,
+
+                                   Washington, DC, March 18, 2003.
+     The President,
+     The White House,
+     Washington, DC.
+       Dear Mr. President: This is a critical week for our nation 
+     and for the world. As you prepare to make the most difficult 
+     decision of sending our troops into combat, the thoughts and 
+     prayers of all Americans are with you. My colleagues here in 
+     Congress have many different views on the wisdom of action in 
+     Iraq and the severity of its consequences. But we are united 
+     in our support for all the men and women who serve this 
+     nation.
+       There is no doubt that our forces will be victorious in any 
+     conflict, but there is great potential for a ragged ending to 
+     a war as we deal with the aftermath. I appreciate the efforts 
+     that members of your administration have made to keep me 
+     informed about plans for the administration and 
+     reconstruction of Iraq following military conflict. Your team 
+     has thought about many of the things that will need to be 
+     done.
+
+[[Page H4032]]
+
+       Secretary Rumsfeld frequently talks about the list he keeps 
+     of things that could go wrong in an Iraq war. I have kept my 
+     own list--of things that could go wrong after the war is 
+     over. The list below is indicative of this broader list. My 
+     hope is that this will be helpful to members of your 
+     administration as you continue to plan for all possibilities. 
+     These are not complete scenarios but rather a series of 
+     possible problems that could occur in some combination.
+
+
+           internal divisions and external influences in iraq
+
+       Without access to Iraq through Turkey, U.S. troops are not 
+     present in northern Iraq in large numbers. Turkey enters 
+     northern Iraq to establish a buffer zone and fighting breaks 
+     out between the Turks and Kurds. A significant U.S. military 
+     force is needed to separate the groups, complicating the 
+     governmental transition and international support.
+       An uprising in Kirkuk leaves the Kurds in control of areas 
+     of the city and surrounding area. This triggers a large 
+     Turkish invasion to protect the Turkmen minority and to 
+     prevent Kurdish control of oil resources. Again this would 
+     require U.S. military resources with all the attending 
+     effects.
+       In the event that Turkey crosses into Iraq, Iran may do the 
+     same, ostensibly to stem the refugee flows from southern Iraq 
+     and to protect Shi'a interests.
+       Shi'a populations in the south rebel and undertake attacks 
+     against Sunnis. U.S. troops must step in to protect the 
+     Sunnis and restore peace. These tensions resurface during 
+     attempts to build a federal and representative government.
+       Urban fighting in the south brings Shi'a into conflict with 
+     Sunnis. The resulting devastation causes a refugee crisis as 
+     Shi'a make for the Iranian border. The results of Saddam's 
+     policy of forced Arabization of areas like Kirkuk yield 
+     dangerous consequences. Groups like the Kurds flow back into 
+     these areas seeking to reclaim their former homes and land, 
+     sparking conflict with Iraqi Arabs.
+       Attempts to fashion a federal government in Baghdad prove 
+     difficult. Iran is able to establish proxies for its 
+     influence among the Shi'a representatives. Once in Iraq, 
+     infighting breaks out among members of the former Iraqi 
+     opposition in exile. The United States is unable to 
+     transition the administration of Iraq effectively and has to 
+     remain in place, with significant military backing.
+       The war involves lengthy urban combat, particularly in 
+     Baghdad. Most infrastructure is destroyed resulting in 
+     massive humanitarian problems. The emphasis on humanitarian 
+     aid distracts from efforts to establish a new government. 
+     Once established the government faces massive political 
+     pressure from the sustained humanitarian crisis.
+
+
+                      weapons of mass destruction
+
+       Saddam uses biological and chemical weapons against 
+     advancing U.S. troops, but also inflicts substantial civilian 
+     casualties. Efforts to stabilize cities and to establish a 
+     government are complicated by the need to deal with the large 
+     number of dead and to decontaminate affected areas.
+       Saddam uses biological and chemical weapons directly 
+     against civilian populations or against another Arab country 
+     and seeks to affix blame for civilian suffering to the United 
+     States. Over the period of occupation, this resentment 
+     complicates U.S. efforts to maintain support for 
+     reconstruction efforts.
+       U.S. troops are unable to quickly find all of Saddam's 
+     capabilities, requiring a long, labor-intensive search and 
+     anxiety as to when the task is complete.
+       Regional leaders, for money or to gain influence, retain 
+     caches of WMD and transfer some to terrorist groups.
+       Saddam attacks Israel with missiles containing weapons of 
+     mass destruction. Israel retaliates. Arab countries, notably 
+     Saudi Arabia and Jordan, come under intense political 
+     pressure to withdraw their support from the U.S. war effort. 
+     U.S. forces are forced to reposition operational centers into 
+     Iraq and Kuwait, complicating reconstruction and transition 
+     efforts.
+
+
+                             oil resources
+
+       Saddam sabotages a significant number of wells before his 
+     defeat. Current estimates indicate he may already have wired 
+     up to 1,500 of these wells. The damage takes years to contain 
+     at great economic and environmental cost and removes a major 
+     source of reconstruction funding.
+       Internal groups, such as the Kurds, seize oil-rich land 
+     before American troops reach the area, causing internal 
+     clashes over these resources. Militant Shi'as seize other 
+     wells in the South.
+
+
+                         international support
+
+       The United States takes immediate control of Iraq's 
+     administration and of reconstruction. The United Nations 
+     can't agree on how involved to get given the divisions among 
+     the Security Council about the need for conflict. The lack of 
+     UN involvement in the administration makes the European Union 
+     and others less likely to give. This situation delays 
+     reconstruction and puts more of the cost on the United States 
+     and a smaller number of partners.
+       U.S. reconstruction efforts that give U.S. corporations a 
+     great role at the expense of multilateral organizations and 
+     other participation--as was detailed in yesterday's Wall 
+     Street Journal--spur resentment and again limit the 
+     willingness of others to participate.
+
+
+                          american commitment
+
+       Stabilization and reconstruction prove more difficult than 
+     expected. U.S. troop requirements approach 200,000--the 
+     figure General Shinseki has mentioned--for a sustained 
+     period. This puts pressure on troop rotations, reservists, 
+     their families, and employers and requires a dramatic 
+     increase in end-strength.
+       Required funding reaches the figure suggested by a recent 
+     Council on Foreign Relations assessment--20 billion annually 
+     for several years. During a period of economic difficulty, 
+     the American public calls for greater burdensharing.
+       It is my hope that none of these eventualities comes to 
+     pass. But as you and all military leaders know, good planning 
+     requires considering the range of possibilities. It also 
+     requires advance preparation of the American people. You have 
+     regularly outlined the reasons for why the United States must 
+     disarm Iraq. I urge you to do the same in explaining why we 
+     must stay with Iraq for the long haul, even with the economic 
+     and military burdens this will entail.
+       As always, I am willing to help in any way I can to make 
+     this case to my colleagues and the American people.
+           Sincerely,
+                                                      Ike Skelton,
+                                                 Ranking Democrat.
+
+  Mr. HUNTER. Mr. Speaker, I yield myself such time as I may consume.
+  Mr. Speaker, I want to thank the chairman of the Intelligence 
+Committee for allowing me to take a little time early in this debate, 
+although I know the Armed Services Committee is going to come up a 
+little later. And I wanted to talk about this war and touch on some of 
+the subjects that my good friend Mr. Murtha has brought up over the 
+last 15 or 20 minutes.
+  I was a new Member of Congress in 1983 when I went over to Beirut 
+with a lot of those great members of the Armed Services Committee, and 
+we got over there a couple of weeks before the Marines were blown up in 
+the terrorist act that all Americans now have heard about and 
+understand. And the reaction of the United States to that was basically 
+to move out. And I know we all remember the Khobar Towers going up and 
+a similar nonreaction from the United States. And we remember the 
+embassies going up in North Africa and the national derision that 
+followed the sending back of a couple of cruise missiles, one of which 
+was alleged to have hit a drugstore, which was at most a symbolic 
+response to the blowing up of those embassies in Africa. And I remember 
+the Cole, and we all remember the Cole, and the destruction of that 
+ship and the ensuing American casualties and the nonaction by the 
+United States.
+  And then we were struck on 9/11, and we realized that it was wrong 
+for us to treat these terrorist acts as isolated, compartmentalized 
+acts that were unrelated. And at that point we struck back. And we 
+undertook a mission first to Afghanistan, secondly a mission to Iraq.
+  And I do not think we have to plow old ground about Iraq. I think 
+everybody understands Saddam Hussein, Gulf I. But I think it is 
+important and it is good that my friend Mr. Murtha has pointed out 
+that, in fact, even as we drove that armored spearhead north in this 
+war against Iraq, taking Baghdad, Tommy Franks was intercepting 
+communications even then from Iraqi officers to the effect that they 
+were on the verge of using the ``special weapon,'' which we interpreted 
+to be poison gas, a weapon of mass destruction, and he gave out orders 
+that were right down to platoon and squad level, get ready for those 
+weapons of mass destruction.
+  I can also remember giving a briefing, giving an invitation to every 
+Member of this House, Democrat and Republican, before we voted on 
+taking military action in Iraq, to come over and listen to intelligence 
+experts in a closed briefing with no handlers, no White House 
+personnel, and ask any question they wanted to ask about weapons of 
+mass destruction. And they did that. Lots of them. We had over 100 
+Members at several of the briefings. And we had members of the 
+intelligence apparatus of this country laying out differences. They 
+talked about the aluminum tubes, how some people thought those were to 
+be used in centrifuges for the conversion of uranium, the enrichment of 
+uranium. Others thought they were to be used for rocket bodies. But we 
+invited all the Members before they made that vote to give the 
+President license to go into Iraq. They did that vote from an educated 
+standpoint. They had an opportunity to pull all the information that 
+they wanted.
+  Now, it has been stated that we did not have enough troops going into 
+Iraq.
+
+[[Page H4033]]
+
+And I remember, as we were driving that armored spearhead north, and 
+the Marines taking a piece of it, the Army taking a big piece of it, we 
+had a number of experts appearing on national forums on a daily basis 
+saying there were not enough troops. They used the term we are going to 
+get ``bogged down,'' and what was interesting is even as they were on 
+talk shows saying that there were not enough troops, the talk show 
+would be interrupted with a news flash to the effect that Tommy Franks 
+had taken yet another stronghold. And it was stated at the end of that 
+drive toward Baghdad with what was described by some of the observers, 
+some of the so-called experts, too few troops, that that lightning 
+attack taking Baghdad would go down in history as an example of a low 
+casualty level, and we did have an extraordinarily low casualty level, 
+and a lightning advance in which the enemy in many cases was destroyed 
+long before the American columns got to their land forces.
+  Now let us talk about troops in the occupation and the level of 
+troops in the occupation because that has been brought up a number of 
+times, and General Shinseki's statement about needing more than the 
+number of troops that we had there has been used many times. There have 
+been two arguments: one, that we needed to have more troops to make 
+sure we could suppress the insurgents; and the other statement that was 
+made, sometimes in the same speech, would be that we needed to put an 
+Iraqi face on the security apparatus. Well, you can't have it both 
+ways. You cannot have an American on every street corner and have an 
+Iraqi face on the security apparatus.
+  And let me just say one last thing, which is a hard, tough truth for 
+this House. But when the gentleman from Pennsylvania and I, as we 
+watched the last of the 1990s unfold and the Clinton administration 
+left the White House, we noticed in our defense committees that we went 
+into that administration in the early 1990s with 15 American Army 
+divisions. We came out of that administration with 10, count them, 10. 
+Roughly 33 combat brigades. That is a fact of life. That is what we had 
+to go into this operation with. Now we are moving and we are building 
+toward 43 combat brigades right now. But we cut the military, we cut 
+the U.S. Army, by almost 40 percent, and that is what we had to go into 
+this war with.
+  Now, with respect to the gentleman's statements that in the first war 
+we got lots of folks to chip in and pay for this thing, that is right. 
+On the other hand, you had lots of self-interest. You had Saddam 
+Hussein's tanks in third gear before we threw the 82nd Airborne in 
+between him and his objectives, and you had everybody that had an oil 
+well in that region scared to death and willing to pour money into this 
+operation. So it is no surprise that countries out of self-interest 
+will pile on and will help out. It is also no surprise that we have had 
+lots of times in our national history when it has been tough to bring 
+allies on board, when we had to have big pieces of this operation by 
+ourselves and go it alone. And yet we were able to bring at least 
+20,000 coalition members into this operation.
+  And it is true we did not have the French and the Germans. But the 
+French and the Germans were looking forward to major oil contracts with 
+Saddam Hussein, and they did not want to go this time against their 
+pocketbooks, and that is a fact of life.
+  Mr. LEWIS of California. Mr. Speaker, will the gentleman yield?
+  Mr. HUNTER. I would be happy to yield.
+  Mr. LEWIS of California. Mr. Speaker, I very much appreciate my 
+colleague's yielding.
+  You and I have had a great opportunity to work together in the 
+defense arena in recent years. My chairing our subcommittee in 
+Appropriations brought in clear form to me the contribution you have 
+made to the strength of America and our role in the world.
+  I may not be able to speak later, but let me say to the gentleman 
+that very early on in this process, one of the great trips I have ever 
+taken was with a cross-section of this House, people who voted against 
+the war, people who were in the center somewhere, people who supported 
+the President from the beginning, all of them over a long weekend. And 
+together we saw Saddam Hussein for what he was, visiting killing fields 
+with 500,000 people that this guy murdered, of his own people, while he 
+was building golden palaces.
+  As we left, we came together to see what we would do about that big 
+supplemental on the war. To a person, Democrat and Republican, one of 
+our Members summarized it by saying this: All of you know where I have 
+been coming from. I voted against the war. It is going to be very 
+unpopular when I go home. But after seeing what Saddam Hussein is 
+really about, how could we do anything else?
+  And all 13 of those Members came in that great debate and supported 
+the President's fight against Saddam Hussein because it was a fight 
+against the war on terror.
+
+                              {time}  1330
+
+  Mr. HUNTER. I thank the gentleman. And, you know, that takes me to 
+another point, which is the Iraqi Army. It has been said many times, 
+and probably will be said again in this debate, that we should have 
+kept the Iraqi Army intact.
+  Now, the road that is not taken is always the smoothest. But looking 
+at the Iraqi Army, at Saddam Hussein's army, he had 15,000 Sunni 
+generals. How are you going to maintain an efficient Iraqi Army that is 
+responsive to a new fledgling civilian government with 15,000 Sunni 
+generals running this thing?
+  We have had to build this army from the ground up. I think that 
+history will show that that was the right thing to do. To have an 
+efficient army, you have got to have a couple of things. You have got 
+to have an army that has a chain of command which is responsive, that 
+means that the private does what the sergeant says and the sergeant 
+does what his platoon leader says, and right up the chain of command.
+  And you have also got to have an army that is responsive to the 
+civilian government, to that new defense minister that was just put in 
+place. I do not think you are going to do that with 15,000 Sunni 
+generals. I have seen that statement tossed around so much that I hope 
+to be able to talk to some of the folks a couple of years down the line 
+when it is reflected.
+  Incidentally, people like Barry McCaffrey who have not been great 
+friends of the administration's operation have said that looking at the 
+Iraqi Army now, they see a core of strength, they see leadership 
+emerging, and they see an Iraqi Army that is becoming effective.
+  So what are we doing? We have a mission, and the mission right now 
+for the military is to provide a shield for this fledgling government 
+as it goes into place, this new government. We are nation-builders. We 
+are building a nation. It is also to train up the Iraqi military, and 
+we are going to hand off this defense burden, that means our people 
+come home after we train up and mature the Iraqi military.
+  If the question for us is, who is best equipped to decide when we 
+take the training wheels off, when we let the Iraqi military go 
+forward, I think we should leave that judgment up to the people who 
+tracked down and brought to justice Mr. Zarqawi, a gentleman who said 
+that he was going to take this war to Washington, DC, and London.
+  He is going to be a little late for that one, because we have an 
+extremely competent American military on the ground in Iraq right now. 
+I think the gentleman from Pennsylvania would agree with that.
+  So let's use that same judgment of those combat commanders who are 
+training those Iraqi units in their areas of operation who say, okay, 
+this battalion is just about matured, this one is not, this one needs 
+more equipment, this one needs some more training. Let's rely on their 
+judgment as to when we can hand that load off to them and let them bear 
+the security burden.
+  Why should a Senator from Wisconsin or a Congressman from California 
+try to impose an arbitrary date on when that maturity takes place. You 
+cannot do it. So I would just ask my friends to give to those great 
+Americans who are over there working this mission right now, let's send 
+a united statement to them that there is value in this mission, there 
+is value in their operation.
+  We are going to complete this mission. You know, they are lacking 
+something that the Greatest Generation had. The Greatest Generation in 
+World
+
+[[Page H4034]]
+
+War II had a united American public. When the 101st went into Northern 
+Europe, they had a united American public. Let's give the 101st 
+Airborne now in Mosul, and in that tough Sunni Triangle, let's give 
+them the same support we gave them in Europe, a united American public 
+and a united American Congress.
+  Let's give the 1st Marine Division that is out there in that tough 
+province in the al Anbar Province out in Fallujah the same support we 
+gave them when they were fighting Guadalcanal. The 1st Marine Division 
+deserves a united American public and a united American Congress.
+  So let's send a message. The main message that is manifested in this 
+resolution is that we should not have an arbitrary cut-off point, an 
+arbitrary deadline, and, secondly, that we will complete this mission. 
+Let's send this message to every soldier, every marine who is watching 
+this thing from the mess halls in Mosul and Tikrit and Baghdad and 
+Fallujah, the message that the United States House of Representatives 
+stands with them.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. MURTHA. Mr. Speaker, I yield myself 2 minutes.
+  Mr. Speaker, I believe we send them a message when we vote on the 
+armed services bill. Very few people voted against it. I believe we 
+voted, in the defense subcommittee of appropriations, only 15 or 16 
+people voted against it. But Theodore Roosevelt said, ``If you disagree 
+with a policy and you do not say anything, you are actually 
+treasonous.''
+  I disagree with the policy. I do not disagree with supporting the 
+troops. There is no one that supports the troops better than the 
+Members of this Congress. And that is shown by the few people that vote 
+against the bill.
+  One other thing: I think the gentleman made a mistake when he said we 
+are for the war, against the war on terror. We are actually fighting 
+for the war on terror is what we are doing. But I appreciate what the 
+gentleman is saying.
+  I appreciate the fact that he and I both asked for more troops at one 
+point. He was the lead sponsor at that particular time.
+  I recognize the gentleman from California for 13 minutes.
+  Mr. WAXMAN. Mr. Speaker, before we went to war, President Bush and 
+other administration officials made three promises to the American 
+people: one, we would find weapons of mass destruction; two, we would 
+be welcomed as liberators; and, three, the reconstruction of Iraq would 
+pay for itself.
+  Well, all three promises proved to be false. Today I will focus on 
+the reconstruction effort in Iraq and the massive waste, fraud, and 
+abuse that have undermined our efforts.
+  Stuart Bowen is the Special Inspector General for Iraq 
+reconstruction. He often talks about the reconstruction gap which is 
+the chasm between the President's promises and reality.
+  Mr. Bowen is absolutely right: the gap is enormous. But it is dwarfed 
+by the incompetency and corruption gaps in Iraq. The consequences of 
+mismanagement and corruption are serious. Waste, fraud, and abuse have 
+flourished. The taxpayer has been repeatedly gouged.
+  Iraq is not being rebuilt. We have lost credibility and are now 
+viewed in Iraq as occupiers, and our troops did not get essential 
+equipment when they needed it. We have now spent $50 billion on Iraq 
+reconstruction, including $30 billion from U.S. taxpayers.
+  Let's look at what we got for the money. Despite spending $2 billion, 
+Iraq's oil production is still well below prewar levels, running about 
+a half million barrels below 2003 levels. We have invested $4 billion 
+into improving electricity generation.
+  Not only is the administration 2,000 megawatts short of reaching its 
+goal for peak output, but generation is actually below prewar levels. 
+And we spent $6 billion on oil production and electricity generation. 
+And we have actually lost ground.
+  The situation is the same for drinking water. In essence, we have 
+squandered $50 billion. Profiteering has been rampant, and the taxpayer 
+has gotten gouged and the work has not gotten done. And what is 
+especially shameful about the wasteful spending is that we needed this 
+money for our troops. When we first went into Iraq, our troops did not 
+have enough body armor.
+  Families had to purchase armor off the Internet and ship it to Iraq 
+in a desperate attempt to protect their loved ones. On congressional 
+delegations, individual servicemembers have taken our staffs aside and 
+begged for more night vision goggles.
+  Patriotic Americans even had to donate their frequent flier miles so 
+troops who were dumped at the Baltimore airport by the Pentagon could 
+make it home for the holidays. This should never have happened. It is 
+inexcusable that our troops face desperate shortages of essential gear 
+while billions of dollars were frittered away.
+  To understand the magnitude of this, there is no better place to 
+start than Halliburton. Halliburton is the largest private contractor 
+operating in Iraq. The company has three contracts that total more than 
+$20 billion. We now know that political appointees, not career civil 
+servants, decided to give Halliburton a secret no-bid contract for $7 
+billion to operate Iraq's oil fields.
+  As GAO has reported, the key decision that led to the award of the 
+secret contract violated Federal procurement law. When a career 
+attorney properly objected, he was simply overruled. And despite 
+statements from the Vice President, we know now that his chief of 
+staff, Scooter Libby, was personally briefed on this entire plan months 
+before the war.
+  The decision to give those lucrative contracts to Halliburton has 
+been expensive. According to Pentagon audits, Halliburton's total 
+unreasonable and unsupported charges exceed $1.4 billion. Well, the 
+examples of waste, fraud, and abuse are numerous. Halliburton charged 
+$45 for a case of soda; $100 for a 15-pound bag of laundry.
+  When they had brand-new $85,000 Halliburton trucks, they abandoned 
+them or torched them if they got a flat tire or experienced minor 
+mechanical problems. Halliburton's contracts are cost-plus. That means 
+that Halliburton is reimbursed for all of its costs, and then receives 
+an extra percentage as additional profit.
+  In practical terms, this means that the more Halliburton spends, the 
+richer it gets. Now we talked to former Halliburton employees who 
+worked in Iraq. They told us the informal company motto was: ``Do not 
+worry about price, it is cost plus.''
+  Halliburton was supposed to be in Iraq to provide support for the 
+troops, but the company used one standard for the troops and a 
+completely different standard for its own executives. Halliburton 
+employees stayed at the five-star Kempinski Hotel in Kuwait, where it 
+costs taxpayers $10,000 per day. This is the five-star Kempinski. This 
+gorgeous hotel offered maid service, complimentary fruit baskets to 
+Halliburton employees.
+  Our troops stayed in tents in the desert. At one point, a cost-
+conscious Army official asked Halliburton to move its employees into 
+air-conditioned tents, but they refused.
+  To their credit, career government auditors identified these 
+overcharges. When they examined Halliburton's second oil contract, they 
+harshly criticized Halliburton's performance, citing profound systemic 
+problems and exorbitant indirect costs. But their recommendations were 
+rejected.
+  After reviewing Halliburton's first oil contract in Iraq, auditors 
+recommended that the Army not pay $263 million in unreasonable and 
+unsupported charges. But the Army ignored those auditors and paid 
+Halliburton $254 million, over 95 percent of the disputed charges.
+  And in spite of the auditor's findings, Halliburton was paid nearly 
+$100 million in profits and bonuses for overbilling taxpayers.
+  Well, Halliburton symbolizes what went astray in Iraq, but it is not 
+the only contractor abusing the system. Parsons received the contract 
+to rebuild health clinics throughout Iraq. But despite spending $186 
+million, Parsons completed just 20 of 142 health clinics they promised 
+to build.
+  Another firm, Custer Battles, received two security contracts. A 
+Federal jury recently found that the company committed 37 separate acts 
+of fraud. These are not isolated instances. There are over 70 
+corruption investigations currently under way in Iraq. These cases 
+involve allegations of
+
+[[Page H4035]]
+
+fraud, false claims, theft, bribery and kickbacks. Some of the worst 
+problems in Iraq are almost beyond comprehension.
+  The U.S. management of the Development Fund for Iraq, which was the 
+fund that held the proceeds of Iraqi oil sales, is a classic example of 
+what not to do. The Coalition Provisional Authority handed out over 
+$8.8 billion in cash, in cash, to Iraqi ministries. And they had no 
+idea what happened to the money: $8 billion in cash simply vanished.
+  One former U.S. official who was in Iraq at the time, Frank Willis, 
+described conditions as the Wild West. He said the lack of controls 
+effectively created a free fraud zone.
+
+                              {time}  1345
+
+  Iraq was awash in brand-new $100 bills with no accountability to 
+prevent corruption. All the while, the White House looked the other way 
+and Congress put its head in the sand.
+  Under the Constitution, we are supposed to be a check and balance, 
+but we have abdicated this responsibility. The Republican majority is 
+terrific at applauding the President, and they are proving it again 
+today with this dishonest resolution.
+  Congress isn't doing the serious and important work it must do to 
+protect our troops, rebuild Iraq, look out for American taxpayers. 
+Congress must be more than a cheerleading section for the White House.
+  The fiasco in Iraq was a windfall for some. Halliburton made more 
+than $2 billion in profits last year. Its total revenue has increased 
+by 66 percent since 2002. Another beneficiary was David Brooks. He is 
+the CEO of a company that makes bulletproof vests. In 2001, Mr. Brooks 
+reportedly earned $525,000. In 2004, he earned $70 million. Last year, 
+the U.S. Marines recalled more than 5,000 of the company's armored 
+vests. But by that time Mr. Brooks had pocketed $186 million.
+  Well, the American people might think that Congress would rise up in 
+the face of such unconscionable profiteering. When our troops are 
+willing to sacrifice so much, and they do sacrifice so much, how can we 
+let others create cynical fortunes off their blood?
+  As we debate this resolution, 2,500 of our bravest men and women, 
+have been killed in Iraq. Over 18,000 have been wounded, and the total 
+cost of the Iraq war is over $300 billion. Those of us privileged to 
+serve here have been spared any of the personal consequences of being 
+on the front line, but we should not be spared the responsibility of 
+doing our job.
+  We owe more to our troops than slapping ``I support our troops'' 
+bumper stickers on our cars and extolling their courage. Instead of 
+wasting time on bipartisan charades, we should acknowledge and fix our 
+mistakes so that Iraqis can take over and our troops in Iraq can come 
+home.
+  We owe more than empty promises to American families who are paying 
+for this costly war in Iraq. They count on us to make sure that their 
+money is spent well, and we haven't done that.
+  An honest unsparing look at the record of the past 3 years tells us a 
+stark truth. The White House and Congress have failed our troops, the 
+taxpayers and the Iraqi people. They deserve better than a partisan 
+resolution that pats ourselves and the White House on the back.
+  It is shameful that we are squandering money on Halliburton at the 
+very same time that we don't have enough money to protect our troops. 
+It is shameful that Congress has abdicated its oversight and 
+legislative responsibilities to rein in the incompetence and corruption 
+that has undermined our efforts in Iraq.
+  Mr. HOEKSTRA. Mr. Speaker, I yield myself such time as I may consume.
+  Mr. Speaker, this resolution in front of us today is about an urgent 
+proposition. We are a nation at war, a nation at war with radical 
+Islamists. The war was not of our choosing, but it is the central 
+struggle of our time, the first major conflict of the Information Age.
+  This debate is a defining one for the House and for our Nation. It is 
+important to begin by explaining that the threats that we face are 
+real. They are serious, and they are ongoing. We must address these 
+threats by continuing to confront them aggressively rather than shying 
+away from them because they are difficult. We begin the debate framing 
+four fundamental issues that define the war with radical Islam.
+  First, our Nation is engaged in a long-term war. That war didn't 
+begin on 9/11. We should maybe look back to 2/26. February 26, 1993, 
+perhaps is when this war really did begin to come into focus. What 
+happened on February 26, 1993? That was when the World Trade Center was 
+attacked for the first time.
+  Second, al Qaeda views Iraq as a central front in its war against 
+Western democracies. Bin Laden's stated goal is to establish a global 
+Muslim caliphate whose historical center includes Iraq, and Zarqawi was 
+operating in Iraq long before American troops entered that country.
+  Third, al Qaeda is a sophisticated enemy in the first war of the 
+Information Age. In a war against terrorism, a critical battle is over 
+intelligence. We must use every means at our disposal to obtain 
+information about our enemies and counter their sophisticated 
+information war.
+  Fourth, our Nation must recognize how this battle is evolving. We 
+need to recognize the threat of home-grown terrorism, home-grown 
+terrorism that has already been experienced in Spain, the United 
+Kingdom, Australia, the Netherlands and, most recently, Canada.
+  We are a nation at war. America has been in an armed struggle with 
+radical Islam for at least 15 years. The first clear declaration was 
+the attack on the World Trade Center, 6 dead, 1,000 wounded. The Khobar 
+Towers were attacked in June of 1996. Our ambassadors were attacked in 
+Kenya and Tanzania in August of 1998 and the USS Cole was attacked in 
+October of 2000.
+  In 1996 bin Laden declared war against the United States in its 
+fatwa. Throughout the 1990s, there were multiple attacks. Almost 300 
+people were killed, and there was a minimal U.S. response. No one in 
+the 1990s connected the dots.
+  But this war is not just limited to the United States. It is a global 
+war against Western democracies. Our enemies are active across the 
+globe, and they must be countered across the globe, not just by the 
+United States but by our allies.
+  I would like to yield to my colleague from New Mexico, the chairwoman 
+of our Technical and Tactical Intelligence Subcommittee, for a further 
+explanation about the long-term focus of this war.
+  Mrs. WILSON of New Mexico. Mr. Speaker, it is important for Americans 
+to understand that the war on terror did not begin on a cool September 
+morning, that this was something that had been building over a decade 
+or longer, that in February of 1993, radical Islamist operatives drove 
+a truck into the basement of the World Trade Center and blew it up. One 
+thousand people were injured and six people died, and we treated it as 
+a crime, not an act of international terror.
+  On June 25, 1996, American airmen who were conducting operations in 
+the southern no-fly zone in Iraq were settling in for the night in 
+their quarters in Saudi Arabia in a building known as the Khobar Towers 
+when a sewage truck drove into the compound, backed up to the wall of 
+that building, and the people who drove it fled in a white car.
+  They were seen from the roof of the building by the security forces, 
+and they started evacuating the building. They were about three floors 
+down when the truck exploded and 19 airmen were killed.
+  In August of 1998, we were here in this House when we got word that 
+our two embassies, one in Kenya and one in Tanzania, had been attacked 
+by bombs. The U.S. Attorney in the District of New York got 17 
+indictments, one of them for a man whose name wasn't really well known 
+at the time. His name was Osama bin Laden.
+  In October of 2000, the USS Cole was in port in Aden, in Yemen when a 
+small boat came up to it and exploded, tearing a gash 40 feet by 60 
+feet long midships on the USS Cole, and 17 sailers died.
+  All of these actions we treated as isolated instances. We played 
+defense ineffectively against a transnational, loosely connected 
+movement against extremists who exploit Islam and use terrorism to 
+bring about their dark vision of the future.
+  The adherents to this movement are parasites who thrive in weak 
+states and in failed regimes. That is why the terrorists made Iraq a 
+central front in
+
+[[Page H4036]]
+
+their war. If they could foment civil war, if they could keep self-
+government in Iraq from being born, then they could thrive in the chaos 
+and continue their attacks on us.
+  That is why it is important to see it through in Iraq. We made a 
+decision after 9/11 that we would play offense and not defense. As 
+Americans, we know the enterprise that we are engaged in is difficult 
+and requires persistence and resolve. That is very hard on some days. 
+It is very hard for us to understand why it is important to stay the 
+course.
+  But we know this. Our enemies are persistent and will stay the 
+course. They will not stop if we ignore them.
+  So that is the choice we face as a nation and why this debate today 
+is so important. It is a choice between resolve and retreat. For me and 
+my family, I choose resolve.
+  Mr. HOEKSTRA. Reclaiming my time, I thank the gentlewoman for her 
+comments.
+  A quote from Zawahiri to al Zarqawi in July of 2005: It has always 
+been my belief that the victory of Islam will never take place until a 
+Muslim state is established in the manner of a prophet in the heart of 
+the Islamic world, end of quote.
+  Al Qaeda views Iraq as a central part of this global war on terror.
+  I would like to yield to my colleague from Michigan (Mr. Rogers).
+  Mr. ROGERS of Michigan. Thank you, Mr. Chairman.
+  Mr. Speaker, Iraq is the central front in the war on terrorism, 
+despite what you hear and, despite the pointing out of problems in a 
+very difficult task, we ought not to be asking politicians here in 
+Washington, we ought to be listening to our enemy.
+  Osama bin Laden, quote, this third world war is raging in Iraq. The 
+whole world is watching this war. It will end in victory and glory, or 
+it will end in misery and humiliation.
+  With what you have talked about earlier, Mr. Chairman, from that 
+letter from Zawahiri to al Zarqawi, he went on to say that prophet in 
+the heart of Islam world, specifically Egypt, neighboring states of the 
+peninsula and Iraq, they have declared war against the United States 
+and all those who seek to find democracy and peaceful solutions.
+  Terrorist Abu Nidal found safe haven in Iraq and was killed in 
+Baghdad in 2002. Zarqawi and his network were operating in Baghdad and 
+the Kurdish-controlled region of Iraq a year at least before the start 
+of the war. As a matter of fact, from that base of operations, they 
+executed the assassination of an American diplomat in Jordan in 2002.
+  Our troops found a suicide vest factory that had 800 suicide vests 
+equipped and ready to go in south Baghdad in April of 2003. Iraq was on 
+the State Department sponsor of terrorism list. Saddam Hussein paid 
+$25,000 cash to the family of suicide bombers in Israel.
+  You know, with every sacrifice made by our great American soldiers, 
+for every girl that now walks in Iraq and Baghdad and goes to school, 
+for every young mother that goes to a medical clinic to get treatment 
+where there was none before, for every dead terrorist in Iraq, we make 
+progress every day.
+  One platoon sergeant in Iraq, and I quote, I have yet to speak to an 
+American here who thinks we are losing. Trust me, no soldier wants to 
+be here. No one wants to cut and run either. Leaving would send the 
+wrong signal to our enemies.
+  There are only two groups of people who want America to leave and 
+withdraw in humiliation, Mr. Speaker, from Iraq.
+  President Bush met with the Shiia, the Sunnis, the Kurds just 
+recently, just this last week. None of them, even the Sunnis, wanted 
+the United States to leave. As a matter of fact, they asked for 
+reassurance that we would stay with them in this difficult and tough 
+struggle for freedom.
+
+                              {time}  1400
+
+  That would leave only the terrorists who want an early American 
+withdrawal and some politicians in this town.
+  I would listen to what our enemies said when Zarqawi declared, ``We 
+have declared a bitter war against the principle of democracy and all 
+those who seek to enact it.'' They will kill American families at any 
+given opportunity.
+  I would say, Mr. Speaker, that we should stand with our soldiers. We 
+should stand with our families here that helped take the fight to the 
+terrorists overseas. We should stand for victory, and we should stand 
+with the United States of America.
+  Mr. HOEKSTRA. I thank my colleague from Michigan for those comments.
+  The other thing that we have learned is that this is the first war in 
+the Information Age. The Information Age provides some unique 
+opportunities to our enemy. As we work to deny the terrorists their 
+physical sanctuary, radical Islamists, using the tools of the 
+Information Age, are working actively to develop a virtual sanctuary on 
+the Internet which enables them to grow their movement around the 
+globe.
+  Some have said, well, this is a battle that should be fought in 
+Afghanistan. This battle is not limited to Afghanistan or Iraq. Tell 
+that to the people in Spain, the Netherlands, the U.K., Canada or 
+Australia that this is really just a battle about Afghanistan.
+  The Information Age is making this a very, very different battle than 
+we have ever fought before. To explain that in more detail is my 
+colleague from Texas (Mr. Thornberry).
+  I yield to Mr. Thornberry.
+  Mr. THORNBERRY. I thank the chairman for yielding.
+  Mr. Speaker, part of the job of intelligence is to understand our 
+enemy, and what we should clearly understand about our enemy in the war 
+on terrorism is that they are very sophisticated. They are 
+sophisticated users of technology using, as Chairman Hoekstra just 
+mentioned, the Internet in order to recruit, in order to train its 
+people, in order to intimidate populations to go along.
+  They use Internet video games in order to help train and indoctrinate 
+people in the Arab world to their way of thinking. They use the 
+Internet for communication. They use videotapes and DVDs to get their 
+message out. They have very adept users of technology.
+  But they are also adept at using media. As a matter of fact, Prime 
+Minister Blair said recently that they play our own media with a 
+shrewdness that would be the envy of many a political party. They know, 
+for example, that one horrific act of cruelty shown on video will get 
+far more attention than a thousand acts of kindness or patience from 
+our soldiers.
+  They are agile and clever in using cruelty through the media in order 
+to achieve their ends; and, Mr. Speaker, I think maybe the most 
+important point we can make on their sophistication is that they know 
+they cannot beat us militarily, and that is not their object. They are 
+sophisticated enough to know that the way they can beat us is to 
+influence our political decisions, to impact our political will.
+  There has been a very, what has now really become a classic study of 
+this sort of warfare, often called 4th-generation warfare, a book 
+called ``The Sling and The Stone,'' which traces this sort of attack 
+from Mao's Tse-tung all the way through al Qaeda and its affiliated 
+groups. One of the key points that the author makes, unlike previous 
+generations of war, it does not try to win by defeating military's 
+forces. Instead, it directly attacks the minds of enemy decision-makers 
+to destroy the enemy's political will.
+  That is what is going on. Their use of technology, their use of 
+cruelty, their use of the media has a target which is us because, as 
+another author has written, it only takes a few hundred people in 
+Washington, DC, to decide that this war is lost. So they are focusing 
+their attention not on our strength, but on our weakness, which is 
+potentially our political will.
+  That is why this resolution is important. It is why in order to meet 
+a sophisticated threat, a political threat, which al Qaeda and its 
+affiliated groups try to pose to us, we have to resist that sort of 
+manipulation. Part of that resistance occurs on the floor of the House.
+  I thank the chairman for yielding.
+  Mr. HOEKSTRA. Mr. Speaker, this battle continues to evolve. We know 
+that al Qaeda wants to attack us again in our homeland. That is why it 
+is important to stay on the offensive, attacking them where they are 
+and making sure that they do not have a safe haven to plan, to train 
+and to develop the resources to attack us again.
+
+[[Page H4037]]
+
+  But the other thing that they are trying to do is to develop the 
+concept of homegrown terrorism, and it is something that is evolving.
+  I would like to yield to our chairwoman of the committee, Mrs. Davis.
+  Mrs. JO ANN DAVIS of Virginia. Thank you, Mr. Chairman.
+  Mr. Speaker, some of the worst acts of radical Islamic terrorism have 
+been committed by homegrown terrorists, and homegrown terrorists are 
+citizens or residents of the Western countries who, without any direct 
+contact with al Qaeda, adopt a militant radical Islamic outlook, and 
+they seek to conduct acts of terrorism in support of the global jihad.
+  Propaganda on the Internet, as we heard from you and from Mr. 
+Thornberry, drives the movement. Groups like al Qaeda and the Zarqawi 
+network use it to distribute their slick videos, to glorify the violent 
+jihad.
+  Homegrown terrorists committed, as I think you have said before, 
+recent acts in Spain, the Netherlands and the United Kingdom.
+  The Madrid attack, for instance, on March 11, 2004, a group of 
+Moroccans living in Spain attacked passenger trains in Madrid killing 
+190 people; and the plot was conceived, it was organized, and it was 
+equipped with no support from international terrorist groups.
+  Recent events have demonstrated that Europe is not the only place 
+where homegrown Islamic militants can develop.
+  On June 4, 2006, the Royal Canadian Mounted Police arrested 17 
+Canadians for planning to attack Canadian government buildings.
+  We have seen homegrown Islamic extremist groups in the United States. 
+Our Federal, our State, and our local law enforcement agencies have so 
+far been able to stop them before they could launch attacks.
+  In August 2005, for instance, the FBI arrested four members of the 
+JIS plotting to bomb military recruiting offices and synagogues in 
+southern California, and this is the interesting part: The JIS was 
+founded by an inmate at the California State Prison in Sacramento, and 
+most members of the JIS are American citizens who were born and raised 
+in the United States. They were radicalized and recruited into JIS 
+while they were in prison; and as far as authorities know, none of 
+these members had any contact with foreign terrorist groups.
+  Last February, the Justice Department indicted three men in Ohio for 
+aiding insurgents in Iraq and planning to attack U.S. troops there. Two 
+of the men were naturalized U.S. citizens, and one was a permanent 
+legal resident. The men learned their craft by downloading terrorism 
+instructional videos from jihadist Internet sites. They had no contact 
+with al Qaeda. Had they not been arrested, they may have started 
+looking for local targets that they could attack.
+  We cannot ignore the threat of homegrown terrorism. It is imperative 
+that we understand which elements of our society are vulnerable to 
+jihadist propaganda, how radicalization occurs, and how we can prevent 
+Americans from becoming pawns of al Qaeda.
+  The British House of Commons concluded that the U.K. counterterrorism 
+community did not anticipate the March 2005 suicide attacks because it 
+did not understand homegrown terrorism and the radicalization process. 
+We cannot make that same mistake.
+  At the same time, we cannot let our concern about homegrown threats 
+breed suspicion and distrust of our fellow Americans. The diversity and 
+the harmony of the American people is our country's greatest strength, 
+and the global jihadist network we are fighting wants to divide us by 
+inspiring homegrown terrorists whose attacks will spread.
+  And I think Mr. Thornberry said it best, they are using the media, 
+the Internet. They are using that to divide our country, and that is 
+what will take us down, Mr. Speaker. That is why it is imperative that 
+we continue on this course and we continue to fight this war on the 
+away front, not the home front.
+  Thank you, Mr. Chairman.
+  Mr. HOEKSTRA. I thank my colleague.
+  Reclaiming my time, it is why this resolution is so important, to 
+send a clear signal that we are going to win this global war on terror; 
+that we are going to be successful in Iraq; that we are going to fight 
+the enemy where they are using all of the techniques that they use in 
+an Information Age; and why we need to redouble our efforts to make 
+sure that they cannot attack us; and that we stop the development of 
+homegrown terrorism in this country.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. MURTHA. Mr. Speaker, I yield myself 1 minute.
+  This all sounds good. It is all rhetoric. It is rhetoric. The number 
+of daily attacks in Iraq have gone from 2004, 53 attacks per day; May 
+2005, 70 attacks per day; May 2006, 90 attacks per day. Electricity is 
+less than prewar level. No water available to all, only 1 hour a day, 
+Mr. Speaker, and the oil production which was supposed to pay for the 
+war is less than prewar production.
+  Mr. Speaker, I yield 3 minutes to the gentleman from California (Mr. 
+George Miller).
+  (Mr. GEORGE MILLER of California asked and was given permission to 
+revise and extend his remarks.)
+  Mr. GEORGE MILLER of California. Mr. Speaker, there is no more 
+pressing issue in our country today than bringing an end to the war in 
+Iraq as quickly as possible.
+  I thank my colleagues on the other side who just completed their 
+discussion of the war on terror. They remind us that it is a war in 
+which we can never yield and about which we have no choice. They also 
+remind us that Iraq has become a recruiting ground for those 
+international terrorists; that Iraq has become a proving ground for 
+those international terrorists; and that Iraq has become the motivation 
+for many of those international terrorists, none of which existed 
+before the President's choice to go to war, a war not of necessity, a 
+war that was unjustified based upon falsified intelligence.
+  In fact, we see the new CIA Director said that intelligence that the 
+administration used to make the case for war was wrong, inaccurate, and 
+misleading. There were no weapons of mass destruction in Iraq, and 
+there was no connection between 9/11 and Saddam Hussein.
+  The administration used fear to scare this country into war based 
+upon those lies. He refused to properly prepare for the war and its 
+aftermath, and now our soldiers, our families, and our Nation are 
+paying an enormous price for this President's tragic blunder.
+  Two thousand five hundred Americans soldiers, we are informed today, 
+have died in Iraq. 19,000 American soldiers have been wounded, many of 
+them missing limbs and suffering other very serious debilitating 
+injuries that will afflict them the rest of their lives. The war has 
+cost almost a half a trillion dollars in taxpayer money, and America's 
+international reputation and respect in the world has been severely 
+damaged.
+  The President often says that he makes decisions about the future of 
+Iraq based upon what the generals say; but when the time came to listen 
+to the generals prior to Iraq, the President refused to listen to them. 
+He refused to listen to them when they questioned the force structure 
+that was available to us to go into Iraq at that time, but he went 
+anyway. He refused to listen to them when questions were raised the day 
+after we seized Baghdad.
+  What we now see is massive national chaos for which our soldiers were 
+not trained, not given any instructions on how to deal with, and 
+certainly did not have sufficient numbers to deal with. The President 
+sent the troops into that war with that poor planning, that poor 
+structure, and that poor understanding of what would take place 
+afterwards.
+  The American public had to witness soldiers being forced to buy their 
+own body armor, have their families buy it because we did not have a 
+proper supply prior to going into that war. Many men and women were 
+sent into battle with unarmored, old Humvees that were used for flood 
+control in the California rivers before they showed up in Iraq, and 
+those soldiers died because of that inadequate equipment and because of 
+the roadside bombs that are the number one killer in Iraq.
+  We see the torture of detainees was approved at the highest levels in 
+the Pentagon; and this, again, has led to an undermining of our 
+position in the world, our moral position in the war in Iraq and the 
+war against terrorism.
+
+[[Page H4038]]
+
+  This is a policy blunder of historic proportions by this President, 
+and it is very important that we understand that we are paying a huge 
+price for these mistakes by this administration. Tragically, we stand 
+here on the floor of this Congress today 3 years after the beginning of 
+this war, but for 3 years questions were not raised in this Congress 
+about that force structure, about that preparedness, about the detainee 
+policy, about these actions that have so severely undermined us.
+  Yes, we saw the taking of Zarqawi, and what do we have there? We have 
+the real use of smart intelligence on the war against terror. As you 
+pointed out, they are not going to come after the 130,000 troops. They 
+are not going to come after our strengths, but that is what people have 
+been saying for a long time. That is what people have been writing 
+about at the military schools, about the networking of terrorism and 
+how you had to go after it. We went after it exactly the wrong way, in 
+exactly the same way, as people who made these historic blunders 
+throughout history, when confronting this kind of force.
+  Yes, we should provide the special ops; yes, we should provide the 
+surveillance; yes, we should provide the intelligence and we should 
+work together. In the case of Zarqawi, we saw, once the Jordanians were 
+insulted enough by the attacks on their land, they put their 
+intelligence sources to work, combined with ours, and Zarqawi was run 
+down, and we provided the 500-pound bombs. We provided the special ops.
+  That is not what is happening day to day in the war in Iraq, and our 
+troops are paying a horrible, horrible price for the lack of 
+preparation, the lack of planning and the lack of prosecution of this 
+effort and the initial mistake and lies by the President of the United 
+States.
+  The President's policies in Iraq have severely undermined America's 
+national security and made the world less safe.
+  In response to the clear failures in Iraq, the Republican Congress 
+has acted like a rubberstamp for President Bush rather than the elected 
+representatives of the people of America.
+  Republicans in Congress have hid their heads in the sand and refused 
+to question the President, instead sheepishly pretending success is 
+around the corner.
+  As a result, Iraq is engaged in a civil war that threatens to consume 
+the country.
+  Congress has done nothing to stop the civil war in Iraq, nothing to 
+hold the President accountable for the failures in Iraq, and nothing to 
+put our troops on a safe and speedy path toward home, or to other parts 
+of the world where they are needed to fight against terrorism.
+  The President and his allies in the Republican leadership in Congress 
+have made up their minds.
+  They have a plan for Iraq. It is the same failed plan they started 
+the war with. It is chaos with no end in sight.
+  There is no more that we can ask of America's troops. They have done 
+everything they have been asked to do. It is time for them to serve 
+their nation where they are needed most, and that is surely not in 
+Iraq.
+  Now is not the time to stay the course of failure.
+  America needs a new direction in Iraq--a new direction that will make 
+Americans safer.
+
+                              {time}  1415
+
+  Mr. HOEKSTRA. The historic blunder is that we didn't address this 
+problem in the 1990s when it started rearing its ugly head.
+  I yield to my colleague for a unanimous consent request.
+  Mr. DUNCAN. Mr. Speaker, I request unanimous consent to place a 
+statement concerning this resolution in the Record at this point.
+  The SPEAKER pro tempore. Without objection, the gentleman's statement 
+will be placed in the Record.
+  There was no objection.
+  Mr. DUNCAN. Mr. Speaker, much of this resolution is language that 
+everyone supports, especially the praise for our troops.
+  They do a great job everywhere they are sent, and it is certainly no 
+criticism of them to criticize this war.
+  In August of 2002, two months before Congress voted for the war in 
+Iraq, Dick Armey, then our Republican Majority Leader, in a speech in 
+Iowa, said:
+  ``I don't believe America will justifiably make an unprovoked attack 
+on another nation. It would not be consistent with what we have been as 
+a Nation.''
+  Jack Kemp wrote before the war, ``What is the evidence that should 
+cause us to fear Iraq more than Pakistan or Iran. Do we reserve the 
+right to launch a preemptive war exclusively for ourselves or might 
+other nations such as India, Pakistan or China be justified in taking 
+similar action on the basis of fears of other nations?''
+  Mr. Kemp said, based on evidence that he had seen, there was not ``a 
+compelling case for the invasion and occupation of Iraq.''
+  William F. Buckley wrote that if he had known in 2002 what he knew 
+then in 2004, he would have been against the war.
+  Last year he wrote another column against the war saying: ``A point 
+is reached when tenacity conveys not steadfastness of purpose but 
+misapplication of pride.''
+  The very popular conservative columnist Charley Reese wrote that the 
+war was ``against a country that was not attacking us, did not have the 
+means to attack us, and had never expressed any intention of attacking 
+us, and for whatever real reason we attacked Iraq, it was not to save 
+America from any danger, imminent or otherwise.''
+  Many years ago, Senator Robert Taft expressed the traditional 
+conservative position: ``No foreign policy can be justified except a 
+policy devoted to the protection of the American people, with war only 
+as the last resort and only to preserve that liberty.''
+  Millions of conservatives across this Nation believe that this war 
+was unconstitutional, unaffordable, and, worst of all, unnecessary.
+  It was waged against an evil man, but one who had a total military 
+budget only two-tenths of one percent of ours.
+  We are not going to be able to pay all our military pensions, social 
+security, Medicare, and all the little things we have promised if we 
+are going to turn the Department of Defense into the Department of 
+Foreign Aid and attempt to be the policeman of the world.
+  This is contrary to every traditional conservative position on 
+defense and requires huge deficit spending.
+  The conservative columnist Georgie Ann Geyer wrote: ``Critics of the 
+war against Iraq have said since the beginning of the conflict that 
+Americans, still strangely complacent about overseas wars being waged 
+by a minority in their name, will inevitably come to a point where they 
+will see they have to have a government that provides services at home 
+or one that seeks empire across the globe.''
+  Mr. Speaker, we need to start putting our own people first once again 
+and bring our troops home, the sooner the better.
+  Mr. HOEKSTRA. Mr. Speaker, I yield 3 minutes to our chairwoman, Mrs. 
+Davis.
+  Mrs. JO ANN DAVIS of Virginia. Mr. Speaker, an issue that hasn't 
+received enough attention in the debate on the global war on terror is 
+what happened to American intelligence during the 1990s.
+  To effectively wage the war on terrorism, we need a robust 
+intelligence community that is capable of gathering intelligence aimed 
+at eliminating the terrorist threat. Unfortunately, as the war 
+escalated in 2001, the intelligence community was still reeling from 
+policies that were implemented in the 1990s which undermined the 
+ability of our intelligence agencies to predict 9/11 and to effectively 
+fight the war today. Simply throwing people and money at the issue, it 
+doesn't solve the problem. Developing expertise to replace what was 
+lost in the 1990s is a long endeavor. It takes 5 to 7 years of training 
+and experience to bring an operations officer up to full performance.
+  Mr. Speaker, I would like to list a few examples of what happened in 
+the 1990s that hampered our intelligence community efforts leading up 
+to and at the onset of the war.
+  Between 1992 and 1999, the CIA's presence overseas declined by almost 
+one-third. Our intelligence agencies had their hands tied by the Deutch 
+Doctrine, forbidding recruitment of sources that had shady backgrounds, 
+limiting our ability to get information on potential terrorist attacks. 
+The number of officers declined and overseas facilities were closed. 
+And as a result of the crises in the Balkans and in Africa, et cetera, 
+officers were sent to areas where many times they had little knowledge 
+of the issues there and, in some places, the targets had little and 
+sometimes no presence.
+  As a result, overall intelligence collection was decimated. James 
+Pavitt, the former CIA Deputy Director for Operations, told the 9/11 
+Commission in April of 2004 that we were vastly underfunded and did not 
+have the people to do the job, and noted that spending on CIA human 
+collection was cut by 20 percent during the 1990s.
+  Analysis suffered equally in the 1990s, with low priority accorded to 
+terrorism analysis. Intelligence analysts were
+
+[[Page H4039]]
+
+discouraged from writing original out-of-the-box assessments that might 
+have raised awareness to terrorists staging unconventional attacks. 
+And, instead, our analysts were pressured to craft politically correct 
+analysis.
+  The death of Zarqawi and the arrests of 17 terrorist suspects in 
+Canada are recent successes in the global war on terror. However, we 
+still have a long way to go to rebuilding our networks of human 
+sources. Reform has to continue, and we must acknowledge that many of 
+the problems facing U.S. intelligence agencies today are the product of 
+unwise and neglectful intelligence policies of the past.
+  It is simple to destroy, but it is much more difficult to build. Over 
+the past 6 years, we have worked to rebuild our Nation's intelligence 
+capability, and it may take a few more years to complete. There is not 
+a moment to waste in carrying out these essential reforms to our 
+intelligence community.
+  And I will say, Mr. Speaker, that we must continue this war. We must 
+continue to let our intelligence community do their job.
+  Mr. MURTHA. I yield myself 1 minute.
+  One of the Members said, ask Spain about the threat. Fifty-six 
+percent of the population of Spain believes the U.S. in Iraq is the 
+most dangerous threat to world peace. They rank Iran lesser of a threat 
+than the United States.
+  And one other thing. When we look back at the intelligence cuts, 
+President Bush I felt it was a peace dividend and started to cut the 
+intelligence budget years ago. So we have to make sure we don't let our 
+rhetoric get ahead of the facts.
+  I yield 4 minutes to the gentleman from Illinois (Mr. Emanuel).
+  Mr. EMANUEL. Mr. Speaker, since day one of the war in Iraq, Democrats 
+have provided the President with everything he asked for, yet 
+Republicans have denied the President the one thing he needed: 
+Oversight.
+  In a post-9/11 world, the American people need the vigilance and the 
+patriotic determination of every Member of Congress to demand answers 
+to the questions their constituents are asking. Instead, the Republican 
+Congress sat and watched the administration make mistake after mistake 
+after mistake.
+  And don't listen to just one Member of Congress. Consider the words 
+of Three Star General Greg Newbold, top Operations Officer for the 
+Joint Chiefs of Staff. After a scathing critique of Secretary Rumsfeld, 
+he says, ``The Bush administration and senior military officials are 
+not alone in their culpability. Members of Congress defaulted in 
+fulfilling their Constitutional responsibility of oversight.''
+  General Anthony Zinni, former Commander of the U.S. Central Command 
+in the Mideast: ``We are paying the price for the lack of credible 
+planning, or the lack of a plan. Ten years of planning were thrown 
+away.''
+  Major General Batiste, who commanded 22,000 soldiers on the ground in 
+Iraq. ``Rumsfeld and his team turned what should have been a deliberate 
+victory in Iraq into a prolonged challenge.''
+  Eight generals have raised serious questions concerning Secretary 
+Rumsfeld's leadership. I don't know, maybe the Pentagon suffers from 
+the soft bigotry of low expectations and social promotion as a policy. 
+Maybe these generals weren't just qualified; or maybe, just maybe, they 
+had to speak up because the Republican Congress was silent. You have 
+adopted an approach of ``see no evil, hear no evil, and speak no evil'' 
+with abandon.
+  America was told this would be a quick war, and it turned into a long 
+war. This Congress walked away from its oversight responsibility. 
+America was told 130,000 troops would be enough, but more were clearly 
+necessary. This Congress, the Republican Congress, walked away from its 
+oversight responsibility. America was told this would be a conventional 
+war. It turned into an insurgency. This Congress walked away from its 
+oversight responsibility. America was told oil would pay for 
+reconstruction, and the taxpayers are left with a $480 billion tab. 
+This Congress walked away from its oversight responsibility. America 
+was told we would be greeted as liberators, but they have become and 
+are treated like occupiers. This Congress walked away from its 
+oversight responsibility.
+  And when Don Rumsfeld, a man who expressed contempt for the idea of 
+nation-building, was assigned the responsibility of rebuilding Iraq and 
+mismanaged the war against the insurgency, this Congress, the 
+Republican Congress, walked away from its oversight responsibility.
+  Mr. Speaker, the Republicans want to portray the greatest foreign 
+policy challenge of a generation as simply the choice between more of 
+the same or a new direction. And we Democrats welcome that. The debate 
+today is about whether the American people want to stay the course, 
+with an administration and a Congress that has walked away from its 
+obligations, or pursue a real strategy for success in the war on 
+terror.
+  Twenty-five hundred brave Americans, male and female, have given 
+their lives in trying to stabilize Iraq. Last month was the bloodiest 
+in Iraq's history. According to Major General Rick Lynch, attacks 
+against civilians increased 80 percent since November 2005.
+  We cannot achieve the end of victory and continue to sit and watch, 
+stand pat, the status quo. That is the Republican policy. Democrats are 
+determined to take the fight to the enemy. In the words of President 
+John Kennedy, ``We shall pay any price, bear any burden, meet any 
+hardship, support any friend, oppose any foe in order to assure the 
+survival and success of liberty.''
+  Democrats will never put American servicemembers in harm's way 
+without a plan and without support. For that, you need the sit-and-
+watch complacency of a Republican Congress.
+  Mr. HOEKSTRA. This Congress will not walk away from a mission, it 
+will not walk away from its troops, and it will not walk away from its 
+allies.
+  With that, I would like to yield 3 minutes to my colleague from 
+Michigan (Mr. Rogers).
+  Mr. ROGERS of Michigan. Mr. Speaker, I am a little bit saddened by 
+the comments of the gentleman from Illinois. You know, our enemies do 
+not have a first Tuesday in November plan. They have a plan for a 
+caliphate. They have well established themselves to murder Christians, 
+Jews, Muslims, women, and children. They will behead you, they will 
+shoot you, they will blow you up. They do not care.
+  To have the talk of rhetoric, because the electricity isn't where it 
+is, let's come home in defeat; because the oil isn't going exactly the 
+way we would like it, let's come home in defeat; that is no standard 
+for victory.
+  What is the standard for victory? Where were we 4 years ago? Let us 
+look at it in the global war, this World War III that Osama bin Laden 
+declared in his own words. Pakistan, 4 years ago, was the only 
+government supporting the Taliban in Afghanistan. They were working 
+against the United States in Afghanistan. They supported, financed, 
+gave as much comfort as they could to the enemy to produce terrorists, 
+to attack Americans and Westerners all over the world. In Iraq, we know 
+that Zarqawi was there a year before the war; that they used that 
+operation to kill an American in Jordan, a diplomat of great service to 
+our country. In Libya, they had a nuclear weapons program and self 
+declared they would share it with anyone.
+  So 4 years later, not because I gave a great speech on the House 
+floor but because very brave men and women put on the uniform and 
+fought the terrorists with a military uniform so our children wouldn't 
+have to fight it in a school uniform here at home, and now what has 
+happened? Pakistan has joined us in the fight against terror. There are 
+our allies just 4 years later in hunting down al Qaeda.
+  Afghanistan is now an ally in the war on terror. Their intelligence 
+services, their military, as a matter of fact just this morning, 
+launched a 10,000 troop crackdown on terrorists. This morning. Last 
+week, Iraq launched a 70,000 security personnel crackdown on 
+terrorists. This week, they are our allies now in the war on terror.
+  Libya. That is the components of the nuclear weapons program of 
+Libya. It is now in the possession of the United States of America. 
+They gave it to us not because we stood here and debated but because we 
+had brave men and women with boots on the ground who showed courage and 
+commitment and said we will take the fight to you. We will not allow 
+you to take the fight to us.
+
+[[Page H4040]]
+
+  Which country would you have go back? Which one would you say, ah, it 
+wasn't important that they became an ally? Four Muslim nations have 
+stood up against the ravages and the terror and the brutality of terror 
+today because of actions our brave soldiers take overseas.
+  So don't get confused in every little problem that happens, and there 
+are a lot of them. Sir, you served in Vietnam. You know this challenge. 
+They are great, they are hard, and sometimes they are disappointing, 
+yes. But at the end of the day, every great victory, every great 
+victory ends with our heads held high and safety and security for the 
+United States.
+  Let us not come home in humiliation. Let us not tell all of those 
+families that their loved ones died in vain because we have a November 
+time frame and not a time frame for victory.
+
+
+                Announcement by the Speaker Pro Tempore
+
+  The SPEAKER pro tempore. The Chair would ask Members to address their 
+comments to the Chair.
+  Mr. MURTHA. Mr. Speaker, I yield myself 2 minutes.
+  This is rhetoric. It is not getting better. I spoke out November 17, 
+and things have gotten worse than it was 6 months ago. They are worse 
+today than they were then.
+  When I left Vietnam in August of 1967, they gave me this bullet, and 
+they said in this bullet that everything is going to be all right. The 
+President of the United States said we just had an election, and we 
+have a new election in Vietnam, and this was a month after I got out of 
+Vietnam, and everything is going to be all right. We lost 37,000 
+people.
+  It is not a matter of whether we want to prevail in this operation, 
+it is a matter of how we are going to do it, and I disagree with the 
+way we do it. I disagree with the policy. That is what I disagree with. 
+I think our troops have become the targets. Incidents have increased 
+every day, and more Americans are being killed every day. And we are 
+going to pay a heavy price in people being killed and also we are going 
+to pay a heavy price for the individuals in the future with the debt 
+increasing at $8 billion a month.
+  I yield 4 minutes to the gentlewoman from Connecticut (Ms. DeLauro).
+  Ms. DeLAURO. Mr. Speaker, it is to my great regret that at key 
+moments like this the President of the United States does not seek to 
+unify the country. He does not use these moments to bring people 
+together, to strengthen us. He does not rally the country behind our 
+men and women in arms and in harm's way.
+  We applaud our troops. Thank God for their willingness to sacrifice 
+for our Nation. I take every moment to support them and their families. 
+But the President and the Republican leaders, within moments of our 
+soldiers' valor in eliminating one of the worst terrorists, is rushing 
+for some political advantage, some way to hurt the Democrats and raise 
+the President's poll numbers. Our country deserves so much better.
+  The President wants this Congress to simply applaud his current 
+course in Iraq, which is an indefinite, open-ended commitment of U.S. 
+troops in the middle of a sectarian religious war. By the President's 
+own words, 3 more years, with generals now talking about 10 years and 
+permanent bases.
+  I want to be clear. I do not want to stay the course with this policy 
+which will make us less safe, undermine our military, help the 
+terrorists, cost many thousands of lives and cost another trillion 
+dollars. This Congress has never held the President and his 
+administration accountable, even when there were no plans.
+
+                              {time}  1430
+
+  This President, more than any other, has politicized this war, 
+ignoring the advice of the military at every step, from General 
+Shinseki's call for more troops to General Casey's admission that our 
+troops' presence was inflaming violence. They have imposed political 
+judgments from ideologues at the White House at the expense of our 
+military's best advice.
+  And this Congress supported the White House politicians, not the 
+generals when our course was set. This Congress supported the White 
+House politicians when they did not give our troops the body armor and 
+Humvee armor they needed. Now, when the President says just support the 
+politicians in the White House one more time, they are here with this 
+resolution.
+  What our troops need is a policy that is good for America and for our 
+military. Being bogged down in Iraq indefinitely will make us less 
+safe. All of the countries in the world and the region and the Iraqi 
+people need to hear that America will redeploy over a responsible 
+period. The current course allows countries a free ride at the expense 
+of American troops and taxpayers. A policy of responsible redeployment 
+will force others to play their role.
+  No one on this floor is for a precipitous withdrawal, and the 
+President's statements are reckless, political and a disservice. We all 
+agree, as did both bodies of the Congress, that 2006 would be a turning 
+point. The White House politicians have ignored that resolution.
+  I support a redeployment of our troops to meet critical security 
+needs over the next 12 months, with a significant reduction by the end 
+of 2006. Others support redeployment by the end of 2008, and some by 
+the end of 2007. But we all believe America's interest and our troops 
+are served by a new course.
+  So I ask the President to change. Why not speak to the country's 
+better virtues and unite the country? We want you to succeed. We should 
+work together for a stronger America.
+  Mr. HOEKSTRA. Mr. Speaker, I yield 3 minutes to a colleague from the 
+Intelligence Committee, the gentleman from Alabama (Mr. Everett).
+  Mr. EVERETT. Mr. Speaker, in November 1979, Ayatollah Khomeini, the 
+former radical Islamic leader, seized power in Iran, riding the slogan, 
+``Death to America.'' Just 4 months after his rise to power, it became 
+evident that agents of radical Islam would stop at nothing to kill 
+Americans. This doctrine of hatred resulted in terrorists killing over 
+600 people prior to 9/11.
+  My colleagues, my chairman has mentioned this, Congresswoman Wilson 
+mentioned part of this, and I wish everyone who got up here would go 
+over this list.
+  In April 1983, 63 people died at the U.S. Embassy in Beirut. That is 
+not rhetoric; that is dead Americans.
+  In October 1983, 241 died at the U.S. Marine barracks in Beirut. That 
+is not rhetoric; that is dead Americans.
+  In February 1993, six people were killed at the World Trade Center. 
+That is not rhetoric; that is dead Americans.
+  In June 1996, 19 American servicemen died after a truck bombing at 
+Khobar Towers in Saudi Arabia. That is not rhetoric; that is dead 
+Americans.
+  In August 1998, 224 died at the U.S. embassies in Kenya and Tanzania. 
+That is not rhetoric either; that is dead Americans.
+  In October 2000, 17 died on the USS Cole in Yemen. That is not 
+rhetoric either; that is dead Americans.
+  If some people continue to preach cut and run from this war, then 
+they will continue to kill Americans, kill Americans and kill 
+Americans. The global war on terrorism must be fought. We can do it on 
+the streets of our hometowns, or we can take the war to the terrorists. 
+Either way, it has to be done; and personally, I prefer doing it over 
+in Iraq rather than in New York or Washington, D.C. or San Francisco.
+  For the first 20 years, we allowed the terrorists to fight this war 
+on their terms. 9/11 served as a wake-up call for us in the sense that 
+we could no longer afford to sit on our hands and let the terrorists 
+continue to kill innocent Americans. Under the leadership of the Bush 
+administration, and with the support of this Republican-led Congress, 
+we took the fight to the terrorists, wherever they may be.
+  Mr. Speaker, right now their choice is Iraq. It is the central front 
+in the war on terror. In fact, Osama bin Laden has said he believes the 
+war going on in Iraq is nothing short of the Third World War. The 
+importance of Iraq in achieving al Qaeda's objectives of killing 
+Americans is clearly spelled out in a 2005 letter from Ayman al-
+Zawahiri, bin Laden's closest advisor, to Musab al Zarqawi, the man 
+tapped by bin Laden to head al Qaeda operations in Iraq. He said that 
+getting the U.S. out of Iraq is critical if they are to turn Iraq into 
+a permanent base of recruitment, training and operations just like the 
+one they had in Afghanistan.
+  This is why it is imperative that we stay the course and ensure that 
+the democratically elected government can take hold. A democratic Iraq 
+will be the death of al Qaeda, and those aren't my words Mr. Speaker, 
+they are the words of Zarqawi.
+
+[[Page H4041]]
+
+  Mr. Speaker, we have accomplished so much in the global war on 
+terror, highlighted by the recent death of Zarqawi. We have 
+significantly degraded the al Qaeda network by denying them a safe 
+haven in Afghanistan and capturing or killing many of their leaders and 
+associates. We have also built an unprecedented international coalition 
+to combat and prevent terrorist financing and dismantle terrorist 
+support networks.
+  Mr. Speaker, America is safer, but we are not yet secure. The enemy 
+we are fighting is determined and serious about its desire to kill 
+Americans. We can not allow Iraq to become a breeding ground for 
+terrorist activity.
+  A free and democratic Iraq is absolutely essential to fighting the 
+terrorist threat and building long-term peace and stability in the 
+region. I urge my colleagues to support the resolution.
+  Mr. MURTHA. Mr. Speaker, I yield myself 2 minutes. I was in Beirut 
+the day after the attack, and I recommended to President Reagan, I 
+recommended to the President of the United States, get out of Beirut 
+because we didn't have enough troops; 2 months later he got out of 
+Beirut because he didn't have enough troops.
+  I know what rhetoric is, and I know what fighting on the front lines 
+are. I know the difference between them. I know that standing here does 
+not solve the problem, and it has gotten better, it has gotten worse. 
+That's the problem. And you are not talking about Iraq. The gentleman 
+up there was talking about the war on terror. I am talking about Iraq. 
+That's what I am talking about.
+  Mr. Speaker, I recognize the gentleman from South Carolina (Mr. 
+Clyburn) for 4 minutes.
+  Mr. CLYBURN. I thank Mr. Murtha for yielding me this time.
+  Mr. Speaker, last Saturday I visited the Johnson VA Medical Center in 
+Charleston, South Carolina. That medical center is named for a young 
+man who is the recipient of the Congressional Medal of Honor because 
+just out of high school he went off to fight in Vietnam and he threw 
+himself on a grenade to save the others in the foxhole with him.
+  I went to the hospital last Saturday to visit one of my heroes, 
+Joseph Henry Washington. Joseph Washington was on the USS Arizona on 
+that fateful day at Pearl Harbor. I went because I wanted to report to 
+Joseph Henry Washington on my recent trip to Iraq because he questioned 
+the wisdom of my going there.
+  I said to Joe that I was very pleased with what I had found 
+militarily in Iraq. I told him that I thought that our military forces 
+were doing an admirable job, and I thought they were meeting with 
+significant success.
+  But I said to him, Uncle Joe, I am very, very disappointed in what I 
+have found on the domestic front. We are not going to win the hearts 
+and minds of the people of Iraq until we can give them a police force 
+that believes and is committed to law and order, not one that is 80 
+percent corrupt.
+  I said to him that I did not think that we were going to be 
+successful in Iraq until we involved the Iraqi people in the 
+reconstruction efforts. We see $9 billion that we can't account for. We 
+see construction going on up in the northern part of the country. But 
+in Baghdad, in and around that part of the country, we see a failed 
+policy. That is what is causing the problem in Iraq. We must begin to 
+involve the Iraqi people in the reconstruction of their country.
+  Eighty-five percent of the country is without electricity. Almost 60 
+percent of the country is without drinking water. We are never going to 
+be successful until we tackle these problems, and that is where we are 
+failing because there is no accountability on the domestic front in 
+Iraq.
+  Mr. Speaker, I go back to Charleston the day after tomorrow because 
+we are going to bury Uncle Joe. He stayed alive long enough for me to 
+make my report to him. And for over 45 years in my consultations with 
+him, he never wanted to talk about his experiences on the USS Arizona 
+or his experiences after returning home. Why? Because he was never 
+sufficiently included in the building of this great Nation. And the 
+people of Iraq are not being sufficiently included in the rebuilding of 
+their country. Until we do that, we will never be successful with this 
+policy.
+  Mr. HOEKSTRA. Mr. Speaker, I yield 3 minutes to the gentleman from 
+Kansas (Mr. Tiahrt), my colleague from the committee.
+  Mr. TIAHRT. Mr. Speaker, I thank the gentleman from Michigan.
+  Mr. Speaker, this is an important week for us to have this debate on 
+the necessity of the global war on terror, a war that we did not ask 
+for, but a war that came to us.
+  The gentleman from Pennsylvania pointed out that after Beirut, we 
+left. We did not react to it. Several other instances like that 
+occurred during the 1990s. We were attacked at the Khobar Towers; we 
+did not react. We were attacked at the Kenya embassy; we did not react. 
+We were attacked the first time at the World Trade Center; we did not 
+react. The Tanzania embassy was bombed; we did not react. The USS Cole 
+was bombed; we did not react. What did it yield us? A continuing battle 
+against terror around the globe.
+  I would remind my fellow colleagues that one such incident of 
+attacking Americans happened in the Philippines when Gracia and Martin 
+Burnham were kidnapped, along with a constituent from Representative 
+Bono's district. The leader of the Abu Sayyaf Group, ASG, was trained 
+by al Qaeda in Afghanistan. That training occurred because we did not 
+respond to these prior attacks. We left them alone.
+  In the Indonesian al Qaeda training papers they found, they said one 
+of the things that America is vulnerable about is they don't follow up. 
+You can attack them, and they withdraw. They withdrew from Vietnam, 
+they withdrew from Beirut, they withdrew from the Cole, the Kenya 
+embassy, and Khobar Towers. They did not react the first time when they 
+attacked the World Trade Tower. We have continued to make ourselves 
+vulnerable by not responding to the worldwide war on terror.
+  Thanks to American training and intelligence aid, the Philippine 
+Government was able to rescue Gracia Burnham. Martin Burnham died in 
+the rescue attempt. It was probably because we couldn't get close 
+enough into the fight.
+  But the important thing that we need to remember is if we back off 
+now, according to the paper, or the letter that was written from al 
+Zawahiri to the now-deceased al Zarqawi, it will be considered a 
+victory for al Qaeda if we leave. Al Qaeda is the one that has decided 
+to bring this war to Iraq and to fight Americans. That information is 
+available on their Web sites and in the information that we collect. It 
+is what the captives tell us when we interview them.
+  They want to take this fight to the Americans in Iraq. I tell you, if 
+we are going to have to fight terrorists, I would rather fight them at 
+a place where every American carries a gun rather than on the streets 
+of New York or Washington or Wichita because they have brought the 
+fight to us. It is not we who decided to do this.
+  I think it is very important as we pursue this worldwide battle 
+against terrorism that we insist on doing it with our full resources, 
+with full dedication, and that we disrupt their finances, that we 
+disrupt their places of safe haven, that we disrupt the countries that 
+are providing protection for them, and that we go to the terrorists and 
+we find the root causes of this terrorism and sever the root.
+  I think the reason we have seen so much money from al Qaeda going to 
+Iraq, the reason that they have sent so many weapons into Iraq, the 
+reason so many foreign fighters have gone into Iraq is because that is 
+where they want to fight this battle.
+  If we leave now, it would be giving them a victory and we would be 
+once again putting another picture on the board here saying we should 
+have fought harder; we should have stopped it back in 2006.
+  Mr. MURTHA. Mr. Speaker, I yield myself 1 minute.
+  The problem is that the opposite is happening. That is the problem we 
+have. We can stand here and say we want to fight the terrorists in 
+Iraq. Actually, al Qaeda we think is less than 1,000.
+  We think we are caught in a civil war. It is the way that we are 
+doing it. The military cannot win this war. The military commanders, 
+even General Pace admits we cannot win this militarily.
+  What we are caught in, we have become the target of the insurgency of 
+the sectarian violence. It is the way that we are doing it is what I 
+disagree with.
+
+[[Page H4042]]
+
+  Mr. Speaker, I yield 4 minutes to the gentleman from Connecticut (Mr. 
+Larson).
+  Mr. LARSON of Connecticut. Mr. Speaker, I thank Mr. Murtha for having 
+the temerity to speak truth to power. Thank you for having the temerity 
+to separate the war on terror from the travesty that is taking place in 
+Iraq.
+  It is amazing to me, and this used to be a place, as Professor Remini 
+writes, where Members would come down, unrehearsed, without charts or 
+graphs. They would speak from their heart. They would talk about this 
+institution and what it means to democracy all over the world.
+  What a sham today. We should all glorify in the aspects of democracy 
+that take place all around the world and in Iraq. But what a sham this 
+is today when we are denied any alternative resolution.
+
+                              {time}  1445
+
+  Mr. Lantos eloquently stated that earlier today, when he talked about 
+Bob Michel and his eloquence standing on this floor, talking about 
+speaking truth to power. And that is what is so upsetting to the 
+American people and why Mr. Murtha has been recognized all around this 
+country for standing up and speaking the truth to the American people, 
+something this administration and, frankly, this Congress, has been 
+unable to do. Level with the American people. Let's start with leveling 
+with the American troops, leveling with all of those families of 
+reservists and National Guardsmen who I speak with on a regular basis, 
+who have been deployed, redeployed, deployed and redeployed again many 
+times because we haven't had a plan.
+  Here we are in a race between cooperation and catastrophe, and you 
+guys bring to the floor a political document not designed for a new 
+direction or to bring the country together to discuss this issue the 
+way it should be, but instead as talking points outlined by Karl Rove 
+in New Hampshire, sandwiched in between the President's photo op and a 
+picnic this evening.
+  Americans are outraged that we don't have a citizenry and Members 
+here who are willing to stand up and have accountability. We all 
+support the war on terror. And this party, from Roosevelt to Truman to 
+Kennedy, to Jack Murtha, has stood on the watch wall of freedom and 
+stood there valiantly, but collectively with the American people and in 
+this body and in this Chamber, but that is not going on here today. 
+Instead it is right out of the playbook, attack Jack Murtha. Attack the 
+messenger. That is a formula that works. It worked against Max Cleland. 
+It worked against John Kerry. Geez, that will work against Jack Murtha 
+also. Discredit this guy. Discredit what he has had to say because he 
+had the temerity to speak truth to power in an administration that 
+can't level with the American public, can't level with you.
+  Why don't you criticize General Baptiste, General Zinni, General Van 
+Riper, all of these generals? Are they all wrong too for speaking truth 
+to power? Shouldn't we be talking about how we can collectively move 
+forward in a new direction for this country, instead of a tried and 
+true playbook of political jargon on a resolution that is nonbinding? 
+Speak truth to power.
+  I am proud to associate myself with Mr. Murtha and everything he 
+stands for.
+
+
+                Announcement by the Speaker Pro Tempore
+
+  The SPEAKER pro tempore (Mr. LaHood). The Chair would renew his 
+request that all Members should address their comments to the Chair and 
+not to other Members.
+  Mr. HOEKSTRA. Mr. Speaker, I yield 4 minutes to the distinguished 
+gentleman from Florida, the chairman of the defense appropriations 
+subcommittee, Mr. Young.
+  Mr. YOUNG of Florida. Mr. Speaker, this debate is not about politics. 
+This debate is about America. It is about Iraq because Iraq is one of 
+the many battlefields on which we fight the global war on terror. 
+Afghanistan is another battlefield on which we fight the war on terror. 
+But there are many battlefields on the war on terror, and we don't want 
+any of them to be here in the United States of America.
+  Mr. Speaker, as I said, this is a lot about America, not only America 
+today, America past, but America in the future. The world still 
+remembers, and many Americans still remember December 7 of 1941 when 
+American territory was attacked by an enemy. An America that was built 
+out of the wilderness and was built by settlers, that was built by 
+industrialists, that was built by just plain ordinary people, brick by 
+brick, block by block, business by business, school by school, hospital 
+by hospital, an America that many Americans paid a great price to 
+create, to achieve. And that America has come under attack in many 
+ways.
+  As I said, December 7, 1941, some of us remember that day and where 
+we were. Others will never forget September the 11th of 2001, where we 
+were, what we were doing and what it did to this great country of ours.
+  The global war on terror must be won. It is real. The threat is real. 
+If you don't believe the threat is real, look at the old news reels of 
+the Twin Towers in New York City or the field in Pennsylvania where 
+Flight 93 crashed into Mr. Murtha's district to avoid that aircraft 
+from attacking this United States Capitol.
+  And just a few minutes ago I came from the Pentagon where a 
+celebration of the dedication of the Pentagon Memorial was unveiled 
+where 184 Americans lost their lives in that vicious attack on the 
+Pentagon.
+  Mr. Speaker, this war has to be won. All over the world there are 
+cemeteries where Americans lie in rest, Americans who lost their lives 
+in different parts of the world to keep America what it is, to keep 
+America what was created at so many sacrifices. And many of us have had 
+the opportunity to visit those cemeteries and to pay our respects to 
+those fighting warriors who went ahead and did what was necessary to do 
+to preserve this great America.
+  There are American heroes in Iraq today and American heroes in 
+Afghanistan today. And as Mr. Murtha said earlier, he and I have spent 
+a lot of time visiting with a number of those wounded heroes at our 
+military hospitals. But they will tell you, and they will be the first 
+ones to tell you, we have got to win this war. And the attitudes of 
+these young men and women are outstanding because they will tell you 
+that what they want is to be healed from their injuries and to get back 
+to the fight because they believe in their country. They love their 
+country, and they believe that it is important that we stop the threat 
+to this great Nation of ours from those terrorists, the terrorists who 
+attacked us on September 11 in New York, in Pennsylvania, at the 
+Pentagon, those terrorists who attacked the USS Cole, killing many of 
+our sailors and wounding many more, those terrorists who blew up the 
+Khobar Towers, which was a home for American airmen in Saudi Arabia, 
+those terrorists who blew up the American embassies in Kenya and 
+Tanzania. These young troopers, these warriors understand the threat. 
+America understands the threat. And ladies and gentlemen, it is 
+important that we stand up to that threat and that the America that we 
+know is the America that our kids will know and that our grandkids will 
+know in the years to come.
+  Mr. MURTHA. Mr. Speaker, I recognize the gentlewoman from California 
+(Ms. Harman) for 30 minutes.
+  Ms. HARMAN. Mr. Speaker, I thank the gentleman for yielding and, as 
+prior speakers have done, I commend him for speaking truth to power.
+  Mr. Speaker, 1,184 days ago American troops invaded Iraq to rid 
+Saddam Hussein of weapons of mass destruction.
+  The weapons weren't there. But American troops still are. I have met 
+some of those troops on my three trips to Baghdad and Afghanistan, as 
+well as Pakistan, Qatar, and Saudi Arabia. Our Armed Forces and 
+intelligence personnel are extraordinary. Many are on their third or 
+fourth tours.
+  As a mother of two sons and two daughters, and as a newly minted 
+grandmother, my heart goes out to families who have lost their dear 
+ones. I am deeply moved by the courage, dignity and patriotism of the 
+men and women recovering from grievous wounds at Walter Reed and other 
+U.S. hospitals. And I have visited with them.
+  Our action in Iraqi created a failed state and, tragically, our 
+postwar mission, as presently defined, cannot succeed. There are too 
+few troops to stabilize the country. They are inadequately equipped.
+
+[[Page H4043]]
+
+  They are fighting an insurgency we didn't predict, at constant risk 
+from IEDs we can't find, with no clearly developed goals to help the 
+new Iraq government achieve political and economic security, and no 
+exit strategy.
+  Two major failures led us to war, and we had best learn some lessons 
+or risk making the same mistakes again. As ranking member on the 
+Intelligence Committee, these failures haunt me.
+  Had we got the intelligence right, I believe we could have made 
+different choices, and the pain and loss and anger many feel could have 
+been avoided.
+  First was a massive intelligence failure in assessing Saddam's WMD 
+capability. The second, equally grave, was the politicization of 
+intelligence by the President and a White House determined to push us 
+toward war.
+  The failure to assess Saddam's WMD capability accurately has been 
+well documented. As CIA weapons inspector David Kay put it, ``we were 
+all wrong.'' Overriding the advice of intelligence professionals, 
+administration officials put stock in bogus sources like CURVEBALL, and 
+self-promoters like Ahmed Chalabi.
+  But simply calling Iraq an intelligence failure ignores the larger 
+policy failures that created the false momentum toward war.
+  The administration cherry-picked intelligence and hyped the threat. 
+They talked in ominous tones about ``mushroom clouds,'' even though 
+many questioned evidence suggesting Saddam had nuclear weapons 
+capability.
+  They made a mantra of the claim that 9/11 hijacker Mohammad Atta met 
+with Iraqi agents in Prague, a claim that has been thoroughly 
+discredited.
+  Deputy Defense Secretary Paul Wolfowitz famously predicted we would 
+be greeted as liberators, that Iraqis would throw rose petals, ignoring 
+intelligence community assessments about the potential for armed 
+resistance.
+  Writing in Foreign Affairs, Paul Pillar, the intelligence community's 
+senior Middle East analyst, described how the Bush administration 
+disregarded the community's expertise, politicized the intelligence 
+process, and selected unrepresentative raw intelligence to make its 
+public case.
+  To date, nobody has been held accountable for this misuse of prewar 
+intelligence.
+  The intelligence failures did not end when we invaded Iraq. Our 
+President declared ``Mission Accomplished'' in May 2003. Senior U.S. 
+officials in Iraq asserted in July 2003 that insurgent attacks 
+represented ``a limited problem of some bitter-enders'' loyal to 
+Saddam.
+  Yet, 3 years after Saddam's fall, 2,500 U.S. troops are dead, a 
+number confirmed by the Pentagon just today, and insurgents appear more 
+active than ever.
+  We have surged intelligence resources into Iraq in a frantic effort 
+to find the next IED. As a result, we have taken our eye off the ball 
+in Afghanistan, where Taliban fighters are reconstituting themselves, 
+even as the United States reduces the number of troops there. Osama Bin 
+Ladin and Ayman al Zawahiri are still at large, inspiring a new 
+generation of recruits to the jihad.
+  Just as constant deployments to Iraq cause burnout in the Army, 
+National Guard and Reserves, we are also burning out large numbers of 
+intelligence professionals. And assigning them to Iraq means they are 
+not available to address other national security challenges, like Iran 
+and North Korea.
+  There has been good news. U.S. intelligence agencies operating with 
+Special Operations Forces have tracked down many key terrorist leaders. 
+The takedown of Zarqawi showed the importance of fusing human 
+intelligence, imagery, signals intelligence and a military strike 
+capability in real time. That is how intelligence ought to work. It was 
+a huge tactical victory.
+  But tactical victories alone are not enough. We need a new strategy 
+for Iraq, a dramatic change of course. We need to hold senior officials 
+accountable for massive policy and management failures. Replacing 
+Donald Rumsfeld, the chief architect of the postwar policy, is long 
+overdue. He ignored the advice of senior military advisers, ignored the 
+careful recommendations of those who understood nation-building, and 
+ignored those horrified by a prison situation careening out of control. 
+And he prides himself, even now, on refusing to change a failed policy.
+
+                              {time}  1500
+
+  Congress must also provide aggressive oversight to learn why the 
+administration erred so grievously.
+  Since I returned from my third trip to Iraq last September, I have 
+been calling on the administration to develop an exit strategy, and I 
+believe it is now time to begin a phased, strategic redeployment of 
+U.S. and coalition forces out of Iraq on a schedule designed by 
+military commanders. A schedule designed by military commanders, not 
+designed by the U.S. Congress.
+  I believe the U.S. is part of the solution in Iraq, but our large 
+military presence is part of the problem. Beginning to reduce the 
+``footprint,'' while maintaining an over-the-horizon strike force, will 
+improve our chances for success.
+  I think we have 3 to 6 months to advance three objectives: first, 
+helping the new Iraqi Government provide electrical power, particularly 
+in Baghdad, and deliver other critical economic and social services to 
+the Iraqi people. Second, supporting the Iraqi Government in its effort 
+to disarm Shiite militias and integrate them into a trained Iraqi 
+national security force. Third, continuing the process, begun by our 
+able Ambassador Khalilzad, of obtaining buy-in from Sunni political 
+leaders. Achieving these objectives will enable us to leave Iraq in 
+better shape than we found it.
+  Mr. Speaker, the next 3 months are critical. We have a moral 
+obligation to assist Iraq on its path to democracy. But if clearly 
+defined minimum objectives cannot be achieved within that time frame, 
+the prospects for success in Iraq could all but disappear.
+  So a change in course is urgently needed. The President's visit to 
+Baghdad was important, but it is not a substitute for needed policy 
+changes. And Congress cannot be infinitely passive. This debate today 
+will only have meaning if, in fact, it leads to a change of course in 
+Iraq.
+  Mr. Speaker, it is time for Congress to lead. This resolution, in my 
+view, is a press release for staying the course in Iraq. It does not 
+signal a change in policy, and thus I cannot support it.
+  Mr. HOEKSTRA. Mr. Speaker, I yield 3 minutes to my colleague from 
+Arizona, a member of the Intelligence Committee, Mr. Renzi.
+  Mr. RENZI. I thank the chairman.
+  I have respect for the gentlewoman from California. I also listened 
+to her words carefully, and I want to remind her that on October 9 she 
+spoke about Saddam Hussein and his development of weapons of mass 
+destruction, saying that he is impulsive, irrational, vicious, and 
+cruel and that left unchecked, he will grow stronger, only to develop 
+the capability to match his disdain for America and his Middle East 
+neighbors and that he poses a clear and present danger.
+  Those were the words of the ranking member. That was the belief of 
+Bill Clinton. That was the belief of Hillary Clinton. That was the 
+belief of Madeleine Albright. And yet we are told today that this is a 
+press release.
+  al Qaeda is a cancer. It has metastasized itself throughout the 
+world. There is a lot of negativity, whether or not we want to join and 
+take the war in Iraq and link it with terrorism. It is a cancer. It 
+needs to be carved out, and the American people need to show the will 
+and the endurance. Our troops do. Our people at home, I believe, have 
+that will.
+  I believe there should be no arbitrary date set for withdrawal and 
+yet no permanent, unending deployment. No cut and run, yet measured 
+progress in helping a people who want to be free without an illusion of 
+overnight success.
+  This enemy wants to take the fight into the later rounds. They want 
+to prey on what they perceive is our lack of concentrated focus, and 
+their captured documents refer to the U.S. being worn down and 
+quitting.
+  Today's resolution is very similar to Rosie the Riveter. We bring out 
+and ask the American people to stay strong. During World War II, we 
+fought an enemy whose goal was to invade and dominate the land and the 
+geography and to gain power and spread fascism. Terrorism is like 
+fascism. While different tactics may be in place, Islamofascists want 
+to establish a caliphate covering Southeast Asia,
+
+[[Page H4044]]
+
+Southern Europe, and North Africa, very similar to the same geography 
+that we saw in World War II.
+  Zarqawi died in Iraq. Saddam was pulled out of a spider hole in Iraq. 
+The Taliban was defeated in Afghanistan. Taking the fight to them 
+works. With continued detainee reporting, coalition and allied sharing 
+of intelligence, the Iraqi people working with us to identify 
+safehouses, and the greatest group of unsung Americans sequestered in 
+the backrooms of our intelligence agencies, we can keep the pressure 
+on.
+  This resolution is about prevailing against our enemies, about 
+achieving a shared success, Republicans and Democrats with the Iraqi 
+and the Afghanistan people. This is about taking the fight to those who 
+will strike America again and will wound this Nation and kill our 
+innocent civilians.
+  America must endure, endure and prevail.
+  Mr. MURTHA. Mr. Speaker, I ask unanimous consent that the gentlewoman 
+from California control the 30 minutes and yield to people.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Pennsylvania?
+  There was no objection.
+  Ms. HARMAN. Mr. Speaker, how much time of my 30 minutes remains?
+  The SPEAKER pro tempore. The gentlewoman has 21 minutes remaining.
+  Ms. HARMAN. It is now my intention to yield to members of the 
+minority of the House Intelligence Committee who are here.
+  First, I would yield 3\1/4\ minutes to Representative Boswell who is 
+ranking member on our Subcommittee on Terrorism, Human Intelligence, 
+Analysis and Counterintelligence.
+  (Mr. BOSWELL asked and was given permission to revise and extend his 
+remarks.)
+  Mr. BOSWELL. Mr. Speaker, first off, I want to say to Mr. Murtha, I 
+salute you, sir. We both served in Vietnam. I had two tours. I never 
+told you this. I don't go around talking about it much. You don't 
+either. But Charlie Beckwith, you remember that name, don't you? In the 
+Iron Triangle? Sometimes we had those assaults and sometimes we had to 
+go bring them out. When we had to bring them out, there were lots and 
+lots of casualties. We did not like to do that.
+  So this exercise we went through a few months ago, saying that you 
+wanted to make an immediate withdrawal, that is not what you said. I 
+know that, and we all know it because that would be chaos. It needs a 
+plan.
+  So I come today to share that little bit with you. I finished up my 
+tours in the military as an instructor at the Command Staff College, 
+Department of Tactics. We rewrote 101-5. We might want to talk about 
+that sometime. You might find it interesting. And I would say without 
+reservation, Leonard Boswell, Jack Murtha, and probably everybody in 
+this Chamber support our troops, absolutely, 100 percent. That is not 
+on the table, as far as I am concerned. They are in a difficult 
+mission. They are performing superbly. And we are very, very proud of 
+them. That is not the question.
+  Last December Ike Skelton and, I do not know, 12 or 15 of us, and I 
+do not know how I got invited, but we got invited to the White House to 
+meet with the President, the Vice President, Mr. Rumsfeld, Ms. Rice, 
+General Pace. And the whole conversation was everything is going 
+really, really good in Iraq. And I got a chance to engage in 
+conversation with the President, and I said it seems to me what I am 
+hearing here is we have got 90-plus battalions, at that time, and now 
+it is over 100, 20-something brigades, several divisions, armed, 
+equipped, and in the field. And I have been to Iraq. A lot of us have. 
+I am not sure about that, but if that is true, then why don't we start 
+a withdrawal program carefully?
+  Do you know when we do best? We do best when we are under a little 
+bit of pressure, when we know we have got to perform, we got to get the 
+job done. And I think that applies to everybody in my life experience, 
+Iraqis included. Under pressure, we went through the liberation from 
+Saddam, regardless of how we decided to make the decision. We can 
+debate that if you want to, but I do not want to do that. I supported 
+the resolution based on what information I had. But regardless of that, 
+if we would look at it in this sense: we have liberated the people from 
+Saddam. He is in jail. He is on trial. Now we are occupiers. We want to 
+help them get settled. They had a great election. We all understand 
+that. They have established a government. And it is pretty tough. They 
+got it done, I am told.
+  You know, it is kind of like putting the team on the field. You 
+haven't seen them play yet together. Maybe they will do well, or maybe 
+they won't. I don't know. We don't know. But we wish them well. We want 
+them to succeed absolutely.
+  My point is this: they need to take some responsibility and the 
+pressure is on to do it. They have got 254,000 troops trained, 
+equipped, and in the field. We have a right to start, orderly, with a 
+plan, bringing our troops home. We ought to do that. Not run, but an 
+orderly withdrawal.
+  And I salute you for that, Mr. Murtha.
+  Ms. HARMAN. Mr. Speaker, I now yield 3 minutes to the gentleman from 
+Texas (Mr. Reyes), a senior member of our committee and a member of the 
+Armed Services Committee.
+  Mr. REYES. Mr. Speaker, I thank the gentlewoman for yielding me time 
+on this very important matter.
+  To my good friend Mr. Murtha, I also salute you as a Vietnam veteran, 
+one that knows what the cost of war does to a family and to our 
+country.
+  My friends on the other side of the aisle would have you believe that 
+this is a simple choice between retreat and resolve. This is a false 
+choice. It is a political stunt. This is about respect. This is about 
+respect for our role to do our jobs as a Congress in oversight.
+  We can win this war with a comprehensive and reasoned approach to 
+deployment of our troops. But the President's supporters characterize 
+any disagreement as cutting and running. It does not wash. This is 
+unfair and it is disingenuous and this is unpatriotic.
+  The real choice is between blind adherence to Secretary Rumsfeld's 
+ill-conceived strategy and the somber assessment of the proper way to 
+fight against an insurgency. Congress has an important role to play in 
+this process, and that is what today's debate should be about.
+  In my role as a member of both the Intelligence and Armed Services 
+Committees, I traveled to Iraq and paid a great deal of attention to 
+the effects of this war and their impact on our military, on their 
+families, and our intelligence apparatus. There have been and continue 
+to be critical gaps in our intelligence system in this war.
+  When the Vice President says that our troops will be greeted as 
+liberators, I have to think that we were not prepared. When the Army's 
+chief of staff tells us that a successful campaign would require many 
+more troops than we were planning to deploy, I have to think that we 
+were not prepared. When the administration cannot get its story 
+straight about the rationale for war and the connection between Iraq 
+and al Qaeda, I have to think that we were not prepared for this war.
+  These mistakes, these gaps in our knowledge, frankly, cry out for 
+oversight. It is not about resolve versus retreat. It is about respect 
+for this Congress doing its job in oversight. This Congress could have 
+and should have done a better job of conducting oversight and 
+vigorously questioning the statements that have been made by this 
+administration: statements about the presence of WMD or about 
+connections to 9/11 or about the war taking no longer than 6 months.
+  In fact, when I asked the administration, before we went to this war, 
+whether there was a connection between al Qaeda and Iraq, the answer 
+was no. We could have made America safer by conducting vigorous 
+oversight, but we as a Congress have failed to do that.
+  At the same time, while most of our men and women have served 
+honorably and bravely, the unsustainable pace of our operations 
+combined with an overstressed force has led to major problems. It led 
+us on the road to Abu Ghraib and to some of the most heinous 
+allegations lodged against our American troops in history.
+  Mr. Speaker, I am afraid that the conduct of this war has made us 
+less safe. This is what this debate should be about. It has distracted 
+us from the global war on terror. It has hurt recruiting and retention 
+in the military. It has broken our Army for possibly the next decade or 
+more. It has hurt
+
+[[Page H4045]]
+
+our ability to work with other nations. I think that is where the real 
+debate should occur.
+
+                              {time}  1515
+
+  Ms. HARMAN. Mr. Speaker, I yield 3 minutes to my California sister, a 
+member of our committee, the ranking member of the Technical and 
+Tactical Intelligence Subcommittee, Ms. Eshoo.
+  Ms. ESHOO. Mr. Speaker, I thank our distinguished ranking member of 
+the House Intelligence Committee and Congressman Murtha. We salute you 
+for your extraordinary leadership.
+  Mr. Speaker, we are here today because the majority has brought a 
+resolution before the House. It is a resolution. It is a nonbinding 
+resolution. For those that are listening in, it just means that we are 
+going to talk. There is not any action that will come out of it.
+  Let us think about the context, the broader context of where we are 
+today, June 15, 2006. Across this magnificent country, almost two-
+thirds of the American people, it matters not where they live, what 
+their economic background is, what their political affiliation is, have 
+now lost faith in the President's war in Iraq.
+  They have also lost faith in the President. He had high ratings. He 
+is now down to about 33 percent. And it is about this issue of war in 
+Iraq. Why? Why? Because what was advanced? We had to go in because 
+there was an eminent threat. If we did not get them, they were going to 
+get us. Except that premise, the President even acknowledged, did not 
+turn out to be so.
+  We all honor and support our troops. None of us will stipulate to 
+anything less. We all honor the tradition that they have set. We all 
+stipulate to that. We know that there are terrorists in this world. And 
+we will pursue them in the pursuit of the protection of our Nation.
+  But there is a difference between Iraq and the war on terrorism. And 
+some people in the Congress, unlike people in the country, do not want 
+to acknowledge that. So where are we today? Our intelligence agency 
+demoralized, intelligence manipulated, the American people ashamed of 
+what we are doing instead of being proud.
+  It is too bad, my friends, that the term ``cut and run'' is ever used 
+against a man that has served so honorably and has the medals to show 
+them. I submit that it is the Congress that has cut and run on 
+accountability, on not doing oversight, on not watching where the money 
+is going.
+  Potable water has not been improved in Iraq. Even retired generals, 
+for the first time in my life of 63 years have I ever heard retired 
+generals that have spoken out and said this is not a policy, stay the 
+course is not a policy.
+  Yes, we need a debate. We need a debate about alternatives. About 
+alternatives. This is a regrettable instrument that you have brought to 
+the floor today. I think two-thirds of the American people understand 
+it.
+  Ms. HARMAN. Mr. Speaker, I now yield 3 minutes to Mr. Holt of New 
+Jersey, ranking member of the Intelligence Policy Subcommittee.
+  Mr. HOLT. I salute Mr. Murtha, and I salute the servicemen and -women 
+in the field, recovering at Walter Reed, and waiting to serve.
+  This is a critical matter that we waited far too long to debate on 
+this floor. And instead today we now get a meaningless resolution that 
+says, well, stay the course, whatever that means.
+  Well, today I was meeting with some seventh and eighth graders. And I 
+asked them to help me put in perspective what we are talking about here 
+today, what would we say that 10 years from now we wish that we had 
+said about the war in Iraq.
+  The first one said, too many lives have been lost already. The second 
+one said, the reasons for going to war were wrong, maybe even 
+deceptive. The third said, the Iraqi people are worse off today than 
+they were before.
+  We should ask ourselves how posterity will regard Congress for giving 
+President Bush everything he asked for without oversight, without 
+accountability. There are shifting rationales for war: oh, it was 
+weapons of mass destruction; oh, no, it was retribution for September 
+11; no, actually it was about human rights abuses under Saddam; no, 
+actually it was containment and disarmament and the U.N. were not 
+working.
+  No. No. It was to stand up a democracy that could be emulated 
+throughout the Middle East. No, it was to protect America's strategic 
+interests, including oil. And today we have heard over and over again a 
+response that this is about terrorism.
+  No, it is not about terrorism. This is not about Khobar Towers. It is 
+not about the USS Cole; it is not even about the World Trade Center. 
+Today's debate is about Iraq, a war of choice. And this is a resolution 
+that says, stay the course.
+  The other side, Mr. Speaker, is engaging in classical misdirection. 
+This has nothing to do with terrorism except that Iraq has now become a 
+breeding ground and a training ground for terrorists. And meanwhile the 
+war has warped American priorities and cost us dearly.
+  Numerous powder kegs around the world are being ignored. 
+International standing and our ability to counter terrorism is hurt. 
+Here at home, I must say, Hurricane Katrina crystallized American 
+thinking when they realized that the President and Congress were 
+putting our attention, our resources in Iraq and not for the needs of 
+the people here at home.
+  History will remember this war as a colossal blunder. When we leave 
+Iraq, and I hope we will begin immediately, no one will wish that we 
+stayed longer. No one will look back and think the current course could 
+ever have been successful. This war is not making us safer. It is not 
+making Iraq safer.
+  The generals understand that. You have heard that today. The large 
+majority of the Iraqis understand that. The U.S. public understands 
+that. And, yes, even seventh graders in New Jersey understand that.
+  Let us begin our redeployment immediately, rather than approve a 
+meaningless stay-the-course resolution.
+  Mr. HOEKSTRA. Mr. Speaker, I yield 3 minutes to our colleague from 
+California, a member of the Intelligence Committee, Mr. Issa.
+  Mr. ISSA. Mr. Speaker, I certainly think it is important that this 
+debate go back and forth as it has between the defeatist attitude of my 
+colleagues and what I believe is the appropriate stay the course of 
+this side of the aisle.
+  Mr. Speaker, we are often alleged of only doing two things in the 
+Congress, either nothing or overreacting. Today, by a measured response 
+of saying stay the course, we are doing exactly what we need to do. 
+This is not meaningless.
+  Just in the last week a declassified document taken from the 
+safehouse in which Zarqawi met his appropriate punishment, and I will 
+read just short excerpts, our time is short, but they are meaningful 
+and I think many Members listening throughout their offices and here on 
+the floor probably have not yet read this.
+  Zarqawi says, however, here in Iraq, speaking of why time is on the 
+side of al Qaeda, however, here in Iraq, time is now beginning to be of 
+service to the American forces and harmful to the resistance for the 
+following reasons.
+  He goes on to talk about the formation of the National Guard. He goes 
+on to talk about the impact on the resistance of various improvements 
+there. He goes on to talk about how we the Americans and the Iraqis 
+have undertaken a media campaign against the resistance and it is 
+working.
+  He goes on to say, the resistance has had its financial outlets cut 
+off and restricted. He talks about how, in fact, we have been effective 
+in creating big divisions among the ranks of what he called the 
+resistance.
+  He then plots to find a way to get America embroiled in yet another 
+conflict with another enemy. And he is speaking of Iran. He then plots 
+on how he might convince us that Iran was further along in its weapons 
+of mass destruction. He then plots no more.
+  Mr. Speaker, we have done, for once, the even, middle-road thing we 
+have to do. We did not go into this war the way we went into, as 
+Congressman Murtha said, Beirut, only a little bit, only not enough, 
+and only for a little while.
+  We have gone into the war on terrorism with commitment from this 
+Congress, in Afghanistan, in Iraq, in the South of the Philippines, 
+wherever the terrorists may be; and we said we will stay the long haul 
+in each of these places.
+  My time is short. I just want to do two things. One is, to say that, 
+unlike Congressman Murtha, I did not serve in combat. But I entered the 
+Army in
+
+[[Page H4046]]
+
+1970, and I entered as a grandson of Lebanese immigrants.
+  And throughout the 1970s and 1980s and 1990s, I visited Lebanon, and 
+I visited the region, and I got to know my fellow Arabs of the world. 
+And I knew there was a problem and they knew there was a problem and we 
+were not addressing it. We are now addressing it.
+  So we will be punished by the opposition any time we either do 
+nothing or do something. But I would rather do something in the 
+interests of freedom.
+  Ms. HARMAN. Mr. Speaker, many on this side advocate a strategy for 
+success.
+  Mr. Speaker, I yield 3 minutes to another member of our committee, 
+Mr. Ruppersberger of Maryland.
+  Mr. RUPPERSBERGER. Mr. Speaker, whether you are for or against the 
+war in Iraq, the fact is we are there now and we must support our 
+troops. We must give them the resources they need to protect 
+themselves.
+  In Congress and across the country, we all want the same thing. We 
+all want the Iraqi military to be able to take control of their own 
+country and secure their cities so that we can bring our men and women 
+home that are in uniform.
+  What we disagree on, though, is strategy. We have been staying the 
+course and continuing down a bumpy, dangerous and deadly road for a 
+long time. The American people are losing confidence in the war in 
+Iraq. Americans are turning on the news and opening up the newspaper to 
+see more and more stories about troops being killed by roadside bombs 
+and suicide bombers.
+  The Department of Defense released today that 2,500 troops have died 
+in the war in Iraq since it began more than 3 years ago, and more than 
+20,000 have been injured.
+  The only people sacrificing in this war are the troops and their 
+families. I have been to Iraq four times and just returned from my most 
+recent trip over the Memorial Day recess. I also serve on the House 
+Select Intelligence Committee where I am briefed often on the situation 
+in Iraq and the global war on terror.
+  Mr. Speaker, I believe we need a new strategy in Iraq. I believe we 
+must have the Iraqi security forces take on more responsibility in 
+securing their country. I believe we must move American troops to the 
+perimeter of the urban areas and let the Iraqi military patrol the 
+streets in their cities.
+  Under this perimeter strategy, the American military will still back 
+up the Iraqis in an emergency. This will reduce the Iraqi dependence on 
+Americans and help them gain confidence in their own ability to secure 
+their country.
+  This perimeter strategy will free up American troops to start the 
+process of bringing our servicemen and -women home. Having the Iraqi 
+military patrol their own streets will show the Iraqi people that their 
+new government has been created and their own forces are now protecting 
+them.
+  It will also give the American public new hope that the Iraqis are 
+taking more control of their country and U.S. troops are not put in the 
+dangerous situation of patrolling the Iraqi streets every day.
+  This perimeter strategy will allow the American military to do what 
+it does best. Our intelligence analysts can use technology to locate 
+insurgents and al Qaeda operatives.
+  Our special operations forces can focus on high-value targets, and 
+our air power can be used to take them out. Changing the mission of 
+U.S. forces, redeploying them to perimeter areas, and lowering the 
+profile of the U.S. forces in urban areas will break the dependency the 
+Iraqi military has on U.S. forces.
+  Mr. Speaker, you know, it is not about being a Republican or 
+Democrat. It is about having the right strategy, it is about having the 
+Iraqi military secure its own cities, and it is about bringing our men 
+and women in uniform home.
+  I believe this new perimeter strategy will help us do that. I also, 
+with the remaining time that I have, want to talk about the issue of 
+the Iraqi war versus terrorism. There is no one that I know in the 
+Democratic Party that is not behind the United States fighting the war 
+strongly against terror.
+
+                              {time}  1530
+
+  Ms. HARMAN. Mr. Speaker, it is now my pleasure to yield 3 minutes to 
+the rookie on our committee, Mr. Tierney of Massachusetts.
+  Mr. TIERNEY. Mr. Speaker, regretfully this debate on America's role 
+in this debate on Iraq has been converted into a debate on the war on 
+terror.
+  The Republican leadership has mimicked this divisive White House and 
+sought a political squabble instead of a policy debate. The majority 
+leader's memorandum that was circulated directing his Members to 
+politicize and name call and obfuscate the issue is a disservice to 
+this House and to the country as a whole.
+  Nothing was gained when the administration first inflated the issue 
+of Osama bin Laden and terrorism with Iraq, and nothing is gained here 
+today by this bald attempt to avoid discussion of Iraq policy and again 
+try to conflate the issue of international terror with Iraq's 
+insurgency.
+  Our country's democratic system requires the active involvement of 
+Congress on key policy questions, particularly the issue of war. Its 
+Members have a patriotic duty to hold the executive branch accountable, 
+especially during a time of war. Troops as well as our citizens at home 
+deserve and expect no less.
+  Back in 2001 this entire Congress went into Afghanistan against al 
+Qaeda, Osama bin Laden, the Taliban and essentially every Member, 
+Republican, Democrat or Independent, went with the international 
+community, rallying to the side of Americans, rallying to our aid. Our 
+intelligence personnel, special ops forces, military and our allies 
+were there.
+  But it was not in the case in Iraq where this President, President 
+Bush, prematurely diverted troops and resources out of Afghanistan, 
+before that mission was completed, before Osama bin Laden, al Qaeda and 
+Taliban leaders were captured, and before Afghanistan was stabilized.
+  President Bush and Secretary Rumsfeld chose to start the Iraqi 
+conflict on selective and incomplete intelligence when there was no 
+imminent threat to the United States, without letting the international 
+inspections run their course, without building international support, 
+without a plan to stabilize and rebuild the country and bring our 
+troops home, and ignoring the advice of leading generals about troop 
+strength and strategy.
+  As a result of those failed judgments made over and over again, our 
+troops have suffered in the field, not having adequate body armor and 
+vehicle armor. They have been deployed an unreasonable number of times, 
+and they are under unbelievable stress and danger. Our veterans have 
+received inadequate care, some $3 billion short of what they should be 
+having, and we have experienced a harmful lack of oversight and 
+accountability.
+  The Iraqi people, more than half of them, are without clean water, 85 
+percent lack electricity, oil production less than what it was before 
+the war started, and unemployment of over 40 percent and billions of 
+dollars of American taxpayer money being spent without getting it where 
+it is supposed to go, our troops not getting the safety equipment, 
+Iraqis not getting the reconstruction done, and the American taxpayer 
+$360 billion out of pocket. The policy of the Bush administration has 
+done more to harm our military strength and more to harm and misdirect 
+resources away from terror.
+  United States troops have done their jobs. They got rid of Saddam 
+Hussein, they allowed for the constitution to be drawn and elections to 
+be held, and they trained Iraqi security. The time has come for Iraqis 
+to have the incentive to take control and responsibility for their own 
+security. This idea of an open-ended commitment to stay the course just 
+impedes this goal.
+  The true presence of our country impedes and fuels the insurgency. 
+Nine out of 10 Iraqis want a timeline for withdrawal. Seventy percent, 
+including the Prime Minister, set a timeline for withdrawal. It appears 
+that the Bush-Rumsfeld group wants to be more Iraqi than the Iraqis.
+  It is time to shift the focus to political and diplomatic solutions. 
+It is time we disavow any intention to permanently remain or to keep 
+them on bases. It is time to revitalize our military, refocus on 
+Afghanistan and Osama bin Laden and the Taliban, and
+
+[[Page H4047]]
+
+secure our own country by fulfilling the 9/11 Commission's 
+recommendations.
+  Mr. HOEKSTRA. Zarqawi's document:
+  However, here in Iraq, time is now beginning to be of service to the 
+American forces, harmful to the resistance, for the following reasons.
+  Time is on our side. We are making progress.
+  Mr. Speaker, I yield 3 minutes to the gentleman from Minnesota (Mr. 
+Gutknecht).
+  Mr. GUTKNECHT. Mr. Speaker, today we have heard a lot about who is 
+right and who is wrong. Let me quote, at the outbreak of the Civil War, 
+from Leroy Walker, who later became first Confederate Secretary of War. 
+He said that he could wipe up with one handkerchief all the blood that 
+would be spilled in the coming dispute between the North and the South. 
+He was wrong.
+  We have been wrong, too. We were wrong about weapons of mass 
+destruction. We were wrong about the costs, and we were wrong about the 
+tenacity of this insurgency. But Tony Blair came here about a year and 
+a half ago and he gave a great speech, and he said something very 
+important we ought to be reminded of.
+  He said if we were wrong about weapons of mass destruction, and all 
+we did was liberate a noble people from a brutal dictator, he said that 
+history would forgive. But had we failed to act, and had we been right 
+about weapons of mass destruction, he said that history would not 
+forgive.
+  So this debate about who is right and who is wrong, I think, 
+misplaces the interest of the United States. We were right that Saddam 
+Hussein and his sadistic sons were a clear and present danger to his 
+people, his neighbors, the region, and to American interests. Saddam 
+Hussein plotted to kill a former U.S. president.
+  And just like megalomaniac leaders of the past, he attacked his 
+neighbors in Iran, and he invaded Kuwait. Some prefer to ignore the 
+historic comparisons to the Sudetenland and Liebensprau. Montezuma was 
+right, those who refuse to learn from history are doomed to repeat it.
+  Dr. Henry Kissinger was right, too, when he said that with domestic 
+policy, actions have consequences. But with foreign policy, inaction 
+can have consequences. We are now seeing the suffering played out in 
+Darfur and Somalia because of inaction.
+  Millions of innocent women and children are now at the mercy of the 
+followers of bin Laden and al Zarqawi, and al Qaeda understands what 
+some in this body refuse to acknowledge, that Iraq and Afghanistan are 
+part and parcel of their war against us. When they are defeated there, 
+and I pray that they will be, their ability to wage terrorist war 
+against us will be diminished dramatically.
+  When we talk to the troops who come home from that region, they talk 
+about progress. They talk about schools and hospitals that are open. 
+Members, let me read for you from an e-mail that came back from a 
+Minnesota soldier back to Minnesota. This was after the first election 
+in Iraq.
+  He said, despite everything that has been going on around them, they 
+still voted. Despite all the violence, they stood in line to be heard. 
+Word is that despite the insurgents' best efforts, voter turnout may be 
+as high as 72 percent across the country. Shoot, even in the States, 
+that would be a great turnout.
+  All I can say is that together we, the United States and the Iraqis, 
+no kidding, we did it. I know full well that this doesn't solve 
+everything. Sure, there will be tough days yet to come. But for today, 
+we won, we all won.
+  Our returning military personnel tell us something else. Iraqi and 
+Americans have one thing in common. They want American forces to come 
+home, but not just yet. Members, now is not the time to go wobbly. 
+Let's give victory a chance and a lasting peace will surely follow.
+  Ms. HARMAN. Mr. Speaker, I yield myself 15 seconds to explain to our 
+colleagues that this side is not trying to go wobbly. We are trying to 
+articulate what we believe would be a better strategy for success in 
+Iraq.
+  For our final 2 minutes, I will yield the first minute to 
+Representative Crowley of New York, a member of the International 
+Relations Committee.
+  Mr. CROWLEY. Mr. Speaker, I thought we were going to start this 
+debate this evening to talk seriously about the problems we are facing 
+in Iraq and begin to talk about our constitutional oversight powers to 
+begin to address this situation. I was wrong.
+  The American people want a change in our Iraq policy, and as their 
+representatives, we have an incredible opportunity to speak to those 
+concerns. But, quite frankly, we won't do that today.
+  As a New Yorker, and as the only Member of this House to lost a 
+relative on 9/11, I am sickened that once again my colleagues on the 
+other side of the aisle continue to try to spin this as an answer to 9/
+11.
+  If we thought that Ann Coulter's criticism of the Jersey girls who 
+fought for an independent inquiry into the 9/11 attacks was bad, today 
+Ms. Coulter pales in comparison to this Republican-led Congress. They 
+still use the victims of 9/11 as a reason for being in Iraq in the 
+first place, when all evidence, all evidence says otherwise.
+  When I hear my colleagues continue to talk and say that Iraq is a 
+stop in the war in terrorism, what happened to the first stop? What 
+happened to Osama bin Laden? Five years later, we have yet to capture 
+or eliminate the person responsible for that action in the first place. 
+But yet we find ourselves in a quagmire in Iraq. I intend to vote 
+``no'' on this resolution.
+  Mr. HOEKSTRA. Mr. Speaker, I yield 1 minute to the gentleman from New 
+York (Mr. McHugh), a member of the committee.
+  Mr. McHUGH. Mr. Speaker, I will be very brief. I just want to make a 
+couple of observations. To my colleagues on the minority side, ladies 
+and gentlemen, debate what you wish to debate. No one is telling you 
+what to debate here today. All I have heard you do is complain about 
+what you can and cannot say. I very much want to hear your strategy.
+  Ms. Harman talked about we have a strategy for success. The gentleman 
+from Illinois, Mr. Emanuel, talked about we want to take the fight to 
+the terrorists. I would love to hear how.
+  That is what we are doing at this moment. There is an old country and 
+western song that teaches you, you know, while I was busy dreaming 
+about yesterday, tomorrow hit me right between the eyes.
+  What you are doing is dreaming about yesterday. We are in Iraq. Mr. 
+Holt had it right. It is today a training ground, a recruiting ground 
+for terrorists. It is interesting, it is instructive, and we should 
+talk about how that happens so we don't repeat it in the future.
+  But it is the reality for the moment. What do we do to end it? Where 
+do we draw the line? Where do we say this is where we have to win? It 
+is Iraq, and we better get it right.
+  Ms. HARMAN. To the prior speaker, we are trying to articulate exactly 
+what we should do.
+  Mr. Speaker, I now yield the final minute of the Intelligence 
+Committee's time to Mr. Van Hollen of Maryland, a member of the 
+National Security Subcommittee of the Government Reform Committee.
+  I thank Mr. Murtha for yielding me the 30 minutes.
+  Mr. VAN HOLLEN. Mr. Speaker, we can say what we want on the floor of 
+this House. We can debate and vote on nonbinding resolutions like this. 
+But what is most important to the American people is not what we say 
+here but what we do here.
+  This resolution does not commit this House to do anything. It does 
+not require this Congress to take any measures to hold the Bush 
+Administration or ourselves accountable for what is happening in Iraq.
+  The Bush administration was totally wrong about weapons of mass 
+destruction in Iraq. No one has been held accountable. The Bush 
+Administration totally miscalculated the number of troops that would be 
+required to provide greater stability on the ground in post-invasion 
+Iraq. No one was held accountable. The Bush Administration got the 
+costs of the war totally wrong. Again, no one was held accountable.
+  It is a simple principle. If you reward and ignore failure today, you 
+are going to get more failure tomorrow. This House has ignored those 
+failures. While our men and women have been fighting bravely in Iraq, 
+this House has been AWOL when it comes to providing oversight.
+
+[[Page H4048]]
+
+  Instead of providing a system of checks and balances, this Congress 
+has been a blank check and a rubber stamp.
+  If we were a board of directors, we would be sued by shareholders for 
+gross negligence.
+  I proposed a simple amendment to this resolution. It would have 
+required this Congress to actually do something--to conduct adequate 
+oversight and to implement the 9-11 Commission's recommendations, 
+including those requiring this body to reform its own intelligence 
+oversight process. The Republican leadership refused to allow us to 
+debate or vote on my amendment. It apparently wants this House to 
+remain an accountability free zone.
+  Ten hours of debate does not excuse years of giving the 
+administration a blank check on Iraq. A non-binding resolution is not a 
+substitute for an action plan. Let's start doing our job. We owe it to 
+our troops and the American people. Shame on this House for abdicating 
+its constitutional responsibility.
+  Mr. HOEKSTRA. Mr. Speaker, I yield 2 minutes to the gentlewoman from 
+Pennsylvania (Ms. Hart).
+  Ms. HART. Thank you Mr. Chairman, for yielding me a few moments today 
+to speak with our colleagues and with the American people.
+  As I traveled with seven colleagues earlier this year to visit our 
+troops in the Middle East and Central Asia, I learned a great deal 
+about the American spirit, the spirit of our volunteer servicemen and 
+women and what drives them to risk it all. It is the defense of 
+freedom. It is the understanding that vigilance and sacrifice are 
+requirements for our Nation's security.
+  Back home in the comfort of their living rooms though, many Americans 
+lack that focus. They forgot about Iraq's violation of U.N. Security 
+Council resolutions and the mounting incidence of attacks on our Nation 
+leading up to 9/11. They began to loudly dissent and doubt and distract 
+from our mission in Iraq.
+  One of the generals who I spoke with while I was in Kuwait took the 
+opportunity in a quiet conversation to ask a very pointed question. He 
+said, is America fighting this war, or is it just our military who is 
+fighting this war?
+  We today, together with all Americans, must answer that general's 
+thoughtful question. We must answer it for him, for ourselves, for the 
+rest of the world, but especially for our enemies, so they know America 
+is truly committed to liberty and the victory of civility and 
+opportunity for all who love freedom and support democracy.
+  These enemies have long been committed to robbing the world of 
+liberty. The United States and others have been targets of these 
+terrorists many times leading up to 9/11 because of our commitment to 
+the ideal of freedom. These enemies include regimes which harbor 
+terrorists, but most especially those loosely connected terrorist 
+organizations operating outside a national framework who share an 
+ideology of oppression, tyranny, control, hatred resentment. They value 
+no life, no man, no woman, no child.
+  We Americans cannot continue to be free if we spend all our time 
+questioning our mission. Many Americans want to debate the validity of 
+prewar intelligence or weapons of mass destruction. Whether one nation 
+or another supported al Qaeda, how many troops do we need? Americans 
+have to look beyond the tactical challenges.
+  We must do as Tony Blair did. The people who are fighting us, he 
+said, know what is at stake. The question is, do we?
+
+                              {time}  1545
+
+  Mr. MURTHA. Mr. Speaker, I yield 60 minutes to the gentlewoman from 
+California (Ms. Waters) from the Out of Iraq Caucus, and I ask 
+unanimous consent she control the time.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Pennsylvania?
+  There was no objection.
+  Ms. WATERS. Mr. Speaker, I yield myself as much time as I may 
+consume.
+  Mr. Speaker, I rise to speak on this resolution as the chairperson of 
+the 72-member Out of Iraq Caucus of the House of Representatives. 
+Tomorrow will mark the 1-year anniversary of the Out of Iraq Caucus.
+  My colleagues and I joined together to form the Out of Iraq Caucus to 
+pressure the Bush administration into telling the truth about what is 
+going on in Iraq, to admit their mistakes, and to admit their 
+misjudgments, and to force them to devise a plan to bring our troops 
+home.
+  The Bush administration cannot deny that they misled the world about 
+the reasons we invaded Iraq. There were no weapons of mass destruction 
+in Iraq. There was no connection between the unfortunate destruction of 
+9/11 and Saddam Hussein. We have not been welcomed with open arms in 
+Iraq. We have no substantial support for this war by other countries. 
+Yet, Mr. Bush, Mr. Cheney, Mr. Rumsfeld, Ms. Rice, Mr. Wolfowitz, and 
+Mr. Karl Rove continue to squander the American taxpayers' dollars on a 
+war that cannot be won with a military solution.
+  Here we are 3 years later, 2,500 American soldiers dead, 18,498 U.S. 
+soldiers seriously injured, and Congress has appropriated over $320 
+billion for this war, and the costs will only continue to rise. Even 
+Condoleezza Rice admitted there have been thousands of missteps. The 
+American people are increasingly aware of this mismanaged, corrupt, and 
+bungled war.
+  The company that Vice President Cheney served as CEO of, Halliburton, 
+has been awarded no-bid contracts for billions of dollars, and they 
+have had over $400 million in unsupported costs and another $1 billion 
+in questioned costs. In simple words, they are cheating the American 
+people. Yet they are not being held accountable for their criminal 
+actions, and the administration has facilitated these illegal actions.
+  However, Congress has done virtually no oversight of this war, no 
+hearing, no acknowledging the generals that are trying to tell us about 
+Mr. Rumsfeld's mismanagement of this war. We have not done the 
+oversight, and today, we find that we have this debate. It is not 
+sufficient, nor has it been properly characterized. This resolution we 
+are debating is a sham.
+  As a matter of fact, it is a trap. It is an attempt to force 
+Democrats to sign on to a resolution that will do nothing to bring our 
+troops home. Oh, they want to make us sound as if we are unpatriotic. 
+They want to make us sound as if we do not support our troops. We love 
+our troops. We are as patriotic as anybody, and so I would implore my 
+colleagues not to get caught into this trap.
+  This resolution is not intended to solve any problems or chart a new 
+course that will permit us to preserve the lives of our troops or to be 
+successful in Iraq.
+  I know what is happening. My friends on the opposite side of the 
+aisle are getting frightened. They went home on the break, and they 
+heard the American people. They saw the polls, and they came back with 
+a Karl Rove-constructed resolution to try and make it seem as if now 
+they get it. But this resolution does nothing. It will only continue to 
+mislead.
+  We formed the Out of Iraq Caucus to oppose any permanent bases in 
+Iraq. We support H.J. Res. 73 to redeploy U.S. forces from Iraq, 
+commonly referred to as the Murtha resolution.
+  There are a lot of misconceptions about what the Murtha resolution 
+is. So let us take a minute and explain clearly what the resolution 
+says.
+  Section 1 says: ``The deployment of United States forces in Iraq, by 
+direction of Congress, is hereby terminated and the forces involved are 
+to be redeployed at the earliest practicable date.'' They would have 
+you believe this is meant to withdraw immediately. That is not what it 
+says, and let us get that straight today. What that means is there will 
+be no more U.S. troops sent to Iraq and that the troops in Iraq will be 
+redeployed as soon as possible, a judgment that should be made by 
+military officials on the ground. So stop misrepresenting what this 
+resolution is all about.
+  Section 2 says that ``a quick-reaction U.S. force and an over-the-
+horizon presence of U.S. Marines shall be deployed in the region.'' 
+That means a group of marines will remain in the Middle East to respond 
+to threats that destabilize our allies in the region or the national 
+security of the United States.
+  Section 3 says: ``The United States of America shall pursue security 
+and stability in Iraq through diplomacy.'' This war cannot be won 
+through military means alone. We must put the full weight of the United 
+States behind diplomacy in order to end bloodshed in Iraq.
+
+[[Page H4049]]
+
+  The Murtha resolution endorses these principles, and there is no 
+reason why the entire Congress of the United States cannot get behind 
+this resolution.
+  Mr. Speaker, the Out of Iraq Caucus supports the Murtha resolution as 
+the clear plan for America. We support bringing our troops home, and 
+stop saying we do not have a plan. We have a plan. It is a good plan. 
+It is the Murtha resolution.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. THORNBERRY. Mr. Speaker, I ask unanimous consent to be able to 
+control the remainder of the Intelligence Committee's time on this side 
+of the aisle.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Texas?
+  There was no objection.
+  Mr. THORNBERRY. Mr. Speaker, I yield 2 minutes to the distinguished 
+gentleman from Delaware (Mr. Castle).
+  Mr. CASTLE. Mr. Speaker, I thank the distinguished gentleman for 
+yielding.
+  Mr. Speaker, I rise in support of the resolution, and I commend the 
+brave American and coalition soldiers who have risked their lives to 
+fight terror and promote freedom around the world, including the 14 
+courageous Delawareans who have lost their lives while honorably 
+serving their State and this Nation.
+  Despite weeks of significant progress, we are now facing a critical 
+stage in the war on terrorism. I believe an immediate withdrawal or the 
+establishment of a hard deadline to withdraw will be comparable to an 
+abandonment of the new Iraqi Government and would encourage the 
+terrorists and violent factions to bide their time, inviting mayhem and 
+guaranteeing chaos.
+  Such a decision may also embolden our enemies to, once again, attack 
+our homeland and interests abroad, thus further endangering American 
+citizens. The future of the Middle East and the security of free 
+nations around the world depend upon the development of a strong and 
+stable democracy in Iraq.
+  Therefore, in order to reach an acceptable level of stability in 
+Iraq, it is extremely important that we, as an international community, 
+intensify our efforts to reduce the influence of militias, restore 
+electricity, rebuild schools, and assemble a modern and sustainable 
+economy for the benefit of all Iraq's citizens. A greater emphasis on 
+the development of the Iraqi security forces, with a focus on the 
+selection and education of effective military officers, is absolutely 
+imperative so that we may begin supplanting our forces in the region 
+with Iraqi troops at the earliest date possible.
+  Mr. Speaker, it is essential that we honor our brave soldiers by 
+continuing to work with our international partners to promote democracy 
+and protect freedom around the world.
+  Mr. Speaker, I rise in support of the resolution and I commend the 
+brave American and coalition soldiers and all other personnel who have 
+risked their lives to fight terror and promote freedom both at home and 
+abroad. These courageous men and women have made tremendous sacrifices 
+to ensure our security, and they deserve our utmost respect and 
+appreciation.
+  There have been three successful elections held in Iraq since the 
+overthrow of Saddam Hussein's regime, and in recent weeks significant 
+progress, both politically and militarily, has been made in the region. 
+As a former member of the House Intelligence Committee, I firmly 
+believe that the elimination of al-Zarqawi will prove to be a key 
+psychological and organizational blow to al Qaeda's terrorist network.
+  Still, the facts are undeniable--progress in Iraq and Afghanistan has 
+come at a tremendous cost. My small State of Delaware alone has lost 
+fourteen brave soldiers, each of whom honorably served their State and 
+Nation. My heart goes out to these noble Delawareans and their 
+families.
+  And while elections and military victories are crucial, many 
+challenges still lie ahead. We are now facing a critical stage in the 
+war on terrorism, and it is essential that the international community 
+come together to support Iraq's efforts to build a strong, unified 
+government capable of steering the country toward a path of peace and 
+democracy.
+  Although, several of my colleagues have suggested that the U.S. 
+should set a hard deadline for withdrawal from the region, I believe 
+such a course would be unwise. An immediate withdrawal, or the 
+establishment of a hard deadline to withdraw, would be comparable to an 
+abandonment of the new Iraqi government and would encourage the 
+terrorists and violent factions to bide their time, inviting mayhem and 
+guaranteeing chaos. Such a decision may also embolden our enemies to 
+once again attack our homeland and interests abroad, thus further 
+endangering American citizens. The future of the Middle East, and the 
+security of free nations around the world, depends upon the development 
+of a strong and stable democracy in Iraq.
+  Therefore, in order to reach an acceptable level of stability in 
+Iraq, it is extremely important that we intensify our efforts to reduce 
+the influence of militias, restore electricity, rebuild schools, and 
+assemble a modem and sustainable economy for the benefit of all Iraq's 
+citizens. A greater emphasis on the development of the Iraqi security 
+forces--with a focus on the selection and education of effective 
+military officers, is absolutely imperative. Over the last few years, 
+we have trained and equipped thousands of Iraqi soldiers and police 
+officers and it is now crucial that we do more to improve this process, 
+so that we may begin supplanting our forces in the region with Iraqi 
+troops at the earliest date possible.
+  Mr. Speaker, the thousands of Americans who have served in the war on 
+terrorism exemplify the very courage and honor on which our Nation was 
+formed. It is essential that we recognize their service by continuing 
+to work with our international partners to promote democracy and 
+protect freedom around the world.
+  Ms. WATERS. Mr. Speaker, I yield 5 minutes to the gentlewoman from 
+California (Ms. Lee).
+  Ms. LEE. Mr. Speaker, I want to thank the gentlewoman for yielding 
+and for her leadership and her strong voice over the years on so many 
+issues, especially with regard to this unnecessary war.
+  It has been almost 4 years since Congress authorized this unnecessary 
+war, and we are really still not having a debate on Iraq policy. So, 
+quite frankly, this debate is a sham. It attempts to, and you have 
+heard this before and you will hear it again, it attempts to link the 
+war on terror with the bloodshed and violence and killing in Iraq. How 
+deceptive can you be?
+  As a founding member of the Out of Iraq Caucus, I believe that we 
+should be debating and passing the Murtha resolution today. The Murtha 
+resolution would redeploy our troops from Iraq at the earliest 
+practicable date and pursue security and stability in Iraq through 
+diplomacy.
+  Instead, the Republicans continue to play political games at the 
+expense of our brave troops.
+  This resolution is a disingenuous attempt by the Republicans to 
+really rewrite history by claiming that Iraq is linked to the terrible 
+tragedy of 9/11. This is deplorable. We all know that Iraq had nothing 
+to do with the tragic attacks of 9/11. Yet, the President misled the 
+American people into a war of choice, with no end in sight.
+  We could have avoided this, and you remember Congressman Spratt and 
+myself, we introduced substitutes to the use of force back in 2002, 
+which would have allowed the United Nations' inspectors to ensure that 
+Iraq was not developing weapons of mass destruction.
+  And what is the cost of finding out that there are no weapons of mass 
+destruction? Today, we reached the sad milestone of 2,500 American 
+brave troops who have given their lives; and by the end of the year, we 
+will have committed close to $400 billion.
+  Are we any safer as a result of this purposeless war in Iraq? Not 
+according to the 9/11 Commission, whose report card gave the 
+administration a failing grade in virtually every category relating to 
+terrorism preparedness.
+  The Republicans try to claim that Iraq is the central front on the 
+global war on terror, but the fact is that it has undermined our 
+ability to protect our Nation. National security professionals 
+recognize this, Mr. Speaker, and let us be clear: we are spending 
+billions of dollars to occupy a country that did not have weapons of 
+mass destruction or terrorist ties. At the same time, we are cutting 
+programs to secure our ports and keep nuclear materials out of the 
+hands of terrorists. There is something really wrong.
+  Worse still, this President and the Republican majority really refuse 
+to level with the American people about when our troops are coming 
+home, also really if they are coming home.
+  While we are debating this very bogus resolution, the most 
+substantive
+
+[[Page H4050]]
+
+decision on Iraq policy in very recent days was taken out by the 
+Republican majority behind closed doors. They stripped from the war 
+supplemental an amendment that we offered to prevent the establishment 
+of permanent military bases in Iraq.
+  The American people do not want an open-ended war and occupation. 
+Quietly removing a measure that was approved by both the House and the 
+Senate is a gross abuse of the democratic process and is further 
+evidence that Republicans are afraid to level with the American people 
+about their real plans for Iraq.
+  Let me tell you, there will be a day of reckoning. The American 
+people are demanding answers. They deserve a truthful accounting of how 
+we got into this unnecessary war, how the billions of dollars have been 
+misspent and when our troops are coming home, and also, they really 
+deserve to know if our troops are coming home, given recent reports 
+that the administration is considering leaving a permanent force of 
+50,000 troops in Iraq and indications that establishing permanent 
+military bases are not off the table.
+  So, Mr. Speaker, the American people will not forget that, instead of 
+answers to their questions, the Republican majority keeps giving them 
+rhetoric and posturing like they are doing today, and the American 
+people deserve better.
+  This sham resolution, it really should be rejected. We should support 
+the Murtha resolution. That is what we should talk about today. That 
+will take steps to end this war. It would take steps to bring our young 
+men and women home; and I tell you, if we do not debate this, we do not 
+know when the opportunity to debate or to have a real debate will take 
+place.
+  It should have been a real debate today. Unfortunately, this has 
+deteriorated into posturing into rhetoric and into misrepresenting what 
+the facts are.
+  I thank the gentlewoman for her leadership.
+  Mr. THORNBERRY. Mr. Speaker, before yielding to the gentleman from 
+Maryland, I yield myself 30 seconds to read a quote we mentioned 
+earlier in this debate from Osama bin Laden. He said, ``This Third 
+World war is raging in Iraq. The whole world is watching this war. It 
+will end in victory and glory, or misery and humiliation.'' That is not 
+this side of the aisle. That is Osama bin Laden.
+  Mr. Speaker, I yield 2 minutes to the gentleman from Maryland (Mr. 
+Gilchrest).
+  Mr. GILCHREST. Mr. Speaker, I thank the gentleman for yielding.
+  As we debate the war in Iraq, Afghanistan and the war on terrorism, 
+there will be strong, heartfelt feelings and expressions on this House 
+floor. Let us, however, as we debate have a powerful sense of 
+resolution, a powerful sense of urgency, a powerful sense of urgency to 
+end the war and to end the war successfully.
+  A stable, free Iraq, a stable, free Afghanistan will be a blessing to 
+the Iraqis, a blessings to the Afghanis and a blessing to the region 
+and the world at large.
+  The war on terrorism is the next stage of the Cold War. Civilized 
+people who believe in the rule of law, justice, equality and freedom 
+cannot allow self-anointed fanatics to rape, pillage and murder at will 
+around the globe.
+  A great Islamic theologian once said, ``One hour of justice is equal 
+to a hundred-year prayer.'' The world wants to hear from us. It is our 
+job to end the war in Iraq successfully. The United States, with the 
+assistance of and for the good of the civilized world, can and will 
+defeat terrorism. This debate is our hour of justice.
+
+                              {time}  1600
+
+  General Eisenhower said, ``The emphasis of the military is on 
+authority and obedience; the emphasis on public office is communication 
+and consent.'' As we craft this resolution, I urge you to keep these 
+themes in mind.
+  And as we will eventually walk across the graves in Arlington 
+Cemetery, listen to these words: ``We are the dead. Short days ago we 
+lived, felt dawn, saw sunset glow, loved and were loved. And now we lie 
+in Flanders Field.'' Let us work together through this debate to figure 
+out how to end the war.
+  Ms. WATERS. Mr. Speaker, I yield to the gentlewoman from California, 
+Representative Woolsey, 5 minutes.
+  Ms. WOOLSEY. Mr. Speaker, many of us voted against this war from the 
+very beginning. In fact, 60 percent of the Democrats voted ``no'' to 
+the war in Iraq. Since then, we have hosted informal hearings, we have 
+founded the Out of Iraq Caucus, we forced a debate and vote on the 
+House floor, Mr. Murtha offered his intelligent proposal to redeploy 
+our troops, and last night I gave my 151st 5-minute speech on Iraq.
+  Mr. Speaker, it has been almost 39 months since our troops were sent 
+to Iraq, and today, more than 37 months after the President declared 
+``Mission Accomplished,'' our troops are still there.
+  Just this week, the President of the United States said this about 
+Iraq, and I quote: ``My message to the enemy is don't count on us 
+leaving before we succeed. Don't bet on American politics forcing my 
+hand, because it is not going to happen.'' Except, Mr. Speaker, it is 
+completely unclear what constitutes success or when the mission will be 
+accomplished under these circumstances. Saying we will stand down when 
+the Iraqis stand up? Well, that is just talking points that give the 
+American people no clear guide as to when they can expect this war to 
+end.
+  By leaving this question vague, by defining success entirely on his 
+own terms, the President is allowing himself an open-ended commitment 
+and a blank check in Iraq. As for his hand being forced by American 
+politics, what the President calls American politics is actually a 
+majority of our citizens outraged at the loss of life, the hundreds of 
+billions spent, and the global credibility we have squandered.
+  The American people, as of this morning, see 2,500 U.S. troops 
+killed, more than 18,000 U.S. soldiers gravely wounded, and thousands 
+more mentally and physically traumatized from their experience in the 
+war. They see the United States losing an equivalent of one battalion 
+every month in Iraq, and the American people want answers. They do not 
+want partisan resolutions like the one before us today, a resolution 
+that does nothing to end this war.
+  They see all the sacrifices, Mr. Speaker, and they ask, for what? 
+They know none of it is making Americans in Iraqi safer. In fact, the 
+presence of nearly 150,000 American troops in Iraq has become a 
+rallying point for anti-American extremists in the Arab world. The 
+people of this country support our troops. They see nothing 
+inconsistent about having the deepest contempt for this war while 
+expressing the utmost admiration for the soldiers on the front lines.
+  Last fall, I traveled to Iraq and I visited with our troops. My 
+conversations with them confirmed what I already knew: These are 
+uniquely loyal, intelligent, and courageous Americans. If only those 
+civilians who are running this war had half the honor and integrity of 
+the men and women who are fighting it.
+  It is time, Mr. Speaker, this Congress caught up to the American 
+people. It is time that the Commander in Chief stepped up by offering a 
+solution, instead of dismissing American anxiety as just politics. It 
+is time to establish a multilateral security force to keep the peace in 
+Iraq while shifting the U.S. role from military occupier to 
+reconstruction partner. It is time to give Iraq back to the Iraqis, not 
+continuing to occupy the bases, not attempting to control their oil.
+  This is what the American people want, Mr. Speaker. They want an end 
+to this war. They are not certain exactly how or when, but that is our 
+job to execute those details. They are looking to us for leadership. It 
+is time this Congress and the President of the United States provided 
+the leadership to bring our troops home.
+  Mr. THORNBERRY. Mr. Speaker, I yield 3 minutes to the distinguished 
+gentleman from Mississippi, a leader on national defense affairs, Mr. 
+Wicker.
+  Mr. WICKER. Mr. Speaker, what is the status of our effort in Iraq 
+today, and where do we go from here?
+  Some of my friends on the other side of the aisle see the situation 
+getting worse and worse. I see real progress. I see three successful 
+elections, I see the completion of a national unity government, and I 
+see the elimination of Abu Musab al Zarqawi. But more than anything 
+else, Mr. Speaker, it is the returning troops I talk to who convince
+
+[[Page H4051]]
+
+me that our mission is succeeding and that their sacrifice is 
+accomplishing a valuable service for our effort and for our people. I 
+haven't surveyed many seventh graders, but the soldiers I see express 
+support for what we are doing and frustration over the coverage they 
+see in the media.
+  Now, as to the question of where we go from here, two things are 
+certain: Iraq is ground zero in our global war on terror. And the 
+decisions we make will affect U.S. credibility for decades to come.
+  Al Qaeda attacked our homeland unprovoked on 9/11, and it is that 
+same al Qaeda we fight today in Iraq. We must defeat them there and 
+anywhere else until their terrorist threat has ended. But make no 
+mistake, this is the same enemy that demolished the World Trade Center 
+and attacked the Pentagon.
+  Another argument we have heard today is that this war was a mistake 
+to begin with; that it was unnecessary; that it was in fact based on a 
+lie. This view, of course, ignores the fact that intelligence agencies 
+not only in the U.S. but from Israel, Great Britain, Germany, and 
+France, to name a few, were unanimous in their conclusions that Iraq 
+had weapons of mass destruction. President Bill Clinton and Secretary 
+of State Madeleine Albright cautioned that it was a real possibility 
+Saddam would use these weapons or share them with terrorists intent on 
+attacking the U.S. again.
+  But if you think about it, Mr. Speaker, what such an argument really 
+advocates is a present day Iraq with Saddam Hussein still in power. 
+That would have been the logical result of their point of view. An Iraq 
+still ruled by intimidation, humiliation, rape, and torture. A Saddam 
+Hussein still free to continue his proven network of chemical and 
+biological weapons research. A Saddam Hussein with plans and advanced 
+designs for long-range missiles to threaten our allies and our 
+interests.
+  To some, this may be an acceptable alternative. But it is not to me. 
+The world is a better place because Iraq is free of Saddam Hussein, and 
+the world will be safer if we maintain our resolve. The administration 
+has embarked on a sound plan for freedom and stability in the region 
+and for better security for our citizens. Stay the course.
+  Ms. WATERS. Mr. Speaker, I yield to the gentleman from the State of 
+Washington, Representative McDermott, 5 minutes.
+  (Mr. McDERMOTT asked and was given permission to revise and extend 
+his remarks.)
+  Mr. McDERMOTT. Mr. Speaker, this debate begins with one fundamental 
+truth. We are in Iraq and our leaders have no plan to get us out of 
+Iraq.
+  The President says U.S. soldiers will stay in harm's way for as long 
+as he says so. ``We will stand down,'' our leaders say, ``when the 
+Iraqis stand up.'' In other words, Iraqi clerics and the factions they 
+control and the decisions they make about whether to cooperate with the 
+Iraqi government will determine what we can do. The extent of our 
+involvement, the length of our stay, the number of our dead is 
+controlled by religious clerics in Iraq because we have no strategy 
+except to wait for the Iraqis to stand up.
+  Republican leaders in this Chamber say we will stay because Iraq is a 
+model of success and it is helping us win the war on terror, as if a 
+resolution they alone write will somehow make Iraq the role model for 
+projecting U.S. influence around the world.
+  Today, the American people say with a growing voice that Iraq was a 
+mistake, and staying with no plan or timetable is the wrong course for 
+our soldiers and our Nation. The unending war, the permanent bases, the 
+fortress embassy we are building all make a powerful argument that our 
+involvement in Iraq is more an occupation than a liberation. This 
+promotes terrorism. This helps recruit terrorists. It doesn't help end 
+the terrorism.
+  U.S. soldiers in Iraq are doing an heroic job, but we are not doing 
+ours. It is not partisan politics to insist that a nation at war have a 
+plan to achieve the peace. The resolution and its backers seem to think 
+it is unpatriotic to ask questions and to demand a plan. That is not 
+true. Our foreign policy fails when we fail to ask enough questions, 
+not too many.
+  American soldiers are falling every day, and there is no one, not a 
+single person in this House who does not respect and support our 
+soldiers. But this resolution is intended to paper over the truth about 
+the Iraq war and it does not support our soldiers and will not make a 
+difference in winning the war. Our soldiers need and the American 
+people expect their leaders to develop a battle plan that will work in 
+the field because it is based on military intelligence, not political 
+expediency.
+  We are in a war and we need a battle plan from the President, not a 
+message memo from the House majority leader. War isn't waged by a 
+political party nor is it won by political ideology. Iraq needs a 
+credible battle plan. There is only one at the moment, and we should be 
+debating it.
+  John Murtha put forward a plan 6 months ago and only today are we 
+able to discuss it at all, with no ability to alter the resolution 
+before us. This is not an honest debate, an honest attempt to seek 
+answers for our problems in Iraq. It is a debate about a letter of 
+endorsement for the President, not an examination of our options.
+  Jack Murtha has emerged with a battle plan, and it is no surprise. He 
+is a decorated combat soldier who reflects what the best military minds 
+believe. As a veteran myself of the Vietnam era, I must say that Jack 
+is a soldier's soldier, a combat hero who has one and only one goal: To 
+defend our Nation with the finest military and the best plan.
+  Jack has a plan: Strategic redeployment. It is smart, proud, honest 
+and effective. You can't win a war with rhetoric and resolutions. You 
+win with a thoughtful plan. I support the Murtha resolution that puts 
+in place a plan to protect our soldiers, protect American interests in 
+the Middle East, and protects American people here at home. It is a 
+battle plan that resolves to bring our troops home on a timetable 
+driven by the United States, not subject to the approval of Iraqi 
+clerics. It is a commitment to secure the peace by being smart about 
+the war.
+  The American soldiers need a battle plan, not a resolution that 
+reflects a bunker mentality of the Republican Party losing its grip on 
+political control.
+  Two grim things came out of the Pentagon today. When the President 
+declared ``mission accomplished,'' 141 people had died. Today, the 
+2,500th person died. The other thing that came out was a 74-page 
+booklet to help Republicans manage spin control during the Iraq debate 
+on the floor. It is called ``The Iraq War Debate Prep Book.''
+  The Defense Department is putting out PR pieces. That is an affront 
+to the American people. It is not a front on the war. The American 
+people want change because the Pentagon under this administration 
+distributes PR plans. Debate talking points. What is the military doing 
+with that kind of stuff up here on the Hill in this body? We see no 
+military plan.
+  Support U.S. soldiers by passing Jack Murtha's plan to get out of 
+Iraq.
+  Mr. THORNBERRY. Mr. Speaker, I yield 3 minutes to the distinguished 
+gentleman from Pennsylvania (Mr. Murphy).
+  Mr. MURPHY. After September 11th, Mr. Speaker, bin Laden's deputies 
+said, ``People of America, your government is leading you into a losing 
+battle. Remember, your government was defeated in Vietnam, fled in 
+panic from Lebanon, rushed out of Somalia, and slapped across the face 
+in Aden. Your government today is leading you into a losing war.''
+  And no wonder. Look at our past. November 1979: 52 Americans taken 
+hostage at the U.S. embassy in Iran. We had a failed response. April 
+1983: 17 Americans killed at our embassy in Beirut. We took no action. 
+October 1983: 241 Marines killed, 100 wounded. Our Marines were 
+redeployed. April 1988: 259 killed in the bombing of Pan Am Flight 103. 
+We sought indictments. February 1993: Six killed and a thousand injured 
+after the explosion of the first World Trade Center bombing. We took 
+them to court. October 1993: 18 U.S. servicemen were killed and 84 
+wounded in Somalia. We withdrew our troops. August 1998: 224 killed at 
+U.S. embassies. We fired cruise missiles in Afghanistan and Sudan.
+
+                              {time}  1615
+
+  October 2000, 17 U.S. killed and 30 wounded in the USS Cole attack. 
+We took no action.
+
+[[Page H4052]]
+
+  However, since September 11 we have been much different. We fought 
+the Taliban in Afghanistan, and now we are fighting al Qaeda in Iraq, 
+and the U.S. is sending a message to the terrorists and the world, and 
+we are different and we will respond.
+  Now, there will be disagreements between leaders who are retired and 
+current ones. This is part of history. Witness the disagreements 
+between Lincoln and McClellan, Patton and Montgomery, MacArthur and 
+Truman.
+  But now we are having success. Our troops are being redeployed 
+outside of the cities of Iraq. We are transferring the battle to Iraqi 
+security forces and their police, and now they have a government where 
+they must face the scourge of al Qaeda, and we cannot let them face it 
+alone.
+  I wish we could finish quickly, but I know we cannot finish hastily. 
+I think one wounded soldier said it to me, summed it up best, he said, 
+I want to go back and finish the job, I want to fight them there, not 
+in our suburbs.
+  I know we cannot fight them in our courts. I know we cannot fight 
+terrorists with our police in our streets. I know surely we cannot 
+fight terrorist murderers with diplomacy. Let's finish the job of 
+terrorism, then we bring them home.
+  Ms. WATERS. I yield 5 minutes to the gentlewoman from Illinois (Ms. 
+Schakowsky).
+  Ms. SCHAKOWSKY. Mr. Speaker, as a founding member of the Out of Iraq 
+Caucus, I rise in strong support of our brave troops and in strong 
+support of Congressman Murtha's plan for a responsible redeployment 
+from Iraq.
+  Americans want the truth about the Iraq war. Americans deserve the 
+truth, and despite all the talk from those who declared this war, 
+ineptly pursued this war, and still today justify this war, the 
+American people in overwhelming numbers have determined for themselves 
+the truth about this war.
+  Polls taken even after the killing of al Zarqawi show that only 33 
+percent of American adults think that the results of the war were worth 
+the loss of life and other costs. Only 33 percent approve of the way 
+George W. Bush is handling the situation in Iraq. Only 26 percent of 
+Americans feel that the United States is better off because of the war.
+  The American people in their wisdom have been able to distinguish 
+reality from rhetoric. The truth has been a major casualty in the war 
+of Iraq.
+  It is worth reviewing just a few of the statements presented as truth 
+that have been proven to be not true, never true, and still today not 
+true:
+  Dick Cheney said in August 2002, ``Simply stated, there is no doubt 
+that Saddam Hussein now has weapons of mass destruction.''
+  In March 2003, Donald Rumsfeld said, ``We know where they are. 
+They're in the area around Tikrit and Baghdad and east, west, south and 
+north somewhat.''
+  The President said in May 2003, ``We found the weapons of mass 
+destruction.''
+  And Donald Rumsfeld on the cost, ``Well the Office of Management and 
+Budget has come up with a number that is something under $50 billion 
+for the cost. How much of that will be the U.S. burden and how much 
+will be other countries is an open question.''
+  Dick Cheney said May 30, 2005, ``I think they are in the last throes, 
+if you will, of the insurgency.''
+  And what happens to those experts who tell the truth? Are they heeded 
+and embraced by the Bush administration? Hardly. Although it is now 
+universally agreed we didn't have enough troops to avoid the chaos and 
+violence after the initial invasion, when the Army's top general, Eric 
+Shinseki, testified in February 2003 ``something on the order of 
+several hundred thousand soldiers'' would be necessary to achieve 
+victory in Iraq,'' he was immediately and publicly repudiated by 
+Secretary Rumsfeld who said that ``the idea it would take several 
+hundred thousand U.S. forces I think is far off the mark.'' Shinseki 
+was quietly ushered into retirement, and Secretary Rumsfeld remains in 
+place leading the failed Bush administration policy in Iraq.
+  When Dr. Lawrence Lindsey, former assistant for economic policy to 
+the President, told the Wall Street Journal in September 2002 that the 
+war's cost could reach $200 billion, he was fired by the President.
+  Yet by the end of this year we will have spend $450 billion in Iraq. 
+Some say at the end of the day the war will cost $1 trillion taxpayer 
+dollars.
+  Since the time the President announced on May 1, 2003 that ``major 
+combat operations in Iraq have ended,'' more than 2,350 U.S. soldiers 
+have lost their lives, and the President has not attended a single one 
+of their funerals. And the United States is spending in excess of $8 
+billion a month to wage the war. That is $266 million a day, $11 
+million an hour, $185,000 a minute and $3,100 a second, every second 
+for this war. Certainly we could have afforded body armor and proper 
+Humvees for our soldiers.
+  We could have insured 165 million children for 1 year, provided more 
+than 13 million American students with 4-year scholarships at public 
+universities, fully funded global anti-hunger efforts for 11 years, 
+give basic immunization to every child in the world for 92 years, and I 
+believe that would have bought us more security than invading Iraq has 
+done.
+  Our military men and women have done a magnificent job in the Iraq 
+theater and deserve better. The civilian leadership in the White House 
+and the civilian leadership in the Pentagon have failed. Time after 
+time they have been wrong. They projected the cost of the war and got 
+it wrong. They predicted the length of the war: wrong. They predicted 
+the existence of weapons of mass destruction: wrong. They predicted the 
+Iraqi reaction to our occupation: wrong. They got the reconstruction of 
+Iraq wrong. When it came to providing needed equipment, they got it 
+wrong.
+  And who will pay the price for those mistakes? None of the architects 
+of this war. No one of them has been held accountable. The only ones 
+paying the price are dead and wounded soldiers, our men and women in 
+uniform.
+  We need a new direction in Iraq. The majority has nothing to offer in 
+terms of a plan, just more political ploys, more talk, more mistakes 
+like those cited today.
+  It is time to redeploy our troops from Iraq. There is a plan, the 
+Murtha plan; and we should make sure that we are not establishing a 
+permanent military presence there.
+
+
+                         Parliamentary Inquiry
+
+  Mr. SNYDER. Mr. Speaker, parliamentary inquiry.
+  Mr. Speaker, a while ago one of the members of the Armed Services 
+Committee said under the rules of the debate today that we can discuss 
+anything we want to, debate anything we want to.
+  It occurs to me while this is not a proposal for statutory change, it 
+is a sense of the House resolution. Under the rules of this debate, may 
+I present my amendment to reestablish the Subcommittee on Oversight and 
+Investigations in the House Armed Services Committee so we may properly 
+provide oversight? Is that allowed under the rules of this debate 
+today?
+  The SPEAKER pro tempore (Mr. Rehberg). Under House Resolution 868, 
+the previous question has been ordered on adoption of the resolution 
+without intervening amendment.
+  Mr. THORNBERRY. Mr. Speaker, I yield 4 minutes to the gentleman from 
+Arizona (Mr. Shadegg).
+  Mr. SHADEGG. Mr. Speaker, I welcome this debate, and I thank the 
+gentleman for yielding.
+  I rise in opposition to terrorism and in support of honoring our 
+commitments. I rise in support of this resolution.
+  It is clear that one-half of those engaged in this debate believe we 
+need to get out of Iraq and believe we need to get out soon. In support 
+of their position, they cite mistakes that were made leading to the war 
+and mistakes that have been made in conducting the war, and they cite 
+the recent increase in terrorist attacks and incidents.
+  Let me make it clear, Mr. Speaker, reneging on our commitment to 
+defeat terrorism in Iraq now would be a mistake of monumental 
+proportions for which future generations would pay and pay deeply.
+  Of course mistakes have been made. In every human endeavor, mistakes 
+are made. That is the nature of human endeavors.
+  I personally am convinced we had too few troops in Iraq when Baghdad 
+fell. I joined my colleague John McCain in visiting Iraq. I have been 
+there multiple times, and it was obvious to me
+
+[[Page H4053]]
+
+we needed more troops there. I have joined his call for sending more 
+troops repeatedly, and I join those who call for sending temporarily 
+more troops now to take advantage of the death of Zarqawi as an 
+opportunity to crush the insurgents. And no doubt, other mistakes have 
+been made. But whatever mistakes have been made, they do not justify 
+cutting and running.
+  Recently, a constituent of mine, a Vietnam War helicopter pilot, 
+approached me in Phoenix and said, This war is unlike Vietnam. It is 
+unlike Vietnam, he explained, because were we to abandon this effort 
+without succeeding, make no mistake about it, the consequences would be 
+far reaching and disastrous.
+  Let's talk about some of those.
+  First, it would be a humiliating defeat for the United States. Look 
+no further than the words of Osama bin Laden. He said: ``The whole 
+world is watching this war and the two adversaries. It's either victory 
+and glory, or misery and humiliation.''
+  Future commitments by the United States could be scoffed at by our 
+allies and by our enemies around the world for generations to come. It 
+would shatter the trust we have built amongst our allies in the region. 
+The newly elected Iraqi Government, and I find it ironic that we are 
+having this debate within days of its selection, would collapse and we 
+would have the creation of a radical, oil-funded terrorist state. But 
+sadly and most importantly, to fail now would establish beyond a shadow 
+of a doubt that our brave soldiers, men and women, who gave of their 
+lives or who suffered grave injuries that will be with them for the 
+remainder of their lives did so in vain.
+  Most importantly, it is not necessary. We can succeed, but the path 
+to defeating terrorism in Iraq is not surrender; it is resolve. The 
+opponents argue that we have suffered recent increases in violence and 
+insurgent attacks. The increase in those attacks is not proof that we 
+are losing, and it is certainly not proof that we cannot prevail. 
+Rather, I submit to you it is proof that the insurgents understood that 
+the period leading up to the election of a permanent representative 
+government in Iraq was their best chance, and they took their best 
+shot. And they failed.
+  For all that is rational, for that is honorable, we must not now 
+within days of the election of that new permanent government cut and 
+run. No, indeed, we must give it an opportunity to do its job, an 
+opportunity to succeed.
+  Now, those who say that we are losing ignore that by their own 
+admission al Qaeda is acknowledging that it is failing in Baghdad. I 
+urge us not to cut and run now for our children and for our 
+grandchildren.
+  Ms. WATERS. Mr. Speaker, I yield 4 minutes to the gentleman from 
+Massachusetts (Mr. Frank).
+  Mr. FRANK of Massachusetts. Mr. Speaker, first let's note what a 
+degradation of democracy is taking place here.
+  The majority party has put forward a resolution that allows no 
+amendment. There will be a debate in which those of us who think some 
+things are good and some are bad, contrary to every reasonable 
+democratic procedure, will have no opportunity to say so.
+  Here is the tactic that is being used: they take a number of things 
+that people agree with, they mix in with them things which are quite 
+controversial. They treat them as if they were not separable.
+  Let me say what I have said again before. The majority party thinks 
+the way to legislate is the way you feed a pill to a dog: you take the 
+unpalatable with the popular.
+  Now I will have to say this: one of the things we are trying to do is 
+to persuade the people in Iraq to be able to work together and make 
+democracy work. We are trying to persuade, we are told, the Shiia and 
+the Sunni to work together. We are trying to tell the majority Shiia to 
+share power.
+  Mr. Speaker, how can you and your party believe that we inspire 
+people to share power by giving the example of its monopolization in an 
+abusive fashion?
+  I just hope that the members of parliament in Iraq who may hear about 
+this will remember a very important point: please do not try this at 
+home.
+  Now let's get to the substance.
+  This war in Iraq came after September 11. It was not the response to 
+terrorism the war in Afghanistan was. I am struck in listening to the 
+Members on the other side of the aisle that Afghanistan appears to have 
+too many syllables for them to pronounce. What is in fact happening is 
+that the war in Afghanistan, which was the response to the terrorist 
+attack, which was almost unanimously supported here and by Democrats in 
+the Senate, is in fact not going as well as it should.
+  One of the prices we are paying for the war in Iraq is the 
+deterioration in Afghanistan. Now, the war in Iraq was launched based 
+on a couple of lies we were told. And I am struck to hear people still 
+defending the arguments about the weapons of mass destruction. It seems 
+my colleagues on the other side have decided to adopt a Marxist idea. 
+The Marx in question, of course, is Chico, and the mantra is: Who are 
+you going to believe, me or your own eyes? Having been repudiated 
+overwhelmingly by the facts, they stick to the rhetoric.
+  Here is the price we are paying. We shouldn't have gone in. Of course 
+having gone in, we are victimized by one of the most incompetently 
+administered examples in American national security history. But here 
+is the price we pay: the war in Afghanistan deteriorates our ability to 
+protect ourselves at home. Every time you hear that we can't afford 
+communications, we can't afford more people at the border, we can't 
+afford port security, every time people hear that we can't afford 
+something that would enhance our security at home, understand that it 
+is the war in Iraq that makes it impossible for this Nation to afford 
+it.
+
+                              {time}  1630
+
+  If we did not have these hundreds of billions being drained there, we 
+could take care of the agenda.
+  Finally, it constrains us elsewhere in the world. It has led to an 
+increase in anti-Americanism which I deplore, with which I disagree, 
+but it is a fact.
+  Our ability to deal with the potential Iranian nuclear weaponry is 
+constrained by the fact that we are in Iraq. In fact, the Iranians have 
+been among the major beneficiaries of what we have done in Iraq.
+  So you went into a war on the basis of two lies. You have handled it 
+incompetently. We are now at the point, well, does that mean you pull 
+out? And here is the point. You tell us on the one hand that there is 
+great success. We have built a government, et cetera, et cetera. But 
+also, you tell us simultaneously that if we withdrew American troops 
+the house of cards falls. Well, which is it? Have you built a 
+successful entity in Iraq? If you have, why can't we pull out? Why 
+can't 28 million people in Iraq, with a couple of hundred thousand 
+Iraqis under arms deal with 15 or 18,000 terrorists?
+  The fact is that this is a failed policy that gets worse every day.
+  Mr. THORNBERRY. Mr. Speaker, I yield 3 minutes to the distinguished 
+gentleman from Florida, Dr. Weldon.
+  Mr. WELDON of Florida. Mr. Speaker, I rise in support of this 
+resolution, the President's plan, and our troops.
+  In recent days U.S. and Iraqi forces have dealt terrorists in Iraq a 
+decisive blow. The brutal leader of al Qaeda in Iraq, Abu al Zarqawi, 
+responsible for untold deaths and inciting widespread unrest has met 
+his end, and none too soon, thanks, mainly to our troops, courageous 
+men and women in the field who got the job done.
+  And let us not forget, Ramzi Yousef, the man who plotted and 
+attempted the 1993 attack on the World Trade Center that could have led 
+then to tens of thousands of deaths, was an Iraqi intelligence agent.
+  And let us remember the great accomplishments of our troops in the 
+field. For too long U.S. news media has focused only on the negative 
+and has chosen only to report bad stories, stories of terrorist 
+attacks. Indeed, for every story that reports heroism and 
+accomplishment of our troops in the field, our American news media 
+focuses 9 or 10 stories on terrorist attacks and the failings of our 
+military. Where our military can accomplish great things over and over 
+again, the American news media ignores it and instead looks for a 
+negative story to report.
+  Well, I want to report on one good story, a great story that shows 
+that we are getting the job done and the Iraqi people are with us. And 
+indeed, this
+
+[[Page H4054]]
+
+was reported by our news media. 60 Minutes in March reported about our 
+efforts in a town called Tal Afar. In 2005, al Qaeda ran the town of 
+Tal Afar in Iraq. It is a great example of how our U.S. troops can get 
+the job done. Prior to the U.S. victory there, al Qaeda had unleashed a 
+reign of terror on Iraqis that defies adequate description. Decapitated 
+heads were left in the streets to intimidate residents. Decapitated 
+children were often left in the streets by terrorists to bait their 
+parents to come in so they could kill them. Terrorists roamed the 
+streets, kidnapping and publicly executing people.
+  For 3 days in 2005, U.S. troops led the successful assault on Tal 
+Afar to liberate innocent men, women and children from their terrorist 
+captors. Thanks to our brave soldiers, schools in Tal Afar are now 
+open. And once terrified Iraqi citizens are now able to shop, travel 
+the streets openly, go outside their homes.
+  And as 60 Minutes noted, some of our American soldiers involved in 
+the liberation of that town now have throngs of Iraqi children follow 
+them admiringly in the streets.
+  Mr. Speaker, Tal Afar is just one example of the great job we are 
+doing there. There are many, many more. We need to stay the course, not 
+cut and run.
+  I support the resolution.
+  Ms. WATERS. I yield 4 minutes to the gentleman from New York (Mr. 
+Owens).
+  (Mr. OWENS asked and was given permission to revise and extend his 
+remarks.)
+  Mr. OWENS. Mr. Speaker, I am a member of the Out of Iraq Caucus, and 
+I agree with most of what has been said.
+  I support the Murtha proposal for an immediate and orderly 
+redeployment. There is one subject I would like to raise which has not 
+been discussed very much here, however, and that is the role of the 
+American oil barons who have contributed greatly to the colossal mess 
+of the war in Iraq.
+  Our troops today are as good as they were when they were labeled the 
+greatest generation and defeated Hitler. But in Iraq, today's 
+counterparts of Eisenhower, Patton, Bradley, the Colin Powells, the 
+John Murthas, they were not allowed to take charge. Lust for control of 
+the oil made the oil barons push everyone capable of carrying out a 
+reasonable destruction of Saddam Hussein aside. This administration 
+encouraged the oil barons to overrule the military professionals.
+  Lust for oil is still the problem. Seldom discussed in America, but 
+very much on the minds of the people of Iraq. We cannot succeed as long 
+as the ordinary Iraqi people see us as oil thieves responsible for the 
+terror and their day-to-day misery.
+  We went into Iraq fighting fanatics, fighting Saddam Hussein and his 
+oligarchy of brutal, decadent killers. No great crowds greeted our 
+troops with flowers. But there is good reason to believe that the 
+masses of citizens were hoping for some real improvements. But we 
+guarded only the oil wells, while the water systems and the electricity 
+grids collapsed.
+  As the people observed our preoccupation with oil, the insurgency 
+began to grow. The leadership of the oil barons could not run a 
+country, and they could not manage an occupation.
+  Oil revenues must be addressed in order to regain the confidence of 
+the Iraqi masses. We need a transparent, open, full discussion of what 
+are the arrangements that have been proposed, what is being proposed or 
+what contracts are already in place.
+  Chevron, BP, Exxon, they are there. Contracts have been written. Is 
+there a committee in this House or a subcommittee that knows what kinds 
+of contracts have been written? What will the Iraqi people have left 
+after these contracts are executed? They were executed before the 
+government was in place.
+  Oil is the greatest resource that Iraq has, of course. They are 
+number four among the nations of the world. To what degree is 
+Halliburton going to control the revenues as their payment for 
+reconstruction of some of the oil wells? To what degree are the foreign 
+oil companies going to control revenue because of their arrangements 
+for the pipelines and the shipping and retail outlets? What is going to 
+happen to the oil? These are the questions that the Iraqi people are 
+asking. Everybody in every section of the country wants to know how are 
+the oil revenues going to be distributed? If I live in a province where 
+there is no oil, will my area benefit?
+  These questions need to be answered honestly. Congress must seize the 
+initiative from the American oil barons and demand justice for the 
+Iraqi citizens. The oil belongs to them.
+  We must win their trust and separate the masses of the Iraqi people 
+from the fanatical murderers. Follow the logic of the Murtha 
+resolution. Give the people control of their oil revenues and get out 
+of Iraq. We can do that when we have the trust of the Iraqi people.
+  When the Iraqi people have their own revenues, they can equip their 
+own police forces. They can take charge of their government in a 
+competent way. They don't need us, and they will be less likely to join 
+hands with the insurgents and protect the fanatical murderers that have 
+now found greater receptivity in the population than ever before.
+  Get out of the Iraq. Give the people control of their oil revenues.
+  Mr. THORNBERRY. Mr. Speaker, I yield 2 minutes to a distinguished 
+member of the defense appropriations subcommittee, the gentleman from 
+New Jersey (Mr. Frelinghuysen).
+  (Mr. FRELINGHUYSEN asked and was given permission to revise and 
+extend his remarks.)
+  Mr. FRELINGHUYSEN. Mr. Speaker, I rise in support of the resolution. 
+I am convinced, Mr. Speaker, especially after my recent visit, that 
+progress is being made in Iraq. But much of that would be lost if we 
+prematurely remove our troops before the Iraqi people are fully capable 
+of governing and securing their own country.
+  Success in the global war on terrorism in Iraq and Afghanistan is the 
+defining challenge of our generation, whether some war opponents like 
+it or not.
+  Bin Laden's deputy has declared Iraq to be the place for the greatest 
+battle, where he hopes to expel the Americans and then spread the jihad 
+wave to secular countries neighboring Iraq. Such statements reaffirm 
+why withdrawing our troops would be a disaster for the future of Iraq.
+  Our own national security can actually embolden those who hate our 
+way of life to further harm us. A premature withdrawal or premature 
+deployment home would represent a clear defeat for American interests, 
+not just in Iraq, but in the wider region around the globe. Terrorists 
+everywhere would take heart at this serious blow to our credibility.
+  Frankly, if we were to abandon the Iraqis now, who in the world would 
+openly assist us in the global war on terror? What country would allow 
+our military to deploy and operate on its territory? Worse yet, who 
+would dare to be seen as our partner, ally or friend?
+  As even the Washington Post said yesterday, Mr. Speaker, in its lead 
+editorial, Iraq's new democratic government deserves a chance to 
+succeed. And yes, this is the time to support our brave young 
+warfighters, who are truly doing the work of freedom, and not undercut 
+their service and sacrifice.
+  Ms. WATERS. Mr. Speaker, I yield 3 minutes to the gentlewoman from 
+Texas, Ms. Sheila Jackson-Lee.
+  (Ms. JACKSON-LEE of Texas asked and was given permission to revise 
+and extend her remarks.)
+  Ms. JACKSON-LEE of Texas. Mr. Speaker, I might offer that I am 
+proudly a member of the Out of Iraq Caucus out of a duty and a sense of 
+patriotism and love of my country. And so this is a very somber debate.
+  And I remind my colleagues of the very tense moments of the 
+presentation of Secretary Powell before the United Nations. All of us 
+were in a sense of awe, listening to the devastating evidence of why we 
+should go to Iraq. So I come to this podium today with a very heavy 
+heart because we are constrained, not Members of Congress, we are of no 
+relevance, but the American people are constrained in not allowing a 
+debate or dissent. That is what we are showing here today, that we can 
+have no dissent, we can have no recognition that Democrats and others, 
+we do have a plan.
+
+[[Page H4055]]
+
+  And so, on the birthday of the Army, I want to salute the Army. Mr. 
+Murtha, I want to salute you for your service and your plan. And I want 
+to salute all of the United States military. And might I say that our 
+soldiers are doing their job. They have done their job. And out of 
+doing their job, the casualties are some 19,000, and today, I am very 
+sad to say that 2,500 of them are now dead.
+  And so I come with a heavy heart to suggest that there are myths that 
+we need to overcome. And one of them is that there is something called 
+``cut and run.'' It is not ``cut and run.'' It is the opportunity of 
+involvement, debate and patriotism, a belief that we can put forward a 
+plan that the American people will believe in.
+  The Bush Iraq policy has harmed the United States military, and I 
+might say that I am glad to stand with a retired Marine Lieutenant 
+General, Gregory Newbold, who says, ``my sincere view is that the 
+commitment of our forces to this fight was done with a casualness and a 
+swagger that are the special province of those who have never had to 
+execute these missions or bury the results.''
+  And so I come again to suggest that no, there is no ``cut and run.'' 
+There is reality. A Pentagon commission study concluded that the Army 
+cannot maintain its current pace of operation in Iraq without doing 
+permanent damage to the quality of the force.
+  We realize that the large and extended deployment of the National 
+Guard units overseas has undermined the ability of the United States to 
+deal with terrorist attacks or natural disasters. We realize that 
+resources are being diverted and, therefore, we are not able to fight 
+the global war on terror.
+  I don't want my friends to pigeonhole us. We want a debate and a plan 
+to save lives, and we want a free, independent and democratic Iraq. 
+That can happen with a new change, a new day, Democrats and others, who 
+believe in leading this country to a new future.
+  I don't want the same old plan, and I am not ashamed of saying so. 
+That is why I am here to open the doors to dissent, tell the American 
+people to come marching into the United States Congress. Don't let us 
+talk for you. You want redeployment. You want the troops out. You don't 
+believe the Democrats believe in ``cut and run.'' You understand that 
+the General, Lieutenant General, has said we are careful about this 
+war. Come home.
+  Murtha plan, the Out of Iraq Caucus is proud of our patriotic stand.
+  Thank you Mr. Chairman. I thank the gentlelady for yielding. I rise 
+to speak on H.R. 861, a resolution which declares that the ``United 
+States will prevail in the Global War on Terrorism.'' I believe that it 
+is the resolve of all Members of this House and of all Americans. But 
+to prevail in the global war on terrorism, we must remain focused on 
+the global war on terrorism, and not allow ourselves to be diverted or 
+distracted.
+  Unfortunately, we have been distracted from waging a full-scale, all-
+out global war on terrorism by the President's fateful decision to go 
+to war in Iraq. Before and after 9/11, Iraq was not a part of the 
+global war on terror, much less the central front. It only became so 
+when the President launched his ill-advised preemptive attack.
+  I am proud to be among the majority of House Democrats who voted 
+against the Resolution Authorizing the Use of Military Force, AUMF, in 
+2002, which authorized the President to use military force to disarm 
+Iraq of its alleged weapons of mass destruction, WMD. I voted against 
+going to war in Iraq because I thought it a diversion from the 
+important task facing the Nation and that was winning the global war on 
+terror. History has shown that we were right. The ill-advised rush to 
+war in Iraq has not only been a diversion from the war on terror but a 
+strategic disaster of epic proportions. As Thomas Jefferson would say, 
+to prove this let facts be submitted to a candid world.
+
+         (I) The Bush Iraq Policy Has Harmed the U.S. Military
+
+  We just learned today the sad news that the 2,500th soldier has been 
+killed in Iraq. More than 19,000 others have been wounded. The Bush 
+administration's open-ended commitment of U.S. troops to Iraq has 
+weakened the U.S. Army, the Army National Guard, and the Army Reserves. 
+The extended deployments in Iraq have eroded U.S. ground forces and 
+overall military strength. A Pentagon-commissioned study concluded that 
+the Army cannot maintain its current pace of operations in Iraq without 
+doing permanent damage to the quality of the force. So more than 3 
+years of a continuous deployment of U.S. troops to Iraq has:
+  Contributed to serious problems with recruitment, with the U.S. Army 
+missing its recruitment targets last year;
+  Forced the Army to lower its standards for military recruits; and
+  Led to military equipment shortages that hamper the ability of U.S. 
+ground forces to do their job in Iraq and around the world.
+  The large and extended deployment of National Guard units overseas 
+has undermined the ability of the United States to deal with terrorist 
+attacks or natural disasters. For example, State officials in Louisiana 
+and Mississippi struggled to overcome the absence of National Guard 
+members from their States in the wake of Hurricane Katrina. In 
+Louisiana, about 100 of the National Guard's high-water vehicles remain 
+abroad--even as the State continues to rebuild from Hurricane Katrina. 
+Coastal North Carolina is missing nearly half its Humvee fleet, and 
+Guard officials there say shortages have forced the State to pool 
+equipment from different units into one pot of hurricane supplies.
+  In addition, the equipment the Guard needs to help in the aftermath 
+of natural disasters like Hurricane Katrina is in shorter supply 
+because the gear is in use in combat zones, is battle-damaged, or has 
+been loaned to cover gaps in other units.
+  (1) War in Iraq has diverted resources and attention from other 
+fronts in the fight against global terrorist networks.
+  The killing of Abu Musab Al-Zarqawi last week was a major success for 
+U.S. troops, but it is not likely to diminish Iraq's insurgency. Iraqis 
+make up 90 percent of Iraq's insurgency, unlike foreign fighters like 
+Zarqawi, and a primary motivation for Iraq's insurgency is the U.S. 
+troop presence. Even after the Samarra shrine attack in February 
+threatened to push Iraq into all-out sectarian civil war, the vast 
+majority of attacks still target U.S. forces.
+  Outside of Iraq, the Bush administration has failed to present a 
+realistic strategy for countering the threat posed by the global terror 
+networks. In a recent survey of more than 100 of America's leading 
+foreign policy experts conducted by Foreign Policy magazine and the 
+Center for American Progress, eight in 10--84 percent--do not think 
+that the United States is winning the war on terror. The war in Iraq 
+has not helped America win the broader fight against global terrorists. 
+Instead:
+  By invading Iraq without a realistic plan to stabilize the country, 
+thei Bush administration created a new terrorist haven where none had 
+previously existed.
+  By maintaining an open-ended military presence in Iraq, the Bush 
+administration is presenting U.S. terrorist enemies with a recruitment 
+tool and rallying cry for organizing attacks against the U.S. and its 
+allies.
+  According to the National Counter-Terrorism Center, the number of 
+large-scale terrorist attacks in Iraq increased by over 100 between 
+2004 and 2005, with a total 8,299 civilians killed in 2005.
+  Osama bin Laden remains at large and Al Qaeda offshoots proliferate.
+  By diverting resources and attention from Afghanistan to an 
+unnecessary war of choice in Iraq in 2003, the Bush administration has 
+left Afghanistan exposed to a resurgence of the Taliban and Al Qaeda. 
+The United States needs to complete the mission in Afghanistan and 
+cannot do it with so many troops bogged down in Iraq.
+  By focusing so many U.S. resources on Iraq, the Bush administration 
+has taken its eye off the ball in places like Somalia, which was 
+overrun by Islamist militias tied to Al Qaeda last week.
+  (2) The War in Iraq has increased the burden on U.S. taxpayers 
+without stabilizing Iraq or making Americans safer.
+  Over the last 3 years, the United States has spent more than $300 
+billion in Iraq, yet the investment has failed to stabilize Iraq or 
+improve the overall quality of life for most Iraqis. According to the 
+Congressional Research Service, total assistance to Iraq thus far is 
+roughly equivalent to total assistance, adjusted for inflation, 
+provided to Germany--and almost double that provided to Japan from 1946 
+to 1952. Yet on key metrics like oil production, Iraq has failed to 
+advance beyond pre-war levels, and quality of life indicators remain 
+dismal:
+  Oil production is below pre-war levels--2.6 million barrels per day 
+in 2003 vs. 2.1 million barrels per day in May 2006;
+  The majority of water sector projects and health care clinics planned 
+in 2003 remain not completed, despite spending hundreds of millions of 
+dollars;
+  One in three Iraqi children is malnourished and underweight, 
+according to the United Nations Children's Fund.
+  Rather than a record of progress and achievement, the Bush 
+administration's record is one of corruption and waste:
+  $8.8 billion given to Iraqi ministries by the Coalition Provisional 
+Authority, CPA, remains unaccounted for, according to the Congressional 
+Research Service;
+
+[[Page H4056]]
+
+  Iraqi Defense Ministry officials spent $1 billion on questionable 
+arms purchases;
+  The Interior Ministry has at least 1,100 ghost employees, costing 
+$1.3 million a month.
+  In short, we have no strategy, no support from allies or friends in 
+the region, a nascent civil war in the country we are supposed to be 
+helping, an overstretched military, a misdirected counterterrorism 
+effort, and a massive diversion of funds in support of a failed effort.
+
+         (II) Responding to Administration Myths and Fantasies
+
+  The Bush administration and its rubber-stamp Republican allies in the 
+House have politicized national security in the past. They have used 
+national security as a wedge issue to divide the country and push for 
+policies that have not made Americans safer. But today a majority of 
+Americans are now skeptical about the Bush administration's Iraq 
+policy.
+  Myth 1: Democrats want to quit while we are ahead and the Iraqis are 
+just getting started.
+  Conservatives argue that Democrats who criticize and offer 
+alternatives are snatching defeat from the jaws of victory, retreating 
+just as the Iraqi Government needs the most help.
+  Fact: The time has come for the United States to give Iraqis the 
+incentive to stand on their own two feet and take control of their own 
+affairs. In a few short months, the U.S. military involvement in Iraq 
+will be longer than it took the United States to win World War II. The 
+open-ended commitment of U.S. troops fuels as much as it retards the 
+insurgency and civil conflict in Iraq. Nearly 9 in 10 Iraqis approve a 
+time line for U.S. withdrawal, and 70 percent of the Iraqi public 
+supports the withdrawal of U.S.-led forces by the end of 2007. A 
+growing number of Iraqis, including the new prime minister, are saying 
+that Americans must begin to leave.
+  U.S. troops have done their share. By getting rid of Saddam Hussein, 
+they have given Iraqis an historic opportunity to take charge of their 
+destiny.
+  By fostering the birth of the constitution and the holding of 
+elections, they have assisted in the building of a new democracy. They 
+have trained more than a quarter of a million Iraqi security forces. It 
+would be self-defeating for the United States to want Iraq to succeed 
+more than Iraqis do.
+
+  Myth 2: Democrats offer only ``cut and run'' and ``retreat and 
+defeat.''
+  Facts: Belittling opponents will not divert attention from a failed 
+policy. Staying the course and offering a vague and open-ended 
+commitment of U.S. troops gives Iraqis a blank check and a veto of 
+America's national security.
+  The future of Iraq cannot be more sacred to Americans than to Iraqis. 
+Responsible redeployment offers Iraqis a chance to take responsibility 
+for their political and security future after we have already aided in 
+the creation of a new constitution, the staging of two elections, and 
+the training of a quarter of a million security forces.
+  Myth 3: Democrats who raise questions and oppose the Bush Iraq policy 
+are unpatriotic.
+  Over the past 3 years, the Bush administration has questioned the 
+patriotism of its critics.
+  Facts: Our country's democratic system requires the active 
+involvement of Congress on key policy questions--particularly at a time 
+of war. The United States has a strong tradition of its Congress asking 
+tough questions. During a time of war, including the hearings organized 
+by Democratic Senators like Senator Harry Truman during World War II 
+and Senator William Fulbright during Vietnam, even though the White 
+House was controlled by Democrats.
+  It is the patriotic duty of Members of Congress to hold the executive 
+branch accountable, especially during a time of war. Two prominent 
+Vietnam war veterans, Republican Chuck Hagel and Democrat John Murtha, 
+have recently argued that it is unpatriotic not to raise questions in a 
+time of war. America suffers when Congress and the public are silent.
+  Myth 4: Democrats reject the Bush administration's efforts to advance 
+freedom.
+  Facts: The Bush plan for Iraq is solidly grounded in a flawed view of 
+combating terrorism, arguing that promoting a narrow vision of 
+democracy will crowd out and defeat terrorists.
+  The United States must and should support real democratic transitions 
+around the world. But the Bush administration's naive approach to 
+democracy promotion--narrowly focused on elections--has failed by 
+giving terrorist organizations an opening to seize the reins of power, 
+as seen by the Hamas victory in the Palestinian elections earlier this 
+year. Terrorists have been exploiting the Bush administration's flawed 
+and narrow strategy focused on the most ostensible images of democracy, 
+like purple fingers in elections.
+  Despite impressive gains in Iraq's political transition, the country 
+remains in the very early and fragile stages of a long-term process of 
+building a real democracy. Contrary to the rhetoric put forth by the 
+Bush administration, Iraqis do not live in freedom, according to 
+Freedom House, which measures trends in political rights and civil 
+liberties over the past three decades. The rights of women and 
+minorities are not protected; the rule of law is honored more in the 
+breach than the observance; and political violence remains rampant. 
+Despite much work left undone, the Bush administration has cut funding 
+for programs to support freedom and democracy in Iraq this year.
+  Myth 5: Democrats who criticize the Bush policy hurt the morale of 
+the troops.
+  The Bush administration and its conservative allies have said that 
+offering criticisms and concrete policy alternatives on Iraq hurts the 
+morale of U.S. troops.
+  Facts: There is no evidence that debate at home has any effect at all 
+on the morale of troops. But other factors directly impact the lives of 
+U.S. troops and morale--including going to war without the equipment 
+and armor, not having a realistic strategy for Iraq and not taking care 
+of the troops after they come home.
+  Not equipping the troops. When asked by a soldier in the field why 
+U.S. troops did not have the right armor for their vehicles, Secretary 
+of Defense Donald Rumsfeld said, ``As you know, you have to go to war 
+with the Army you have, not the Army you want.'' Iraq was a war of 
+choice, and the Bush administration had time to get ready.
+  Not taking care of the troops when they come home. The Bush 
+administration has not developed policies to take care of the troops 
+when they return from battle. Health care has proven inadequate, and 
+wounded veterans have been hounded by debt collectors because of 
+inefficiencies in the Pentagon's administrative systems.
+  Myth 6: Democrats who oppose the Bush Iraq policy are ignoring and 
+not listening to the generals.
+  Facts: It is the Bush administration that has failed to listen to top 
+U.S. generals before and during the invasion by not sending enough 
+troops to stabilize the country. It is Secretary of Defense Rumsfeld 
+who has constrained free expression in the military by firing or 
+forcing out those who disagree.
+
+  Nonetheless, even the current commanding officers argue that the 
+United States needs to take realistic steps to reduce its military 
+presence to remove the fuel that fires the insurgency. For example, in 
+October 2005, GEN John Abizaid, the commander of Central Command 
+Forces, argued that the United States must reduce its ``military 
+footprint'' in Iraq and the region as a means to create more stability, 
+but President Bush has continued to stick with a ``stay the course'' 
+message.
+  Myth 7: Democrats who criticize the Bush Iraq policy are helping the 
+terrorists and giving them what they want.
+  The Bush administration has argued that questioning its plan 
+emboldens America's terrorist enemies, an unconstitutional argument 
+aimed solely at shutting off real debate at home. Harkening back to 
+2002, when Bush officials warned that people should ``watch what they 
+say,'' President Bush and top officials in his administration have 
+warned against ``irresponsible'' debate to limit and control democratic 
+political debate at home, even while the Bush administration purports 
+to advance democracy abroad.
+  Facts: Bush policies at Guantanamo and Abu Ghraib do more to 
+undermine our place in the world than any words spoken by 
+administration critics. The Bush administration policies that coerce 
+rather than create cooperation through dialogue and common purpose 
+undermine how others view us. A new poll by the Pew Research Center 
+finds that America's image has slipped further, and global support has 
+declined for the U.S.-led war on terrorism.
+  Myth 8: Democrats prefer a world with Saddam Hussein still in charge 
+of Iraq.
+  Facts: Saddam Hussein was an evil dictator, and it is a good thing 
+that he is no longer in power. But that is not the key question today. 
+The key question is: Where is Iraq now, and where does it go from here? 
+And the many mistakes made by the Bush administration--including 
+sending in too few troops to secure the country and invading without a 
+clear and realistic plan for Iraq's reconstruction--have made the 
+situation in Iraq much worse off than it should have been.
+  Iraq has become a failing state and is suffering from several major 
+internal conflicts--in large part the consequence of the Bush 
+administration's failure to plan for the post-war situation. And moving 
+forward requires Iraqis, not Americans, to be in charge of the future.
+  Myth 9: Democrats just want to criticize and politicize Iraq and do 
+not have plans about what to do.
+  Facts: This is simply not true. A growing number of leading Democrats 
+and other progressive leaders have offered sensible alternative visions 
+about what the United States should do next to set the right course in 
+Iraq. Nearly all progressive plans recognize that the United States 
+must intensify its political and
+
+[[Page H4057]]
+
+diplomatic efforts in Iraq and that the commitment of U.S. troops to 
+Iraq should not be permanent or open-ended.
+
+                               Conclusion
+
+  Mr. Chairman, I close by quoting from the Declaration of Independence 
+and the motto of the U.S. Army, which marks its 231st anniversary 
+today. It may seem odd to quote the two together. But I do so because 
+real patriots have courage--courage to face the truth and the courage 
+to speak truth even when it is unpopular. The Declaration of 
+Independence, with its affirmation of the inalienable human rights to 
+life, liberty, and the pursuit of happiness gave patriots the courage 
+to fight for a cause that was just but at the time thought by most to 
+be unattainable. A motto of the U.S. Army is ``We will not falter, we 
+will not fail.''
+  The war in Iraq does not help us in the global war on terror. There 
+are only two directions to take in Iraq: President Bush's plan of 
+staying the course and letting a future President clean up the mess, or 
+the Murtha plan to change the direction of that course. I stand with 
+Representative Murtha in calling for the redeployment of U.S. forces 
+from Iraq to make our country safer, our military stronger, and the 
+region more stable. I support the Murtha plan. It is the only plan for 
+success in Iraq that is worthy of the sacrifices made by our troops. 
+And I support a plan for greater coalition support for Iraq as it moves 
+to protecting itself as a soverign nation.
+  Our troops in Iraq have never faltered and they have never failed. 
+They were never defeated in battle. They won the war they were sent to 
+fight. They completed their mission. They performed magnificently. Well 
+done. Well done. Well done.
+  Our troops have earned the right to return home and be reunited with 
+their families and loved ones. Now is not the time for us in Congress 
+to falter or fail. Now is the time to embrace a plan for our troops in 
+Iraq that offers a chance of success. We need a plan that will work. 
+There is only one such plan. It is the Murtha plan that allows for 
+redeployment of our troops as soon as practicable and allows for 
+redeployment of troops at the perimeter of Iraq to be used in time of 
+crisis. This is a plan that will work.
+
+
+                Announcement by the Speaker Pro Tempore
+
+  The SPEAKER pro tempore (Mr. Rehberg). Members are reminded to 
+address their remarks to the Chair.
+  Mr. THORNBERRY. Mr. Speaker, I yield 2 minutes to the distinguished 
+gentleman from South Carolina (Mr. Brown).
+  Mr. BROWN of South Carolina. Mr. Speaker, I rise today in support of 
+the resolution. In my capacity as chairman of the Veterans Affairs 
+Subcommittee on Health, I was fortunate enough to visit the American 
+cemetery in Normandy, France that is located overlooking Omaha Beach. 
+Our brave soldiers during World War II were in France not to fight the 
+French, but to fight the Nazis that had occupied France.
+  Today our soldiers are not in Iraq and Afghanistan to fight the 
+citizens of those countries, but we are there to fight the insurgents 
+and the Taliban. In listening to the debate today, it reminded me of my 
+visit and reading some of the names of the brave soldiers that fought 
+for our Nation during World War II.
+  Mr. Speaker, there are over 9,300 patriots buried in Normandy today. 
+Those brave souls fought in a war against the forces of evil then, just 
+as our soldiers in Iraq are fighting against the forces of evil today.
+
+                              {time}  1645
+
+  What would have happened back then if America had pulled out of the 
+World War II before the mission was accomplished? What kind of world 
+would we be living in today?
+  As many of my colleagues have done, I have personally visited Iraq. I 
+have seen the progress, and I have seen the good job that our brave men 
+and women are doing for us and for the people of Iraq and Afghanistan. 
+I was proud to sit down and share a meal with many soldiers from South 
+Carolina's First District. And the question that many of our soldiers 
+kept asking me was ``Why are none of the good stories making it back to 
+the folks back home?''
+  Mr. Speaker, I think many of us today are trying to share some of the 
+good stories and recognize all of the positive things that our soldiers 
+in Iraq and Afghanistan are doing for us.
+  The good news is that now women in Afghanistan are able to vote in 
+democratic elections for the first time in their lives. The good news 
+is that Iraqi citizens are now able to protest and let their opinions 
+be heard in public.
+  Ms. WATERS. Mr. Speaker, I yield 3 minutes to the gentlewoman from 
+California (Ms. Watson).
+  Ms. WATSON. Mr. Speaker, I represent the Out of Iraq Caucus, and I 
+support the Murtha resolution.
+  This war of choice so far has cost us the lives of close to 2,500 
+American men and women, let alone tens of thousands of Iraqi lives, and 
+has cost us $320 billion and has weakened the United States' prestige 
+and brought our interests and our values into question to a degree not 
+seen since the Berlin Wall divided Europe.
+  It is our failure here in Congress to perform our duty of oversight 
+which has cost America most. From the beginning of the march to war, 
+the President and his advisers blundered into failure after failure. 
+False claims about African uranium and mobile anthrax labs. Unlikely 
+claims of Saddam's leaks to al Qaeda. Stubbornly ignoring the advice of 
+the uniformed military about troop levels. Turning a blind eye to the 
+venal corruption that swallowed $9 billion of Iraqi money, U.N. Oil-
+for-Food money, without a trace. Shame on us.
+  Mr. Speaker, our Founding Fathers in their wisdom gave us a 
+mechanism, a defense against tyranny called congressional oversight, 
+and it is about time we start doing our duty to the American people by 
+performing that oversight. While I welcome this debate, it is a poor 
+substitute for what we really should have been doing.
+  I call upon you to withdraw this empty resolution, this meaningless, 
+self-congratulatory, fraudulent scam and let us work together to 
+examine our mistakes, fix them, and bring our troops home. Let Iraqis 
+rebuild their own nation.
+  The President says we need to stay in Iraq until the mission is 
+complete, but the President cannot explain to the American people 
+exactly what the mission is, let alone tell us when he expects to 
+complete it.
+  Let us take credit towards victory by sighting the completion of a 
+democratic government in Iraq and killing the biggest terrorist there, 
+claim these as a victory, and keep our word by honorably deploying our 
+forces. Three and a half years is hardly cutting and running.
+  We all share the same dream that the Iraqi people do. We want them to 
+live in peace in a secure and prosperous society where they are free to 
+choose their government. But the presence of our troops and our 
+occupation of Iraq has become such an obstacle to that future that we 
+can no longer ignore reality. How can we win a war against terrorism 
+when terrorism is a concept? You must change the hearts and the minds 
+to succeed.
+  So let us work together to bring our courageous troops home and put 
+an end to this devastating war of choice.
+  Mr. THORNBERRY. Mr. Speaker, I yield 2 minutes to the chairman of the 
+Transportation and Infrastructure Committee, the gentleman from Alaska 
+(Mr. Young).
+  (Mr. YOUNG of Alaska asked and was given permission to revise and 
+extend his remarks.)
+  Mr. YOUNG of Alaska. Mr. Speaker, it is rare that I would speak on 
+this issue. I do support this resolution, but more than that, I would 
+like to remind people why we are here.
+  There are not many in this room, but there are a few that remember 
+1939. I lived in that era and I listened to people speak about 
+``Hitler's really not a bad guy. He's just minding his own business. 
+He's taking care of his people. We shouldn't be involved.'' Fifty-two 
+million people later, we won World War II. We should have knocked him 
+in the head when we had a chance instead of listening to Chamberlain, 
+the Prime Minister of Britain. We should have aggressively pursued him 
+as we did Saddam Hussein. In my heart of hearts, I believe that we 
+would be, in fact, in a nuclear war if we had allowed him to continue 
+his trek.
+  But this President stood up and he was a leader and he stopped it. 
+Now we have done that deed and we are in a place where we should 
+continue and finish this job.
+  Someone said this is not a cut and run, that we have been there 3\1/
+2\ years. But I ask you to ask your military people, ask those people 
+out at Walter Reed, as I have. Most of them are proud of their service 
+and their duty. And I salute each one of them, him or her,
+
+[[Page H4058]]
+
+and the commanding officers who fulfilled their duty.
+  If you believe in democracy and believe in peace, we must continue 
+this trip that we started. We must finish it and make sure that 
+democracy reigns in the Middle East. If we do not do so, we would a do 
+a great disservice to our armed services and America as a whole. 
+Remember, ``He's really not a bad guy. He's just minding his own 
+business. It's his country.'' Fifty-two million people later, the war 
+was ended. Our people, their people. And I do not want to have that 
+happen again.
+  Ms. WATERS. Mr. Speaker, I yield 3 minutes to the gentlewoman from 
+California, Representative Solis.
+  Ms. SOLIS. Mr. Speaker, I rise today in support of our troops and in 
+opposition to the President's stay the course in Iraq.
+  The war in Iraq was under taken with too few troops, not enough of 
+the right equipment, and no plan for peace. Without a plan to secure 
+the peace, 2,500 servicemen and women have been killed, including 10 in 
+my district: Private First Class Jose Casanova, Jr., age 23; Lance 
+Corporal Manuel Ceniceros, age 23; Lance Corporal Francisco Martinez 
+Flores, age 21; Lance Corporal Benjamin Gonzalez, age 23; Corporal 
+Jorge Gonzalez, age 20; Sergeant Atanacio Haromarin, age 27; Specialist 
+Leroy Harris-Kelly III, age 20; Corporal Stephen Johnson, age 24; 
+Corporal Rudy Salas, age 20; Marine Corporal Carlos Arellano, age 22.
+  I have celebrated their sacrifices and mourned their passing with 
+their families: with their parents, with their spouses, and with their 
+children.
+  Eighteen thousand four hundred and ninety servicemen and women have 
+been injured during the war in Iraq, 8,501 so badly they will be 
+permanently damaged from their injuries. I have visited with many of 
+them at the Walter Reed Hospital.
+  And even with more veterans returning from Iraq, President Bush 
+refuses to provide adequate funding for their health care. At a time 
+when more than 17 percent of the troops returning from Iraq suffer from 
+post-traumatic stress disorder, this is the wrong course of action.
+  No one can question the commitment of our troops, especially our 
+green card soldiers like Lance Corporal Francisco Martinez Flores, who 
+was granted posthumous citizenship but could not realize the beauty of 
+our citizenship because he was not granted that before he died.
+  Since 9/11, 25,000 servicemembers have become U.S. citizens. Despite 
+the commitment and sacrifices of thousands of green card soldiers and 
+their families, many in this House are not willing to provide them with 
+support because they lack documentation.
+  Mr. Speaker, amid the doubt and anger I have expressed about the war, 
+I have never ever questioned the commitment of our troops to this 
+Nation. They deserve a real plan to secure the peace so that they can 
+be redeployed, and I wholeheartedly support the Murtha plan.
+  American taxpayers, Members, deserve accountability for the $17 
+billion in no-bid contracts for Halliburton and real measures to 
+protect the homeland and our port security. The Bush administration has 
+failed to fulfill its responsibilities to our troops, veterans, and all 
+Americans. This resolution fails them.
+  It is a sad day when this resolution is the only thing that can be 
+offered for our servicemen and women. Francisco Martinez Flores did not 
+die in vain. He deserves the very best. The American people deserve a 
+real debate.
+  Bring our troops home and no permanent bases in Iraq.
+  Mr. THORNBERRY. Mr. Speaker, I yield 3 minutes to the gentleman from 
+Texas (Mr. Brady).
+  Mr. BRADY of Texas. Mr. Speaker, on behalf of the families of East 
+Texas, especially those with loved ones serving overseas, I strongly 
+support this resolution.
+  Despite what the national media portray, the inconvenient truth is 
+this: Terrorists have been attacking America freely for more than two 
+decades. We should have learned we cannot push America's security 
+forward by retreating from terrorism. We cannot strengthen the world by 
+weakening our resolve, and we cannot support our troops by belittling 
+them at every turn.
+  It is clear to all but perhaps us that the terrorists' strategy is 
+not to defeat America in Iraq. They cannot do that. Their strategy is 
+to defeat America in America. They are counting on the American public 
+to lose its will and for Washington politicians to undermine the morale 
+and support of our troops overseas.
+  The truth is if America quits, if America turns back now, no nation, 
+no community will be safe from terrorism again. Terrorists will learn 
+that they can wait us out one public opinion poll at a time. And the 
+next time America is attacked, the next time innocent people die and we 
+vow justice, who will believe us then? Who will support us then?
+  I stand with the President. We must persist in Iraq and Afghanistan 
+until these nations are no longer safe havens for terrorism. We have 
+``taken the hill'' against the terrorists. Too many Americans have 
+sacrificed their lives for us to give it back now. Americans like Chief 
+Warrant Officer Chuck Fortenberry of Woodville, Lance Corporal Shane 
+Goodman of Orange, Staff Sergeant Christopher Everett of Huntsville, 
+Specialist Michael Weger of Spring, and Specialist Hoby Bradfield of 
+The Woodlands, among many.
+  Our troops have proven they will not quit. The question is will we? 
+Our troops know what is at stake. The question is do we?
+  Let us not snatch defeat from the jaws of victory. Let us put aside 
+our partisan politics and unite until terrorism is truly and soundly 
+defeated.
+  Ms. WATERS. Mr. Speaker, I yield 3 minutes to the gentlewoman from 
+Ohio, Representative Kaptur.
+  Ms. KAPTUR. Mr. Speaker, I thank the gentlewoman from California for 
+yielding and for her leadership on a real strategy against terrorism.
+  Mr. Speaker, I rise in strong opposition to this resolution. It 
+contains no plan, no solution, no way forward. I support the Murtha 
+plan, which clearly aims to more strategically engage U.S. forces to 
+redeploy and be ready.
+  Indeed, the invasion in Iraq has diverted our Nation from the war on 
+terrorism and created a new terrorist training platform. Across the 
+Middle East, Central Asia, Africa, and the Pacific, United States 
+policy has engendered more hatred, yielding a counter-reaction of more 
+radicalism and protest.
+  In Egypt, the most populous Arab nation and a key ally in the Middle 
+East and Africa, recent parliamentary elections yielded a quantum leap 
+in representatives from the Muslim Brotherhood, a radical anti-Western 
+party. This group now comprises 88 members of their parliament, up 
+nearly 25 percent from 17 in the 2000 election.
+  In the Palestinian Authority, the peace process with Israel is dead. 
+Rather than parties moving toward peace with Israel, we witness another 
+tragic breakdown as Fatah and Hamas mass in the streets and Israelis 
+and Palestinians shoot and kill with abandon.
+  Mogadishu, Somalia has just fallen into the hands of Muslim 
+extremists. That failed state is another breeding ground for terrorism.
+  In Afghanistan more loss of life has resulted this year than at any 
+time since the U.S.-led invasion and President Karzai remains a 
+prisoner of circumstance, unable to move freely without heavily armed 
+guards.
+  Mr. Speaker, we are not winning the war on terrorism. The situation 
+in Iraq teeters on all-out civil war between the Sunnis and the Shiias.
+
+                              {time}  1700
+
+  To win the war on terrorism, the United States must use our military 
+assets wisely, not just robustly. We must transfer policing to Iraqi 
+forces and remove ourselves as a source of friction.
+  Secondly, we must decouple ourselves from the repressive oil 
+dictatorships that create regional antagonisms there and become energy 
+independent here at home.
+  And, thirdly, the Palestinian-Israeli standoff must be elbowed to the 
+peace table, because it is a primary lightning rod for unrest across 
+the region.
+  Our current presence in Iraq is counterproductive in the broader war 
+on terrorism. Meanwhile, diplomatic channels are totally frozen by this 
+administration. Unfortunately, this resolution offers no plan. It 
+offers no solution. It offers no way forward.
+
+[[Page H4059]]
+
+  This Congress should support the Murtha plan for our military forces, 
+redeploy and be ready.
+  Mr. THORNBERRY. Mr. Speaker, I would yield myself the remainder of 
+the time allocated to the Intelligence Committee.
+  The SPEAKER pro tempore. The gentleman has 2\1/2\ minutes.
+  Mr. THORNBERRY. Mr. Speaker, I have listened to the first 5 hours of 
+this debate, trying to listen carefully to each speaker. And it seems 
+to me that some people try, as best they can, to isolate Iraq from the 
+rest of the war on terror.
+  Now, that may be politically convenient for them to do, but it is not 
+what the real world is like. As a matter of fact, it was not long ago 
+that we found a letter from Zawahari, Osama's number two, to Zarqawi in 
+Iraq talking about tactics.
+  Just as the Cold War had several battles across the globe, the war on 
+terrorism has several battlefields across the globe. And I believe that 
+it is clear from their own words, the terrorists see Iraq as the 
+central front in our war against them now and into the future.
+  Secondly, we seem to have a lot of armchair strategists who want to 
+redeploy this way or redeploy that way, because they say nothing is 
+going right. I would recommend they read the document found this 
+morning, or released this morning, that was found in Zarqawi's house.
+  It says that things are going pretty well for us, and not so well for 
+them. I think it is a little early to give up.
+  Thirdly, there are a lot of people who want to debate the procedures 
+or debate Congress's job or debate past decisions. And it is true, 
+history will have to pass judgment on decisions that the military 
+commanders and the President and the Congress have made in the past. 
+They will do so when the air of partisanship has faded.
+  But the truth is, however you feel about where we are, we are where 
+we are. And the question is, do we leave a job half done? Do we leave 
+early, and leave those Iraqis who are willing to put their lives on the 
+line by being part of the government or part of the police force or 
+part of the military, do we abandon them when they are trying to build 
+a country? I think that would be a mistake.
+  In fact, I think to retreat at this point, whether you call it a 
+strategic retreat, a strategic redeployment, or whatever word you want 
+to use to back up now, will only embolden the terrorists. We have seen 
+time after time, when they sense political vacillation, they strike. 
+They struck in Istanbul in 2003, in Madrid in 2004, in London in 2005.
+  Where they sense weakness, it is like an animal. Where they sense 
+fear, they attack. We have got to do better and make sure we win this 
+war.
+  Ms. WATERS. Mr. Speaker, I yield 3 minutes to the gentleman from 
+Oregon (Mr. DeFazio).
+  Mr. DeFAZIO. Mr. Speaker, despite the rhetoric on the other side of 
+the aisle, ground zero on the global war on terror is not, never was 
+Iraq. It was Afghanistan; 9/11, it was planned in Afghanistan by Osama 
+bin Laden, al Qaeda, with the complicit help of the Taliban.
+  In a near-unanimous vote on the floor of this House, we voted to go 
+in there and root them out and end that threat once and forever. But 
+something bad happened on the road to victory, and the eradication of 
+the Taliban and al Qaeda, and the capture, dead or alive, dead or 
+alive, of Osama bin Laden. Remember that.
+  We got mired in Iraq. And today the Taliban, al Qaeda, and Osama bin 
+Laden are still at large and they are resurgent. I just saw 800 
+Oregonians off to Afghanistan. We need more troops there. We need to 
+finish the job we abandoned to go into Iraq.
+  But 1,093 days ago, a complicit, compliant Republican-dominated 
+Congress acceded to the Presidential demand to divert our energy into 
+an unnecessary war in Iraq. I was one of the 60 percent of the 
+Democrats to vote ``no.''
+  Here we are, 2,497 troops have died, 18,490 seriously wounded. We all 
+honor those troops and do not question that. But we disagree, not on 
+the noble service of the troops, but the competence of the leadership 
+of President Bush, Vice President Cheney, and Secretary Rumsfeld in 
+initiating an unnecessary war in Iraq and insisting on an open-ended, 
+indefinite commitment of U.S. troops in the middle of a civil war.
+  The President has said, ``Bringing U.S. troops home from Iraq will be 
+decided by future Presidents.'' That means after 2009. That is what 
+George Bush is talking about. That is not acceptable.
+  At its core, this resolution says stay the course indefinitely. We 
+should be debating a real policy on Iraq, not a nonbinding politically 
+motivated resolution. We should be debating the Murtha resolution, a 
+real plan.
+  As a member of the Out of Iraq Caucus, I resent the fact that we have 
+here a meaningless, nonbinding Karl Rove-politically inspired 
+resolution on the floor, not amendable, no substitutes allowed; and 
+they call that a debate on the policy in Iraq.
+  They say they are honoring the troops. That is a dishonor to the 
+people of America and those who serve us. And they talk about cut and 
+run. We have won. Saddam Hussein, he is on trial. They have a 
+Constitution. They have a government. They have succeeded. We have 
+succeeded.
+  But they have a sectarian problem. They have been fighting for 1,400 
+years. And they are going to continue fighting. We need to negotiate a 
+timetable with their legitimate government to get the U.S. troops 
+redeployed, out of Iraq, to other hot spots and bring the remainder 
+home.
+  Ms. ROS-LEHTINEN. Mr. Speaker, I yield myself such time as I may 
+consume.
+  Mr. Speaker, as Chair of the Middle East and Central Asia 
+Subcommittee, I have traveled to Iraq, having led a delegation just 
+this last January. And I met with officials again and received a wealth 
+of congressional testimony here in DC. All confirmed that the U.S.-led 
+liberation of the Iraqi people is having a positive reverberation 
+throughout the broader Middle East.
+  Iraq is a catalyst for hope, a vivid example that the future of the 
+broader Middle East belongs to freedom and democracy. To fully 
+comprehend just how far Iraq has come with the assistance of U.S. and 
+coalition forces, we must consider the horror that was Iraq under 
+Saddam Hussein: chemical attacks resulting in scores of innocent 
+deaths; a gruesome campaign to exterminate Iraqi Kurds; the 
+displacement of hundreds of thousands of Iraqi refugees who fled 
+Saddam's persecution; the deaths of 400,000 Iraqi children in his 
+regime's final years killed by malnutrition and disease due to the 
+failed policies of his regime; the use of rape and the beheading of 
+women as tools of coercion and intimidation as part of their regime 
+opposition.
+  Mr. Speaker, now let us consider what has been accomplished thus far 
+since we removed Saddam Hussein from power. The progress achieved 
+serves to honor all of our men and women as this chart shows. They have 
+fought, and some have fallen for the fulfillment of our noble, our 
+just, and our necessary mission in Iraq.
+  Some of the highlights of progress, Mr. Speaker: Iraqis participated 
+in elections three times since 2005, with ever-increasing voter 
+participation each time. The Iraqi press is free and it is growing. 
+Iraqi women are playing an increasingly pivotal role in their society.
+  A market-based economy is being established as Iraq emerges from 
+three decades of Saddam's neglect. Over 260,000 Iraqi police and 
+security forces have been trained and have been equipped. Iraq now has 
+a democratically elected government for the first time in its history 
+that includes all ethnic groups.
+  We should therefore focus on what we need to do to help ensure a free 
+and secure Iraq and not on how soon we can leave it, ignoring that it 
+is in our national security interest to succeed there.
+  The jihadists are determined and they have declared Iraq to be the 
+central front of their campaign of terror. Are we to waver in front of 
+these challenges? Absolutely not. Terrorist mastermind al Zarqawi, now 
+dead, acknowledged in a February 2004 letter to al Qaeda the threat 
+that success in Iraq posed to the extremist effort.
+  He said, Our enemy is growing stronger by the day, by God, this is 
+suffocation. One of Osama bin Laden's closest associates wrote about 
+Iraq a couple of years ago. And he said, a far more dangerous threat is 
+secularist democracy, because it drives Muslims to refuse to take part 
+in jihad.
+
+[[Page H4060]]
+
+  Mr. Speaker, this clearly demonstrates that our efforts in Iraq are 
+serving long-term efforts of spreading democracy as an antidote to 
+Islamic terrorism and extremism.
+  Mr. Speaker, it reminds me of President Ronald Reagan's words in his 
+first inaugural address when he said, ``Above all we must realize that 
+no arsenal or no weapon in the arsenal of the world is so formidable as 
+the will and the moral courage of free men and women.''
+  Every day the Iraqi people are proving how true that statement is. We 
+too must demonstrate the will to press ahead. Leaders from the Arab 
+world have confided their views on how important it is for their own 
+efforts to have the U.S. in Iraq. However, the best evidence that we 
+are on the right path comes from those closest to me, including my 
+stepson, Dougie, and his fiance, Lindsay, both marine officers, both 
+who have served as fighter pilots in Iraq.
+  And I hear it from one of my subcommittee staffers, Matt Zweig, who 
+is currently deployed in Iraq. Their unwavering belief that success in 
+Iraq will make us safer at home confirms that our strategy is correct 
+and that our goals are sound.
+  They remind me that we must heed the advice issued by Winston 
+Churchill when he said, ``One ought never to turn one's back on a 
+threatened danger and try to run away from it. If you do that, you will 
+double the danger. But if you meet it promptly and without flinching, 
+you will reduce the danger by half.''
+  Mr. Speaker, we must not, we will not flinch in Iraq.
+  Mr. Speaker, I reserve the balance of my time.
+  Ms. WATERS. Mr. Speaker, I yield 3 minutes to the gentleman from New 
+York (Mr. Nadler).
+  Mr. NADLER. Mr. Speaker, I rise in opposition to this resolution 
+because we should not be echoing the lies we have been fed to justify 
+this cruel and deceitful war. We should not continue pretending that by 
+fighting the war in Iraq we are advancing the war on terrorism.
+  Our intelligence tells us that only 7 to 8 percent of those we are 
+fighting in Iraq are Islamic terrorists. The other 92 to 93 percent are 
+fighting a war for power between contending religious groups.
+  There is no compelling reason to send our young people to die to 
+determine how to divide the spoils between the Sunnis and the Shiites. 
+We should be redeploying our resources to fight the real war on 
+terrorism, going after Osama bin Laden in Afghanistan, fighting 
+jihadist ideas all over the Muslim world, getting the loose nuclear 
+material out of the former Soviet Union before it is smuggled to al 
+Qaeda to make nuclear weapons, screening all of the shipping containers 
+before they enter our ports, and protecting our chemical and nuclear 
+plants against sabotage that could kill tens of thousands of Americans.
+  But the Bush administration and this Congress will not vote the funds 
+to fight the real war against terrorism. And every reason we were given 
+for invading Iraq has been shown to be false. Weapons of mass 
+destruction. Not there. Saddam Hussein working hand in glove with al 
+Qaeda. Not true. And the more information that leaks out, the more 
+apparent it becomes that these were not mistakes, but deliberate lies.
+  But does this Congress get to the bottom of this? Not this Republican 
+Congress. This Republican Congress sees no evil, hears no evil, and 
+speaks no evil when it comes to a war that has already killed 2,500 of 
+our young men and women and promises to kill thousands more.
+  This Republican Congress asks no questions about what we can possibly 
+achieve that can justify the continuing slaughter.
+
+                              {time}  1715
+
+  I ask you, if the President had gone to the American people and said, 
+we must invade a country that poses no imminent threat to us, we must 
+sacrifice thousands of lives in order to create a democratic government 
+in Iraq, would we have agreed? I think not.
+  As the President now says to us that we should continue indefinitely 
+to expend American blood and treasure to support one side in a 
+sectarian civil war, a side, moreover, that is increasingly cozying up 
+to the mullahs in Iran who do pose a threat to us, should Congress 
+continue to consent? I think not. This Congress should agree with the 
+Out of Iraq Caucus. We should say enough already. Enough with the lies 
+and the deceit and the evasions. Enough with the useless bloodshed. We 
+should ensure the Iraqi people that we desire no U.S. military bases in 
+Iraq.
+  This Congress should adopt the Murtha resolution. We should adopt a 
+swift timetable to redeploy our troops out of Iraq and bring them home 
+and let the Iraqi oligarchs know they cannot depend on the United 
+States forever.
+  It is our crucial moment in American history to concentrate our 
+resources on the real threats that face us around the world and at home 
+and put an end to this bloody, senseless and diversionary war.
+  Ms. ROS-LEHTINEN. Mr. Speaker, I am pleased to yield 2 minutes to the 
+gentlewoman from Ohio (Ms. Pryce).
+  Ms. PRYCE of Ohio. I thank the gentlewoman for yielding. The 
+gentlewoman has been a leader for freedom all around the globe, and 
+this country should appreciate her for that.
+  Mr. Speaker, I had the privilege to lead a bipartisan all-female 
+Congressional delegation to Iraq. It was one of the most emotionally 
+overwhelming experiences of my professional life. We met women of 
+enormous courage and hope.
+  They told us that they want to work, they want to vote. They want to 
+be a part of their society, a democratic society. But we also heard 
+about what life was like before the coalition came. We heard about the 
+treatment of women under Saddam Hussein and during torture, oppression, 
+that most of us could not imagine.
+  We were told of the heart wrenching stories of husbands torn from 
+their homes in the middle of the night by brutal, secret police, and 
+the women left behind, usually with children, faced with the impossible 
+burden of providing for their families in a society that doesn't even 
+allow women to work. Some were raped, some were tortured, but that was 
+before liberation.
+  The road to liberation has been a rocky one. But our troops are doing 
+good work every day in Iraq. We saw soldiers building schools and 
+hospitals, vaccinating hundreds of children. They coach soccer. They 
+tutor. They make a difference. They risk their lives every day to 
+protect the newly acquired rights of Iraqis, but especially the women.
+  If I were asked to give one good reason why we should stay in Iraq, I 
+would tell you to stay. We need to stay for the women.
+  Well, I saw women of diverse ethnicity, religion, socioeconomic 
+classes. They were empowering each other with education, with hope, 
+with friendship, just like Elizabeth Cady Stanton and Susan B. Anthony. 
+Another courageous woman I met, Nasreen Barwari, the Minister of Public 
+Works, was later the target of an assassination attempt. Her crime, 
+being an outspoken woman in a important position. Thankfully she 
+survived, but her bodyguard was killed. Her female colleague, Dr. Al-
+Hashimi of the Iraqi Governing Counsel, was not so lucky. She was 
+tragically gunned down.
+  Ladies and gentlemen, if we stay in Iraq, one of the major reasons is 
+to stay for the women.
+  Just over two years ago, I was privileged to lead a bipartisan, all-
+female congressional delegation to Iraq.
+  It was one of the most emotionally overwhelming experiences of my 
+official life. We met women of enormous courage and hope. They told us 
+they want to vote, to work, to be a part of the democratic process.
+  Some said they wanted to run for office and help create the laws that 
+will build a new Iraq.
+  But we also heard about life before the coalition came.
+  We heard about the treatment of women under the Saddam regime--
+enduring torture and oppression that most of us could not imagine.
+  We were told heart-wrenching stories of husbands torn from their 
+homes in the middle of the night by a brutal secret police.
+  The women left behind, usually with children, faced the impossible 
+burden of providing for their families in a society that didn't allow 
+women to work or remarry.
+  Some were themselves raped and tortured.
+  But that was before liberation.
+  The road since liberation has been a rocky one.
+  But our troops are doing good work every day in Iraq.
+
+[[Page H4061]]
+
+  We saw the soldiers building schools and hospitals, vaccinating 
+thousands of children, and putting an archaic infrastructure back in 
+operation.
+  They coach soccer, they tutor--they make a difference! And they are 
+risking their lives to protect the newly acquired rights of all 
+Iraqis--but especially women.
+  If I were asked to give you one good reason why we should stay in 
+Iraq, I would tell you we should stay for the women.
+  If we can make the values of a free society--the rule of law--work 
+for the women of Iraq, we create the conditions for these new 
+democratic values to take root and spread.
+  While there I saw women of diverse ethnicities, religions, and socio-
+economic classes empowering one another with education, hope and 
+friendship--much like Elizabeth Cady Stanton and Susan B. Anthony.
+  In Mosul, we met with the Women's Social and Cultural Society. They 
+had been meeting secretly, but now felt safe enough to be public and 
+actually welcome our delegation.
+  These women, accompanied by their wide-eyed daughters, are creating a 
+new Iraq as they promote social, political and educational equality for 
+all Iraqis. But they're not alone.
+  One of my favorite stories of the trip was of two Iraqi women who 
+arrived one day at a fountain in the town center of Hillah dressed in 
+traditional Muslim women's clothes but with a decidedly non-traditional 
+mission.
+  A courageous woman I met, Nasreen Barwari, the Minister of Public 
+Works later was the target of an assassination attempt.
+  Her crime? Being an outspoken woman in an important public position. 
+Thankfully, she survived, though her bodyguard was killed.
+  Her female colleague, Dr. Al-Hashimi, of the Iraqi Governing Council, 
+was not so lucky.
+  She was tragically gunned down outside her home.
+  The dangers Iraqi women face can't be underestimated nor can the 
+obstacles put in their path to liberation. But these women remain 
+undaunted!
+  We also visited the police academy in Baghdad where 29 women were 
+training to be the first female police officers ever in Iraq.
+  These wonderful women told us how excited they were to be learning 
+skills to hold their first job. Many had barely been out of the home 
+setting before. Their exuberance was infectious.
+  We also went to a residential area in Mosul to talk with a group of 
+neighborhood women--some educated, but many not. We met in the crowded 
+living room of one of the members. All the rooms were packed. The 
+electricity was only on for half of our afternoon together. But that 
+was more than they had had in years. The curiosity of the men on the 
+street outside was so thick you could cut it with a knife.
+  The women's group had many questions for us.
+  ``How do we find our voice?'' they asked. ``How do we organize other 
+women to make an impact? How can we affect the direction of this 
+country?''
+  They were asking the most fundamental and basic questions of civic 
+involvement--how to construct the foundation of the democratic process. 
+As we left, their children came forward with flowers for us.
+  I think it's fair to say that U.S. soldiers have liberated more women 
+in the last 4 years than anyone or anything else in the last 20--maybe 
+longer.
+  Still, changing 2,000 years of tradition isn't going to happen with 
+stroke of a pen. It will take time and patience.
+  This is not the time for us to abandon these courageous women--not 
+when they have come so far.
+  Mr. MURTHA. Mr. Speaker, I yield 2 minutes to the gentlewoman from 
+California (Mrs. Capps).
+  Mrs. CAPPS. I thank my colleague, whose resolution I support, for 
+yielding me time.
+  Mr. Speaker, I rise in strong opposition to the resolution before us. 
+Let us be clear from the outset that those who have opposed the Iraq 
+war stand solidly and proudly in support of our troops and their 
+families. To suggest that calling for the return home of our brave 
+troops somehow denigrates their service and their sacrifice is absurd. 
+We can best support our troops by bringing them home.
+  Mr. Speaker, the terrible numbers we have bandied about here are not 
+mere statistics. Each one represents the tragic story of a ruined life 
+and a shattered family, 2,500 troops dead, more than 18,000 wounded, 
+many so grievously. The average tour for National Guard members has 
+been 342 days, turning the lives of countless American families upside 
+down.
+  The material cost of the Iraq war is about $320 billion. But you can 
+never put a price on its toll in human suffering, nor can you 
+realistically argue, Mr. Speaker, that the war in Iraq has made our 
+country safer or advanced our effort to combat global terror.
+  Those that come to the floor and link Iraq to 9/11 are certainly 
+wrong. They are factually wrong, because there remains no evidence that 
+Saddam was involved in the al Qaeda attacks on our Nation, and they are 
+morally wrong to invoke the memories of the victims of September 11th 
+to justify this indefensible war of choice.
+  I am pleased that al Zarqawi is dead, but his death does not change 
+the fact that Iraq has become a haven for terrorists and the best 
+recruitment tool we could have handed our enemy. No, Mr. Speaker, those 
+who oppose this war are not soft on security. We believe strongly and 
+passionately that keeping the troops in the middle of this increasingly 
+bloody civil war only weakens our security.
+  It is a disgrace it has taken so long for Congress to spend a few 
+hours of this day debating the Iraq war, but the American people will 
+not be fooled. They recognize that a debate on a cynical and 
+politically motivated resolution is no substitute for a thoughtful Iraq 
+policy that advances our national interests and listens to the voices. 
+Let us vote ``no'' on this resolution.
+  Ms. ROS-LEHTINEN. Mr. Speaker, I am pleased to yield 2 minutes to the 
+gentleman from Michigan (Mr. Knollenberg), the chairman of the 
+Subcommittee on Treasury, Transportation and HUD Appropriations.
+  Mr. KNOLLENBERG. Mr. Speaker, I rise today in support of the 
+resolution before us. I want to convey a very simple message. We must 
+stay the course. At this crucial point in our history, it is 
+unacceptable to enact a policy of passivity, resignation or defeatism 
+in the face of terror.
+  Some say that we should surrender and pull out. They may think that 
+this will win them votes and that it is good politics, but it is 
+terrible policy, devastating policy. It is essential that we continue 
+to fight in Iraq so that the fight does not come into our backyards.
+  Make no mistake, we do not choose Iraq as a front line on the war on 
+terror. Al Qaeda has done that. But we must have that fight over there 
+so we don't have it back here.
+  Like many of my colleagues, I have visited Iraq and seen firsthand 
+the revitalization of country. The men and women our Armed Forces are 
+fighting terrorists who are trying to claim Iraq for their own. Without 
+their valor and dedication, the progress made in Iraq would not be 
+possible. It takes time, will, patience and perseverance to transition 
+a country once ruled by a tyrannical despot.
+  Terrorists who seek to eliminate anyone who provides hope for the 
+future have infested Iraq, but they will not succeed. The Iraqi people 
+are committed to freeing their country from these fanatical invaders, 
+and we are too. The Iraqi people's future is in their hands, and right 
+now they want U.S. help.
+  Just this week, Iraqi army and police forces backed by U.S. troops 
+launched Operation Forward together. This operation was created by 
+Iraqi Prime Minister al-Maliki and his parliament, and it is their 
+first major security action since a new government of national unity 
+was sworn in on May 20.
+  Mr. Speaker, the resolve of the United States should never be 
+questioned. The world must know that the United States finishes what it 
+starts.
+  We will win the fight against global terrorism, including in Iraq.
+  Mr. MURTHA. Mr. Speaker, I recognize the gentleman from Arizona (Mr. 
+Pastor) for a unanimous consent request.
+  Mr. PASTOR. Mr. Speaker, I ask unanimous consent to revise and extend 
+my remarks and submit a statement for the Record in opposition to the 
+resolution.
+  The SPEAKER pro tempore (Mr. Rehberg). Is there objection to the 
+request of the gentleman from Arizona?
+  There was no objection.
+  Mr. PASTOR. Mr. Speaker, I rise today to stand in opposition to this 
+resolution. As illustrated by the House Majority Leader's memo 
+establishing this debate as ``a portrait of contrasts between 
+Republicans and Democrats,'' the primary intent of this resolution is 
+political--shifting attention from the real issues behind the slow 
+progress in Iraq. In this election year, just 4 months shy from the 
+polls, Republicans are using this resolution as a divisive strategy 
+rather than holding a substantive debate on Iraq.
+
+[[Page H4062]]
+
+  Today's debate, which should have been an opportunity for Members of 
+Congress to have a serious discussion on the war and to pose tough 
+questions to the Administration on Iraq, has regrettably become nothing 
+more than a partisan ploy. While I do not hesitate to applaud certain 
+aspects of the resolution honoring the sacrifices of our courageous 
+soldiers who are risking their lives in Iraq, I cannot be supportive of 
+capitalizing on these very sacrifices for political gain.
+  I also disagree with the dangerous analogy made in this resolution 
+between Iraq and the Administration's ``war on terror'' policy. There 
+is not, and never has been, any credible intelligence linking Iraq to 
+9/11 and Al Qaeda. Focusing the discussion on the war on terror and 
+victories won, rather than on workable policies to bring our troops 
+home, reduces this debate to no more than a justification for 
+maintaining the Administration's status quo agenda in Iraq.
+  Seizing the political momentum after the killing of Zarqawi, 
+Republicans are offering a resolution which does little more than tout 
+recent ``impressive victories'' in Iraq. While the death of Zarqawi is 
+reassuring, we must be careful not to pat ourselves on the back 
+prematurely for another ``Mission Accomplished.'' Terrorist cells are 
+still numerous and active, violence is still prevalent, and our brave 
+men and women still continue to fight.
+  Although I voted against the initial resolution approving the war in 
+Iraq, I have consistently voted to support our troops with much-needed 
+armor and supplies. However, this should not be construed as favoring 
+continued occupation. Today the Pentagon's report confirming the 
+overall U.S. death toll at nearly 2,500, underscores the grave and 
+violent situation that our troops face every day. I believe it is our 
+responsibility as Members of Congress to devise a responsible exit 
+strategy. We must ensure that we do not lose sight of our real end goal 
+in this debate: to bring our troops back home as quickly as possible.
+  Mr. MURTHA. Mr. Speaker, I yield 3 minutes to the gentleman from Ohio 
+(Mr. Kucinich).
+  Mr. KUCINICH. Thank you, Mr. Murtha, and the Out of Iraq Caucus.
+  The President will not bring an end to this war. He says it is a 
+decision for the next President. But he is building permanent bases in 
+Iraq, and he is determined to keep 50,000 troops in Iraq into the 
+distant future.
+  This Congress may not bring an end to this war because the real power 
+to end the war is in a cutoff of funds. Congress keeps appropriating 
+funds in the name of the troops, and the troops will stay in Iraq 
+instead of coming home. Only the American people can bring an end to 
+this war as they brought an end to the Vietnam War. Let this be a time 
+of stirring of civic soul.
+  It is a time for a reawakening of civic conscience. There were no 
+weapons of mass destruction in Iraq, but there are WMDs in D.C. Lies 
+are weapons of mass destruction. 2,500 soldiers dead. Over 10,000 
+Iraqis, innocent Iraqis have died. It is time for an end to our 
+national sleepwalk to the graveyard of the Iraq war.
+  It is a time for truth, a time for clarity, a time for action, a time 
+for teach-ins, for meet-ups, for marches, for rallies about the war to 
+begin at college campuses, at churches, at labor halls, at libraries. 
+It is time to gather in civic centers, in town halls, to discuss the 
+truth about this war and to plan civic action to end it, time for the 
+American people to exercise their first amendment right to stand up and 
+speak out, time to redirect the policies of this country, time to learn 
+and practice peaceful, nonviolent conflict resolution, time to believe 
+in our capacity to evolve beyond war, to believe and act under the 
+belief that war is not inevitable and peace is inevitable if we are 
+ready to commit to the daily work of peace building everywhere.
+  The global war on terror has become a global war of error: attacking 
+or threatening countries which did not attack us, bombing neighborhoods 
+to save neighborhoods, committing atrocities in the name of stopping 
+atrocities, losing our vision, losing our way in the world, sacrificing 
+our children and their future, giving up their future resources for 
+education, for health care, for housing, piling it all high on the 
+altar of war and worshipping a false god of destruction.
+  When we begin these proceedings with this remembrance, Thine is the 
+kingdom and the power and the glory, we are not talking about any 
+nation. We are talking about a force which is above all of us. The 
+world is not ours to conquer. There is no glory in the abuse of power. 
+This President will not bring an end to this war after the Murtha 
+resolution, this Congress may not bring an end to this war, but the 
+American people certainly will bring an end to this war. They will do 
+it in the streets, and they will do it at the ballot box, and the 
+American people will become the Out of Iraq Caucus.
+  Ms. ROS-LEHTINEN. Mr. Speaker, I am pleased to yield 1\1/2\ minutes 
+to the gentleman from Virginia (Mr. Wolf), the chairman of the 
+subcommittee on State, Justice and Commerce appropriations.
+  (Mr. WOLF asked and was given permission to revise and extend his 
+remarks.)
+  Mr. WOLF. The war on terror and this whole thing began really in 1980 
+when our embassy was taken over in Iran and the bombing of the Marine 
+barracks in 1983, Lebanon, embassy in 1983, USS Cole, Khobar Towers, 
+Nairobi, Tanzania.
+  I have so much that I want to say. I will just say this. If we were 
+to set a date, the Mujahedin would say we defeated the Russians in 
+Afghanistan, we defeated America in Iraq and the jihad would take place 
+all over this world. This would be a very, very dangerous thing to say.
+  So I rise in strong, strong support of this resolution and say we can 
+and will win this war. I remember when I read the book by Whittaker 
+Chambers. He was a witness. He said when I left the Communist Party, I 
+believed I was leaving the winning side and joining the losing side. 
+Whittaker Chambers was wrong because of people like Ronald Reagan. We 
+must be resolute. I rise in support of the resolution.
+  Mr. Speaker, I rise today in support of H. Res. 861 and to show my 
+support for our troops serving in Iraq and Afghanistan who are on the 
+front lines in the global war on terrorism. I commend our forces for 
+the recent actions in targeting Abu Musab al-Zarqawi, the insurgent 
+leader killed in an airstrike June 7. I also commend President Bush for 
+his visit earlier this week to Iraq to meet with Prime Minister Nouri 
+al-Maliki and encourage the work of the new Iraqi government.
+  I share the deep concerns about the continuing violence in post-war 
+Iraq, which is taking the lives of U.S. military personnel and 
+civilians. I continue to pray for the protection of the men and women 
+who are putting their lives on the line every day to help the Iraqi 
+people as they build their own government, and also for their families 
+here at home who continue to make tremendous sacrifices.
+  I recognize there were good and reasonable people on both sides of 
+the decision to send U.S. armed forces to Iraq. But whether or not you 
+agreed with that decision, we are there now and cannot just walk away. 
+Too much is at stake. The success of our efforts in Iraq and the 
+success of the Iraqi people in establishing their own government are 
+critical to the overall war against terror and to the security of our 
+country and the world.
+  Our efforts in Iraq, many believe, are an important campaign in the 
+global war on terrorism. Our world is a dangerous place, and as we 
+learned on September 11, 2001, terrorism is not something in a far away 
+land. We did not seek this war. We were attacked on our own soil, and 
+this war is a different kind than any our Nation has ever fought. But 
+it is one we are fighting to make our own nation and the world more 
+secure. It is critical that we remain resolute in this fight.
+  I believe a case can be made that the war on terrorism really began 
+more than 20 years ago with the attacks against America at the U.S. 
+Embassy in Beirut, Lebanon. The bombing there in the spring of 1983 
+killed 63 and wounded 120. Later that year, 241 U.S. servicemen--220 
+Marines, 18 Navy members and three Army members--were killed when a 
+truck bomb exploded at their barracks in Beirut. Those attacks were 
+followed in 1993 by the first World Trade Center bombing in New York 
+City, in 1996 by the Khobar Towers bombing in Saudi Arabia, in 1998 by 
+the U.S. embassy bombings in Kenya and Tanzania, and in 2000 in the 
+attack in Yemen on the USS Cole.
+  After the attacks on the two embassies in Africa in 1998, I became 
+very concerned about the U.S. response to terrorism and authored the 
+legislation creating the National Commission on Terrorism. On the cover 
+of that report is a photo of the twin towers in New York on fire after 
+the 1993 attack. The foreboding nature of that photo is now all too 
+real as we relive the destruction of the World Trade Center on 
+September 11, 2001.
+
+  Late last summer I returned to Iraq for a third time. I have now 
+visited all but the Kurdish areas in northern Iraq. With each 
+successive trip, I have seen improvements--renovated schools, cleaner 
+water systems, new Iraqi army constituted. I also have seen the 
+continuing and serious security problems and other challenges facing a 
+liberated Iraq, and I
+
+[[Page H4063]]
+
+have heard caution from varied sources about the potentially 
+cataclysmic consequences of America withdrawing before our mission is 
+complete. I had the opportunity to speak with our troops who are 
+performing their duties with professionalism and dedication. They are 
+positive about their mission and are doing an outstanding job in 
+fulfilling it.
+  One interesting comment I heard on that trip is that we can't expect 
+to rebuild Iraq on our timetable, but rather it must be on Iraq's 
+timetable. Life--and timetables--in Iraq are not the same as in the 
+United States. This is a very key point, and one the Bush 
+administration needs to do a better job of explaining.
+  It also is important to remember that the United States had its share 
+of growing pains. While our revolution was in 1776 it was 11 years 
+before our forefathers began to draft a constitution and it wasn't 
+ratified until 1789. Few remember that our constitution was debated in 
+complete secrecy. Delegates knew that they would generate heated 
+differences and did not want to advertise their own dissensions or put 
+crippling arguments into the mouths of the opposition. We also had 
+leaders like George Washington, Ben Franklin, George Mason and James 
+Madison who had the benefit of understanding British history in 
+addition to being exposed to the workings of the House of Commons. 
+Democracy and an elected government is truly a foreign concept to the 
+Iraqi people.
+  The Bush administration also needs to do a better job of explaining 
+what the consequences of ``failing'' in Iraq would mean to the average 
+person in Chantilly, VA, Topeka, KS, or Portland, OR. I repeatedly 
+asked people I met during the trip--from generals, to State Department 
+officials, to members of the Iraqi government--what they thought 
+``failure'' would mean. The responses were frightening.
+  I heard references to Somalia--think of the movie ``Black Hawk 
+Down''--and the former Yugoslavia with all its ethnic cleansing. The 
+images that flashed in my mind when I heard these countries were 
+disturbing. I was in Somalia during the crisis in 1993. I traveled to 
+Sarajevo and the Yugoslavia region several times in the early to mid-
+1990s where so many were killed. In fact, all the people I met with in 
+Vukovar, Croatia, in 1991 were killed several months later and are now 
+buried in mass graves.
+  Many speculated that civil war would break out in Iraq and even more 
+foreign fighters from across the region would pour into Iraq in hopes 
+of influencing the outcome. I was told almost all of the insurgents 
+carrying out the suicide attacks are foreigners, most coming across the 
+Syrian border from places like Syria, Saudi Arabia, Egypt, Sudan and 
+Afghanistan. I was told militias continue to fight each other on a 
+regular basis in some parts of the country.
+  If our mission fails and civil war comes, the country would almost 
+certainly break into three parts: the Kurds in the north, the Sunnis in 
+central Iraq, and the Shias in the south. It is believed the Kurds 
+would most likely be able to keep from being drawn into the fighting 
+and govern themselves. In the central region of the Sunni Triangle, 
+warring factions would fight for control and most agree that there 
+would be sheer chaos. Iran's presence was felt in the south as it tried 
+to influence the recent elections and if civil war were to break out, 
+elements in Iran may well involve themselves in the south.
+  With civil war, almost everyone I asked said that Iraq would become a 
+haven from which terrorist groups could launch attacks against the 
+United States and other countries. No one has to be reminded of what 
+happened on 9/11. Thirty people from my congressional district died 
+that day among the 3,000 who perished.
+  Al Qaeda and other terrorist groups would like nothing more than to 
+have a new ``base'' from which to operate, much like Afghanistan in the 
+1990s after the Soviets were defeated. There is no denying that the 
+terrorists have designs on the United States and, as one officer told 
+me, ``We must win the war so we don't fight the next war in America.''
+  Terrorists are doing everything in their power to prevent the United 
+States and its coalition partners from being successful in Iraq. They 
+believe time is on their side and that they can ``wait out'' the United 
+States. They will do anything--including blowing themselves up in busy 
+marketplaces--to disrupt our progress and turn the Iraqi people against 
+us. They believe that the war being fought in Iraq is not a 
+``military'' war but rather a ``political'' war and American public 
+opinion will dictate when the United States leaves, not military 
+success.
+  There is a general belief among terrorism experts that the top 
+priority of terrorists is to seek chemical, biological, radiological or 
+nuclear weapons. The video of two commercial airliners being flown into 
+the World Trade Center is ingrained in every American's mind. I shudder 
+to think what terrorists would do if they obtained a biological or 
+chemical weapon.
+  Many I spoke with also said failure in Iraq could destabilize the 
+entire Gulf region and possibly lead to the downfall of the governments 
+of Jordan, Egypt and Saudi Arabia.
+  Failure also could have serious impact on the world's economy. Japan 
+gets more than 75 percent of its oil from the region, Western Europe, 
+30 percent, and the United States, 22 percent. We saw what happened in 
+the wake of Hurricane Katrina as consumers feared gas shortages. 
+Failure in Iraq would make oil costs even higher and have a major 
+negative impact throughout our entire economy.
+  Others said they believe the United States has a moral obligation to 
+the people of Iraq to successfully complete what it started. They asked 
+how the American public would feel if civil war were to break out and 
+thousands upon thousands of innocent Iraqis were slaughtered in the 
+subsequent fighting?
+  Finally, many believe the United States's credibility is at stake. In 
+a piece in the Washington Post's Outlook section last September, Victor 
+Davis Hanson, a military historian at Stanford University's Hoover 
+Institution and the author of ``A War Like No Other,'' wrote:
+
+       . . . If we fled precipitously, moderates in the Middle 
+     East could never again believe American assurances of support 
+     for reform and would have to retreat into the shadows--or 
+     find themselves at the mercy of fascist killers. Jihadists 
+     would swell their ranks as they hyped their defeat of the 
+     American infidels. Our forward strategy of hitting terrorists 
+     hard abroad would be discredited and replaced by a return to 
+     the pre-9/11 tactics of a few cruise missiles and writs. And 
+     loyal allies in Eastern Europe, the United Kingdom, Australia 
+     and Japan, along with new friends in India and the former 
+     Soviet republics, would find themselves leaderless in the 
+     global struggle against Islamic radicalism.
+
+  Failure cannot be an option in Iraq nor can creating an arbitrary 
+deadline for pulling out U.S. troops. The ramifications on our country 
+and other countries in the West would be huge. Our withdrawal must be 
+event driven and not artificially tied to a calendar. Many I talked to 
+said we must set conditions for victory, not dates for withdrawal.
+  The Bush administration needs to do a better job articulating just 
+what is at stake and the potentially catastrophic consequences. No one 
+believes we will lose the war on the ground in Iraq; it's here at home 
+that there is a concern. I had one general officer say point blank that 
+the ``center of gravity'' for our success in Iraq is the American 
+public.
+  That said, I strongly believe that it would be of great value to have 
+an independent review of ongoing operations in Iraq. I call this effort 
+``fresh eyes on the target'' and offered this suggestion following my 
+latest trip to Iraq. On March 15, I was pleased to attend the 
+announcement of the formation of the 10-member bipartisan Iraq Study 
+Group, being led by former Secretary of State James Baker and former 
+Congressman Lee Hamilton, who co-chaired the 9/11 Commission. The 
+members, as are their co-leaders, are among America's most honorable 
+and venerable citizens: former CIA Director Robert Gates, former U.S. 
+Attorney General Ed Meese, former Clinton adviser Vernon Jordan, former 
+Clinton Chief of Staff Leon Panetta, former Defense Secretary William 
+Perry, former Virginia Senator Chuck Robb, former Wyoming Senator Alan 
+Simpson, and former Supreme Court Justice Sandra Day O'Connor.
+  The study group was launched in partnership with the United States 
+Institute of Peace, the Center for Strategic and International Studies, 
+the Center for the Study of the Presidency, and the Baker Institute for 
+Public Policy at Rice University. Its mission is to undertake a 
+bipartisan, forward-looking assessment of the current and prospective 
+situation on the ground in Iraq, its impact on the surrounding region, 
+and its consequences on U.S. interests and it will focus on political, 
+military, security and reconstruction in Iraq. The group will travel to 
+Iraq and report to the American people. I understand they will meet 
+with President Bush this week.
+  It will assess what is working and what changes should be made in 
+helping the Iraqi people to establish their own government and stop the 
+terrorist insurgency which is continuing to foment the violence of the 
+Saddam Hussein regime. One of the most critical jobs of this panel is 
+to determine the ramifications of failure to accomplish our country's 
+mission in Iraq and to explain that to the American people.
+  In the 1930s, the world failed to stand up to fascism. When we--with 
+our allies--did stand up and fight, we defeated fascism. It also took 
+some time for the world to stand up to communism. But when we did, we 
+defeated communism. Now we face al Qaeda and its leader Osama bin 
+Laden, who in his own words has said he will use chemical, biological, 
+radiological and nuclear weapons against us. We must continue the 
+determined effort now that we have had in the wars over the years as we 
+fight terrorism. Standing together, I believe we can defeat this threat 
+to the freedoms and liberties and way of life we have fought to 
+maintain for well over two centuries.
+
+[[Page H4064]]
+
+  Mr. MURTHA. Mr. Speaker, I yield 3 minutes to the gentleman from New 
+York (Mr. Hinchey).
+  Mr. HINCHEY. Mr. Speaker, this resolution before us, House Resolution 
+861, is an unfortunate farce. It is part of an extension of the 
+political propaganda, which has come from the Republican Party in 
+defense of their so-called war on terror. It is not the first example. 
+We have had many others.
+  Some of the highest-ranking members of this administration have 
+purposefully and intentionally misled this Congress and the American 
+people by providing them with wrong information. We saw it right here 
+in the House of Representatives when the President himself talked about 
+how the British had learned that Iraq was importing enriched uranium 
+from Niger.
+  He was told before he delivered that speech that there was no 
+evidence that that was true. Yet he came here and said it and put the 
+responsibility on Great Britain knowing that what he was saying was 
+untrue. It is a criminal violation of Federal law, two criminal 
+violations of Federal law to consciously, purposefully, intentionally, 
+mislead the Congress, particularly when you are trying to obtain 
+actions from the Congress which result from that purposeful and 
+intentional misleading.
+
+                              {time}  1730
+
+  What has been the cost? So far, 2,500 American service men and women 
+killed in Iraq. We hear today from the Republicans how they honor the 
+servicemen, but they continue to have them killed, wounded, continue to 
+have them suffer on the basis of false information, deceit and lies.
+  They claim that this is continuing the war on terror. Well, what 
+happened to the real war on terror? We were attacked by the al Qaeda. 
+The al Qaeda had nothing to do with Iraq. We know that to be the case. 
+We know that there were no weapons of mass destruction in Iraq. We know 
+that to be the case.
+  Yet, after we went into Afghanistan, which was providing solace and 
+security for the al Qaeda network, and chased Osama bin Laden up into 
+the Tora Bora Mountains, the administration decided and the Defense 
+Department decided that they were going to abandon the search. Why did 
+they not pursue the person who was responsible for this attack?
+  Well, there is one logical answer to that question, and the answer is 
+if they had found Osama bin Laden, the rationale for the attack on Iraq 
+would disappear. That is why we need to get out. That is why we need to 
+pass the Murtha resolution.
+  Ms. ROS-LEHTINEN. Mr. Speaker, I am pleased to yield 2 minutes to the 
+gentleman from Iowa (Mr. Leach) who is the chairman of the Subcommittee 
+on Asia and the Pacific of the Committee on International Relations.
+  (Mr. LEACH asked and was given permission to revise and extend his 
+remarks.)
+  Mr. LEACH. Mr. Speaker, there are few certitudes in these complicated 
+times. Anyone who was not conflicted in the original decision to invade 
+Iraq or who does not see a downside to all courses of action today is 
+not thinking. But I am hard pressed to believe anything except that the 
+case for a steady, measured drawdown of troops in Iraq is compelling. 
+The neocon desire to establish a semi-permanent presence in a divided 
+Muslim country is foolhardy.
+  It is true that there are circumstances where it is better to fight 
+over there than here at home. Afghanistan is a case in point. But we 
+should not be so naive as to fail to recognize that there are also 
+circumstances where fighting over there can increase the likelihood 
+that conflict will spread to our shores. A decision to prolong 
+unnecessarily our intervention in Iraq could be a case in point, as 
+could a military confrontation with Iran.
+  There are tipping points in all struggles. The signs are evident that 
+we are close today to a calamity if we do not recalibrate our policies. 
+The irony is that our troops have lost no battles and shown great 
+heroism, but Western occupation is intolerable for Muslims. It is also 
+not the American way. The longer we stay, the greater the prospect that 
+anarchistic acts will multiply and spread, perhaps to our shores.
+  The issue is no longer, as is so frequently asserted, the need to 
+stay the course. It is to avoid overstaying our presence.
+  Sometimes it is harder to know how to end a war than to start one. 
+Just as important to think through the ``why and how''' of committing 
+troops to conflict, we must also think through the ``why and how'' of 
+ending an engagement. Timing is a key element of both considerations.
+  For many Americans, including me, the war in Iraq has been difficult 
+to justify. But all Americans, except perhaps a few who may be 
+partisanly vindictive, should want as positive a result as possible, 
+given the circumstances we now face. The decision to go to war may have 
+been misguided and strategies involved in conducting it mistake-ridden; 
+nonetheless there should be clarity of purpose in ending the conflict, 
+with the goal neither to ``cut and run,'' nor simply to cut losses. At 
+this junction of involvement we should define cogently our purposes and 
+by so doing create a basis both for a viable future for Iraq and for a 
+U.S. disengagement that respects the sacrifices of those who have 
+served so valiantly in our armed forces and those of our coalition 
+allies.
+  Americans understand that three rationales were given at successive 
+stages for the war. The first involved Iraq's complicity in 9/11; the 
+second was the imminent threat of Iraqi WMD; and the third was the 
+desire to replace the despotic regime of Saddam Hussein with a free, 
+democratic government. The first two arguments have proven frail. The 
+third has some legitimacy, but to many of us it never seemed 
+compelling, particularly in relation to the costs of the conflict.
+  In any regard, whether or not democracy provided a compelling 
+rationale for starting the war, it offers the most appropriate 
+rationale for ending it. If we do not prepare to leave Iraq on our 
+terms, stating clearly that now that a Constitution has been adopted, 
+elections held, and a government formed, we are prepared to proceed 
+with a comprehensive and orderly draw-down of our troops, we will be 
+viewed as an occupying power lacking credible motivations. When we 
+eventually leave, the other side will claim they forced us out. That is 
+why it is as critical to define the rationale for our disengagement as 
+the reason for going to war. And democracy is the only rationale I know 
+that can be used as a basis for ending our involvement in this conflict 
+with any hope of suggesting a partial measure of success. The key is 
+that we must control and be seen as controlling our own fate.
+  All Americans should be respectful of the sacrifices of our men and 
+women in uniform. They have been placed in an untenable situation. If 
+they had not been so heroic and in many cases so helpful in rebuilding 
+neighborhoods and schools, the U.S. would face a far more difficult 
+dilemma today.
+  But we have no choice except to assess whether Osama Bin Laden and 
+his movement have not been given added momentum by our intervention in 
+Iraq, and whether the ideologically advocated policy of establishing 
+long-term bases or one of returning our troops home is likely to be the 
+more effective strategy in prevailing in the world-wide war on terror.
+  Here, it should not be hard to understand that prolonged occupation 
+of a country which encompasses an area of land where one of the world's 
+oldest civilizations prospered is humiliating to a proud people and 
+those elsewhere who share its great religion. It should also not be 
+hard to understand that the neo-con strategy of establishing a long-
+term military presence in Iraq with semi-permanent bases raises the 
+risk of retaliatory terrorist attacks at home and abroad.
+  Indeed, according to the University of Chicago scholar, Robert Pape, 
+in his definitive book on suicide bombers, Dying to Win, the principal 
+reason anarchists choose to wrap themselves in explosives and kill 
+innocent civilians is to register martyred objection to the occupation 
+of countries or territories by the armed forces of Western or other 
+Democratic governments. Suicide bombing, by implication, will exist as 
+long as occupations continue.
+  In this regard, a note about al Qaeda is in order. Just as neither 
+Iraq with its secular leanings nor any Iraqis were responsible for 
+9/11, so Saddam Hussein apparently considered Osama Bin Laden as much a 
+rival as a soul brother. It is Western military intervention that has 
+precipitated al Qaeda's rapid growth in Iraq and elsewhere, creating a 
+``cause celebre'' for its singularly malevolent actions. If American 
+withdrawal policy comes to turn on the question of anarchy--i.e., 
+troops can't be drawn down as long as IEA attacks continue--we place 
+ourselves in a catch-22 and, in effect, hand over decision-making 
+discretion to those who wantonly kill. We allow the radical few to use 
+our presence as the reason for their actions and at the same time cause 
+our involvement to be held hostage to their villainy.
+  On the other hand, if we proceed with a turn-over of responsibilities 
+to the new, freely elected Iraqi government, Sunni dissidents will 
+confront a critical choice: to pursue the insurgency or join the 
+political process. Pursuing the insurgency would be a risky gamble; if 
+it fails, Sunnis may fall under Shiite domination
+
+[[Page H4065]]
+
+for years to come, and the demise of Abu Musab al-Zarqawi makes 
+prospects of expanding influence through terrorist tactics less likely. 
+Joining the political process, on the other hand, would guarantee 
+Sunnis a role in governing the country.
+  Though the prudential and civilized choice may seem obvious to us, a 
+continued American military presence in Iraq gives Sunni radicals a 
+popular cause--ridding the country of the occupier--for rallying 
+popular sentiment in Iraq and elsewhere and justifying continued 
+violence. Announcing the commencement of an orderly drawdown of our 
+troops, and trumpeting it widely, would rob radicals of this powerful 
+cause, allowing moderate Sunnis to join the government and pursue 
+sectarian interests through the constitutional process.
+  In the realm of policy timing can often be as important as substance. 
+Just as Senator Dirksen once noted that a billion dollars here and a 
+billion dollars there and pretty soon you're talking about real money, 
+in foreign affairs a week here and a week there can soon add up to a 
+policy dilemma.
+  It is possible, of course that civil strife will ensue when we 
+withdraw, but this is just as likely to be the case in 2026 as 2006. In 
+any regard, civil union is for the Iraqi people to manage. It's not for 
+American troops to sustain. The authorization this Congress gave to the 
+Executive to use force contemplated the clear prospect of military 
+intervention in Iraq. It did not, however, contemplate prolonged 
+occupation. If this is not understood by the Executive branch, the 
+current overwhelming Iraqi polling sentiment favoring American troop 
+withdrawal will be more than matched by shared American sentiment. And 
+in a democracy no one can be a leader without followers.
+  The older I get, the more central I consider the human factor to be 
+in international relations. Logic is never totally dominant. No one 
+knows the exact origins of the seven deadly sins, but to the degree 
+human nature is the least changed aspect of the human condition, it is 
+relevant to today's debate to contrast two human foibles: avarice and 
+pride. Let me suggest that avarice, the weakness of business classes, 
+is fundamentally more pragmatic than pride, the weakness of 
+politicians, and pride is fundamentally more dangerous than avarice.
+  For example, if a bookstore owner were to read two books and strongly 
+prefer one to the other, he might inventory half a dozen of the one he 
+prefers and one of the other. But if his customers buy the one he likes 
+least, he will not reorder the one he likes. He will put it on the 
+discount shelf and re-order the public's choice. His pride isn't hurt. 
+In politics, on the other hand, the tendency is to avoid embarrassment, 
+never acknowledge error. Mistakes are often repeated to avoid political 
+inconsistency.
+  An anecdote comes to mind. In one of my early terms in Congress I was 
+invited to the Library of Congress to a seminar Henry Kissinger was 
+asked to give on the 1973 Paris Peace Accords. Before going, I perused 
+one of his autobiographical tomes and was struck by a singular 
+paragraph. In December 1968, Kissinger as the National Security Council 
+Advisor-designate met with Richard Nixon, then the President-elect. 
+They agreed, he wrote, that their policy would be to disengage from 
+Vietnam. After Kissinger had delivered his lecture, I asked him about 
+his pre-Presidency strategy talk with Nixon. Why, I inquired, didn't 
+the Nixon administration immediately do what he said they had decided 
+in December 1968, to do? Kissinger looked at me and responded: ``We 
+meant with honor.'' I asked him if honor required escalation. 
+``Absolutely,'' he replied.
+  ``Honor'' and ``pride'' do not have the same meaning. But in some 
+circumstances they are clearly first cousins.
+  I mention this incident as a reflection of human nature and the 
+psychology of decision-making. LBJ was too much of a Texan to reverse 
+gear on his own policies; Nixon was too much a product of the Cold War 
+to risk being perceived as less tough than his Democratic predecessor.
+  All wars evoke analogies to prior conflicts; Vietnam is on everyone's 
+mind. My sense is that references to our Southeast Asian experience are 
+somewhat oblique, but important to ponder. Of particular relevance is 
+the advice of a former Vermont Senator, George Aiken, who suggested we 
+just declare victory and get out of Vietnam. Aiken's advice was rooted 
+in frustration, but wise as it was, represented more spin than reality. 
+Given the strategies then in play, victory wasn't close at hand. Today, 
+on the other hand, despite the escalation of world-wide violence and 
+the precipitation of widespread mistrust of the United States, 
+particularly in Muslim societies, the Administration can point to 
+positive political change in Iraq. An Aiken approach might not be 
+historically compelling, but it would have more currency now than when 
+originally suggested.
+  In governance, judgment to be good must be timely. If we maintain a 
+heavy presence much longer our president could find himself in a 
+dilemma of the kind Lyndon Johnson and Richard Nixon came to know too 
+well. Despite the overwhelming nature of our military capacities and 
+the courageous commitment and sacrifice of our armed forces, well-
+intentioned policies can fail if they are inadequately justified, 
+poorly executed, or pursued too long. The timing and explication of 
+disengagement can be as consequential as the decision to intervene.
+  This is why clarity of purpose and flexibility of response are so 
+crucial. Hasty withdrawal is problemsome; orderly, philosophically 
+cogent decisions to wind down the military dimension of our presence in 
+Iraq should, however, be our highest national interest priority.
+  It would be a mistake of historical proportions if respectful 
+relations not only between America and the Moslem world but between 
+America and its traditional allies were to rupture. We are obligated to 
+see that they don't.
+  In a broader historical and philosophical context, the American 
+intervention in Iraq underscores the need to probe the question of the 
+limits of power of a superpower and the possible anomaly that there are 
+liabilities of power, particularly for a superpower.
+  Does, for instance, overwhelming military might alone protect us from 
+terrorism, or if wielded unwisely, does it escalate our vulnerability 
+to terrorism?
+  Likewise, does overwhelming economic power ensure loyalty and buy 
+friendship even from countries most indebted to the United States, or 
+does it inspire resentment?
+  With each lED explosion and suicide bomb attack it becomes clearer 
+that America and the world community are in a strategic pickle. In an 
+era of anger, of divisions in the world based on economics, on color of 
+skin, on ethnicity, on religious upbringing, on happenstance of family 
+and place of birth, those who have causes--good and bad--have new 
+globalized techniques of being heard and felt. Great leaders like 
+Mahatma Gandhi and Martin Luther King appealed to the higher angels of 
+our nature and achieved revolutionary change with non-violence. More 
+mendacious leaders like Adolf Hitler, Saddam Hussein and Osama Bin 
+Laden have sought to impose their wills on others through appeals of 
+hate and reliance on increasingly wanton instruments of oppression.
+  The policy question Americans must think through is whether great 
+powers may be more effective with policies of restraint rather than 
+intervention. Just as Gandhi and King led non-violent revolutions which 
+have proved more lasting than the barbarism of Stalin and Pol Pot, 
+maintenance and embellishment of the American model of governance may 
+itself be more intrusively revolutionary in oppressed societies than 
+interventionist policies.
+  Caution and restraint are better models for 21st Century statecraft 
+than naive adventurism.
+  With this admonition in mind, it is critical that Members of the 
+Executive Branch must understand that how and what they say to justify 
+various policies determines how others respond.
+  Anyone who ever studied physics may recall that Sir Isaac Newton set 
+forth three fundamental laws, the second of which was that for every 
+action there is an equal and opposite reaction. A decade ago when the 
+Congress was led by an extraordinary upstart whose first name was Newt, 
+I suggested, at first as a pun, the existence of a fourth ``Newt-
+onian'' law, this one of social physics: reaction is greater than 
+action. My thoughts at the time related to the partisan bickering 
+within Congress. But with the passage of time I have come to the 
+conclusion that international slights have graver consequences than 
+domestic.
+  When, for instance, we use words like ``evil,'' reference events like 
+the Crusades, and employ tactics designed expressly to ``shock and 
+awe,'' should we not expect others to think and respond in like or 
+escalated terms, although the methods employed might in the current 
+vogue be described as asymmetric?
+  This brings me to several broad precepts, one of which is seemingly 
+trite, and others of which are intended to form a theoretical and 
+practical framework for a recalibrated foreign policy.
+  First, the trite. Every society has a sage who cautions that wise 
+leaders should put themselves in the shoes of their adversaries before 
+reaching self-centered judgments. The profoundest illustration of this 
+comes from literature rather than Clausewitz or Tsun Tsu.
+  When speaking to constituents of the rationale for and against the 
+Iraq War, I have over the past couple of years referenced a set of 
+books that provides more geo-political wisdom than balance of power 
+strategists: the Alexandria Quartet by Lawrence Durrell.
+  Set in inter-war Egypt, each of Durrell's four books chronicles the 
+same series of events through the eyes of a different participant. 
+While the events repeat, the stories are profoundly different. The 
+implicit moral is that one set of eyes, one set of interactions, is 
+insufficient to gain a full grasp of what is happening around us. 
+Likewise, in world politics one
+
+[[Page H4066]]
+
+country's perspective is not enough. The views of others matter. If we 
+are to manage prudently the affairs of state, we have to use more than 
+just our own eyes, rely on more than just our own experience, and 
+reference more than our own historical circumstance.
+  The Muslim experience, for instance, gives substantially less weight 
+than the Western experience to the two cataclysmic wars of the 20th 
+century. Despite Lawrence's involvement in Arabia and the battles 
+between Allied forces and Rommel's tanks, the engagements in the Middle 
+East and North Africa were skirmishes compared with the struggles in 
+Europe and the Far East. Not only do Muslims see the 20th century 
+differently from Westerners, but Europeans and Americans have drawn 
+different strategic parallels in the application of common experience 
+to current challenges in the Middle East.
+  In the immediate aftermath of the First World War, historians and 
+political strategists in Europe rightly concluded that the European 
+alliance system had been too rigid and the assassination of a 
+relatively minor figure, an archduke, should not have precipitated a 
+war of such devastating consequences. Hence European leaders in the 
+1930's falsely concluded that historical wisdom necessitated initial 
+accommodation with Hitler's adventurism. Too little flexibility caused 
+one war; too little spine led to Munich. In the current context, 
+President Bush sees himself as Churchill rather than Chamberlain, but 
+Europeans see 9/11 as more analogous to the shots fired at Archduke 
+Ferdinand than as a cause for a doctrine of preemption or war with 
+Iraq, a war that could too easily spring into a clash of civilizations.
+  If we're ever going to have a chance to shape or deter the actions of 
+others, we must understand their reasoning. Failing to understand or 
+respect Muslim culture, for instance, resulted in the greatest 
+intelligence failure of our era. It is, however, not the sole 
+intelligence failure. In one of the greatest judgmental errors of our 
+time, we appear to have attempted to combat the ideological posturing 
+of others by ideologizing our own intelligence. Based on what is known 
+today, policymakers wrongly implied Iraq played a role in the 9/11 
+attack and not only erred in assessing Saddam Hussein's WMD capacities 
+but put too much faith in a narrow cadre of policymakers who suggested 
+the United States would be welcomed as a liberating rather than 
+conquering or, worse yet, colonizing force in Iraq. Estimates of the 
+costs of war, of the ramifications of our involvement, of the expected 
+reaction of the population and of the likelihood of foreign respect and 
+support were dead wrong.
+
+  Now, given the anarchy that has mushroomed in the country, Washington 
+is swept by occupation analogies of World War II. Japan and Germany, it 
+is noted, were occupied for more than five years after hostilities 
+ceased. Hence, many are suggesting, we must be prepared to stay at 
+least this long in Iraq.
+  I have seldom been more apprehensive about an historical analogy. 
+Japan and Germany were the instigators of war; their citizens 
+understood this. The Muslim population throughout the world does not 
+see it this way. They see the U.S. as the aggressor. Images from Al-
+Jazeera portray a country under siege. In the Moslem world Iraq looks 
+more like a police-cordoned West Bank than a great and ancient society 
+on the move to a better life. Outsiders are viewed as unwanted 
+intruders acting out of great power self-interest, disrespectful of the 
+culture and values of the country being occupied.
+  Yet if we take the most difficult geo-strategic issues of the day, it 
+is impressive how we seem to misunderstand the fundamentals of human 
+nature. Publics in many parts of the world are crying out for two 
+aspirations: respect and hope. But our policy response is an entirely 
+parochial one, rooted in the so-called doctrine of American 
+Exceptionalism, which neo-cons do not define as refining a shining City 
+on a Hill but as the right of a superpower to place itself above the 
+legal and institutional restraints applied to others.
+  In the Neo-con world, values are synonymous with power. The implicit 
+assumption is that American security can be bought and managed alone, 
+without allies, without consideration of contrasting international 
+views or the effect of our policies on others. Treaties like a 
+Comprehensive Test Ban, which every President since Eisenhower has 
+propounded, have been rejected, as have negotiations to strengthen the 
+verification provisions of the Biological Weapons Convention.
+  Legitimacy is critical for all countries. There may be times and 
+circumstances in which the U.S. national interest requires action 
+without the support of our allies or without United Nations sanction. 
+But the U.N., in particular, is ignored at great risk, especially when 
+the international community is largely at odds with American policies. 
+In this context, recent rhetorical attacks by ideologues in and out of 
+government on the U.N. and other multilateral institutions would appear 
+to particularly ill-serve the American national interest.
+  The diplomatic issue our government has to come to grips with today 
+is the problem of sequencing. Which comes first--the chicken or the 
+egg--is the most cheerful and abstract philosophical discussion 
+Americans engage in. But which precedes the other--talk or war--is 
+neither cheerful nor abstract. Experience would seem to indicate that 
+while war may not be averted by negotiations, it is less likely to 
+break out if direct dialogue occurs beforehand. In adversarial 
+situations pacific results can seldom be achieved without human 
+interaction. That is why our founders clearly contemplated that the new 
+American Republic would have diplomatic relations with undemocratic 
+states. It is why Prime Minister Rabin, when faulted for talking to 
+Arafat, noted that you don't make peace with friends.
+  There are few examples in history where empty chair diplomacy has 
+proved effective. Indeed, it is next to impossible to reach mutual 
+accommodation if there is not mutual understanding and a modicum of 
+trust and respect which only personal relationships can provide.
+  The sequencing dilemma is particularly evident with regard to Iran. 
+Not only should we not fear to negotiate, we must understand that as 
+the stronger party, we can afford to put on the table steps, 
+particularly related to process, that weaker parties are less able to 
+initiate without seeming to capitulate. Unfortunately, we have over a 
+number of Administrations chosen to isolate rather than engage Iran. 
+The question is whether isolationist policies drive a proud people to 
+greater extremes. A stigmatic refusal to interact has characterized our 
+policy toward Iran for a generation and, just as haplessly, Cuba for 
+two.
+  Some of us have fretted for a long time that a more forthcoming U.S. 
+diplomatic approach might have produced a more stable Persian Gulf. 
+Five years ago Senator Specter and I invited to Capitol Hill the 
+Iranian Ambassador to the U.N. In a long meeting over dinner in a small 
+room on the Senate side of the Capitol, I indicated that while many of 
+us would like to see more direct contact between the U.S. and Iran, 
+normalization of relations was inconceivable unless Iran ceased 
+supporting Hamas and Hezbollah. The ambassador responded with 
+frankness. He chillingly acknowledged Iranian support of Hezbollah but 
+then asserted that such support would cease the moment a peace 
+agreement between Israel and the Palestinians was reached in a 
+framework acceptable to the Palestinians.
+  The slight hope implicit in this position may or may not have 
+reflected Tehran's real position at the time, but it is apparent that 
+Ahmedinajad is far more radical today than Khatami was yesterday. While 
+neither has nor had the power of the Ayatollahs, the hardening of 
+Iranian public attitudes toward us and Israel makes questions about the 
+effectiveness of our strategic and psychological isolation of Iran 
+important to ponder.
+  Last week the administration suggested a possible policy shift. We 
+indicated a willingness to join the Europeans in talks with Iran if 
+Iran first agrees to freeze uranium enrichment activities. This 
+approach might presage a nuanced new American flexibility. But much 
+depends on the Iranian response. Our position appears to be that we 
+will proceed with sanctions and contemplate sterner actions if Iran 
+does not capitulate on the uranium issue, but we will not talk to the 
+government unless it first acquiesces. In other words, the goal of 
+negotiations must be achieved before we will negotiate. Conditional 
+approaches like this are needlessly ``high wire''; nevertheless, in 
+contrast with prior diplomatic intransigence they may represent the 
+best hope yet of yielding a conflict-averting break-through on the NPT 
+issue.
+  Yet policymakers in Washington appear to underestimate a series of 
+strategic phenomena. Hezbollah is far larger, more sophisticated and 
+experienced in terrorist undertakings than Al Qaeda. A preemptive 
+strike on Iranian nuclear facilities would unleash a level of anarchy 
+in world affairs that would be unprecedented. It would slow but not 
+stop its ability to develop nuclear weapons. It would have little 
+effect on Iran's ability to obtain such weapons elsewhere. The ``loose 
+nuke'' phenomenon is real. A rich country has as good a chance to 
+purchase or steal weapons of mass destruction as it does to develop 
+them on its own. And if that country is attacked as part of an effort 
+to block nuclear development, it has to be assumed it will have new 
+incentives to seek and use such weapons. This prospect could presumably 
+be heightened if bunker busting bombs tipped with small nuclear 
+warheads are employed.
+  The U.S. thus faces a double catch-22: embargoing Iran hurts our 
+economy more than theirs and attacking militarily the Iranian 
+infrastructure ensures immediate asymmetric violent responses as well 
+as the greater likelihood that weapons of mass destruction once 
+obtained will be used against us and our allies at a later point.
+  This brings us to the last underestimation by Washington. We may be 
+considering a conflict
+
+[[Page H4067]]
+
+of a few weeks duration--one to three weeks of intensive bombing. The 
+Iranians may be thinking of a multi-decade or multi-century response. 
+Western history has known a 30-year war. Eastern peoples carry in their 
+hearts the burden of centuries of crusades, and many Islamic radicals 
+today would like the 21st century to be a continuation of what they 
+consider to be a struggle against Judeo-Christian intervention. 
+Sequencing is a historical as well as diplomatic term of concern.
+  The Iranians, too, are in a quandary. They recognize that no American 
+President can take the force option completely off the table. They 
+suspect DOD has made extensive contingency plans and they see a 
+President who has little hesitancy to take difficult, unpopular 
+decisions. They know he is in his last term and does not want to pass 
+on strategic problems to his successor. They may reason that a U.S. 
+decision to attack is irrational because it would solidify a radical 
+reaction in Iran, in other Muslim countries, and perhaps even within 
+the U.S., but the government of Iran cannot be certain that the 
+President will conclude that he would be passing on a bigger mess if he 
+attacked rather than engaged.
+  The Iranian challenge is stickier than many Americans assume. The 
+President may see himself in a position analogous to that of John 
+Kennedy in the Cuban Missile Crisis. Kennedy was dealing with 
+Khrushchev and a Soviet system that had many despotic dimensions. But 
+while communism was manipulated in such a manner as to become a quasi-
+state religion, it is fundamentally about political and economic rather 
+than spiritual relationships. Iran, on the other hand, is a theocracy 
+in a region where religion and, too frequently, its perversion are 
+dominant themes. Just as the Iranian government must understand the 
+strong will of the President, Washington has to come to grips with the 
+pride and principles of an adversary which is the inheritor of one of 
+the oldest civilizations on earth. Each side may understand the 
+consequences of individual actions, but that does not mean that 
+decisions in one or the other country will not unfold domino-like in a 
+manner that could be catastrophic for all. That is why human 
+interrelationship--diplomacy--is so key.
+  Let me suggest a corollary to Lord Acton's maxim that power corrupts 
+and absolute power tends to corrupt absolutely. The Leach corollary is 
+that military power tempts and excessive power tends to tempt 
+excessively. America's enormous military strength is critical at this 
+stage in history. But while we are obligated to recognize that its 
+maintenance is imperative, we must also realize that its utilization 
+may not fit, and may indeed be counter-productive, in certain strategic 
+settings.
+  Analogies between all wars exist, but comparisons between Iraq and 
+Vietnam are frail. What must be understood is not that Iraq could be as 
+bad as Vietnam; rather, that it is becoming far worse. Vietnam, after 
+all, involved no WMD issues; and while the North was predominantly 
+Buddhist and the South Catholic, there were no implications of a world-
+wide religious struggle; nor of a conflict that might last many 
+decades, if not centuries. The issue at the time was Communism and 
+fears that if Vietnam fell, neighboring governments would topple like 
+dominoes. In retrospect, the real domino lesson of Vietnam was about 
+political decision-making. Once the patriotic flag was raised, stands 
+taken, words uttered, one doubtful decision precipitated another, and 
+the pride of politicians did not allow a change of course until the 
+people demanded common-sense reconsideration.
+
+  Interestingly, in the 19th century, two obscure Italian political 
+theorists, Vito and Pareto, noted that for all the differences in 
+political systems, one person alone at the top had the power to make 
+critical decisions for a nation. While these decisions might be of a 
+social magnitude, they are personal in the making.
+  Our Founders were moral as well as political thinkers. They feared 
+kingly powers and wanted shared decision-making, especially when it 
+came to war. But as we all have come to understand, modern times have 
+produced wars without formal declarations approved by Congress. In 
+response to Vietnam, Congress fashioned the War Powers Act to establish 
+new constraints on the Executive. While most Constitutional scholars 
+are convinced the Act would be declared unconstitutional if it were 
+ever tested, it stands today as the law of the land. What is often 
+overlooked, however, is that the Act also empowers the Executive wide-
+ranging options to commit American forces for a period of several 
+months. Hence, there is little doubt that the administration assumes it 
+has no need to come to Congress if it decides to launch an air assault 
+on Iran, as long as it is only of multi-week duration.
+  Let me conclude with an observation about priorities, contrasts, and 
+principles.
+  First, priorities. The Iraqi war has had the unfortunate effect of 
+decreasing American attention on both Afghanistan and the Israeli-
+Palestinian dilemma, both of which have extraordinary consequences for 
+U.S. national security. In addition, while I have assumed for most of 
+my adult life that war and peace is the biggest issue in the world, the 
+bigger challenge to life itself may be disease control. We have lost 
+nearly 2,500 American troops in Iraq and 20 to 40 times as many Iraqis 
+have been killed. But over the past two decades more than 20 million 
+people have died of AIDS, and this number will double or triple in the 
+next decade or two. Likewise, a new flu epidemic might match or exceed 
+these numbers. Yet we are spending less on these problems than the cost 
+of one month's fighting in Iraq.
+  Second, contrasts. Educated Americans are well aware of the ideas 
+that Samuel Huntington and Joe Nye of Harvard have propounded about the 
+dangers of a clash of civilizations and of the importance of soft as 
+contrasted with hard power in diplomacy. These are important frameworks 
+of thought for the American public to dwell upon. But I would add to 
+those considerations the elements of individual judgment and the 
+contrasting model of realism vs. pseudo-realism in policymaking. 
+Realists look to effect, not to appearance. But Washington today has 
+come under the sway of the grim neo-con notion that diplomacy, 
+particularly multi-lateral diplomacy, is soft-headed. Is this not 
+pseudo-realism? What is more realistic and more consistent with the 
+American heritage than attempting to advance the rule of law? An 
+earlier excess of pseudo-realism caused the Senate to reject Wilsonian 
+idealism and ignore the League of Nations. Nevertheless, it approved 
+U.S. participation in the World Court. Americans want law and order. 
+Americans also prefer to work in alliances. It is neo-con nonsense, 
+realism inverted, to press a foreign policy rooted in snubbing the 
+concerns of others.
+  One of the myths of our time is that realism is principally about 
+might. Actually, realism is about the human condition. A great power 
+must maintain a strong military capacity, but it is the human condition 
+that must be improved if national security is truly to be secured. 
+Impoverished nations are breeding grounds for radicalism. Where there 
+is no hope, there is nothing to lose. When life, as Hobbs described, 
+becomes nasty, brutish, and short in a jungle of hopelessness, and 
+humiliation, it becomes easily expendable, sometimes by martyred self-
+choice.
+  Finally, a note about principle. Never has it been more important to 
+return to the basics. Whether it be tax policy or foreign policy, the 
+concern must be for justice and the common good, what the 19th century 
+British utilitarians described as concern for the greatest good of the 
+greatest number.
+  The public wants its leaders to unify and uplift. Elections are about 
+whether political leadership is up to the task. Democracies provide 
+continual verdicts. This fall will be one measure.
+  Mr. MURTHA. Mr. Speaker, I yield 3 minutes to the gentlewoman from 
+Ohio (Mrs. Jones).
+  Mrs. JONES of Ohio. Mr. Speaker, I thank the gentleman for yielding, 
+and I would like to thank all the members of the Out of Iraq Caucus who 
+have spoken so eloquently this afternoon.
+  I rise in opposition to H. Res. 861 and in support of Representative 
+Murtha's proposal to redeploy our troops.
+  Since this war began, we have seen nearly 2,500 casualties. This 
+number does not include the nearly 20,000 who have been wounded. I 
+would like to take a moment to talk about the significance of those 
+casualties and wounded because I often feel that we gloss over those 
+numbers and forget that each one is or was an actual person. They were 
+somebody's son or daughter, somebody's mother or father, somebody's 
+brother or sister.
+  They are real people, as real as 19-year-old Private Brandon Sloan 
+and First Sergeant Robert Dowdy, who were the first soldiers from my 
+congressional district to become casualties in the 507th Maintenance 
+Group incident. They are as real as the 325th Marine Regiment of 
+Brookpark, Ohio, who suffered multiple casualties. I attended those 
+funerals and those memorials.
+  They are as real as Sergeant Shurvon Phillip, an East Cleveland 
+resident and Shaw High School graduate, who recently returned to 
+Cleveland after suffering serious injuries in Iraq and enduring weeks 
+of recovery. Shurvon is now paralyzed, and because of a brain injury, 
+he cannot talk. We welcomed him home last Saturday at the Louis Stokes 
+VA Medical Center.
+  Shurvon's mother, Gail, had this to say: ``That Jack Murtha, he came 
+to see my son three times and each time he treated Shurvon as his own 
+son.'' Shurvon's mother, Gail Ulerie, had this to say about President 
+Bush when he came to see him to give the Purple Heart to her son while 
+he has at Bethesda Naval Hospital: ``I am glad for
+
+[[Page H4068]]
+
+my son to receive a Purple Heart, but he was in no condition to 
+appreciate it. He was in bad shape. I also said some things to 
+President Bush that he, President Bush, did not like. I basically told 
+him he should end this war and bring our troops, like my son, back 
+home. He did not answer, just walked away.''
+  I say we should not walk away from the young men and women who are 
+left over in Iraq and Afghanistan. We should remember what Shurvon's 
+mother said. Bring our troops home. Bring our troops home. Bring our 
+troops home. She said she did not want to see any more young men or 
+women laying back like this, and if you saw Shurvon you would know what 
+I meant. He is in a chair, where he is sat up like this. His lips are 
+swollen, sticking out. He can hardly say a word. We are saying to him, 
+you know, Shurvon, we are sorry you are a casualty; you stood up for 
+your family; you stood up for the United States of America. But he 
+cannot stand up for himself.
+  Let us stand up for the young men and women of America. Bring our 
+troops home, redeploy them, and let us think of America first.
+  Ms. ROS-LEHTINEN. Mr. Speaker, I am pleased to yield 2 minutes to the 
+gentleman from New Jersey (Mr. Smith) who is the chairman of the 
+Subcommittee on Africa, Global Human Rights and International 
+Operations, of our International Relations Committee.
+  Mr. SMITH of New Jersey. Mr. Speaker, I thank the gentlewoman for 
+yielding.
+  Mr. Speaker, the overwhelming majority of U.S. forces have performed 
+their mission in an exemplary, professional fashion and deserve both 
+our praise and profound thanks.
+  Mr. Speaker, we all know that Iraq remains a dangerous place today 
+because hate-filled fanatic, perhaps even psychotic, mass murderers 
+bomb and shoot innocent men, women, and children. The terrorists have a 
+morbid fascination with all things violent. There is nothing whatsoever 
+benign or noble or praiseworthy about these people. They are mass 
+murderers.
+  If left unchecked, the terrorists would impose dictatorship once 
+again on Iraq and Afghanistan, which would result in more mass 
+killings, systematic torture, rampant fear, political prisoners, and an 
+end to freedom and liberty.
+  While I respect the right of those who criticize our Iraq policy and 
+our solidarity with the Iraqi people, I do remain deeply disappointed 
+that those who protest U.S. policy outside of this Chamber seldom, if 
+ever, criticize the terrorists. No harsh, mocking words of condemnation 
+of George W. Bush is left unspoken. You hear it on TV, talk shows, and 
+at war protests; but no such righteous anger is directed at the mass 
+murderers who blow up our soldiers or incinerate pious worshippers in 
+prayer or kidnap, torture and kill humanitarian workers.
+  American coalition soldiers in Iraq are peacemakers who have the 
+toughest job in the world. They are peacemakers who put their own lives 
+at risk to create sufficient space and order so that democracy and 
+respect for human rights can grow and peace can be established.
+  I want our soldiers to come home and to come home soon, but that 
+fervent hope must be tempered with reality on the ground and what our 
+commanders on the ground think best. To leave prematurely or pursuant 
+to an arbitrarily arrived at deadline established by Members of 
+Congress may unwittingly put more lives at risk and strengthen the 
+fanaticism and hope of the terrorists.
+  Mr. Speaker, I rise in support of H. Res. 861.
+  The Hyde resolution honors--and profoundly thanks--all those 
+American, Iraqi, Afghan, and coalition forces who have so courageously 
+fought the war on terror, especially those who have lost their lives in 
+the defense of freedom.
+  Our war dead--and wounded--define anew what it means to be brave and 
+honorable and good.
+  And our condolences and prayers go to the families of the fallen.
+  The overwhelming majority of U.S. forces have performed their 
+missions in an exemplary, professional fashion--and deserve both our 
+praise and profound thanks.
+  We all know that Iraq remains a dangerous place today because hate-
+filled, fanatic--perhaps even psychotic--mass murderers bomb and shoot 
+innocent men, women, and children. In the past their thugs were in the 
+government suites and Hussein's opulent palaces--now some remain in the 
+streets--hopefully not for long.
+  The terrorists have a morbid fascination with all things violent. 
+There is nothing whatsoever benign or noble or praiseworthy about these 
+people.
+  They are mass murderers.
+  If left unchecked, the terrorists would impose dictatorship once 
+again on Iraq and Afghanistan, which would result in more mass killing, 
+systematic torture, rampant fear, political prisoners and an end to 
+freedom and liberty.
+  While I respect the right of those who criticize American policy and 
+our solidarity with the Iraqi people, I remain deeply disappointed that 
+many of those who protest U.S. policy outside of this chamber seldom--
+if ever--criticize the terrorists.
+  No harsh, mocking thoughts of condemnation of President George W. 
+Bush are left unspoken. You hear it on TV and radio talk shows and at 
+war protests, but no such angst is directed at the mass murderers who 
+blow up our soldiers or incinerate pious worshipers at prayer in 
+Mosques or who kidnap, torture, and kill humanitarian workers trying to 
+save and enhance the lives of the vulnerable.
+  American and coalition soldiers in Iraq and Afghanistan are 
+peacemakers and they have the toughest assignment in the world. They 
+are peacemakers who put their own lives at risk to create sufficient 
+space and order so that democracy, respect for human rights, and peace 
+can be established and grow.
+  I want our soldiers to come home--and soon.
+  But that fervent hope must be tempered with realities on the ground. 
+What do our military commanders on the ground think? To leave 
+prematurely or pursuant to an arbitrarily arrived at deadline 
+established by members of Congress may unwittingly put more lives at 
+risk and strengthen the fanaticism and hopes of the terrorists.
+  Still, public debate on exit strategy is important--even necessary--
+because it puts pressure on us all to figure out how to prudently 
+accomplish redeployment and it puts constructive pressure on Iraqi 
+leaders to move more quickly to take ownership of their own security.
+  Mr. MURTHA. Mr. Speaker, I yield 6 minutes to the gentleman from 
+Maryland (Mr. Hoyer).
+  Mr. HOYER. Mr. Speaker, I thank my friend from Pennsylvania for 
+yielding.
+  Mr. Speaker, every Member of this House wants our Nation and our 
+coalition partners to succeed in helping the Iraqis establish a 
+democratic government that respects human rights and abides by the rule 
+of law and to succeed in standing up Iraqi security forces that can 
+maintain order and protect their citizens.
+  We pray, of course, for the safe return of our brave servicemen and -
+women who are fighting for freedom half a world away, and we applaud 
+their success last week in eliminating the terrorist murderer Zarqawi. 
+The professionalism, bravery, and sacrifice of our Armed Forces are 
+indeed awe-inspiring.
+  This year, Mr. Speaker, 2006, should be a year of transition in Iraq; 
+and it is my expectation that the United States will be able to reduce 
+the American troop deployment over the ensuing months and transfer the 
+risks and responsibilities to the duly elected government of Iraq. That 
+is what has been proposed.
+  Today, it is regrettable that this Republican majority seeks to 
+exploit this critical issue of national security for political 
+advantage. The resolution before us, like the Hunter resolution that 
+was debated last December, was drafted, in my view, for political 
+reasons.
+  As Majority Leader Boehner explained, its purpose is an opportunity 
+to create ``a portrait of contrasts between Republicans and 
+Democrats.''
+  For our country's sake, for our troops' sake, the majority should 
+have offered a resolution that sought unity, rather than division.
+  There are provisions in this resolution, of course, with which all of 
+us agree. I, for one, strongly share the resolve to prevail in the war 
+on terror. However, this resolution misstates, in my opinion, the facts 
+about why the Bush administration instigated our military action 
+against the Hussein regime in 2003. It paints a picture of Iraq today 
+that does not comport with the reality on the ground, and it ignores 
+the fundamental responsibility of this Congress to conduct meaningful 
+oversight of the administration's conduct of this war.
+  The political motivations underlying this resolution have been laid 
+bare; and, thus, I will be forced to vote ``no.''
+
+[[Page H4069]]
+
+  The American people will not be deceived by this exercise today which 
+our Republican colleague of North Carolina (Mr. Jones) labeled a 
+charade.
+  The American people know, as Lieutenant General Gregory Newbold, the 
+former commanding general of the 1st Marine Division, said, ``What we 
+are living with now is the consequences of successive policy 
+failures.''
+  The administration manipulated intelligence on weapons of mass 
+destruction. It ignored the advice of top military commanders and sent 
+too few troops to accomplish the task; and, consequently, we failed to 
+stabilize Iraq after Hussein was rightfully removed from power.
+  It fired police and security forces and oil workers, which fueled the 
+instability and initiated war before making alternative plans to shut 
+off escape routes to the north when the Turks would not let us come in.
+  It had no effective plan to quickly get infrastructure repaired and 
+rebuilt. It failed to properly equip our own troops, as Mr. Murtha has 
+observed, 2,500 of whom have given the ultimate measure of sacrifice in 
+this war.
+  It grossly underestimated the costs of the war at about $60 billion, 
+which now stands six times larger and more.
+  And when confronted with concrete evidence of widespread mistreatment 
+of detainees in American custody, the President failed to hold anyone 
+in his administration accountable.
+  Sadly, and dangerously, according to the Pew Research Center, the 
+global credibility of the United States has sharply declined.
+  The record of the Republican Congress is, in my opinion, no less 
+disturbing. This proud body, the people's House, has abdicated its 
+oversight role and failed to root out waste, fraud and corruption so 
+prevalent in Iraq today.
+  Nearly $9 billion in reconstruction funds are unaccounted for. No-bid 
+contracts have been awarded to private contractors such as Halliburton. 
+Detainees in American custody have been abused and, in some instances, 
+killed, and still, still, there is no effective oversight on these 
+matters in the Congress of the United States.
+  In the face of one of the most important issues before our country, 
+we have been presented with politics as usual.
+
+                              {time}  1745
+
+  It is an effort to divide, when an effort to unite was in our 
+country's and our Armed Forces' best interest.
+  I regret that I have to vote ``no.'' I believe success in our efforts 
+in Iraq is important to achieve, but partisanship only impedes the 
+attainment of that objective; an objective, hopefully, that we all 
+share.
+  Ms. ROS-LEHTINEN. Mr. Speaker, I am pleased to yield 2 minutes to the 
+gentleman from California (Mr. Rohrabacher), who chairs the 
+Subcommittee on Oversight and Investigation for our International 
+Relations Committee.
+  Mr. ROHRABACHER. It is good that the American people are able to hear 
+this debate and judge for themselves who should be making the policies 
+and which policies are best for our country.
+  I have been through this before. I worked in the White House with 
+Ronald Reagan for 7 years, and I heard some of the same shrill voices 
+that we hear today in those days. I heard the same gutting of the 
+President of the United States for political purposes, but also for 
+idealistic reasons during those days. I heard Ronald Reagan called a 
+warmonger. I heard all of the charges that we hear today aimed at our 
+President aimed at Ronald Reagan, and by some of the same people, I 
+might add.
+  We have voices who are idealistically opposed to war and are in fact 
+affected in their heart, perhaps more than others, when war does come, 
+as it comes to all free people because without strength of purpose and 
+willingness to fight there will be no freedom in this world. But when 
+we fought communism, President Reagan stood firm when the shrill voices 
+of defeatism and retreat attacked him personally and attacked our 
+effort and tried to undermine that effort in the same way our effort 
+today is being undermined by nitpicking, backbiting, and defeatism. 
+Yet, he stood firm and, guess what? The world was amazed when the evil 
+of communism collapsed.
+  Well, today we are in a war with radical Islam, which is every bit as 
+much a threat and hates Western democracy every bit as much as the 
+Communists did. We have made a stand in Iraq, and I would hope that 
+people understand that had Ronald Reagan backed down, we would still be 
+in the middle of the Cold War. And if we back down today, as is being 
+advocated, what I consider to be a cowardly retreat, it will have 
+consequences. It will not end the war.
+  Ms. ROS-LEHTINEN. Mr. Speaker, I yield to Mr. Buyer for the purposes 
+of a unanimous consent request.
+  (Mr. BUYER asked and was given permission to revise and extend his 
+remarks.)
+  Mr. BUYER. Mr. Speaker, I rise in support of the resolution.
+  Immediately following the attacks on September 11, 2001, this 
+Nation's focus was on countering the fundamental ideals of terrorism 
+that spawned the attack on our homeland. Osama bin Laden and his Al 
+Qaeda network, Saddam Hussein, and the Taliban, connected together 
+through the terror they inflicted, had shared ambitions to destroy our 
+way of life. Five years later, we have witnessed successes of 
+historical proportions. Saddam--imprisoned and on trial for acts 
+against humanity; Osama is on the run and we captured his number two; 
+the Taliban no longer exists--for the first time in Afghanistan, their 
+citizens are free to hope and dream; women are receiving an education. 
+Al Qaeda is demonstrating what comes from the crushing pains of defeat, 
+left only with cowardly acts of desperation in a weakening effort to 
+survive the blows that we have dealt it.
+  Today in Iraq we are on the verge of the blossoming of a successful 
+new republic, accomplished by the perseverance of its citizens, and the 
+sacrifices of many. Yet, some of our own countrymen are showing a 
+dangerous tendency to waiver, their faith shaken by the drive-through 
+mentality of our society. They are verbalizing their doubts at a time 
+when we need them to stand strong. The peace-doves who turned hawks of 
+circumstance after September 11 were predicted to not have the 
+intestinal fortitude to see this fight through to its necessary 
+resolution. They are living up to that prediction despite the threat of 
+terrorism still lurking around the world.
+  We cannot forget that the goals of Al Qaeda and Osama bin Laden are 
+to destroy western culture in all of its forms and manifestations. All 
+across America, our constituents live their lives--take their kids to 
+school, go to work, earn a living--and this is the strength of our 
+Nation. However, we still live in the shadow of a real and looming 
+threat to our way of life. We must remain vigilant of that threat and 
+stand firm in our vow to dismantle it. While we have not been attacked 
+on our own soil since September 11, we cannot afford the ramifications 
+of complacency. The recent arrest of bomb-building terrorists across 
+the border in Canada is clear evidence of that. We have forced the 
+terrorists into making this an ``away game,'' the battlefield pushed 
+from our homeland, but nonetheless the outcome must be in our favor. 
+Yes, the victories in this battle are many, but we must have the 
+resolve and determination to defeat terrorism here at home and abroad. 
+To succeed we must be absolute and have constancy of purpose.
+  For decades Saddam Hussein ruled Iraq with an iron fist of 
+repression. In the midst of that oppression was the intense yearning of 
+the Iraqi people to taste freedom. They were forced to keep their hopes 
+hidden, wrapped in a cocoon that they could one day blossom into the 
+living principles from which they could rebuild their nation. They have 
+emerged from that cocoon and are attempting to fly. The elements that 
+were forming in it have manifested themselves in the formation of their 
+new government, two successful national elections, and a successful 
+national constitutional referendum.
+  Iraq cannot continue to succeed in the transition from war to 
+building their Nation without our continued help. The people of Iraq 
+have appealed to us in this critically important period. We have 
+pledged our commitment to them and we need to see it through. The Iraqi 
+people are proud of their accomplishments thus far, but they have asked 
+for a steady hand of reassurance from us to help guide them in this 
+transition.
+  The pride and motivation that the Iraqi population has demonstrated 
+to this point are key elements to making their young government a 
+success. We must continue to nurture their growth of confidence so that 
+they can effectively govern, defend, and sustain themselves. The 
+motivation to man a completely volunteer Iraqi army is one point of 
+evidence that these people have pride and faith in their new republic. 
+We cannot fail the security of our own Nation and the people of Iraq in 
+a time of such dire need. The consequences of walking away at this 
+point are too great to fathom. We must maintain our resolve to follow 
+through with our commitment to the people of Iraq and in the global 
+fight to free ourselves from the grip and fear of terrorism.
+
+[[Page H4070]]
+
+  Mr. MURTHA. Mr. Speaker, I yield 30 minutes to the gentleman from 
+Missouri (Mr. Skelton), and I ask unanimous consent that he be allowed 
+to control the time and yield the time.
+  The SPEAKER pro tempore. Without objection, the gentleman is 
+recognized for 30 minutes.
+  There was no objection.
+  Mr. SKELTON. Mr. Speaker, at this time I yield 3 minutes to the 
+gentleman from South Carolina (Mr. Spratt).
+  Mr. SPRATT. Mr. Speaker, I thank the chairman for his indulgence and 
+for the recognition, and I want to focus on something that has been 
+little discussed in this debate, and that is how much this war is 
+costing us.
+  Cost is not the ultimate determinant. When we have troops in the 
+field, we should be unstinting in their support. But when the cost runs 
+into hundreds of billions of dollars, it has to be a consideration. The 
+greatest cost, of course, is counted in human lives: 2,514 killed so 
+far, 17,774 wounded so far. The dollar cost is not nearly so precious, 
+but it is substantial.
+  First, for comparison, here is what the first Persian Gulf War cost 
+us: $61 billion. But our allies contributed $10.6 in kind, $48.4 
+billion in cash contributions, and so out-of-pocket we were $2.1 
+billion. That, my friends, is the benefit of having allies.
+  Now, look at the annual cost of the war we are fighting. Notice that 
+it has increased by almost 100 percent from 2003 when the war itself 
+was fully going on, to this year, 2006, an increase from $51 billion to 
+$104 billion a year, annually.
+  The next chart then sums up the expenditures year by year, and you 
+can see the bottom line. Thus far through this year, the cost is $318 
+billion. Thus far. Iraqi Freedom alone is $318 billion. To express that 
+in monthly terms, something the Pentagon calls the ``burn rate,'' the 
+average expenditure per month for the troops we are maintaining there, 
+130,000 strong, is running at $8.4 billion a month. That is $8.4 
+billion a month.
+  Now, we have asked CBO, and CBO itself decided to set up a model to 
+estimate what the outyear cost of this deployment would be, assuming 
+that after this year there is a substantial drawdown to the point where 
+50,000 troops remain in theater, Afghanistan and Iraq. This covers 
+both. The total cost of this, over a period of 10 years, is $371 
+billion, assuming a modest increment in our deployment to that theater 
+of 50,000 additional troops. This is CBO speaking.
+  Now, if you add $371 billion to $318 billion, you get $689 billion. 
+That is what this war could cost us if its goes on at its current 
+level. And we have not reflected in this number the accrued costs we 
+are incurring daily due to the harsh environmental conditions in the 
+desert. The Army says it will cost $24 billion alone over the next 2 
+years to restore and repair and replace equipment.
+  Now, as I said, cost is not the ultimate determinant, but it has to 
+be a consideration when it reaches this magnitude. I do not think we 
+can debate the deployment in Iraq in existing troop levels in a vacuum, 
+as if the cost does not matter, as if we had infinite resources. Cost 
+matters if we are ever to balance our budget. Cost matters in meeting 
+other military needs for operations elsewhere in the world, for 
+transformation, and for modernization.
+  It is too bad we cannot have a full debate where we could express 
+fully all of the grave issues facing us due to the deployment in Iran.
+  Ms. ROS-LEHTINEN. Mr. Speaker, I am pleased to yield 2 minutes to the 
+gentleman from California (Mr. Royce), who is the chairman of the 
+Subcommittee on International Terrorism and Nonproliferation of our 
+International Relations Committee.
+  Mr. ROYCE. It becomes clearer by the day, Mr. Speaker, that we are 
+confronting a brutal, determined, and resourceful enemy: Islamist 
+terrorism, as the 9/11 Commission identified it.
+  We have seen messianic, violent ideologies before, but al Qaeda and 
+its ilk represent a more severe threat. In today's world, terrorists 
+could acquire weapons of mass destruction. Bin Laden has made clear his 
+intention to do so. It was such a concern that led President Bush to 
+remove Saddam Hussein from power, and Iraqis are better off for it.
+  We have heard legitimate debate of choices made in Iraq: Disbanding 
+the Iraqi army, troop levels, and we have heard other critiques. 
+Looking back, it is clear that this mission's difficulty and expense 
+were underestimated. Hopefully, we have improved our intelligence. But 
+dwelling on past choices does not get us ahead.
+  Looking ahead, I don't see how we succeed by immediately withdrawing, 
+as some are calling for. The position that our troops should stay 
+longer in Iraq makes us all uncomfortable. But an alternative, an 
+immediate withdrawal, concedes that Iraq will fall into chaos, because 
+there is no way that the Iraqi security forces could stand alone yet. 
+That is the judgment of our military professionals. So if you are going 
+to argue that the costs of staying are too high, you are obligated to 
+calculate the cost of withdrawing or the cost of what most certainly 
+would be our defeat.
+  The real world is dangerous, and unpleasant choices must be made. An 
+honest appraisal is that we don't know Iraq's future, but we know with 
+far greater certainty that an American withdrawal would spin Iraq into 
+chaos. Bedlam in the region would likely follow. This outcome would be 
+a stunning boost for jihadists, the forces determined to deliver as big 
+a blow as they can against the American people. We owe our Nation and 
+the Iraqi people our continued effort.
+  We know Iraq today is a central front in our struggle against 
+terrorism. Al Qaeda has said it, and last week's killing of al Zarqawi 
+in Iraq made it clear that our success there and our success in the 
+high stakes fight against terrorism go hand in hand.
+  Mr. SKELTON. Mr. Speaker, I yield 3 minutes to the gentleman from 
+Texas (Mr. Ortiz).
+  (Mr. ORTIZ asked and was given permission to revise and extend his 
+remarks.)
+  Mr. ORTIZ. Mr. Speaker, you know, this resolution before us today 
+commends our troops, and we realize that our troops are the greatest in 
+the world. This Nation must never forget that. And, of course, we all 
+agree that Saddam should have been removed. The problem was our 
+tactics, our planning. But this resolution nowhere addresses the 
+central issue that the American people are crying out for us to 
+discuss: Where do we go from here?
+  I think that the American people want an honest discussion about 
+where this Nation stands in the two wars that we are prosecuting today, 
+and in particular Iraq. I think that we owe this to the American people 
+who are risking their lives on a daily basis. We owe it to their 
+families, to the American people, and to our allies.
+  Supporting our troops means more than bumper stickers on trucks, 
+though of course we appreciate those people that put on the bumper 
+stickers. We appreciate that. But it is time to talk about the bottom 
+line in terms of soldiers, their blood, their future, their hopes, 
+hopes for the young people of this great country and the people in 
+Iraq, their young people.
+  I wish the resolution before us provided the context for this debate. 
+Honest discussion must include the nuts and bolts of this policy, 
+literally what we are expending daily in Iraq. You know, when we talk 
+about the policy, are we going to allow for us to conduct another 
+preemptive attack? Was this the wise thing to do? Was the planning 
+correct? Do we need to correct our mistakes? Do we need to change the 
+training? These are the things we need to look at.
+  If we truly want the Iraqis to stand up and protect their country, 
+and if we are ever ready to stand down, to stand down, are we ready to 
+put the money in the budget? I just came from a hearing a few moments 
+ago and we are having problems buying helmets to protect our soldiers. 
+We don't have a uniform policy on what helmets will protect the 
+soldiers. Our soldiers don't have the equipment that they need, and for 
+us to stand down, we need to provide the Iraqi army what they need, the 
+equipment. And we wonder, because we haven't been able to do that for 
+our troops.
+  Our military is the best. It has been feared throughout the ages for 
+our ability to respond immediately anywhere in the world, to be ready 
+to defend our freedom. I do support our troops.
+  Ms. ROS-LEHTINEN. Mr. Speaker, I am pleased to recognize for 2 
+minutes
+
+[[Page H4071]]
+
+the gentleman from Michigan (Mr. McCotter), who has been to Iraq three 
+times.
+  Mr. McCOTTER. Mr. Speaker, recently, I attended my oldest son's 
+eighth grade graduation, and graduating with him was Jennifer Davis, 
+the daughter of Karen and Major Miles Davis, who could not attend 
+because he was deployed to Iraq.
+  Mr. Speaker, this is why I believe we owe Americans an account of our 
+progress in the world war on terror, an assessment of the situation, 
+the stakes, and the strategy for victory in the battle for Iraq, as 
+well as an affirmation that we will defend our country, defeat the 
+enemy, and win this unsought struggle for survival. Unfortunately, this 
+resolution fails to do so, for it is strategically nebulous, morally 
+obtuse, and woefully inadequate.
+  This resolution sanitizes the hard truth that the enemy is trying not 
+only to intimidate us but to kill us. It provides an abashed defense of 
+our Nation's sovereign right to preemptively eradicate the terrorists 
+and their state sponsors before they kill us. It implies our preemption 
+of this threat must meet a global test for legitimacy.
+  It further fails to affirm the battle for Iraq was waged because 
+Saddam Hussein's regime was a direct threat to the United States of 
+America and was in violation of mandatory treaty obligations of said 
+United States of America.
+  It fails to stress our mission is to ensure a sovereign, free, secure 
+and united Iraq at peace with the United States, its coalition partners 
+and all other peaceable nations.
+  It fails to stress that terrorists seek to destroy the new unity 
+government because it threatens the terrorists' aspirations for the 
+United States of America, Iraq, our coalition partners and the broader 
+Middle East.
+  It asserts how despite the enemy having declared Iraq a central front 
+in the war on terror, the United States and its coalition partners will 
+continue to support Iraq as only a part of the war on terror.
+  It omits any mention of the battle for Iraq's difficulties and does 
+not offer a comprehensive strategy on how to conquer them. It overlooks 
+the fact our troops' return home hinges upon creating Iraqi security 
+forces and destroying the enemy's insurgency.
+
+                              {time}  1800
+
+  Finally, this resolution calls the terrorists our adversary, not our 
+enemy.
+  Mr. Speaker, at the graduation I did not try to comfort Karen Davis 
+by declaring her husband, Major Miles Davis, was in Iraq defending 
+global peace and security or enforcing United Nations resolutions. No, 
+I thanked Karen for her family's sacrifice because Miles was in Iraq 
+honoring his solemn pledge to God and to us to support and defend the 
+Constitution of the United States against all enemies.
+  So in this time of war when we ask the best of our troops and we ask 
+the best of their families, we must ask the best of ourselves. We have 
+not done so with this resolution, and that is why I will be voting 
+``present,'' because I am committed to victory in the war on terror.
+  Mr. Speaker, recently, I attended my oldest son's eighth grade 
+graduation. Graduating with him was Jennifer Davis, the daughter of my 
+childhood friend, Major Miles Davis, who could not attend. That night, 
+I talked with Miles' wife, Karen, who told me how painful it was for 
+their family to have Miles so abruptly deployed to Iraq.
+  Such heart rending scenes throughout our land are why I believe we 
+owe Americans more in this resolution than a simple declaration of our 
+resolve in Iraq. We owe them an account of our progress in the world 
+War on Terror; an assessment of the situation, the stakes, and the 
+strategy for victory in the battle for Iraq; and an affirmation we will 
+defend our country, defeat the enemy, and win this unsought struggle 
+for survival.
+  Thus, I rise to express my profound disappointment with this 
+resolution before us, because it is strategically nebulous; morally 
+obtuse; and woefully inadequate.
+  To begin, this resolution's purpose is limited to ``Declaring the 
+United States will complete the mission in Iraq and prevail in the 
+Global War on Terror, the struggle to protect freedom from the 
+terrorist adversary.''
+  This is patently inadequate to the task at hand; and, unfortunately, 
+under continued examination the resolution fares no better. To wit, the 
+first ``Whereas'' clause informs us: ``. . . the United States and its 
+allies are engaged in a Global War on Terror, a long and demanding 
+struggle against an adversary that is driven by hatred of American 
+values and that is committed to imposing, by the use of terror, its 
+repressive ideology throughout the world.''
+  This clause elicits elementary questions: what ``values'' of ours 
+cause our enemy to hate us; and what, precisely, is the enemy's 
+ideology? Sadly, this clause provides no clues.
+  The second clause recounts how: ``. . . for the past two decades, 
+terrorists have used violence in a futile attempt to intimidate the 
+United States.''
+  This clause is too sanitized. The hard truth is the enemy has not 
+tried to intimidate us. The enemy has tried to kill us and too often 
+succeeded. The enemy does so because our very existence as sovereign 
+citizens of a free Republic constitutes a beacon of hope for all who 
+are--and all who yearn to be--free; thus, we are our enemy's paramount 
+obstacle to world dominion.
+
+  Next the third clause right asserts: ``. . . it is essential to the 
+security of the American people and to world security that the United 
+States, together with its allies, take the battle to the terrorists and 
+to those who provide them assistance.''
+  Agreed. But this clause must stress both a philosophic principle and 
+a strategic tenet.
+  Philosophically, any state-sponsor of terror is a threat to the 
+United States, because terrorism is an attack upon the self-evident, 
+inalienable human rights to life, liberty and the pursuit of happiness.
+  Strategically, this clause falters as an oblique and abashed defense 
+of our Nation's sovereign right to preemptively eradicate terrorists 
+and their state-sponsors before they kill us. Instead, the clause must 
+reaffirm our Nation's full right of self-defense.
+  The seventh clause decries how: ``. . . by early 2003 Saddam Hussein 
+and his criminal, Ba'athist regime in Iraq, which had supported 
+terrorists, constituted a threat against global peace and security and 
+was in violation of mandatory United Nations Security Council 
+Resolutions.''
+  Bluntly, this clause omits the obvious: By early 2003 Saddam Hussein 
+and his criminal Ba'athist regime in Iraq, which had supported 
+terrorists, constituted a threat against the United States of America 
+and was in violation of mandatory treaty obligations to the United 
+States of America.
+  By omitting the fact Hussein's regime deemed the United States not as 
+just a part of the global community, but as a mortal enemy, this clause 
+wrongly implies our preemption of his threat must and does meet a 
+``global test'' for legitimacy.
+  The eighth clause reiterates: ``. . . the mission of the United 
+States and its Coalition partners, having removed Saddam Hussein and 
+his regime from power, is to establish a sovereign, free, secure, and 
+united Iraq at peace with its neighbors.''
+  Again, the point is missed. Our mission is to transform Iraq from a 
+rogue dictatorship aiding terrorists into a representative democracy 
+eradicating terrorists; and into a sovereign, free, secure, and united 
+nation at peace with the United States, its Coalition partners, and all 
+other peaceable nations.
+  Next, clause eleven's belief: ``. . . the terrorists seek to destroy 
+the new unity government because it threatens the terrorists' 
+aspirations for Iraq and the broader Middle East,'' also misses the 
+point. As an American, I believe the clause should read: ``the 
+terrorists seek to destroy the new unity government because it 
+threatens the terrorists' aspirations for the United States of America, 
+Iraq, our Coalition partners, and the broader Middle East.''
+  Now, at last, we reach the resolution's three lethal failings:
+  To start with, taken together, the ninth and fifteenth clauses raise 
+a stark conundrum. Ignoring that the United States, in word and deed, 
+first targeted Iraq as a ``central front'' in our War on Terror, clause 
+nine notes: ``the terrorists have declared Iraq to be a central front 
+in their war against all who oppose their ideology.''
+  Later, clause fifteen asserts: ``. . . the United States and its 
+Coalition partners will continue to support Iraq as part of the Global 
+War on Terrorism.''
+  These clauses' collective conundrum is this: if, after we militarily 
+deposed Hussein, the terrorist enemy now deems Iraq a central front in 
+its ``war against all those who oppose their ideology,'' why do we now 
+view Iraq as but ``part of the Global War on Terror''? Upon this 
+critical question and its ramifications, the resolution is silent.
+  The resolution's second lethal failing is found, interestingly 
+enough, in clause twelve, which offers hopeful news of how we, our 
+Coalition partners, and the Iraqis have: ``. . . scored impressive 
+victories in Iraq, including finding and killing the terrorist leader 
+Abu Musab al-Zarqawi.''
+  Well said. But nowhere does this resolution explain the battle for 
+Iraq's past, present, and future difficulties, or proffer any concrete 
+or comprehensive strategy as to how U.S., Coalition, and Iraqi forces 
+will confront and conquer
+
+[[Page H4072]]
+
+these challenges. One irony proves the point. My allotted time to speak 
+on this amendment is under the section dedicated to Iraqi 
+reconstruction. Yet nowhere in this resolution appears the word 
+``reconstruction.''
+  The resolution's final, and paramount, failing occurs in clause 
+thirteen, which assures us: ``. . . Iraqi security forces are, over 
+time, taking over from the United States and Coalition forces a growing 
+proportion of independent operations and increasingly lead the fight 
+against terror in Iraq.''
+  This clause's logic implies the enemy will remain operationally 
+active in Iraq when our military leaves the battlefield. This 
+implication stems from the incessant lack of emphasis accorded the 
+concomitant and equal pillar of the administration's military strategy 
+in Iraq. Specifically, the time required to win and bring our troops 
+home hinges upon creating Iraqi security forces and destroying the 
+enemy's insurgency. Continuing to emphasize the creation of security 
+forces while de-emphasizing the destruction of the terrorists' 
+insurgency, will only lengthen the time required to accomplish the 
+mission in Iraq and welcome our troops back.
+
+  Mr. Speaker, my time grows short, so, in conclusion, I will focus on 
+the one word in the resolved clause which, in fact, inexplicably 
+permeates the resolution; and, inexorably, precludes my support of this 
+resolution. The offending word is ``adversary.''
+  Starkly and sanely understood, within Iraq and the overarching world 
+War on Terror we do not have an adversary. We have an enemy. Thus, 
+because words have meaning, even if I could ignore the fact this 
+resolution is strategically nebulous, I will not overlook the fact it 
+lacks the moral clarity to call the terrorists our enemy.
+  Mr. Speaker, at St. Edith's eighth grade graduation, I did not try to 
+comfort Karen by declaring her husband Major Miles Davis was in Iraq 
+defending global peace and security; I did not try to comfort Karen by 
+proclaiming Miles was in Iraq to enforce violated U.N. resolutions; no, 
+I thanked Karen for her family's sacrifice, because Miles was in Iraq 
+honoring his solemn pledge to God and to us to ``support and defend the 
+Constitution of the United States against all enemies.''
+  Mr. Speaker, amidst an anguished era ennobled by our sacrifices in 
+the unsought struggle against a bloodthirsty enemy, we ask our troops 
+to do their best; we ask their families to do their best; and we ask 
+our fellow citizens to do their best But we, in ``the people's house,'' 
+have not done our best; and upon this resolution I will be voting 
+``present.''
+  I submit for the Record President Franklin Delano Roosevelt's Ninth 
+Annual Message to Congress, January 6, 1942.
+
+       In fulfilling my duty to report upon the state of the 
+     Union, I am proud to say to you that the spirit of the 
+     American people was never higher than it is today--the Union 
+     was never more closely knit together--this country was never 
+     more deeply determined to face the solemn tasks before it.
+       The response of the American people has been instantaneous, 
+     and it will be sustained until our security is assured.
+       Exactly one year ago today I said to this Congress: ``When 
+     the dictators . . . are ready to make war upon us, they will 
+     not wait for an act of war on our part . . . They--not we--
+     will choose the time and the place and the method of their 
+     attack.''
+       We now know their choice of the time: a peaceful Sunday 
+     morning--December 7, 1941.
+       We know their choice of the place: an American outpost in 
+     the Pacific.
+       We know their choice of the method: the method of Hitler 
+     himself.
+       Japan's scheme of conquest goes back half a century. It was 
+     not merely a policy of seeking living room--it was a plan 
+     which included the subjugation of all the peoples in the Far 
+     East and in the islands of the Pacific, and the domination of 
+     that ocean by Japanese military and naval control of the 
+     western coasts of North, Central, and South America.
+       The development of this ambitious conspiracy was marked by 
+     the war against China in 1894; the subsequent occupation of 
+     Korea; the war against Russia in 1904; the illegal 
+     fortification of the mandated Pacific islands following 1920; 
+     the seizure of Manchuria in 1931; and the invasion of China 
+     in 1937.
+       A similar policy of criminal conquest was adopted by Italy. 
+     The Fascists first revealed their imperial designs in Libya 
+     and Tripoli. In 1935 they seized Abyssinia. Their goal was 
+     the domination of all North Africa, Egypt, parts of France, 
+     and the entire Mediterranean world.
+       But the dreams of empire of the Japanese and Fascist 
+     leaders were modest in comparison with the gargantuan 
+     aspirations of Hitler and his Nazis. Even before they came to 
+     power in 1933, their plans for that conquest had been drawn. 
+     Those plans provided for ultimate domination, not of anyone 
+     section of the world, but of the whole earth and all the 
+     oceans on it.
+       When Hitler organized his Berlin-Rome-Tokyo alliance, all 
+     these plans of conquest became a single plan. Under this, in 
+     addition to her own schemes of conquest, Japan's role was 
+     obviously to cut off our supply of weapons of war to Britain 
+     and Russia and China--weapons which increasingly were 
+     speeding the day of Hitler's doom. The act of Japan at Pearl 
+     Harbor was intended to stun us--to terrify us to such an 
+     extent that we would divert our industrial and military 
+     strength to the Pacific area, or even to our own continental 
+     defense.
+       The plan has failed in its purpose. We have not been 
+     stunned. We have not been terrified or confused. This very 
+     reassembling of the Seventy-seventh Congress today is proof 
+     of that; for the mood of quiet, grim resolution which here 
+     prevails bodes ill for those who conspired and collaborated 
+     to murder world peace.
+       That mood is stronger than any mere desire for revenge. It 
+     expresses the will of the American people to make very 
+     certain that the world will never so suffer again.
+       Admittedly, we have been faced with hard choices. It was 
+     bitter, for example, not to be able to relieve the heroic and 
+     historic defenders of Wake Island. It was bitter for us not 
+     to be able to land a million men in a thousand ships in the 
+     Philippine Islands.
+       But this adds only to our determination to see to it that 
+     the Stars and Stripes will fly again over Wake and Guam. Yes, 
+     see to it that the brave people of the Philippines will be 
+     rid of Japanese imperialism, and will live in freedom, 
+     security, and independence.
+       Powerful and offensive actions must and will be taken in 
+     proper time. The consolidation of the United Nations' total 
+     war effort against our common enemies is being achieved.
+       That was and is the purpose of conferences which have been 
+     held during the past two weeks in Washington and Moscow and 
+     Chungking. That is the primary objective of the declaration 
+     of solidarity signed in Washington on January 1, 1942, by 
+     twenty-six nations united against the Axis powers. . . .
+       Plans have been laid here and in the other capitals for 
+     coordinated and cooperative action by all the United 
+     Nations--military action and economic action. Already we have 
+     established, as you know, unified command of land, sea, and 
+     air forces in the southwestern Pacific theater of war. There 
+     will be a continuation of conferences and consultations among 
+     military staffs, so that the plans and operations of each 
+     will fit into the general strategy designed to crush the 
+     enemy. We shall not fight isolated wars--each nation going 
+     its own way. These twenty-six nations are united--not in 
+     spirit and determination alone, but in the broad conduct of 
+     the war in all its phases.
+       For the first time since the Japanese and the Fascists and 
+     the Nazis started along their blood-stained course of 
+     conquest they now face the fact that superior forces are 
+     assembling against them. Gone forever are the days when the 
+     aggressors could attack and destroy their victims one by one 
+     without unity of resistance. We of the United Nations will so 
+     dispose our forces that we can strike at the common enemy 
+     wherever the greatest damage can be done him.
+       The militarists of Berlin and Tokyo started this war. But 
+     the massed, angered forces of common humanity will finish it.
+       Destruction of the material and spiritual centers of 
+     civilization--this has been and still is the purpose of 
+     Hitler and his Italian and Japanese chessmen. They would 
+     wreck the power of the British Commonwealth and Russia and 
+     China and the Netherlands--and then combine all their forces 
+     to achieve their ultimate goal, the conquest of the United 
+     States.
+       They know that victory for us means victory for freedom.
+       They know that victory for us means victory for the 
+     institution of democracy--the ideal of the family, the simple 
+     principles of common decency and humanity.
+       They know that victory for us means victory for religion.
+       And they could not tolerate that. The world is too small to 
+     provide adequate ``living room'' for both Hitler and God. In 
+     proof of that, the Nazis have now announced their plan for 
+     enforcing their new German, pagan religion all over the 
+     world--a plan by which the Holy Bible and the Cross of Mercy 
+     would be displaced by Mein Kampf and the swastika and the 
+     naked sword.
+       Our own objectives are clear; the objective of smashing the 
+     militarism imposed by warlords upon their enslaved peoples--
+     the objective of liberating the subjugated nations--the 
+     objective of establishing and securing freedom of speech, 
+     freedom of religion, freedom from want, and freedom from fear 
+     everywhere in the world.
+       We shall not stop short of these objectives, nor shall we 
+     be satisfied merely to gain them and then call it a day. I 
+     know that I speak for the American people--and I have good 
+     reason to believe that I speak also for all the other peoples 
+     who fight with us--when I say that this time we are 
+     determined not only to win the war, but also to maintain the 
+     security of the peace that will follow. . . .
+       The superiority of the United Nations in munitions and 
+     ships must be overwhelming--so overwhelming that the Axis 
+     nations can never hope to catch up with it. And so, in order 
+     to attain this overwhelming superiority the United States 
+     must build planes and tanks and guns and ships to the utmost 
+     limit of our national capacity. We have the ability and 
+     capacity to produce arms not only for our own forces, but 
+     also for the armies, navies, and air forces fighting on our 
+     side.
+       And our overwhelming superiority of armament must 
+     be adequate to put weapons of war at the proper time into 
+     the hands of those men in the conquered nations who stand 
+     ready to seize the first opportunity to
+
+[[Page H4073]]
+
+     revolt against their German and Japanese oppressors, and 
+     against the traitors in their own ranks, known by the 
+     already infamous name of Quislings. And I think that it is 
+     a fair prophecy to say that, as we get guns to the 
+     patriots in those lands, they too will fire shots heard 
+     'round the world.
+       This production of ours in the United States must be raised 
+     far above present levels, even though it will mean the 
+     dislocation of the lives and occupations of millions of our 
+     own people. We must raise our sights all along the production 
+     line. Let no man say it cannot be done. It must be done--and 
+     we have undertaken to do it. . . .
+       Our task is hard--our task is unprecedented--and the time 
+     is short. We must strain every existing armament-producing 
+     facility to the utmost. We must convert every available plant 
+     and tool to war production. That goes all the way from the 
+     greatest plants to the smallest--from the huge automobile 
+     industry to the village machine shop.
+       Production for war is based on men and women--the human 
+     hands and brains which collectively we call Labor. Our 
+     workers stand ready to work long hours; to turn out more in a 
+     day's work; to keep the wheels turning and the fires burning 
+     twenty-four hours a day, and seven days a week. They realize 
+     well that on the speed and efficiency of their work depend 
+     the lives of their sons and their brothers on the fighting 
+     fronts.
+       Production for war is based on metals and raw materials--
+     steel, copper, rubber, aluminum, zinc, tin. Greater and 
+     greater quantities of them will have to be diverted to war 
+     purposes: Civilian use of them will have to be cut further 
+     and still further--and, in many cases, completely eliminated.
+       War costs money. So far, we have hardly even begun to pay 
+     for it. We have devoted only 15 percent of our national 
+     income to national defense. As will appear in my Budget 
+     Message tomorrow, our war program for the coming fiscal year 
+     will cost $56 billion or, in other words, more than half of 
+     the estimated annual national income. That means taxes and 
+     bonds and bonds and taxes. It means cutting luxuries and 
+     other nonessentials. In a word, it means an ``all-out'' war 
+     by individual effort and family effort in a united country.
+       Only this all-out scale of production will hasten the 
+     ultimate all-out victory. Speed will count. Lost ground can 
+     always be regained--lost time never. Speed will save lives; 
+     speed will save this nation which is in peril; speed will 
+     save our freedom and our civilization--and slowness has never 
+     been an American characteristic. . . .
+       We cannot wage this war in a defensive spirit. As our power 
+     and our resources are fully mobilized, we shall carry the 
+     attack against the enemy--we shall hit him and hit him again 
+     wherever and whenever we can reach him.
+       We must keep him far from our shores, for we intend to 
+     bring this battle to him on his own home grounds.
+       American armed forces must be used at any place in all the 
+     world where it seems advisable to engage the forces of the 
+     enemy. In some cases these operations will be defensive, in 
+     order to protect key positions. In other cases, these 
+     operations will be offensive, in order to strike at the 
+     common enemy, with a view to his complete encirclement and 
+     eventual total defeat.
+       American armed forces will operate at many points in the 
+     Far East.
+       American armed forces will be on all the oceans--helping to 
+     guard the essential communications which are vital to the 
+     United Nations.
+       American land and air and sea forces will take stations in 
+     the British Isles--which constitute an essential fortress in 
+     this great world struggle.
+       American armed forces will help to protect this 
+     hemisphere--and also help to protect bases outside this 
+     hemisphere, which could be used for an attack on the 
+     Americas.
+       If any of our enemies, from Europe or from Asia, attempt 
+     long-range raids by ``suicide'' squadrons of bombing 
+     planes, they will do so only in the hope of terrorizing 
+     our people and disrupting our morale. Our people are not 
+     afraid of that. We know that we may have to pay a heavy 
+     price for freedom. We will pay this price with a will. 
+     Whatever the price, it is a thousand times worth it. No 
+     matter what our enemies, in their desperation, may attempt 
+     to do to us--we will say, as the people of London have 
+     said, ``We can take it.'' And what's more we can give it 
+     back--and we will give it back--with compound interest. . 
+     . .
+       Many people ask, ``When will this war end?'' There is only 
+     one answer to that. It will end just as soon as we make it 
+     end, by our combined efforts, our combined strength, our 
+     combined determination to fight through and work through 
+     until the end--the end of militarism in Germany and Italy and 
+     Japan. Most certainly we shall not settle for less.
+       That is the spirit in which discussions have been conducted 
+     during the visit of the British prime minister to Washington. 
+     Mr. Churchill and I understand each other, our motives, and 
+     our purposes. Together, during the past two weeks, we have 
+     faced squarely the major military and economic problems of 
+     this greatest world war.
+       All in our nation have been cheered by Mr. Churchill's 
+     visit. We have been deeply stirred by his great message to 
+     us. He is welcome in our midst, and we unite in wishing him a 
+     safe return to his home.
+       For we are fighting on the same side with the British 
+     people, who fought alone for long, terrible months, and 
+     withstood the enemy with fortitude and tenacity and skill.
+       We are fighting on the same side with the Russian people 
+     who have seen the Nazi hordes swarm up to the very gates of 
+     Moscow, and who with almost superhuman will and courage have 
+     forced the invaders back into retreat.
+       We are fighting on the same side as the brave people of 
+     China--those millions who for four and a half long years have 
+     withstood bombs and starvation and have whipped the invaders 
+     time and again in spite of the superior Japanese equipment 
+     and arms.
+       Yes, we are fighting on the same side as the indomitable 
+     Dutch.
+       We are fighting on the same side as all the other 
+     governments in exile, whom Hitler and all his armies and all 
+     his Gestapo have not been able to conquer.
+       But we of the United Nations are not making all this 
+     sacrifice of human effort and human lives to return to the 
+     kind of world we had after the last world war.
+       We are fighting today for security, for progress, and for 
+     peace, not only for ourselves but for all men, not only for 
+     one generation but for all generations. Weare fighting to 
+     cleanse the world of ancient evils, ancient ills.
+       Our enemies are guided by brutal cynicism, by unholy 
+     contempt for the human race. Weare inspired by a faith that 
+     goes back through all the years to the first chapter of the 
+     book of Genesis: ``God created man in His own image.''
+       We on our side are striving to be true to that divine 
+     heritage. We are fighting, as our fathers have fought, to 
+     uphold the doctrine that all men are equal in the sight of 
+     God. Those on the other side are striving to destroy this 
+     deep belief and to create a world in their own image--a world 
+     of tyranny and cruelty and serfdom.
+       That is the conflict that day and night now pervades our 
+     lives. No compromise can end that conflict. There never has 
+     been--there never can be--successful compromise between good 
+     and evil. Only total victory can reward the champions of 
+     tolerance, and decency, and freedom, and faith.
+
+  Mr. SKELTON. Mr. Speaker, I yield 2\1/2\ minutes to the gentleman 
+from Massachusetts (Mr. Meehan).
+  Mr. MEEHAN. Mr. Speaker, I thank the gentleman for yielding and thank 
+him for his leadership and for making sure that our men and women in 
+uniform get everything that they need.
+  This is an unfortunate day in the House of Representatives, the 
+people's House, where Members of this body were told we could have a 
+debate on Iraq. Surely it is time to have a discussion of our misguided 
+policy in Iraq. But rather than give us a debate on Iraq, we see a 
+resolution that comes from the Republican leadership that was drafted 
+by political experts on spin.
+  We all support our troops. We merge the war on terror with the war in 
+Afghanistan and the war in Iraq so that we can cloud the debate and 
+make the debate about whether and who supports the troops.
+  Surely we can do better than that. 2,500 Americans have been killed; 
+19,000 brave men and women have been injured. And there is no 
+accountability on the part of this Congress to the mistakes that have 
+been made.
+  ``They will welcome us when we get there.'' We had a window of 
+opportunity, and we missed it. We didn't send enough troops in to 
+secure the peace in Iraq. General Shinseki warned us, and they ignored 
+him and sent him out to pasture.
+  We didn't vet Saddam's army so we could secure Baghdad. Mistake. 
+Mistake. We have less oil production now than we did when Saddam was in 
+power. The Iraqi people have lost their opportunity. They have 3.9 
+hours of electricity in Baghdad and we are talking about things getting 
+better? In a time of war, this administration and this Congress has an 
+obligation to tell the truth about what is happening in Iraq.
+  We also have a responsibility to provide the oversight so we correct 
+mistakes, we get our troops into the background because we are sitting 
+ducks up there because we have an occupation that our own State 
+Department polls say is unpopular by 85 to 90 percent of the Iraqis.
+  I hear them talk about the terrorists and how we are fighting al 
+Qaeda. Al Qaeda was not in Iraq until this President stood before the 
+world and said, ``Bring it on. Bring it on.'' Well, they brought it on 
+and now 10 percent of the insurgency are actually terrorists. When we 
+leave Iraq, they will leave Iraq.
+  We ought to listen to what the State Department told us in advance. 
+We should look at our own investigations and analysis by the State 
+Department that tell us we cannot win this war militarily. You don't 
+beat an insurgency with military conflict; you beat
+
+[[Page H4074]]
+
+an insurgency through making the right planning decisions, by making 
+the right decisions to give the Iraqis what they need to be upfront to 
+keep their own security in that country. You give the Iraqis what they 
+need to make their own determination of what their future is. The time 
+has come for the United States to move into the background and bring 
+our men and women home.
+  Ms. ROS-LEHTINEN. Mr. Speaker, I am pleased to yield 3\1/4\ minutes 
+to the gentleman from Texas (Mr. McCaul), a member of the International 
+Relations Committee.
+  Mr. McCAUL of Texas. Mr. Speaker, September 11 changed our lives 
+forever. But the war on terror started long before that. The year 1979 
+changed the world. When Iran took our embassy hostage, the seeds of 
+Islamic jihad were spread all over the Middle East.
+  These seeds planted hatred and contempt for freedom in the souls of 
+men like Osama bin Laden. In 1983, they murdered our marines in Beirut. 
+In 1993, Ramzi Yousef and his al Qaeda associates bombed the World 
+Trade Center. They were supposed to fall that day, but that day would 
+come later.
+  They struck the Khobar Towers in 1996. They bombed our embassies in 
+Africa. They defeated us in Somalia. And they deliberately attacked the 
+USS Cole.
+  Each time we failed to respond. And then came September 11. It was as 
+if the United States was a sleeping giant. And not until the bloodiest 
+alarm of 9/11 did the giant finally awake. America cannot afford to go 
+back to sleep again.
+  We are fighting this war in distant lands, and we are winning. Our 
+struggle in Iraq and Afghanistan is the great stand in this war on 
+terror. The terrorists are there. Zarqawi was there before, and we are 
+there. And if we fail, the terrorists will prevail just as they have 
+over the last 30 years.
+  Behind me is a picture of Sergeant Byron Norwood taken moments before 
+he died for his country in this global war on terror. In Fallujah, 
+Sergeant Norwood helped save seven of his fellow marines in a gun 
+battle with insurgents and gave his own life in the process. Simply 
+put, Byron was a hero.
+  His story reminds me of the Bible verse found in the Gospel of John: 
+``Greater love hath no man than this, that a man lay down his life for 
+his friends.''
+  Some say we should retreat in this war on terror, but to them I say 
+to cut and run now would not only be an insult to those waging this 
+liberating battle but a dishonor to those like Byron who made the 
+ultimate sacrifice because few causes are as worthy, few prices are as 
+great.
+  I received a letter from Byron's mother expressing her concern that 
+the American people would soon forget about Byron and his sacrifice for 
+freedom. To Janet and all of the other Gold Star Mothers, I say we will 
+never forget Byron, and we will never forget about the other fallen 
+heroes who paid the ultimate sacrifice for freedom.
+  Whether it is Bill and Janet Norwood or the wounded soldiers at 
+Walter Reed Hospital or the soldiers I met with in Iraq, they all tell 
+me the same thing, Congressman, finish the job. And finish the job we 
+will.
+  I would like to close with a message that Byron's father gave to me 
+to deliver to this Chamber. Byron's father said, ``Byron understood the 
+meaning of Semper Fidelis, always faithful, as do all marines who were 
+there that day in Fallujah. He willingly gave his life, and others were 
+seriously and permanently wounded as they sacrificed for their band of 
+brothers and their country. He would never have traded honor for 
+political advantage.''
+  Mr. SKELTON. Mr. Speaker, I yield 2\1/2\ minutes to the gentleman 
+from Hawaii (Mr. Abercrombie).
+  (Mr. ABERCROMBIE asked and was given permission to revise and extend 
+his remarks.)
+  Mr. ABERCROMBIE. Mr. Speaker, I come to the floor to indicate to one 
+and all who cannot be here today that our legislative hands are tied. 
+We have no opportunity, even though we pleaded with the Rules Committee 
+to give us an opportunity to be able to speak on alternatives to this 
+resolution.
+  You have heard that this resolution is in support of the troops. It 
+is not. You have heard that this resolution is in support of the war on 
+terrorism. It is not. And I will tell you why it is not, and I will 
+tell you why we have to have an alternative and why we need to vote 
+``no'' on this resolution, because it doesn't support the troops, and 
+it does not support the war on terrorism.
+  The people in this resolution that are referred to, the honored 
+sacrifice that has been made by the Armed Forces of the United States, 
+is supposedly on behalf of somebody called Prime Minister Nouri al 
+Maliki, a man who today said he was going to engage in conversations 
+with terrorists who have murdered Americans to give them amnesty. This 
+is the amnesty resolution.
+  To vote for this resolution is to vote for those who support amnesty 
+for those who kill American troops. This is the government we are 
+supposed to be standing up and defending, the very freedom that gives 
+that prime minister the possibility of speaking to the terrorists has 
+been won by the blood and sacrifice of American troops. This is the 
+amnesty bill. This is the amnesty resolution.
+  There are people on this floor who will not grant amnesty to people 
+who cut their lawns, who wash the dishes in the restaurants they eat 
+in; but they are willing to vote for a resolution that says that they 
+support a government that is willing to give amnesty to people who 
+murder the men and women of the Armed Forces of the United States.
+  I am not going to do that. And if you disagree with that 
+interpretation, give me the right to put it on the floor for a vote and 
+let's see who wins the hearts and minds of the American people, not the 
+Iraqi people, as to who is really supporting the troops and who is 
+really willing to fight a war on terror.
+  This is nothing but a resolution confirming the existing 
+administration policies. Whether you are a Democrat or Republican, you 
+deserve the opportunity on the floor of the people's House to have a 
+real debate, not a discussion, not to echo sentiments, but to have 
+substantive words on the floor that allow the American people to 
+understand what direction do we want to take this country.
+  Ms. ROS-LEHTINEN. Mr. Speaker, I yield myself such time as I may 
+consume to clarify for the record that this resolution honors all those 
+Americans who have taken an active part in the global war on terror, 
+whether as first responders, protecting the homeland, as servicemembers 
+overseas, as diplomats and intelligence officers, and in other roles.
+  And further, it honors the sacrifice of the United States Armed 
+Forces and of partners in the coalition, and of the Iraqis and Afghans 
+who fight alongside them, especially those who have fallen or have been 
+wounded in the struggle, and honors as well the sacrifices of their 
+families and of others who risk their lives to help defend freedom. 
+This is a resolution to honor their sacrifice.
+  Mr. Speaker, I am pleased to yield 1\1/2\ minutes to the gentlewoman 
+from Florida (Ms. Harris), a member of the House International 
+Relations Committees.
+  Ms. HARRIS. Mr. Speaker, I rise in support of this strong, proactive 
+defense of our liberties and freedoms from the preying forces of 
+Islamic radicals in their jihad against the core values of our Western 
+Civilization.
+  We did not choose this war. They picked the fight. The events of 
+September 11 represented the final moment of spending our days as 
+bystanders.
+  Mr. Speaker, this debate is not about the choices which precipitated 
+the war in Iraq. The choice we face today, and Americans will face in 
+November, is between two visions: full commitment to protect our Nation 
+and prosecute the global war against terrorists, or complete surrender 
+to Islamic extremists who want to destroy us. There is no middle 
+ground.
+  Without maintaining pressure upon this global war, we face the grave 
+risk of producing homegrown terrorism. These radical Islamists would 
+rather take their fight to our streets, our communities, our 
+neighborhoods.
+  The necessity of a proactive, robust strategy recently was reiterated 
+by an ally too well-acquainted with the threat posed by radicalized 
+forces.
+  British Prime Minister Tony Blair said: ``We have to act, not react; 
+we have to do so on the basis of prediction, not certainty; and such an 
+action will often, usually indeed, be outside our own territory.''
+  America has acted. Our troops have responded honorably and 
+successfully.
+
+[[Page H4075]]
+
+Are we safe for today? Absolutely. Should we cut and run from Iraq? 
+Never.
+  As Winston Churchill said: ``We shall not fail or falter; we shall 
+not weaken or tire. Neither the sudden shock of battle nor the long-
+drawn trial of vigilance and exertion will wear us down. Give us the 
+tools and we will finish the job.''
+  Mr. SKELTON. I yield 2 minutes to the gentleman from Texas (Mr. 
+Reyes).
+  Mr. REYES. Mr. Speaker, I thank the gentleman for yielding me this 
+time.
+  This afternoon, regrettably, we are talking about the cost of this 
+war, the cost of the commitment of the American people: the cost in 
+money, and the cost in lives, over 2,500 to date; the cost in wounded, 
+over 18,000, with very little or no oversight, very little or no 
+accountability, and certainly very little or no shared sacrifice in 
+this country.
+
+                              {time}  1815
+
+  This resolution that we are discussing, because it is not even a 
+debate, is more about politics than about practical solutions. Anyone 
+that doubts that, all you have got to do is read the article in today's 
+paper that sets out the political strategy by the majority leader in 
+terms of this resolution.
+  Oversight, oversight, oversight. Where was our armor, both body armor 
+and vehicle armor? What was our plan post ``Mission Accomplished'' 
+press conference? Where were we during the issue of Abu Ghraib 
+rendition and so many other things that have come up?
+  In fact, last night I went home and I switched on the TV and I just 
+happened, by chance, to catch the program on HBO, Last Letters Home: 
+The Families. And it occurs to me this afternoon that we owe those 
+families from that HBO program, and the 2,500 other families, an 
+apology, because they have made the sacrifice. They understand the cost 
+of this war. And they must be wondering where the accountability and 
+where the oversight is. We need to apologize to them and to the 
+American people for not doing our job.
+  Ms. ROS-LEHTINEN. Mr. Speaker, I yield 2 minutes to the gentleman 
+from South Carolina (Mr. Barrett), who has traveled to Iraq and has 
+witnessed the progress firsthand.
+  Mr. BARRETT of South Carolina. Mr. Speaker, we have talked about 
+facts and figures tonight. We have talked about whether we have got the 
+right number of forces and how much money we are spending. But we can 
+talk about facts and figures all the time. This is more than that.
+  This is about faces. This is about faces in the fight on global 
+terror. This is about the faces of leaders like Maliki and Karzai, guys 
+that are worried whether the United States is going to keep its pledge 
+and its word to be with them to the bitter end.
+  This is about the faces of citizens who want to raise their families, 
+who want to live and worship in a country that is free, where they can 
+walk down the street without the fear of being blown up.
+  This is about the faces of families who are concerned about whether 
+we are going to do everything we need to do to make sure our soldiers, 
+sailors and airmen have everything they need in this fight.
+  This is about the faces of the enemy, cold blooded murderers with red 
+eyes who have only one mission in life, death or victory.
+  And this is about the faces of soldiers, dirty, tired, hungry, scared 
+sometimes, but soldiers with a resolute mission, a mission of victory.
+  Mr. Speaker, every day I thank God that we have men and women 
+worldwide willing to do something bigger than any of us here today, 
+willing to fight for freedom and justice and to keep America safe and 
+strong.
+  Mr. SKELTON. Mr. Speaker, I yield 2\1/2\ minutes to the gentleman 
+from Arkansas (Mr. Snyder).
+  Mr. SNYDER. Mr. Speaker, this resolution contains phrases such as 
+``we will prevail,'' words like ``determination,'' ``resolve,'' ``we 
+are committed to the completion of the mission.'' It is a good, well 
+written pep talk. But where is the discussion of how?
+  As Mr. Gilchrest, our colleague from Maryland and a decorated Vietnam 
+war veteran said, where is the urgency in figuring out how we are going 
+to do those things?
+  We should be having a debate and a discussion on how we will prevail, 
+not just that want to prevail.
+  Specifically, how are we going to equip a very poorly equipped Iraqi 
+army? How are we going to set up a system of support and supply and 
+repair for the Iraqi army? How are we going to ensure that more Iraqis 
+are employed and develop the economy? How are we going to increase 
+electricity production, which is below prewar levels? How are we going 
+to increase access to potable water and sanitation, which is below 
+prewar levels? How are we going to increase oil production and the oil 
+production sector, which is below prewar levels? How are we going to 
+finish putting together the provincial reconstruction teams? How are we 
+going to increase and improve the training of police? How are we going 
+to help create and improve local courts and the judicial system? How 
+are we going to improve the refining capacity? Iraq is an importer of 
+gasoline. How are we going to improve the accountability for 
+contractors? That means how are we going to quit wasting billions of 
+U.S. tax dollars? How are we going to find more allies to share in this 
+burden? How are we going to keep our Army, our military from breaking 
+down? How are we going to strengthen our Reserve component, our blessed 
+Guard and Reserve people? How are we going to preserve our all 
+volunteer Army? How are we going to increase our public diplomacy, so 
+that people will quit hating America all around the world? How are we 
+going to make our troops safer?
+  Those are the kinds of discussions we should be having. But what are 
+we doing? We are rehashing the past. We are talking about the 1990s. We 
+are talking about the war resolution. Let us look ahead. How are we 
+going to prevail? How are we going to keep this commitment to the 
+completion of this mission?
+  Specifically, I think we need to do far better oversight. I am a 
+member of the House Arms Services Committee. We are abysmal in our 
+oversight, abysmal.
+  Years ago when the Republicans took over, and maybe it was a good 
+move at that time, the Subcommittee on Oversight and Investigations was 
+eliminated. It has not worked to do that.
+  I see friends over here. Ladies and gentlemen, we need to bring back 
+the Subcommittee on Oversight and Investigations so we can ask these 
+kind of questions. How are we going to do the things? How are we going 
+to achieve this pep talk that is going to be voted on today or 
+tomorrow?
+  Ms. ROS-LEHTINEN. Mr. Speaker, I yield 2 minutes to the gentleman 
+from Texas (Mr. Poe), a member of the International Relations 
+Committee, who has traveled to Iraq, has met with our U.S. coalition, 
+and Iraqi troops.
+  Mr. POE. Mr. Speaker, I went to Iraq in 2005. I was one of two 
+Members of this Congress to view the first free elections in their 
+history, and I watched in awe and admiration as more than 8 million 
+people went to the polls and elected a government. Men and women, young 
+and old, courageously cast their ballots in the face of the violent 
+terrorists.
+  I spoke to many Iraqis and they showed great defiance against those 
+outlaws that wished to disrupt those elections. Despite facing 300 
+attacks across the nation that day, more than 60 percent of the Iraqis 
+went out to vote. Not even 44 murders by the terrorists could remove 
+the resolve of those people.
+  Men and women waited in line to cast their vote. They took the 
+historic ballots, entered a cardboard booth and made their choice. With 
+that simple but noble action, they pushed tyrants and terrorists aside 
+and set Iraq on a path to freedom. Then they marched down the street 
+holding their ink stained finger up high in defiance of those 
+terrorists.
+  I talked to Iraqis. And I talked to a woman who came up to me with 
+tears in her eyes after she voted and said how grateful she and her 
+family were for the America that we live in, for giving their sons for 
+her family's freedom.
+  She went on to relate to me how her husband and her brother had been 
+murdered by the devil of the desert, Saddam Hussein.
+  There have been more successful elections since the first, and the 
+skeptics and the critics get it wrong with each new free and successful 
+election.
+  Democracy is the enemy of terrorists. They hate democracies as much 
+as
+
+[[Page H4076]]
+
+they hate the human life of the innocents that they murder.
+  We cannot give in to these madmen. The insurgents have discovered 
+that the United States and her allies cannot be defeated on the 
+battlefield. They have also found that the steely resolve of the Iraqi 
+people to create a free and fair and inclusive government cannot be 
+broken. Liberty and freedom are overcoming treachery and tyranny and 
+violence. We will not fear nor flee nor flinch in this absolute 
+resolve.
+  And our mission statement was stated 40 years ago by President John 
+F. Kennedy when he said, ``Let every nation know, whether it wishes us 
+well or ill, that we will pay any price, bear any burden, meet any 
+hardship, support any friend, oppose any foe in order to assure the 
+survival and success of liberty.''
+  And that's just the way it is.
+  Mr. SKELTON. Mr. Speaker, I take this opportunity, in light of the 
+gentleman from Arkansas' comments, Dr. Snyder, to remind the body, Mr. 
+Speaker, that it was the Investigation Subcommittee of the Armed 
+Services Committee that produced the all important legislation we now 
+call Goldwater-Nickels, which brought about jointness within the armed 
+services.
+  And I also might mention that all 29 Democrats sent a letter to the 
+chairman of the Armed Services Committee, from which we have not 
+received an answer, recommending and asking that the Investigations Or 
+Oversight Subcommittee be reestablished.
+  Mr. Speaker, I yield 1\1/2\ minutes to the gentleman from Washington 
+(Mr. Smith).
+  (Mr. SMITH of Washington asked and was given permission to revise and 
+extend his remarks.)
+  Mr. SMITH of Washington. Mr. Speaker, this debate on this resolution, 
+and the resolution itself, continues two very dangerous patterns that 
+have sort of governed all of our actions in Iraq for far, far too long.
+  First of all, there are no specifics, as Congressman Snyder said 
+quite articulately, as to how we are going to achieve this victory.
+  When this debate was billed, we were told this was going to be the 
+floor of the House, the People's House talking about how to deal with 
+the very tough challenges that now present themselves in Iraq. Even the 
+President admits that things have not gone the way we had planned, and 
+we need to step up and figure out how to fix the problems.
+  And yet, this resolution doesn't say a thing about that. It says, 
+terrorism is bad, our troops are good, and we want to win.
+  This House is failing in its mission with such an open statement that 
+does not get at the how of winning. How are we going to deal with an 
+open-ended commitment to Iraq? How are we going to pay the price for 
+that? Is it even in the best interest of our goal of a stable and 
+peaceful Iraq to say that our troops will stay there for as long as is 
+necessary?
+  Those questions are not answered. Unless we in this House are willing 
+to step up and put policy forward, we shouldn't say that this is a 
+debate about the future of Iraq. It is not. We have many hard questions 
+that need to be answered. This resolution does not do that.
+  And the second dangerous trend is the pattern of the President and 
+the majority in this Congress to say anyone who disagrees with them is 
+somehow unpatriotic and defeatist, which to my mind means that we all 
+need a refresher course on why democracy is important. We are all very 
+good at saying that it is important. It is important so that we hear 
+all the voices, not just those who disagree with us. That way we can 
+learn from our mistakes, which we desperately need to do in Iraq.
+  Mr. Speaker, I rise in disappointment--though I must say, not in 
+surprise--about the exercise the House is engaged in today. This is not 
+a true debate about our policy in Iraq. A real debate on Iraq would 
+allow us to consider alternative proposals and vote on meaningful 
+amendments that could help us improve the very difficult situation 
+there. Instead we have before us an un-amendable, rhetorical document 
+about the war on terrorism that barely focuses on Iraq itself, and 
+certainly doesn't deal with the real challenges we face there. This 
+process is an offense to our democracy.
+  What is even more troubling, Mr. Speaker, is that this kind of 
+undemocratic approach is precisely what led to the Bush 
+administration's many costly mistakes in Iraq. Americans have seen how 
+the administration's stubborn single-mindedness and refusal to consider 
+alternative views and dissenting opinions have cost us dearly in Iraq. 
+The facts are all-too-well-known:
+  When General Shinseki said that far more troops would be needed to 
+secure the peace in Iraq, he was ignored and soon retired--and the 
+result was that the troops we did send struggled unnecessarily to 
+prevent and control a massive insurgency.
+  When advisors warned the administration not to de-Baathify and 
+disband the Iraqi military and security forces, they were ignored. As 
+Prime Minister Tony Blair has publicly admitted, this was a grave 
+mistake that effectively pushed thousands of military-trained, 
+disempowered Sunnis into the streets, fueling the post-war insurgency.
+  And the administration's refusal to heed dissenting views on Iraq 
+continues to this day. Now that the Special Inspector General for Iraq 
+Reconstruction has brought to light massive amounts of waste, fraud, 
+and abuse in the reconstruction contracting, I understand that the 
+administration and the Republicans in Congress are trying to 
+prematurely end his mandate.
+  This is a clear pattern, Mr. Speaker, and the consequences of this 
+arrogant, undemocratic approach are real. It has cost us dearly in 
+American lives and resources, undermined our efforts to build peace and 
+stability in Iraq, and delayed our departure from the country.
+  Mr. Speaker, I supported the use-of-force authorization in October 
+2002 in order to give the President the leverage to hold Saddam Hussein 
+accountable for his threatening behavior and refusal to submit to 
+weapons inspections. And that is what makes it all the more frustrating 
+that the President misused that authority by rushing to war and 
+committing so many grave and costly mistakes in Iraq.
+  So no, Mr. Speaker, this is not a real debate. A real debate would 
+allow us to consider the important questions in Iraq: Can we afford to 
+make an open-ended commitment to staying in Iraq? Has our troop 
+presence there reached the point where it is inhibiting a successful 
+transition to full Iraqi sovereignty? Can our strained military and 
+ballooning national deficit handle it?
+  How can we accelerate the transition to Iraqi sovereignty and 
+responsibility for their own country? How best can we engage in more 
+robust diplomacy with our allies and key regional players who can help 
+bolster the new Iraqi government and contribute to its reconstruction?
+  How can we improve Congressional oversight so that we can identify 
+and rectify the enormous mistakes the administration has made in Iraq?
+  These are the questions we should be debating, Mr. Speaker, because 
+they directly affect our ability to achieve success in Iraq. We owe it 
+to our brave men and women in uniform and to the American people to ask 
+these questions. But instead, we have a resolution before us today that 
+is basically irrelevant when it comes to the real issues in Iraq. It 
+says, essentially, that we support fighting terrorism and that we are 
+committed to achieving success in Iraq. I agree with that, but that 
+doesn't say anything about how we get there. That is the important 
+question.
+  Mr. Speaker, today Congress is continuing to utterly abdicate its 
+oversight responsibility. Since the outbreak of war, this Congress has 
+done little more than endorse the administration's policy in Iraq, 
+instead of asking the tough questions and scrutinizing that policy, as 
+the Constitution requires us to do.
+  Mr. Speaker, I hope, despite this Congress' refusal to conduct 
+oversight, that we can be honest today as we look ahead in Iraq. We all 
+want to see an Iraq that is stable, secure, and free. Our troops are 
+doing an outstanding job, and they deserve our full support and 
+respect. But the fact is that success or failure in Iraq increasingly 
+depends on the decisions of Iraqi leaders, and they must understand 
+that. In order to achieve success in Iraq we must accelerate the 
+transition to Iraqi sovereignty.
+  I believe that significantly reducing our military footprint is 
+critical for making that happen. While we cannot simply abandon Iraq at 
+this point, drawing down our forces levels in a responsible way in the 
+coming months will force the Iraqis to take greater responsibility for 
+their own security and reduce their dependence on U.S. forces. It will 
+also send an important message to the Iraqi people that Americans are 
+not there to occupy the country, but rather seek to begin leaving as 
+Iraqis take control of their own country.
+  Finally, Mr. Speaker, as we move forward in Iraq, both the future and 
+the past matter. We must make the best of a difficult situation by 
+working diligently to help Iraqis take full responsibility for running 
+their country so that our overburdened troops can come home. And we 
+must do so in a manner that does not give the violent Islamic 
+terrorists in the world any greater strength. Yet we must also be 
+willing to acknowledge and learn from our mistakes
+
+[[Page H4077]]
+
+so that we can chart a new path forward. That requires holding the Bush 
+administration and this rubber-stamp Congress accountable for their 
+failures.''
+  Ms. ROS-LEHTINEN. Mr. Speaker, before I yield to the gentlewoman from 
+Connecticut, I would like to give myself such time right now as I might 
+consume.
+  We have a strategy, and it is a strategy for success, Mr. Speaker. 
+Every day in Iraq and in Afghanistan is proof positive that we are 
+making progress and that we will prevail.
+  My colleagues on the other side of the aisle say we need to have a 
+debate on how to win. And I would point them to the Intelligence, to 
+the Armed Services Committee, our own International Relations 
+Committee, the countless hearings and meetings we have held to address 
+the issues that have been raised here. And while I will let Armed 
+Services discuss their oversight, I would like to read just briefly 
+some of the sessions held by our International Relations Committee on 
+Oversight.
+  Full committee hearings in the 109th Congress, in the 108th Congress, 
+full committee Members only meeting, subcommittee hearings in the 109th 
+Congress, subcommittee hearings in the 108th Congress, classified 
+briefings in the 108th and 109th Congresses, as well as a total of 9 
+resolutions of inquiry on Iraq referred to our committee.
+  Mr. Speaker, I yield 2 minutes to the gentlewoman from Connecticut 
+(Mrs. Johnson).
+  Mrs. JOHNSON of Connecticut. Mr. Speaker, let us be clear. Terrorism, 
+as a method of achieving political goals and settling political 
+differences, is intolerable to the civilized world. Inevitably, 
+terrorists will gain access to chemical, biological and even nuclear 
+weapons. Never has a non-government organization been able to deliver 
+weapons of mass destruction. That will be unprecedented, and it is 
+truly intolerable. So terrorism, as an organized system of political 
+action, must be defeated.
+  Within the Palestinian Authority, for the first time, the issue of 
+terrorism as a means of political action is now the issue between Mr. 
+Abbas and the Prime Minister. And in Iraq, the same issue is being 
+joined. The new Prime Minister recognizes that there can be no 
+government if political organizations are to each have their own 
+armies.
+  Iraqis had the courage to vote for the adoption of an interim 
+government, for a constitution, for a permanent government, and the 
+Prime Minister, as well as communities throughout Iraq, get it, that 
+governing themselves is what they want.
+  Our forces have distinguished themselves in Iraq, both as skilled 
+military units and model citizens, and I salute them. They have won the 
+war we had to win, and are now training thousands of Iraqis and 
+transferring authorities to Iraqi units to win the war only they can 
+win.
+
+                              {time}  1830
+
+  Our impatience to leave is matched by their impatience to take the 
+reins of their destiny. The reins are being transferred. Patience, 
+hope, perseverance. Our children will inherit a safer world.
+  My heartfelt gratitude for those who have given their lives to our 
+Nation, and for their families.
+  America salutes you.
+  I have a picture on my desk and letters in my files from families of 
+talented young men and women killed in Iraq. I am proud of their 
+commitment to our country of their service of the values they held 
+dear. But I am unendingly sad--for the sacrifice they and their 
+families have had to make.
+  Let us be clear--terrorism as a method of achieving political goals 
+and settling political differences is intolerable to the civilized 
+world.
+  Terrorism maximizes the killing of the innocent. Terrorism glorifies 
+the brutality of torture and murder. Terrorism knows no diplomats and 
+rejects negotiations as a means of resolving differences.
+  In our world, weapons of mass destruction--chemical, biological, and 
+nuclear--will be increasingly available to terrorist organizations 
+espousing terrorism as a means of political action.
+  That is unprecedented. Never has a non-nation organization been able 
+to deliver weapons of mass destruction. That is unprecedented, 
+unacceptable and intolerable.
+  Yet terrorism as an organized system of political action has 
+developed to new heights in the Middle East and it is there that it 
+must be defeated.
+  Within the Palestinian Authority, for the first time, the issue of 
+terrorism as a method of political action is now the issue between Mr. 
+Abbas and the Prime Minister. Very specifically, they are debating not 
+the legitimacy of a national army or diplomacy, but the legitimacy of 
+political armies, factional armies and terrorist action--that is, 
+violence ungoverned by national interest or law.
+  And in Iraq, the same issue is being joined. The new Prime Minister 
+recognizes that there can be no government if political organizations 
+(even if reflecting religious and ethnic differences) are to each have 
+their own armies governed only by the unlimited rights of terrorists to 
+kill others and terrorize those committed to public service.
+  Iraqis had the courage to vote to adopt an interim government, to 
+adopt a constitution, and to elect their first democratic government. 
+The prime minister, as well as communities throughout Iraq, get it, 
+that governing themselves is what they want, and they are in varying 
+degrees.
+  We as a people know the power of freedom under law. And our forces 
+have distinguished themselves in Iraq, both as skilled military units 
+and as model citizens respecting others and supporting and encouraging 
+the local processes of governance.
+  I salute our men and women of the U.S. military. They have won the 
+war we had to win and are now training thousands of Iraqis and 
+transferring authority to Iraqi units, to win the war only they can 
+win.
+  Ultimately, the Iraqi units will defeat terrorism as a method of 
+political action and the people all over the world will triumph. Our 
+impatience to leave is matched by their impatience to take the reins of 
+their destiny.
+  The reins are being transferred. Patience. Hope. Perseverance. Our 
+children will inherit a safer world as a consequence of our success.
+  Ms. ROS-LEHTINEN. Mr. Speaker, I yield 2 minutes to the gentleman 
+from Louisiana (Mr. Boustany).
+  Mr. BOUSTANY. Mr. Speaker, I come to the floor today to commend our 
+friends, the Iraqi people, for their success in forming a unity 
+government and, most importantly, to send a message that the United 
+States does not back down from its commitments.
+  Six months ago I visited Iraq following their national elections 
+which set up a truly representative and united government. Since then, 
+the Iraqi Government has made significant advances. Just last week we 
+saw the completion of the prime minister's cabinet, most notably the 
+key positions of the ministers of defense and interior. It is important 
+for the new Iraqi Government to fully understand our level of 
+commitment to them during this time of transition.
+  Let it never be said that the United States backed away from its 
+commitment to peace, security, and stability of this region.
+  A half century ago, Winston Churchill addressed this body to urge the 
+United States to not lose patience and not lose hope in our commitment 
+to rebuild a stronger, united Europe following World War II facing the 
+specter of communism. Mr. Speaker, Churchill's words still ring true 
+today. From the Berlin Airlift to the rebuilding of Japan, from the DMZ 
+in Korea to the mountains of Afghanistan, and now to the streets of 
+Baghdad, the world has come to learn that America does not back down 
+from its commitments.
+  Today we affirm our commitment not only to the Iraqi people but to 
+the cause of liberty throughout the world.
+  Mr. SKELTON. Mr. Speaker, I yield 1\1/2\ minutes to the gentlewoman 
+from California (Ms. Loretta Sanchez).
+  Ms. LORETTA SANCHEZ of California. Mr. Speaker, as a member of the 
+Armed Services Committee, I rise today to give voice to a few of those 
+outside views about Iraq, those of several former general officers who 
+have the courage to speak out about how this war has been mishandled by 
+the President and this Republican Congress.
+  Take, for example, General Anthony Zinni, former commander of the 
+U.S. Central Command. He says, ``We are paying the price for the lack 
+of credible planning, or the lack of a plan. Ten years' worth of 
+planning were thrown away, troop levels dismissed out of hand . . . 
+these were strategic mistakes, mistake of policy.''
+  Or how about Major General Paul Eaton, who led the initial effort to 
+create the Iraqi Army. He says that the ``failure to build coalitions 
+with our allies . . . has imposed far greater demands and risks on our 
+soldiers in Iraq than necessary.''
+  The list goes on and on. These generals have served our country with
+
+[[Page H4078]]
+
+honor and distinction, and we would be foolish not to heed their 
+counsel. But this administration and this majority refuse to listen to 
+any views other than their own.
+  I agree with many of my colleagues who say that the failure in Iraq 
+is not an option. But unless we take a long, honest look at how we got 
+where we are right now and demand some kind of accountability for the 
+mistakes that were made and learn from those mistakes, there can be no 
+success.
+  Ms. ROS-LEHTINEN. Mr. Speaker, I yield 2 minutes to the gentleman 
+from Kentucky (Mr. Lewis).
+  (Mr. LEWIS of Kentucky asked and was given permission to revise and 
+extend his remarks.)
+  Mr. LEWIS of Kentucky. Mr. Speaker, I rise today to voice my strong 
+support for House Resolution 861.
+  Answering questions at a September 27 Pentagon press conference, 
+former chairman of the Joint Chiefs of Staff, General Richard Myers, 
+said, ``If we are not successful in the global war on terrorism, then 
+our way of life is, indeed, at stake. My view is, if terrorism wins in 
+Iraq, the next 9/11 is right around the corner. It's just that 
+simple,'' he said.
+  This is the sober reality we face. Our safety at home and the cause 
+of freedom abroad is largely contingent upon our success in Iraq. Our 
+enemies would like nothing better than to seize upon the unrest in 
+Iraq, drive coalition forces away, and take refuge in another 
+autocratic regime like the former Taliban and Baathist Parties, from 
+which they could have greater wherewithal to kill Americans and our 
+allies. We must fight and win the battle against terror overseas so we 
+never have to fight it here at home.
+  As we have moved to restore order and stability to the region, our 
+temporary presence has drawn thousands of al Qaeda disciples to Iraq to 
+capitalize on what began as a small and anticipated homegrown 
+insurgency by Saddam Hussein's fiercest loyalists. Now Iraq is al 
+Qaeda's center of gravity, and we must do all that we can to secure and 
+stabilize Iraq and its promising new government, defeating agents of 
+terror on fronts abroad so they never again strike us here at home.
+  We must also remember that it is not a war of our choosing. al Qaeda 
+declared war against the United States more than a decade ago and 
+launched tactical strikes against Americans and our interests 
+throughout the 1990s. Whether or not Iraq was directly involved in the 
+September 11, 2001, attacks on the United States, our operations in 
+that nation have become a war against terrorists who have already 
+attacked this country.
+  It is essential to the security of the American people and to the 
+world's security that the United States together with its allies take 
+the battle to the terrorists and to those who provide them assistance.
+  Therefore, I do not believe it is in our national interest to 
+arbitrarily set a date for withdrawal until our mission is complete. 
+House Resolution 861 makes it clear that the American people are 
+determined to prevail in Iraq and other fronts to protect our freedom 
+and defeat terrorist enemies. To achieve this goal, we must remain 
+engaged, patient, and persistent.
+  Mr. SKELTON. Mr. Speaker, I yield 1 minute to the gentlewoman from 
+California (Mrs. Davis).
+  Mrs. DAVIS of California. Mr. Speaker, our men and women in uniform 
+have shouldered the enormous tasks we have asked of them; and they 
+should be commended for it, especially considering the careless way 
+this war was planned and conducted.
+  Our soldiers would never complain about the mistakes of their 
+Commander in Chief. The military just does not work that way. We all 
+know that. Without any second guessing, they will always do the jobs 
+assigned to them.
+  But we are the Congress. It is our job to raise questions about how 
+our troops are used and cared for. It is our job to identify and to 
+look into mistakes that are made by the executive branch. It is our job 
+to consider and learn from the lessons of Iraq. But what have we 
+learned today? Recycling words and we are not fixing problems.
+  This resolution, Mr. Speaker, just does not cut it. Our soldiers are 
+doing their jobs. They have earned and deserve a Congress that does its 
+job.
+  Ms. ROS-LEHTINEN. Mr. Speaker, I am so pleased to yield 2 minutes to 
+the gentleman from Pennsylvania (Mr. Platts), who has been to Iraq four 
+times, to Afghanistan twice, and I had the honor of traveling to both 
+places with him as well.
+  (Mr. PLATTS asked and was given permission to revise and extend his 
+remarks.)
+  Mr. PLATTS. Mr. Speaker, I rise in support of House Resolution 861.
+  The debate we are having today serves as an important reminder to all 
+Americans that we are a nation at war. This war is against an enemy 
+that embraces hate and intolerance over liberty and justice. Like other 
+wars in our history, the human and financial costs are high. We mourn 
+the loss of each and every American who has made the ultimate sacrifice 
+in defense of our Nation. All Americans are forever indebted to these 
+courageous citizens and their families.
+  It is understandable that Americans worry for the safety of our 
+troops and have doubts as reports of suicide bombings and other attacks 
+air regularly on television. But as in the war against fascism in the 
+20th century and as demonstrated by the tragic attacks of 9/11, the 
+stakes for our Nation and our democratic allies throughout the world 
+could not be higher.
+  In place of the regimes of terror and torture in Iraq and 
+Afghanistan, we now have duly elected constitutional governments, 
+governments that are working to promote democracy in a region of the 
+world that has rarely embraced it. The citizens of these nations have 
+demonstrated their intense desire for freedom through their willingness 
+to face down threats of violence and death in casting their votes in 
+numerous national elections in both countries.
+  The global war on terrorism in the broad sense and the specific 
+battles in Iraq and Afghanistan will not be won according to a 
+specified timetable, and our enemy cannot be appeased. But we can and 
+we will win this war because our cause is just and right. And winning 
+this war will ensure that the democratic gains made in Iraq and 
+Afghanistan are not lost.
+  The security of our Nation and its citizens, along with the defense 
+of the ideals of freedom, democracy, and justice, is what is at stake 
+in this global struggle of good over evil. This struggle requires us to 
+go beyond Democrat and Republican, liberal and conservative, just as 
+previous generations did to defeat the totalitarian ideologies of the 
+20th century. And in the words of President Roosevelt at the beginning 
+of World War II, it means going forward with ``confidence in our Armed 
+Forces, with the unbounding determination of our people'' in order to 
+``gain the inevitable triumph.''
+  May God watch over our troops serving in harm's way, and may God 
+continue to bless our great Nation, the United States of America.
+  Mr. Speaker, I rise in support of House Resolution 861 and ask 
+unanimous consent to revise and extend my remarks.
+  The debate we are having today serves as an important reminder to all 
+Americans that we are a nation at war. This war is against an enemy 
+that embraces hate and intolerance over life and liberty. Like other 
+wars in our history, the human and financial costs are high. We mourn 
+the loss of each and every American who has made the ultimate sacrifice 
+in defense of our nation. All Americans are forever indebted to these 
+courageous citizens and their families.
+  It is understandable that Americans worry for the safety of our 
+troops and have doubts as reports of suicide bombings and other attacks 
+air regularly on television. But, as in the war against fascism in the 
+20th century, and as demonstrated by the tragic attacks of 9-11, the 
+stakes for our nation and our democratic allies throughout the world 
+could not be higher.
+  I have traveled to Afghanistan twice and Iraq four times over the 
+past four and one-half years. During these visits, there have been two 
+constants that have instilled confidence in me about our mission and 
+progress in these countries.
+  First is the professionalism, courage, and sense of duty displayed by 
+our men and women in uniform. Whenever you thank our soldiers, marines, 
+sailors, and airmen for their service, they humbly reply, ``I'm just 
+doing my job.''
+  Their job, of course, is to protect our way of life. To protect the 
+lives of our nation's citizens and the principles for which our great 
+nation stands.
+  Our troops have removed truly brutal regimes from power in 
+Afghanistan and Iraq.
+
+[[Page H4079]]
+
+They have denied terrorists two safe havens. They have eliminated the 
+threat that a murderous dictator who used weapons of mass destruction 
+on his own people--a dictator who continued to defy United Nations 
+resolutions and shoot at American planes enforcing the no-fly zones in 
+northern and southern Iraq--would again produce and brandish such 
+weapons once international support for sanctions broke down.
+  Our men and women in uniform are building schools and roads, training 
+police and soldiers, and hunting down terrorists. They are fighting al-
+Qaeda in Afghanistan and Iraq so we don't have to fight them here at 
+home. They are helping the Iraqi security forces stand up so we can 
+stand down.
+  In place of the regimes of terror and torture in Iraq and 
+Afghanistan, we now have duly elected constitutional governments. 
+Governments that are working to promote democracy in a region of the 
+world that has rarely embraced it. The citizens of these nations have 
+demonstrated their intense desire for freedom through their willingness 
+to face down threats of violence and death in casting their votes in 
+numerous national elections in both countries.
+  The devotion to duty of our men and women in uniform is truly 
+inspiring. The sacrifices of these patriotic Americans on the front 
+lines of the Global War on Terrorism, as well as the sacrifices of 
+their family members on the home front, have earned the respect, 
+admiration, and eternal gratitude of all Americans, as well as that of 
+50 million Afghani and Iraqi citizens who are free today because of the 
+troops' successes.
+  The second constant in my visits to Afghanistan and Iraq is the 
+genuine gratefulness expressed by the Iraqi and Afghani people for our 
+nation's actions in liberating them and giving them a chance at 
+freedom. Again and again, what I heard was simply: ``Thank you for 
+liberating our citizens.''
+  On my first visit to Iraq, I met with the Mayor of Kirkuk, Abdul 
+Rehman Mustafa, and other Kirkuk city leaders. Mayor Mustafa 
+specifically asked my colleagues and me, upon our return home, to thank 
+our nation's mothers and fathers for their willingness to support their 
+children, our troops, in going into harm's way to defeat Saddam Hussein 
+and thus liberate Iraq and its citizens. In the words of Dr. Kemal 
+Kirkuki, one of Mayor Mustafa's colleagues on the Kirkuk City Council, 
+``This was not a war against Iraq. It was a war to liberate Iraq.''
+  On another trip, I met with a group of Iraqi women leaders, including 
+Safia Taleb al-Suhail. This group of female government and private 
+sector leaders exemplifies the transformation of Iraq from a nation 
+ruled by terror and torture to one in which men and women alike have 
+constitutional rights and opportunities. Safia shared with me how her 
+late father, an opponent of Saddam Hussein, was killed in 1994 while 
+living in exile in Lebanon by Saddam's intelligence service. Ten years 
+later, Safia was named Iraq's Ambassador to Egypt.
+  The general consensus of these Iraqi women leaders was that they 
+couldn't wait for the day when our and all Coalition troops could 
+return home and Iraq did not need the military assistance of other 
+nations. These Iraqi women leaders emphasized, however, how glad they 
+were that our and the other Coalition troops were there ensuring the 
+freedom of all Iraqis.
+  On my most recent trip to Iraq, I observed and met with Iraqi 
+soldiers undergoing basic training. There are now over 260,000 Iraqis 
+trained and equipped to fight the insurgency. Iraqis like those I met 
+with at the East Fallujah training camp continue to stand in line and 
+volunteer for service in Iraqi military and police units, even though 
+they know that said service makes them a likely target for the 
+insurgents. The Iraqi soldiers I met expressed their deep thanks for 
+what our troops have done in their country.
+  The Global War on Terrorism in the broad sense and the specific 
+battles in Iraq and Afghanistan will not be won according to a 
+specified timetable, and our enemy cannot be appeased. But we can and 
+will win this war because our cause is just and right. And winning this 
+war will ensure the democratic gains made in Afghanistan and Iraq are 
+not lost. Winning this war will also have a far-reaching and critically 
+important impact in other Middle East countries.
+  The security of our nation and its citizens, along with the defense 
+of the ideals of freedom, democracy, and justice, is what is at stake 
+in this global struggle of good over evil. This struggle requires us to 
+go beyond Democrat and Republican, Liberal and Conservative--just as 
+previous generations did to defeat the totalitarian ideologies of the 
+20th century. And, in the words of President Franklin D. Roosevelt at 
+the beginning of the Second World War, it means going forward, ``with 
+confidence in our armed forces, with the unbounding determination of 
+our people,'' in order to ``gain the inevitable triumph.''
+  May God watch over our troops serving in harm's way, and may God 
+continue to bless our great nation--the United States of America.
+  Mr. SKELTON. Mr. Speaker, I yield 1\1/2\ minutes to the gentleman 
+from Rhode Island (Mr. Langevin).
+  (Mr. LANGEVIN asked and was given permission to revise and extend his 
+remarks.)
+  Mr. LANGEVIN. Mr. Speaker, as a member of the House Armed Services 
+Committee, I know that it is Congress's responsibility to give our 
+troops the resources needed to accomplish their mission. It is a 
+responsibility that I take very seriously. It is precisely that support 
+for the troops that motivates me to warn that we may be doing 
+irreparable harm to our military if we do not alter our mission in Iraq 
+quickly.
+  General Barry McCaffrey recently shared his frank assessment of 
+operations in Iraq. He said we should know by year's end whether the 
+new Iraqi Government can effectively control the insurgency. He has 
+argued that we cannot sustain our current level of operations beyond 
+Christmas without breaking our military and endangering our ability to 
+fight future missions. In other words, we are quite possibly 6 months 
+away from a point of no return that could have long-ranging effects on 
+our military and the stability of the Middle East and on our ability to 
+defend this Nation.
+  So what is our strategy to prevent the worst case scenario? Where is 
+the oversight and accountability? Well, Mr. Speaker, I will tell you 
+one thing. It is not in the resolution that we are debating today. The 
+Republican leadership prefers to embrace the status quo and ignore the 
+very difficult decisions this Congress needs to make.
+  We deserve better. Our men and women in uniform deserve better, and 
+the American people deserve better.
+  Ms. ROS-LEHTINEN. Mr. Speaker, I yield 2 minutes to the gentlewoman 
+from Michigan (Mrs. Miller).
+  Mrs. MILLER of Michigan. Mr. Speaker, this resolution declares to the 
+world the resolve of America to fight and to win the global war on 
+terror, including in its central front in Iraq.
+  We have heard a great deal during this debate about mistakes that may 
+have been made in the lead up to the war and during its execution, and 
+they may be somewhat correct.
+  But the facts that cannot be debated are that Saddam Hussein had 
+brutally repressed his own people, that he had used chemical weapons 
+against his own people, that he had sanctioned the rape and murder of 
+his own citizens with rape rooms and mass graves standing as a 
+testament to that fact, that he had harbored terrorists within his 
+borders and supported terrorist organizations throughout the region and 
+the entire world, that he defied the world continually by violating 17 
+United Nations Security Council resolutions. Saddam Hussein was a 
+threat to world peace and security, and it was a correct decision to go 
+in and remove him from power.
+  And now we must complete the mission to bring freedom to the Iraqi 
+people. And freedom is taking root. We have seen recently the 
+completion of the freely elected Iraqi unity government serving under a 
+Constitution written by the Iraqi people and approved by the Iraqi 
+people. And last week American forces, with the cooperation of Iraqi 
+citizens and security forces, eliminated al Zarqawi, the terrorist 
+leader. And according to the Iraqi national security advisor, the 
+elimination of Zarqawi has delivered his government, he said, a huge 
+treasure of information on the terrorist operation. And we have already 
+seen the results with raids across Iraq where hundreds of terrorists 
+have been killed or captured. The Iraqi national security advisor also 
+said that he thought the security situation in the country was 
+improving enough to allow a large number of U.S. forces to leave Iraq 
+by the end of this year.
+  Mr. Speaker, everyone in this House, every American, we all want our 
+troops to come home. Lord knows our troops have performed brilliantly 
+and have sacrificed greatly, as American soldiers have done throughout 
+our history when defending our freedom. But they do not want to come 
+home before their mission is complete.
+  And simply put, you cannot say that you support the troops without 
+allowing them to complete their mission.
+  This resolution declares the United States is committed to the 
+completion
+
+[[Page H4080]]
+
+of that mission to create a sovereign, free, secure, and united Iraq.
+  I urge my colleagues to support the resolution.
+
+                              {time}  1845
+
+  Mr. SKELTON. Mr. Speaker, I yield myself such time as I may consume.
+  Mr. Speaker, in light of the comments made by the gentleman from 
+Hawaii (Mr. Abercrombie), I reflect on an article from The Washington 
+Post. And it is sad and disturbing that on the very day that we 
+announced and learned that 2,500 American troops have been killed in 
+Iraq, that the prime minister, Maliki, proposes a limited amnesty, a 
+plan likely to include pardons for those who had attacked only U.S. 
+troops. That is very disturbing.
+  Mr. Speaker, I yield 1 minute to the gentleman from Tennessee (Mr. 
+Cooper).
+  (Mr. COOPER asked and was given permission to revise and extend his 
+remarks.)
+  Mr. COOPER. Mr. Speaker, as a member of the House Armed Services 
+Committee, I have the privilege of working closely with our troops, the 
+best fighting force the world has ever known.
+  And I am proud to support this resolution, because if people will 
+just sit down and read it calmly, you will see that it expresses the 
+strong support for our troops and for victory. Now, it is being used 
+here today as some sort of political Rorschach test. I regret that, 
+because the great leaders in American history have used our times of 
+war to unite our country instead of divide our country.
+  Mr. Speaker, our troops are probably wondering why we are debating 
+the Iraq war now 3 years after the beginning of that conflict. We 
+should have had a good debate at the start of the war. I was not 
+serving in Congress then. But it has gone down in history as one of the 
+worst debates in American history.
+  There are many other flaws in the process. But today all Members of 
+this body support our troops. All Members of this body support our 
+troops. Democrat, Republican, Independent, you name it, we support our 
+troops.
+  Now we should all question how the war is being run because that is 
+our patriotic duty. I for one trust our military. I wish our Republican 
+friends trusted our military before, because few times in American 
+history has military wisdom been overridden as with this 
+administration.
+  Ms. ROS-LEHTINEN. Mr. Speaker, I yield 2 minutes to the gentleman 
+from Nebraska (Mr. Osborne) who has been to Iraq four times to visit 
+with our troops.
+  Mr. OSBORNE. Mr. Speaker, I spent many years in coaching. Every 
+Monday morning after a Saturday game, I got lots of mail telling me 
+what I should have done. None of those letters helped me very much, 
+because the game was over; hindsight was always perfect. And the was 
+not what we should have done, but rather, what do we do now.
+  And the same is true I think in regard to Iraq. We need to be 
+proactive, not reactive. Like many Members of Congress, I have traveled 
+to Iraq multiple times, and I met on one of these visits a young 
+captain from Nebraska. This is what he said. He said that if we pull 
+out prematurely, if we do not see this thing through, three things are 
+going to happen.
+  Number one, every soldier we have lost will have died in vain. I 
+think what he says is true. I called a mother this morning whose son 
+had just been killed. She was proud of her son. She was proud of the 
+sense of mission he had. And I really hate to tell her that we are 
+leaving, that he died in vain.
+  Number two, tens of thousands of Iraqis will die as the nation 
+implodes. This is what he said. And there may be hundreds of thousands. 
+We will have broken our promise. We told them we would not pull out 
+until we were ready and they were ready. And we cannot break our 
+promise.
+  And, third, we will put a huge bulls eye on our backs, because as 
+terrorists feel that terrorism works, and that we will retreat in the 
+face of terrorism, only more terrorism will result.
+  We have seen many examples, Beirut, Kenya, USS Cole, World Trade 
+Center bombing number one, and Bali. One of my All-American football 
+players was killed in that bombing. Three hundred people lost their 
+lives. And so inaction has led to only more terrorism, including 9/11.
+  The lack of resolve and willingness to see this through will only 
+result in the spread of terrorism and greater loss of life than 
+anything we have experienced so far.
+  Many of the soldiers I have met in Iraq are on their third and fourth 
+tours of duty. They volunteered because they see progress. They have a 
+sense of mission and purpose. And the one thing they ask me and tell me 
+is that they are committed to completion of their mission. We should 
+allow them to do so.
+  Mr. SKELTON. Mr. Speaker, I yield 1\1/2\ minutes to the gentleman who 
+has been to Iraq some nine times, former Army Ranger, the gentleman 
+from Georgia (Mr. Marshall).
+  (Mr. MARSHALL asked and was given permission to revise and extend his 
+remarks.)
+  Mr. MARSHALL. Mr. Speaker, as I thought about today's debate, Tom 
+Paine's words in the crisis came to mind: these are the times that try 
+men's souls.
+  It is not that the Army is in tatters. Our Army in the Revolutionary 
+War was in tatters at the time; it was just before the Battle of 
+Princeton and Trenton, which were successful and pulled us back 
+together.
+  It is that we seem to be in tatters. I am extremely disappointed that 
+this resolution, the process for the resolution, and some of the 
+whereases in the resolution have invited Members of this House to 
+become angry and to oppose the resolution.
+  The resolution is something that we all should be supporting. I 
+support the resolution. The ``resolved'' part of the resolution is 
+quite reasonable. And it expresses the sense of this Congress and this 
+country that we will be resolved with regard to this engagement. We 
+cannot afford to do otherwise.
+  Mr. Speaker, it is with disappointment that I participate in the 
+debate today, a debate that is designed intentionally to divide us, 
+when in fact we ought to be showing a great deal of unity as a country 
+in support of our troops and in support of the effort in Iraq.
+  We are making progress there. It is a slow go. These kinds of 
+insurgencies typically take 9 to 14 years to deal with. If we hang in 
+there, the Iraqi people ultimately will get control of the security 
+situation in that country.
+  If we fail, our security situation gets worse. Theirs is awful. It is 
+a huge threat to Israel. It is a threat to Europe, and a threat to the 
+world. I encourage all of my colleagues to support the resolution, even 
+though they may be disappointed in the process that has been offered us 
+today, in the ``whereas'' clauses in the resolution.
+  Ms. ROS-LEHTINEN. Mr. Speaker, I thank the previous speaker for the 
+vote of confidence. I am sure that the troops are very happy with that 
+support as well.
+  Mr. Speaker, I yield 1\1/2\ minutes to my good friend, my Florida 
+colleague, Mr. Diaz-Balart, who has been to both Iraq and Afghanistan 
+and has spent Thanksgiving with our troops and our coalition forces.
+  Mr. MARIO DIAZ-BALART of Florida. Mr. Speaker, our Nation is fighting 
+bloodthirsty monsters like al Zarqawi, monsters that behead civilian 
+hostages and that blow up innocent women and children.
+  And if many of our Democratic colleagues across the aisle have their 
+way, we would already have cut and run from Iraq and Zarqawi would 
+still be alive beheading innocent people. Thankfully, our brave troops 
+understood the kind of enemy that we are facing.
+  This is an enemy, Mr. Speaker, that kidnaps and beheads hostages. 
+This is an enemy that walks into a mall full of innocent people and 
+explodes bombs. This is an enemy that declared war on the United States 
+decades ago, Mr. Speaker, and refuses to stop until liberty has been 
+snuffed out.
+  But the United States cannot and will not allow that to happen. Hard 
+work remains in Afghanistan and Iraq. The stakes are high. The Afghani 
+people understand that. The Iraqi people understand this as well. So do 
+the terrorists who murder on a daily basis.
+  But we are steadily working towards success, not defeat. Because, you 
+see, this is more than just about helping people over there. This is 
+about protecting our country from rogue states and terrorists over 
+here.
+
+[[Page H4081]]
+
+  This resolution, Mr. Speaker, makes it clear that the American people 
+are determined to prevail in protecting our freedom from terrorist. We 
+will not cower to these thugs. We will continue to support our 
+honorable troops and prevail over this evil, Mr. Speaker.
+  As long as we maintain our resolve, Mr. Speaker, and do not cut and 
+run, we will win, we will defeat the terrorists.
+  Mr. SKELTON. Mr. Speaker, I yield 1 minute to the gentleman from 
+Colorado (Mr. Udall).
+  (Mr. UDALL of Colorado asked and was given permission to revise and 
+extend his remarks.)
+  Mr. UDALL of Colorado. Mr. Speaker, I thank the gentleman for 
+yielding me time.
+  Mr. Speaker, a few months ago, in response to pressure from both 
+sides of the aisle, the Republican leadership promised a full debate on 
+Iraq. What we are getting today is certainly a long debate, but it is 
+far from full.
+  A full debate would mean that Members would be able to offer 
+alternatives to this resolution. We would then be able to debate the 
+merits of all of the resolutions offered. I had hoped to offer a 
+bipartisan resolution I had introduced with my colleague, Joe Schwarz 
+of Michigan, that recognizes political progress in Iraq, including the 
+establishment of a national unity government, but also recognizes that 
+more progress is needed, and that the Iraqis must meet their own 
+deadlines for modifications to their Constitution.
+  As it is, today's debate has been tightly controlled, and our only 
+choice is to vote up or down on a ``status quo'' resolution that does 
+not focus on Iraq and does not reflect reality on the ground. This 
+resolution does not bring us together, Mr. Speaker. And I regret that 
+this debate is driving us further apart.
+  We were led into war as a divided Nation, and today we are even more 
+divided. A successful conclusion in Iraq can only happen, it can only 
+happen if Congress and the Bush administration work to bring unity at 
+home.
+  If this were a real debate on Iraq, we would focus on where we are 
+versus where we thought we would be, and look at the options from here. 
+Just last year, Congress called for 2006 to be a year of transition in 
+Iraq that would allow U.S. forces to begin to redeploy. But we're into 
+the middle of June, and we are actually adding troops.
+  A real debate would admit that Iraq is a distinct issue, only part of 
+the ``global war on terror'' insofar as the security vacuum in Iraq has 
+attracted terrorists. But as the gentleman from Missouri, Mr. Skelton, 
+has said--Iraq is a separate conflict, an insurgency with terrorist 
+elements and sectarian violence.
+  A real debate would be honest about how continuous deployment in Iraq 
+hurts our military personnel and their families, strains recruiting and 
+retention, and damages readiness.
+  This resolution talks about how much we honor our troops and the 
+sacrifices they and their families have made to help defend freedom. No 
+matter how each Member chooses to vote today, there's no question that 
+we all honor and support our troops.
+  But I would argue that if we really cared for our troops, we would 
+make sure they had the equipment and training they need. We wouldn't 
+make it less possible for them to meet some future mission. No one 
+wants a new mission for our troops, but if we had to fight somewhere 
+else, we wouldn't have the equipment or forces to do it.
+  These are the themes that we should be debating in a resolution 
+today, not the ``feel good'' messages included in the Republican 
+resolution. We all want to feel good about Iraq and believe that 
+progress is possible. But we can't want progress so much that we blind 
+ourselves to the reality on the ground.
+  This debate is driving us further apart.
+  Ms. ROS-LEHTINEN. Mr. Speaker, I yield 1\1/2\ minutes to the 
+gentleman, my colleague from Florida (Mr. Crenshaw), who has traveled 
+multiple times to Iraq to meet with our forces.
+  Mr. CRENSHAW. Mr. Speaker, in the days after 9/11, the United States 
+took the last action that our enemies thought we would take, we took 
+the fight to them. They believed that our partisan bickering would 
+provide them with the protection they needed to continue to operate. 
+But they were dead wrong.
+  Today, we have them on the run. Saddam Hussein has been captured, and 
+Zarqawi is dead. In their place stands the very thing our enemies fear 
+the most, democracy. Instead of a fascist dictator is a newly elected 
+prime minister. And fear and oppression have been replaced with an 
+emerging economy.
+  But our enemies continue to fight. Why is that? Does their resolve 
+stem from some military, political, or strategic error on our part? No. 
+To the contrary, it is our doubt that gives them strength. al Qaeda has 
+declared Iraq as the battleground between democracy and their hatred of 
+our way of life.
+  But they know that their war cannot be won on the battlefield. And I 
+look forward to the day when our friends in the Middle East can stand 
+on their own. They have already proven to be allies, and the future of 
+our friendship still hangs in the balance.
+  Some would rather abandon our friends and everything we have 
+accomplished, hoping this act of good faith would somehow appease a foe 
+proven to be without mercy. But I know our borders and our communities 
+should not be our front lines. It is our job to keep our Nation safe, 
+and we will.
+  The SPEAKER pro tempore (Mr. Terry). The gentleman from Missouri has 
+4 minutes left, and the gentlewoman from Florida has 8 minutes left.
+  Mr. SKELTON. Mr. Speaker, I yield 1 minute to the gentlewoman from 
+Georgia (Ms. McKinney).
+  Ms. McKINNEY. Mr. Speaker, this administration speaks of patriotism, 
+yet cuts health care for wounded soldiers, now numbering over 18,000. 
+It wraps itself in the flag, the same flag draping the coffins of our 
+dead, numbering over 2,500 as of today.
+  Yet now there are revelations of $12 billion missing from the 
+Treasury, shipped to Iraq in $100 bills and distributed in ways we may 
+never learn, bringing a total of unaccounted funds from the Iraq 
+Rebuilding Fund to $21 billion.
+  Yet the Bush administration has launched no investigation, has 
+imposed no penalties on the corporations involved. The American people 
+have been defrauded of our money, our morality, and the precious lives 
+of our soldiers.
+  Ms. ROS-LEHTINEN. Mr. Speaker, how much time do we have remaining in 
+our segment?
+  The SPEAKER pro tempore. The gentlewoman has 8 minutes.
+  Ms. ROS-LEHTINEN. Mr. Speaker, I yield myself such time as I may 
+consume.
+  Mr. Speaker, I can think of no better person to close our segment of 
+the International Relations Committee, and I yield the remaining time 
+to the gentleman from Texas (Mr. Sam Johnson), who served in the United 
+States Air Force from 1951 to 1979, decorated combat veteran with two 
+silver stars, and as all of us know is a living hero, a prisoner of war 
+during the Vietnam War. We welcome him and we thank him for closing up 
+our segment of the debate.
+
+                              {time}  1900
+
+  Mr. SAM JOHNSON of Texas. Mr. Speaker, the question of the day is 
+this, do you support the war against terrorism or don't you? You know, 
+our enemy brutally attacked the World Trade Center in 1993, and we did 
+nothing. In 1998, they attacked two American embassies in East Africa 
+killing 80 people. We did nothing. We were attacked again on USS Cole. 
+We did nothing.
+  Well, now we have a strong President with courage and conviction who 
+is bold enough to say enough is enough. If you are going to attack the 
+United States, then we are going to fight back, and we will not 
+tolerate terror.
+  You know, I devoted 29 years of my life to the Air Force, flew 62 
+missions in the Korean War, 25 in Vietnam, and spent 7 years as a 
+prisoner of war in Vietnam, more than half of that in solitary 
+confinement. When I say I revere freedom, I mean that with my whole 
+heart. I know what it is like not to have it. Every single day, since I 
+left that God forsaken place, I thank God for my freedom.
+  Sometimes people here in America take the countless blessings of this 
+Nation for granted. However, freedom is the touchstone of democracy, 
+and America means business when we say we want to help people in Iraq 
+experience the rich taste of freedom. When we say we are with you, our 
+word is golden. It is through the lens of a lifelong fighter pilot that 
+I step back today and marvel at some of the tremendous accomplishments 
+of the last several years in the promising democracy of Iraq. It gives 
+me hope and provides just a glimpse of how the best is yet to come.
+
+[[Page H4082]]
+
+  Mr. Speaker, we are making great progress in Iraq. I have been there, 
+and I have seen it. What a difference a few years makes. For 
+generations, the people of Iraq only knew hate, fear and death. The 
+former leader of Iraq gassed his own people by the thousands and hanged 
+people in his very own death chambers.
+  Remember just days ago looking at the image on the television of 
+Zarqawi, the leader of al Qaeda in Iraq? He was cornered and killed. 
+Better yet, from that raid, came a slew of information. We are hunting 
+down terrorists, and they are going to pay.
+  According to the Associated Press, American and Iraqi forces have 
+carried out 452 raids just since last week's killing of al Zarqawi and 
+104 insurgents were killed during those raids. They also resulted in 
+the capture of 759 anti-Iraqi elements. As a result, we discovered a 
+treasure trove of al Zarqawi's information, almost ensuring a defeat 
+against the evil forces of al Qaeda.
+  Americans are training and working with Iraqi forces nationwide. 
+There is over 260,000 Iraqi security forces serving their country. 
+Another exciting facet of the development in Iraq is the budding 
+democracy.
+  Remember last January we saw the pictures from the first election? 
+The news media predicted gloom and doom. What did we see? We saw bold 
+images of people patiently waiting in lines for hours, defying death 
+threats just to cast a vote.
+  Today, people are working tirelessly to guarantee their freedoms. 
+Participation in many Sunni areas of Iraq went from as little as 25 
+percent in January 2005 election to 75 percent in December. That is 
+tremendous. Wouldn't we like that here in the United States?
+  The people of Iraq have created a framework for their own future, 
+their very own constitution. They have announced a new unity 
+government, and the people of Iraq refused to allow those who rule by 
+hate and fear to stop them from forging ahead for the future.
+  They are already tasting the fruits of our freedom. Their strong 
+resolve will pay off in the long run. They know what a difference 
+several years of budding democracy makes. This is what democracy looks 
+like in Iraq today.
+  Schools and hospitals have been renovated, over 3,700 schools. In 
+May, oil production was over 2.1 million barrels a day. In 2003, barely 
+anyone had a cell phone. In Iraq today there are 6.4 million telephone 
+users, and 1 million land-line connections. There are over 100 
+privately owned newspapers and magazines and more than two dozen radio 
+and television stations. That is just the beginning.
+  Our men and women in uniform are doing a tremendous job bolstering 
+this new democracy and planting the tree of freedom in tyranny's 
+backyard. Our men and women are making a difference, and making 
+progress. They are lifting up the people of Iraq, so ultimately the 
+people of Iraq can help themselves. We must stay the course and see 
+this through. We must be patient and persevere. I think President Bush 
+said it best, quote, this is going to be freedom's century.
+  God bless you. God bless America. I salute you one and all and praise 
+the people of Iraq.
+  Mr. SKELTON. Mr. Chairman, I yield 1\1/2\ minutes at this time to the 
+gentleman from California (Mr. Schiff).
+  (Mr. SCHIFF asked and was given permission to revise and extend his 
+remarks.)
+  Mr. SCHIFF. With all due respect to my colleagues in the majority, 
+Mr. Speaker, I think the question posed by this resolution is whether 
+you support accountability and oversight by this body of the war in 
+Iraq or whether you do not. This resolution is not a substitute for 
+oversight and accountability.
+  Our brave men and women in Iraq deserve more than this rhetorical 
+pompom. Even as we celebrate the killing of Abu Musab al Zarqawi and 
+the completion of the Iraqi cabinet, we cannot turn away from the grim 
+reality that the war President Bush declared over in the spring of 2003 
+has been bloodier, costlier, longer and more difficult than the 
+administration anticipated or planned for.
+  We need a new way forward in Iraq, a fact that seems glaringly 
+obvious to everybody but the President, his advisers and the majority 
+in this House. Last fall the Senate voted 79-19 for a resolution 
+sponsored by Senator John Warner, the Republican chairman of the Senate 
+Armed Services Committee, which stated that 2006, quote, should be a 
+period of significant transition to full Iraqi sovereignty, with full 
+Iraqi security forces taking the lead for the security of a free and 
+sovereign Iraq, thereby creating the conditions for the phased 
+redeployment of U.S. forces from Iraq.
+  At a time when Congress needs to inject itself forcefully into the 
+process of determining what our course of action in Iraq should be, the 
+Republican majority is again prepared to rubber stamp a policy that 
+national security experts across the spectrum recognize as plagued with 
+misjudgment and malfeasance.
+  We owe our men and women more, and more than any other variable under 
+the control of Congress, our failure to perform oversight has been a 
+major contributing factor to these failures and to the difficult 
+situation we find ourselves in.
+  Regrettably, I must vote ``no'' on this resolution.
+  Mr. Speaker, even as we celebrate the killing of Abu Musab al Zarqawi 
+and the completion of the new Iraqi cabinet we cannot turn away from 
+the grim reality that the war that President Bush declared over in the 
+spring of 2003 has been bloodier, costlier, longer and more difficult 
+than the Administration anticipated or planned for.
+  We need a new way forward in Iraq--a fact that seems glaringly 
+obvious to everybody but the President, his advisors and the majority 
+in this House. Last fall the Senate voted 79-19 for a resolution 
+sponsored by John Warner, the Republican Chairman of the Senate Armed 
+Services Committee, which stated that 2006 ``should be a period of 
+significant transition to full Iraqi sovereignty, with Iraqi security 
+forces taking the lead for the security of a free and sovereign Iraq, 
+thereby creating the conditions for the phased redeployment of United 
+States forces from Iraq.''
+  Earlier this year, House and Senate Democrats unveiled our ``Real 
+Security'' agenda that lays out a blueprint for protecting our nation 
+in the 21st Century. Our plan calls for the establishment of full Iraqi 
+sovereignty during 2006, provides for responsible redeployment of our 
+forces to better protect our troops and facilitates the transfer of 
+authority, and holds the Administration accountable for the terrible 
+mistakes that have been made in the prosecution of the war and the 
+reconstruction of Iraq. In response to our plan and the overwhelming 
+bipartisan majority of our colleagues in the Senate, the Republican 
+majority in the House has tabled a blank-check resolution that endorses 
+the President's ``stay the course'' policy in Iraq--a policy that he 
+has reiterated in recent days.
+  At a time when Congress needs to inject itself--forcefully--into the 
+process of determining what our course of action in Iraq should be, the 
+Republican majority is again prepared to rubber-stamp a policy that 
+national security experts across the political spectrum recognize as 
+plagued with misjudgment and malfeasance.
+  I have been to Iraq three times to visit with our troops there and I 
+have spent time with our wounded here and in Germany. They have done 
+everything that we have asked of them and they have done it 
+magnificently. Whatever success we have had in Iraq--every village that 
+is secured, every public works project that is completed, every school 
+that is reopened--is due to the efforts of our soldiers, sailors, 
+airmen and marines.
+  We owe our men and women serving in Iraq lot more than this 
+rhetorical pom-pom.
+  Most glaringly, this resolution does nothing to hold the 
+administration accountable for its conduct of the war. Last week I had 
+the pleasure of meeting Lieutenant General Greg Newbold, the former 
+commander of the 1st Marine Division. General Newbold is one of a 
+growing number of general officers who have courageously voiced their 
+concerns about Iraq. General Newbold told me what he told Time Magazine 
+in April when he said, ``What we are living with now [in Iraq] is the 
+consequence of successive policy failures.''
+  More than any other variable under the control of Congress, our 
+failure to perform oversight has been a major contributing factor to 
+these failures and to the difficult situation in which we now find 
+ourselves.
+  That failure of oversight and the need to hold people accountable has 
+plagued the Iraq war from the beginning. And because this Congress--
+this Republican-controlled Congress--refuses to hold the President to 
+account, we keep making the same mistakes over and over.
+  For years the administration and the majority have tried to cow into 
+silence anybody who dared to question the conduct of the war by calling 
+them unpatriotic. That's the subtext of the resolution that we are 
+debating today. It is
+
+[[Page H4083]]
+
+not disloyal to ask these questions; oversight is a core responsibility 
+of Congress. The great strength of a democratic system with built-in 
+checks and balances is that mistakes are caught and corrected.
+  Every member of this House, Republicans and Democrats, wants a stable 
+and representative Iraqi government. But, Mr. Speaker, we cannot hope 
+to change course in Iraq until and unless we are willing to acknowledge 
+mistakes and until the administration is held to account and forced to 
+change.
+  Devising and implementing a successful endgame in Iraq will be 
+difficult, but the President's open-ended commitment to remain in the 
+country is untenable and unwise. The American people want Iraq to 
+succeed, and for representative government there to survive and lead to 
+a better future for the Iraqi people, but that success requires a new 
+direction. This empty resolution fails to provide that and, 
+accordingly, I will oppose it.
+  Mr. SKELTON. Can the Chair advise the time I have left, please.
+  The SPEAKER pro tempore. The gentleman has 1\1/2\ minutes remaining.
+  Mr. SKELTON. Mr. Speaker, it goes without saying how proud I am of 
+those young men and women in uniform. I know every Member in this body 
+joins me in saying how pleased and proud we are of them.
+  A sad moment earlier today was when it was announced that 2,500 had 
+given their lives in Iraq. But what concerns me, Mr. Speaker, more than 
+anything is the request that we made for discussion on Iraq and this 
+resolution that before us today was the result. Trying to blend and 
+fudge together the war in Iraq, which is separate and distinct from the 
+war on terrorism, is disingenuous.
+  Mr. Schiff, the gentleman from California, a moment ago, referred to 
+an amendment by Senator Warner, Armed Services chairman in the Senate. 
+That amendment stayed in the law last year. This is what we should be 
+discussing today about Iraq, as we were told we would.
+  Calendar year 2006 should be a period of significant transition to 
+full Iraqi sovereignty, with Iraqi security forces taking the lead for 
+the security of a free and sovereign Iraq, thereby creating the 
+conditions for the phased redeployment of the United States forces from 
+Iraq. That is where we should be today.
+  Mr. Speaker, I yield back the balance of my time.
+  Mr. HUNTER. Mr. Speaker, I yield myself 2 minutes.
+  I think it is important to remember the two major provisions in this 
+resolution, one that there is not going to be an arbitrary cutoff, that 
+that would disserve the security interests of the United States to have 
+an arbitrary exit date from Iraq; and, secondly, that we are going to 
+finish the mission, we are going to fulfill this mission, and that we 
+support the mission that is being undertaken by those 130,000 plus 
+troops who are in Iraq right now.
+  Mr. Speaker, I was thinking about this question of who should 
+determine when we leave Iraq. Over the last week, we have talked about 
+the bringing to justice of Mr. Zarqawi, and everyone, Democrats and 
+Republicans, have been talking about the extreme competence of the 
+American military.
+  We have talked about the fact that they are extremely effective, that 
+they know what they are doing, that they may be the best military we 
+have had in decades, that we have great leadership. That is why their 
+judgment on the ground as they stand up and train this Iraqi military 
+should be the determinant of when that Iraqi military is able to carry 
+that load and take that handoff from the American military and handle 
+those security duties themselves. It shouldn't be a Congressman from 
+California, it shouldn't be a Senator from Minnesota, it shouldn't be 
+subject to a committee vote by those of us in Washington, D.C. It 
+should be a function of the collaboration and the discussion and the 
+analysis of the combat commanders on the ground listening to their 
+captains and their majors and their colonels who are training up this 
+Iraqi force. When they say they are ready, that is when we make that 
+handoff.
+  Mr. Speaker, I would reserve the balance of my time.
+  Mr. MURTHA. Mr. Speaker, I recognize the gentlewoman from New York 
+(Mrs. Maloney) for 30 seconds.
+  (Mrs. MALONEY asked and was given permission to revise and extend her 
+remarks.)
+  Mrs. MALONEY. Mr. Speaker, instead of finding, capturing or killing 
+the man who viciously attacked our country almost 5 years ago, the 
+administration misled our country and sent 150,000 troops to war with a 
+country without any credible link to 9/11.
+  Mr. Speaker, the resolution before us mentions Iraq 18 times, but it 
+does not mention Osama bin Laden even once. Not only can we not find 
+bin Laden in Afghanistan, we cannot find him in this resolution.
+  If the other side of the aisle is serious about a resolution on the 
+global war on terror, they would be better served to get their target 
+correct.
+  Mr. MURTHA. Mr. Speaker, I yield 30 minutes to the gentleman from 
+California (Mr. Lantos) and ask unanimous consent that he control the 
+time.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Pennsylvania?
+  There was no objection.
+  The SPEAKER pro tempore. The gentleman from California is recognized 
+for 30 minutes.
+  Mr. LANTOS. Mr. Speaker, I want to thank my friend from Pennsylvania 
+for yielding.
+  Mr. Speaker, our country is at war. Men and women of the U.S. Armed 
+Forces, Republicans and Democrats, are making the ultimate sacrifice in 
+Iraq to defend our freedom with 2,500 men and women having lost their 
+lives in Iraq alone. They deserve our respect, our gratitude and our 
+admiration, but we do not honor them with this debate today.
+  Instead of discussing ideas and long overdue course corrections, we 
+are being confronted with slogans. My colleagues on the other side of 
+the aisle would like this country to believe that their party will stay 
+the course in Iraq, while we want to cut and run. That kind of gross 
+distortion may resonate on right-wing talk radio, but nothing could be 
+further from the truth. We need to make sure the job is done right in 
+Iraq and leave as soon as possible. Our men and women in uniform are 
+striving, sometimes without the necessary troop strength and without 
+adequate equipment to make the effort in Iraq a success. Here the House 
+majority is undermining the democratic process and the very principles 
+that these brave servicemen and women have gone abroad to defend.
+
+                              {time}  1915
+
+  The actions of the Republican leadership in the run-up to today would 
+make the Kremlin blush. Having made a decision to conduct a debate, the 
+majority should have enabled full participation, allowing amendments to 
+the proposed resolution on the House floor, and Democrats should have 
+been afforded the opportunity to offer a substitute resolution.
+  Instead, the resolution before us is a shameless, one-party 
+manifesto. If the debate today were about substance rather than this 
+one-party manifesto, we would focus on what staying the course means. 
+The misguided and mistake-ridden effort in Iraq up to now is absolutely 
+not the course to follow.
+  I am deeply disturbed by critical issues concerning our efforts in 
+Iraq that this resolution does not address: human rights violations; 
+appalling shortcomings in planning for the post-conflict period; 
+pathetically weak congressional oversight.
+  Just consider the waste, fraud and abuse of reconstruction efforts in 
+Iraq. The Special Inspector General for Iraq Reconstruction, Mr. Stuart 
+Bowen, testified before our committee last week. I would like to pay 
+tribute to the exceptional work that Mr. Bowen has done in this area. 
+After serving as a senior member of George Bush's gubernatorial 
+campaign team, as general counsel to then-Governor Bush, deputy counsel 
+to the Bush transition team in 2000, and then associate counsel in the 
+Bush White House, he left for the private sector, only to be brought 
+back into service by the White House to oversee an investigation into 
+mismanagement of funds in Iraq.
+  The facts from the President's handpicked special Inspector General, 
+Mr. Bowen, are shocking. Billions of U.S. taxpayer dollars have been 
+wasted in Iraq. The executive branch should not have allowed such 
+slipshod management. This Congress should have done its utmost to 
+expose it but it has not, and the American people should not and will 
+not tolerate it.
+
+[[Page H4084]]
+
+  During the first year of the war, $9 billion, that is $9 billion with 
+a B, moved through Iraqi ministries with little or no accounting for 
+results.
+  More than 75 percent of oil and gas reconstruction projects, begun 
+with our assistance, remain incomplete. Over half of the electricity 
+reconstruction projects are unfinished. Some 40 percent of water and 
+sanitation reconstruction is incomplete.
+  Mr. Speaker, the international coalition's ability to exit Iraq 
+responsibly, leaving the Iraqi people in charge of a stable country, is 
+directly related to the success of our reconstruction efforts. These 
+efforts have been severely undermined by waste, fraud and abuse. Our 
+troops have been needlessly exposed to far greater risk because of 
+these failures. We cannot stay the course when it is riddled with 
+mismanagement.
+  If this debate were about substance, rather than slogans, we would 
+also be talking about the unconscionable punishment that many members 
+of the National Guard and Reserve suffer because of their patriotism. 
+Legislation that I have been advocating for over 3 years to address the 
+gap between these volunteers' salary in their civilian jobs and the 
+often far lower active duty pay in the Guard and the Reserves has met 
+with repeated roadblocks thrown up by the Department of Defense and the 
+Republican leadership of this House, for no legitimate reason.
+  This pay gap not only affects the soldier but also thousands of 
+families who now have to make ends meet on a significantly reduced 
+income. In addition to their concerns for the safety of a loved one far 
+away, tens of thousands of American families have to worry about 
+meeting mortgage payments or even losing their homes because this House 
+has not responded to their needs.
+  If we truly cared about our fighting forces in Iraq, we would not 
+merely wile away the hours in a debating society over a symbolic 
+resolution lauding them in the abstract. We would take concrete action 
+to ensure that they and their families are treated fairly. Rather than 
+taking up legislation that would fix this problem, we are debating a 
+divisive political resolution.
+  Mr. Speaker, let nobody, not in this Chamber and not in this country, 
+let nobody be fooled by the picture that the Republican leadership 
+tries to paint with a debate over this resolution. There is no need to 
+make a choice between ``cut and run'' and ``stay the course.'' What is 
+called for is a long overdue course correction in the way the executive 
+branch manages our country's efforts in Iraq and in the way Congress 
+fulfills its critical constitutional role of oversight.
+  Since I deeply favor a course correction, I will vote against this 
+resolution, and I urge all of my colleagues to do so as well.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. HUNTER. Mr. Speaker, I yield 3 minutes to the gentleman from 
+Colorado (Mr. Hefley).
+  Mr. HEFLEY. Thank you, Mr. Chairman.
+  You know, we have been at this for about 6 hours, I guess, and I 
+think everything that has been said on the subject has been said. Not 
+everybody has said it, and so we will continue for another 6 hours on 
+it.
+  But I have seen many people today who seem to have used this as an 
+opportunity to insist that the mission in Iraq has been a failure, and 
+that our presence in Iraq has not been properly run, and that we are 
+not winning the peace. Frankly, Mr. Speaker, I think this is absolutely 
+a wrong assertion and only serves to lower the morale of the men and 
+women fighting in Iraq, while encouraging the terrorists who aim to 
+harm both America and Iraq.
+  The other day I was rushing to Chair a meeting in the Armed Services 
+Committee. I was running a little late so I was kind of frustrated and 
+in a hurry. Someone stopped me out in the hall and said, Congressman 
+Hefley, Congressman Hefley, would you like to meet a marine from your 
+district? And, of course, I would like to meet a marine from my 
+district, but I was in a hurry. I did stop, and I went over to this 
+young marine. They introduced him to me, and there he stood in his 
+starched shirt and red and blue striped pants, straight as a string, 
+and strong as could be.
+  I introduced myself and he introduced himself, and then someone said, 
+Sergeant So and So lost both legs in Iraq. I would never know it from 
+looking at him, but he lost both legs in Iraq. I said, oh, I am sorry 
+to hear that, but thank you. He said oh, no, no, no, since then I have 
+gone to jump school. I would not go to jump school with two good legs. 
+Since then, I have gone to jump school and I am going back to Iraq. The 
+job's not done.
+  I have been to Germany, as many of you have, to see where we bring 
+the wounded into Germany. There was one young man laying on his bed, 
+and I said, well, when were you wounded? He said about 4:30 this 
+morning. About 4:30 this morning, we had gotten him off the 
+battlefield. We had stabilized him and had him in an airplane and had 
+him to Germany where he had already had successful surgery before the 
+end of the day. The main desire of his heart was to get back with his 
+unit in Iraq. That is good morale.
+  I talked to another young man that was just coming out of the 
+operating room, and he had his arm up in a cast. I asked him, well, 
+soldier, do you plan to stay in the service? He said, oh, I plan to 
+stay in if they will let me. He said the job is not done.
+  And the point I make with these stories is that they see that they 
+are doing something important. They see that they are doing something 
+meaningful. They see they are doing something that helps America and 
+they want to continue to do it.
+  We are fighting the war on terror on our terms, and we are winning.
+  Mr. LANTOS. Mr. Speaker, I continue to reserve my time.
+  Mr. HUNTER. Mr. Speaker, I yield 5 minutes to the gentleman from New 
+Jersey (Mr. Saxton), the chairman of the Terrorism Subcommittee.
+  (Mr. SAXTON asked and was given permission to revise and extend his 
+remarks.)
+  Mr. SAXTON. Mr. Speaker, I rise in strong support of the resolution.
+  Mr. Speaker, when I was a freshman, Ronald Reagan was President and I 
+was invited to the White House with a group of people to talk to Ronald 
+Reagan about things we thought were important. We talked for a long 
+time about many issues, and when we finished, the President leaned 
+forward in his chair and said: Let me say something to each of you. All 
+of those things are important. They are all about America but nothing 
+is more important than a system of national security that will protect 
+our right to deal with those issues.
+  I wish more people had been with me that day because I think of that 
+every morning on my way to work. It appears that there are some who 
+question the sacrifices of the United States Armed Forces and our 
+coalition partners in Iraq who make every effort to advance the global 
+war on terror, to combat the al Qaeda and the affiliate organizations 
+that work with them.
+  How misguided. Nothing could be further from the truth. Iraq is a 
+critical front in the global war on terror. Separating Iraq from the 
+global war on terror, in my opinion, is a recipe for disaster.
+  Do not take my word for it. Listen to the enemy. These are the 
+enemy's words. The leadership of al Qaeda has made Iraq an important 
+part of its goal of spreading and imposing its ideology around the 
+world. According to al Qaeda, defeating the coalition forces in Iraq is 
+the first phase of its stated strategic goal of establishing a Taliban-
+like rule throughout the Middle East.
+  In a July 2005 communication from Ayman al Zawahiri, al Qaeda's 
+second-in-command right behind bin Laden, to the now-deceased leader of 
+al Qaeda in Iraq, Zawarhiri explicitly states the centrality of the war 
+in Iraq with a global jihad. Bin Laden's right-hand man laid it out 
+like this. Here are the goals: expel the Americans from Iraq; establish 
+an Islamic authority in Iraq; extend the jihad to the countries 
+neighboring Iraq; and destroy Israel. Those are the goals stated by al 
+Qaeda.
+  We must not lose sight of the fact that a successful prosecution of 
+the global war on terrorism and defeating al Qaeda and its affiliates 
+require us to pay attention to multiple locations in the world, 
+including Iraq. Though we have made progress, the threat remains global 
+in nature.
+  Since September 11, al Qaeda has planned, supported, or executed 
+attacks leading to the deaths of innocent
+
+[[Page H4085]]
+
+civilians around the world. According to the Defense Intelligence 
+Agency, there are active jihadists, radical terrorist organizations 
+with the goal of taking control of governments and territories in 
+countries across the globe, including Iraq and Afghanistan, of course; 
+Israel; Saudi Arabia; Pakistan; Somalia; Algeria; Chechnya; Kashmir; 
+and the Philippines and others.
+  The same report states that al Qaeda maintains and plans to expand 
+safe havens throughout the world, throughout the Middle East, in Asia, 
+in central Asia and Europe, in many countries in Africa, and we know of 
+the terrorist presence today in Canada and right here in the U.S.A.
+  I have spent a career, Mr. Speaker, in Congress studying the threat 
+posed by terrorism. Long before September 11, I came to learn the 
+dangers of ideologically inspired terrorist organizations. As a result 
+of Operation Iraqi Freedom and Operation Enduring Freedom, we have made 
+great strides in combating this enemy, but we must remember that this 
+is a long war, and although the challenge is great, our commitment to 
+security and human freedom will ultimately defeat the oppressive 
+ideology that fuels our terrorist enemies.
+
+                              {time}  1930
+
+  Let me just close by listing some terrorists acts which occurred and 
+some plots which were uncovered, and then by simply asking my 
+colleagues a question.
+  In 1993, the first World Trade Center bombing occurred. In 1995, a 
+plot to bomb 11 U.S. airlines was uncovered. In 1996, the Khobar Towers 
+bombing took place. In 1998, the embassies in Tanzania and Kenya were 
+hit. In 2000, the USS Cole. In 2001, the 9/11 attack, killing 3,000 
+Americans and others. In 2002, the Bali bombing. In 2003, the Marriott 
+hotel attack in Jakarta. In 2004, the railroad bombing in Spain. In 
+2005, the subway bombings in London, and the bombings of the resorts in 
+Egypt. And in 2006, 17 jihadists were arrested in Canada.
+  The question to those who plan to vote against this resolution, and I 
+will conclude with this: Can we really afford to belittle this threat 
+and question the criticality of our mission in Iraq?
+  Mr. LANTOS. Mr. Speaker, I am pleased to yield 3 minutes to the 
+ranking member of the Subcommittee on the Middle East and Central Asia 
+on the Democratic side, Mr. Ackerman of New York.
+  (Mr. ACKERMAN asked and was given permission to revise and extend his 
+remarks.)
+  Mr. ACKERMAN. Mr. Speaker, I rise in support of our troops in the 
+field and the belief that the United States will ultimately prevail in 
+the global war on terror and against this partisan, transparent, 
+cynical, and divisive resolution.
+  Mr. Speaker, what we are engaged in today is not a serious debate 
+about the progress of the war in Iraq or alternatives to achieve the 
+victory there that we all seek. If it were not a sham, Members would be 
+able to offer amendments. We would be able to vote up and down on our 
+future course in Iraq. What we have here, instead, is more unamendable, 
+arrogant, Republican take-it-or-leave-it attitude.
+  Mr. Speaker, our soldiers are fighting and dying, and the American 
+people are spending hundreds of billions of dollars, and we are here 
+patting ourselves on the back instead of doing effective oversight. 
+This Republican Congress has abdicated that responsibility and 
+continues to whitewash an incompetent, dysfunctional Republican 
+administration.
+  I would like to be clear, Mr. Speaker. Just because I am for 
+oversight doesn't mean that I hate freedom. Just because I am for 
+tracking how billions of dollars have been wasted and misspent or 
+stolen doesn't mean I don't support our troops. And just because people 
+question the competence of the President and his administration doesn't 
+mean that they are not patriots.
+  On the contrary, Mr. Speaker, I don't think you can be a patriot if 
+you just rubber stamp, if you turn a blind eye and bury your head in 
+the sand as war profiteers run off with the money needed to protect the 
+troops and to reconstruct a broken country.
+  Instead of discussing the difficult and costly work necessary to 
+achieve that victory, our Republican friends have simply decided to 
+move directly to this victory party and 10 hours of cheerleading. This 
+resolution begins and ends declaring our ultimate victory against 
+terrorists, and in between we sing our own praises. This is actually a 
+prayer. Prayer is good. But what we need is a plan. All we are doing 
+here is whistling past a growing graveyard.
+  What is more notable about the resolution, Mr. Speaker, is what it 
+doesn't say. There is no mention of the world class bait-and-switch lie 
+that got us into this mess in the first place. No mention of the lie of 
+the stockpiles of weapons that the Vice President swore were absolutely 
+there. No mention about the lie that the stockpiles of weapons of which 
+Secretary Rumsfeld knew the exact location. No mention of oil. No 
+mention of the intelligence either.
+  In fact, there is not even the words ``weapons of mass destruction.'' 
+How can you have such a resolution without that? And Osama bin Laden. 
+Not only can't we find him in the region but we can't even find his 
+name hinted at in this resolution.
+  The debate is a whitewash, and this resolution is a coverup. Vote 
+against this charade. Vote against the premature victory party. Vote 
+against this resolution and let us have a real debate about our policy 
+options and our future course and involvement in Iraq.
+  Mr. HUNTER. Mr. Speaker, the reenlistment rate for the soldiers of 
+the 1st Infantry Division, the 4th Infantry Division, the 1st Marine 
+Division, and the 10th Mountain Division exceeds 130 percent in this 
+last quarter. And a lot of that is the result of the great work by the 
+gentleman of New York (Mr. McHugh), who has been the chairman of the 
+Total Force and the Personnel Subcommittee and has presided over a 
+major part of the 41 percent pay increase that we have passed over the 
+last several years.
+  I yield 6 minutes to the gentleman from New York (Mr. McHugh).
+  Mr. McHUGH. I thank the distinguished chairman for yielding.
+  Mr. Speaker, I happen to think this is a good debate, even when I 
+vigorously disagree with some of the statements being said. This is the 
+hall where discussions, concerns, where analysis and counterpoints need 
+to be expressed.
+  I wanted to start, if I may, Mr. Speaker, with a couple of 
+counterpoints. I have heard my good friends on the other side of the 
+aisle repeatedly refer today to comments and observations made by 
+clearly one of the greatest fighting generals this Nation has known in 
+recent era, General Barry McCaffrey; things he has said about our 
+current involvement and engagement in Iraq. Perhaps as a mere 
+oversight, perhaps conveniently, those good folks omitted the 
+following, and I am quoting directly. I noticed most of those folks 
+quoted from their own notes.
+  These are from General McCaffrey's own reports after his return, in 
+this case to Iraq. He did similar analysis in Afghanistan. Under the 
+bottom line observations from Iraqi Freedom, written in April of 2006, 
+before Zarqawi, before the appointment and the filling out of the 
+entire permanent government. ``The morale, fighting effectiveness, and 
+confidence of U.S. combat forces continue to be simply awe inspiring. 
+In every sensing session and interaction, I probed for weakness and 
+found courage, belief in the mission. Belief in the mission. Enormous 
+confidence in their sergeants and company-grade commanders, and 
+understanding of the larger mission, a commitment to creating an 
+effective Iraqi army and police, unabashed patriotism, and even a sense 
+of humor.''
+  He goes on to say, ``Many have reenlisted to stay with their unit on 
+its return to a second Iraq deployment. Many planned to reenlist 
+regardless of how long the war went on.''
+  He then went on to observe, ``The Iraqi army is real, is growing, and 
+is willing to fight.''
+  And then on the last page of his analysis, Mr. Speaker, he said, and 
+I quote, ``There is no reason why the United States cannot achieve our 
+objectives in Iraq. Our aim must be to create a viable federal state 
+under the rule of law which does not enslave its own people, threaten 
+its neighbors, or produce weapons of mass destruction.''
+  The last sentence of General McCaffrey that my friends also failed to
+
+[[Page H4086]]
+
+quote: ``The American people are far safer today than we were in the 18 
+months following the initial intervention.''
+  I think, in fairness to General McCaffrey, if we are going to quote 
+from him we should quote the entirety.
+  I heard also some comments about how we are not doing right by our 
+forces in very recent debate. I would refer again to General 
+McCaffrey's observations, but I have here a listing, five pages, bullet 
+points of what this committee and this House and this Congress has done 
+for our men and women in uniform in just the last four National Defense 
+Authorization Acts. There are 51 points, and I won't read all of them, 
+but let me account for some.
+  In 2001, we provided $500 a month to assist the most economically 
+challenged members, to take them off food stamps. A national disgrace, 
+and we did it. We did it. This Congress.
+  In 2002, we improved permanent change of station requirements to 
+reduce out-of-cost moving expenses for military families. There is now 
+no out-of-cost expense.
+  In 2003, we gave them assignment incentive pay, and in 2006 increased 
+that maximum from $1,500 to $3,000 a month. We increased hostile fire 
+and imminent danger pay from $150 to $225 a month. Family separation 
+allowance from $100 to $250 a month. We completed, as I said, that 5-
+year program to eliminate out-of-cost housing expenses.
+  We have eliminated the requirement to pay subsistence charges for 
+those brave members of the military who are hospitalized. We now pay an 
+allowance to reimburse for the cost of life insurance. And in the bill 
+we passed this year, that cost will be totally paid for by the Federal 
+Government for the first time in our Nation's history. We authorized a 
+new payment of $430 a month to combat wounded servicemembers who are 
+hospitalized, and on and on and on.
+  The chairman mentioned that in each of the last 8 years we have 
+increased pay to our military men and women in uniform by more than 
+half a percent over what the civilian sector in this country has 
+received, whether it is TRICARE for every Guard and Reserve member; 
+hospitalization, better coverage. We have cared for these troops.
+  The chairman noted, and the figures show it, though I have heard 
+about a strained force, and we are concerned about them. We worry about 
+them every day. I know I have in my six trips to Iraq and twice to 
+Afghanistan. But let me read you the recruitment figures we have thus 
+far this year.
+  The Army, 104.3 percent of goal. The Navy, 100 percent of goal. The 
+Marines, 101.5 percent. The Air Force, 100.5 percent. A DOD total of 
+102.1 percent. Lastly, retention. Those brave members that General 
+McCaffery talked about. Retention in the Army, 113 percent; Navy, 106 
+percent; Marines, 145 percent; and Air Force, 109 percent.
+  My friends on the other side say they support the troops, and I 
+believe them. They are all patriots, some extraordinary patriots on the 
+other side that I have the honor of serving with. But I don't think 
+they are serving the troops in some of this debate tonight like the 
+troops want to be served. They want to see this mission through, 
+because they understand the terrorists believe this is the real deal. 
+This is where they have drawn the line in the sand, and the troops 
+understand if we don't take the commitment they have made there and win 
+this war on terror in Iraq, where will we fight next? It will be right 
+here at home.
+  It is a proud Army, we have a proud Navy, Marine Corps, and Air 
+Force. We are doing right by them and we need to do better because they 
+are doing so right by us. I hope all my colleagues will support this 
+resolution.
+  Mr. LANTOS. Mr. Speaker, I am pleased to yield 2 minutes to my friend 
+from Ohio (Mr. Brown).
+  Mr. BROWN of Ohio. Thank you, Mr. Lantos and Mr. Murtha.
+  Prior to the 2003 invasion, I introduced legislation that would have 
+required the President to report to Congress on the possible 
+consequences. It would have required the administration to provide a 
+full accounting of the implications for homeland security, the war on 
+terrorism, and regional stability in the Middle East. It would have 
+required the administration to tell us the steps that our country and 
+our allies would take to protect United States soldiers, including 
+providing them adequate body armor. It would have required the 
+President to estimate the full cost associated with military action 
+against Iraq. And it would have required the President to provide an 
+exit strategy, a plan for achieving long-term social, economic, and 
+political stabilization of a postwar Iraq so that we and the troops 
+could tell when we had crossed the finish line.
+  The administration has still not provided answers to the questions 
+many of us asked before the war. Three years later, the Iraq war has 
+cost more than 2,500 American lives and nearly $300 billion, with no 
+end and no plan in sight. Secretary Condoleezza Rice said this war 
+could last for 10 more years.
+  Today's resolution presents a false choice: Support the 
+administration's flawed war policies or concede defeat on the war on 
+terror. We are asked to support Iraq's new Prime Minister in the 
+amnesty, the amnesty he will offer to the insurgents who have attacked 
+and killed U.S. troops.
+  Our troops have done everything, everything we have asked them to do 
+in Iraq and more. They have acted heroically. They have done their job 
+and we should honor them today and every day. But this is the second 
+time that a congressional debate on the handling of the war has been 
+replaced with a political stunt. The troops and the American people 
+deserve much better.
+  Our troops deserve more than a round of applause. They deserve a 
+realistic and forward-thinking plan. They deserve a plan that will 
+bring a successful end to this mission so that they can come home. They 
+deserve what many of us asked the President to give us 3 years ago: An 
+exit strategy for Iraq. An exit strategy in Iraq is a crucial step 
+toward declaring victory on the global war on terror.
+
+                              {time}  1945
+
+  Mr. HUNTER. Mr. Speaker, I yield myself 1 minute to clear up a point.
+  There are 340,000 sets of advanced body armor produced and fielded. 
+That is more than two sets for every single person serving in uniform 
+in Iraq.
+  I have made this statement for the last year, but if anybody has a 
+relative who is serving in Iraq without body armor, please call me 
+personally. I have not yet received a single phone call.
+  Mr. Speaker, I yield 4\1/2\ minutes to the gentlewoman from Virginia 
+(Mrs. Drake) who does so much for the troops.
+  Mrs. DRAKE. Mr. Speaker, we can't talk about the global war on terror 
+without talking about the 922,000 heroes who have voluntarily served 
+our Nation, going to a land that most have never been to, to liberate a 
+people most have never met.
+  Before 9/11, I worried if America needed our young people, would they 
+go. And we all know they did. I believe history will remember their 
+courage and name them. But until it does, I call them Freedom 
+Believers.
+  On my first trip to Iraq, I met a young man on the crew of our C-130. 
+He told me he had a small daughter, yet defending freedom was so 
+important that when he finished his enlistment, he would join his 
+Reserve unit. He said there were so many from that unit who volunteered 
+to go to Iraq; he knew he would not be back soon.
+  Another soldier said to me: Let me make this simple. In a football 
+game, you want to play at home. But this is not football. This is not a 
+game. This is war. And war must always be played away. We played at 
+home on September 11, and we lost.
+  My proudest moments in Iraq have been the ones spent seeing their 
+smiles when I told them about the support that they have here at home. 
+Many that I met were on their second and third tours. Their feelings 
+are summed up in a recent letter to the editor, a returning soldier 
+said: ``If the choices are pull out or I go back, I'm going back.''
+  On the way home from Iraq in Shannon, Ireland, as a Marine unit 
+walked through that terminal, everyone stood and clapped for them. On 
+both of my trips to Iraq, I was asked repeatedly by our troops: When 
+are we going to tell America what they are doing in Iraq, explain the 
+threat to America and the world, and share the successes that they have 
+achieved? The saddest moments were when they quietly asked me: What are 
+Americans thinking and saying?
+
+[[Page H4087]]
+
+  These are people who show no fear on the battlefield, but it was like 
+they were afraid to ask that question and hear my reply. They are 
+probably referring to stories such as the one from the New York Times, 
+October 26, 2005. They quoted Corporal Jeffrey Starr, who lost his life 
+defending freedom. Here is their quote: ``I kind of predicted this. A 
+third time just seemed like I'm pushing my luck.''
+  And here's the real quote: ``Obviously if you are reading this, then 
+I have died in Iraq. I kind of predicted this, that's why I am writing 
+this in November. A third time just seemed like I'm pushing my chances. 
+I don't regret going. Everybody dies, but few get to do it for 
+something as important as freedom. It may seem confusing why we are 
+here in Iraq. It's not to me. I'm here helping these people so they can 
+live the way we live, not to worry about tyrants or vicious dictators, 
+to do what they want to do with their lives. To me, that is why I died. 
+Others have died for my freedom, now this is my mark.''
+  Our military is the most lethal fighting force in the world, not 
+solely because of their training, not solely because of their 
+technology, but because they engage the enemy, our enemy, with the most 
+unequivocal support of the American people. That is the most effective 
+tool in their arsenal and one they cannot afford to lose.
+  Mr. Speaker, they watch our news. They watch C-SPAN. They are 
+watching us right now.
+  This is your time. What do you want to say to them? Do you want to 
+tell them, you're doing a terrible thing, but we support you?
+  Well, I want to say: you're doing an honorable and noble thing. We 
+support you and we love you.
+  There is only one option for Iraq, that's victory. Thank you to our 
+brave American heroes. Thank you to their families. God bless America, 
+and God bless the men and women who keep us free.
+  Mr. LANTOS. Mr. Speaker, I am pleased to yield 2 minutes to the 
+gentleman from New York (Mr. Engel).
+  Mr. ENGEL. Mr. Speaker, I thank the gentleman for yielding me this 
+time.
+  Mr. Speaker, I believe in fighting the war on terror. I believe 
+America must stay engaged in the world, but what we have in Iraq today 
+is a quagmire, and what we have on the floor today is a resolution that 
+essentially says stay the course.
+  You know, sometimes the American people are smarter than the 
+politicians. This resolution would have us believe that everything is 
+hunky-dory in Iraq and everything would be wonderful if we only stayed 
+the course. The American people don't believe that; and, Mr. Speaker, 
+neither do I any more.
+  We need a new strategy in Iraq, not an open-ended rubber stamp and 
+more of the same. At what point do we reassess our strategy and come to 
+the conclusion that it is not working? But what do we get here from our 
+Republicans friends, a resolution that is a farce, a political document 
+that by the majority leader's own admission was designed to embarrass 
+Democrats and put Democrats in a box.
+  All of the problems we see in Iraq today, the daily deadly attacks by 
+insurgents, the rise of ethnic militias, the shortage of gas and 
+electricity, the weakness of the economy, can be tied to the complete 
+lack of planning by the administration. It seems they didn't have a 
+clue as to what they would get when they came into Iraq.
+  Our intelligence was faulty, but what really makes me mad was this 
+war was mishandled from the get-go. First, we didn't send in enough 
+troops. Secondly, we didn't secure the borders. We fired the Baath 
+leaders and created all kinds of antagonisms and unemployed people. We 
+fired the security forces so our people would have to do security, and 
+we fired our own generals that disagreed with the administration.
+  A former commander of U.S. Central Command, General Zinni, said: ``10 
+years' worth of planning were thrown away; troop levels were dismissed 
+out of hand. These were not tactical mistakes; these were strategic 
+mistakes, mistakes of policy made back here.''
+  But what do we have here from our Republican friends? A resolution 
+that is not bipartisan. We could have had a resolution that all of us 
+could have supported. We treasure our troops. I want us to succeed in 
+Iraq, but what do we have: partisan, political drivel. Democrats had no 
+input. Democrats were not allowed a substitute. Democrats were not 
+consulted so our men and women serving in the military are being 
+reduced to pawns in the Republican's election game.
+  Shame on this resolution. I wish we could have a resolution that I 
+could vote for, but we do not have one on the floor today.
+  Mr. HUNTER. Mr. Speaker, I would like to yield 3 minutes to the 
+gentleman from Arizona (Mr. Franks), a Member who is a leader not only 
+in supporting the troops but in humanitarian efforts in Iraq.
+  Mr. FRANKS of Arizona. I thank the gentleman for yielding.
+  Mr. Speaker, America is first and foremost an ideal. It is an ideal 
+that holds that all of us are created equal, endowed by that Creator 
+with unalienable rights of life, liberty, and the pursuit of happiness. 
+Truly, that is what our troops fight for in Iraq.
+  For their efforts, we now see a country that, although it has been in 
+bondage since it was called Babylon, has a freestanding constitution 
+and hope for freedom. And there is hope that freedom may take root in 
+the Middle East and turn the whole of humanity in a better direction.
+  But, Mr. Speaker, I would suggest to you that there are other ideals 
+in the world besides America's noble ones, and they have great 
+consequences. I am concerned that this Nation does not understand that 
+we are now at war with an evil ideology. It is an ideology that has the 
+most profound human implications and consequences.
+  On September 11, terrorists murdered on our own soil 3,000 American 
+citizens. But this ideological war did not begin on 9/11. It began many 
+years ago when certain Muslim extremists embraced a divergent Islamist 
+dogma that dictates that all infidels must die.
+  Not so long ago, al Zarqawi himself said of America's leaders: ``They 
+are aware that if the Islamic giant wakes up, it will not be satisfied 
+with less than the gates of Rome, Washington, Paris and London.''
+  Mr. Speaker, we cannot deny that we are fighting a war against an 
+ideology that is bent on the destruction of the Western world. They are 
+committed to killing us and would like nothing better than to 
+decapitate this country by detonating a nuclear yield weapon 100 yards 
+from here. To allow Islamist extremists to declare victory in Iraq will 
+only hasten such a day.
+  These are moments when we must hear the voice of history and remember 
+the words of Winston Churchill when he said in part: ``If you will not 
+fight when your victory will be sure and not too costly, there may come 
+a moment when you will have to fight with all the odds against you and 
+only a precarious chance of survival. There may even be a worse moment. 
+You may have to fight when there is no hope of victory because it is 
+still better to perish than to live as slaves.''
+  Mr. Speaker, if freedom is to survive, to allow Islamist terrorists 
+to declare victory in Iraq is not an option. We must win. The world has 
+changed since Mr. Churchill warned us all. We are 60 years now into a 
+nuclear age. We must not let terrorists have even the slightest hope of 
+victory ever.
+  Mr. LANTOS. Mr. Speaker, I continue to reserve the balance of my 
+time.
+  Mr. HUNTER. Mr. Speaker, I yield 3 minutes to the gentleman from 
+Texas (Mr. Conaway), a great member of the Armed Services Committee.
+  (Mr. CONAWAY asked and was given permission to revise and extend his 
+remarks.)
+  Mr. CONAWAY. Mr. Speaker, this resolution that we are debating, I 
+would like to focus on point four of the resolution that declares that 
+the United States is committed to the completion of the mission to 
+create a sovereign, free, secure, and united Iraq.
+  I think it is helpful for us to look back at some milestones over the 
+last year or so to help us understand how far we have actually come.
+  We went there to take Saddam Hussein out of power. He is now in jail 
+and on trial for his life. We got that done.
+  In January of 2005 we held the first election for a transitional 
+government. That got done.
+  Their job was to write a Constitution. At each and every one of these
+
+[[Page H4088]]
+
+steps there was great anxiety that the Iraqi people couldn't get it 
+done. They got their Constitution written in August of 2005.
+  The next step was a referendum on that Constitution. They got that 
+done.
+  Then we held national elections under that Constitution in December 
+of 2005. Again, ahead of that election there was grave concern that the 
+Iraqis couldn't do it. But they went to the polls and elected that 
+government.
+  When I was there in April, the concern at that point in time was that 
+they couldn't pick a prime minister, the next big step to the road to 
+democracy in Iraq. That got done.
+  Two weeks ago when I was there, the final point was they couldn't 
+find a minister of defense or a minister of interior to lead those very 
+important ministries, but they have gotten that done.
+  By any evaluation, we have a long stretch of historic milestones that 
+are proof that the Iraqi people are up to the task.
+  A CODEL I participated in, our job was to go over there and get a 
+sense of whether the Iraqi Army was standing up to the task. We met 
+with a General Bashir at his base at Tajik and found a very 
+professional individual. He was very candid in his remarks on where the 
+Iraqi Army was up to that point in time. As I watched the staffers, his 
+staff in the room, I tried to assess them as best I could. I found 
+professionals with a quiet sense of confidence that they could lead, 
+fight and defend their country.
+  We are making this happen, and we are completing this mission in 
+Iraq. I support this resolution and I ask that each of my colleagues 
+all support it because a free, sovereign, united Iraq will make the 
+Middle East a safer place to be, and by extension it will make America 
+a safer place to be.
+  So I rise in support of this resolution and ask my colleagues to vote 
+for it. I, too, like Mrs. Drake ask God's blessings on our country and 
+in particular on our fine young men and women who are fighting this 
+fight.
+  Mr. LANTOS. Mr. Speaker, I am pleased to yield 2 minutes to the 
+gentleman from Massachusetts (Mr. Delahunt).
+
+                              {time}  2000
+
+  Mr. DELAHUNT. Mr. Speaker, Colin Powell thought Vice President Cheney 
+was so obsessed with attacking Iraq that he suffered from war fever. 
+The problem is that fever can make you delusional and you can see 
+things that aren't really there, no matter how much you want them to be 
+true.
+  The Vice President said that we would be greeted as liberators. 
+False. Secretary Rumsfeld said that the war would not last more than 6 
+weeks. False. Secretary Wolfowitz said that Iraq could pay for its own 
+reconstruction from oil revenues. Again, false. We were told that the 
+administration had a coherent plan for postwar Iraq. False.
+  The truth is that this administration's incompetence has set back the 
+effort against global terrorism. Don't take my word for it. Simply come 
+to this floor and read the statements of these generals, patriots all.
+  The administration claimed that there was a link between Iraq and al 
+Qaeda. Again, false. But they are not talking about a link that does 
+exist and should cause us all profound concern. That is the 
+relationship between the new government in Iraq and Iran. The new Iraqi 
+government is full of Iranian allies. They have signed a military 
+cooperation agreement. And the Iraqi Foreign Minister just recently 
+said, Iran has a right to develop nuclear technology and the 
+international community should drop its demands that Iran should prove 
+that it is not trying to build a nuclear weapon.
+  And we are supposed to believe that our national security has been 
+strengthened, and that we are making progress on the war on terrorism?
+  The truth is that the war in Iraq has not just simply been a 
+distraction from the global war on terror, it has actually increased 
+the power and influence of the number one state sponsor of terrorism, 
+according to our own Department of State, an original charter member of 
+the axis of evil club, the Islamic Republic of Iran.
+  Mr. HUNTER. Mr. Speaker, I yield 3 minutes to the gentleman from 
+Pennsylvania (Mr. Shuster), a very fine member of the Armed Services 
+Committee.
+  Mr. SHUSTER. Mr. Speaker, I want to first rise tonight to thank the 
+men and women of our military for their efforts in Iraq, in Afghanistan 
+and other places around the world in the war on terror. Their 
+sacrifice, their families' sacrifice, has value and will never, never 
+be forgotten.
+  Mr. Speaker, there are many members of the minority that have 
+forgotten an important lesson of history, and that is you cannot 
+appease tyrants and evil. We need to remember the 1930s, the voice of 
+Winston Churchill that said we must confront Hitler and the Nazis as 
+they began to build up the German military machine. Well, we waited and 
+we waited until they invaded their neighbors. And it was the blood and 
+lives of hundreds of thousands of Europeans and Americans that defeated 
+that evil.
+  In the 1960s and the 1970s, we failed to confront the growing Soviet 
+threat. We waited and we waited until Ronald Reagan inspired this 
+Nation to have the will to stand up to the Soviets and engage them in 
+an arms buildup that cost Americans billions of dollars, but bankrupted 
+the Soviets, and we defeated that evil.
+  In the 1990s the terrorists attacked us over and over again. We 
+failed to respond, as President Clinton dismantled our intelligence 
+capabilities. Appeasement does not work. History shows us that over and 
+over again.
+  President Bush learned this lesson, and he and this Congress did not 
+wait until Saddam had nuclear weapons. We acted on intelligence, not 
+just our intelligence, but intelligence from agencies around the world. 
+We thought it was accurate. Unfortunately, it was wrong. But it took us 
+going into Iraq to find out that he did not have the biological, 
+chemical and nuclear capabilities we thought he might be building. But 
+we removed a tyrant. We freed a people and we focused the war on terror 
+in Iraq. And today we are helping to build a democracy in an Arab world 
+which can be a model to other nations to create liberty, justice and, 
+most importantly, hope, hope for a better tomorrow for millions of 
+Arabs.
+  We must stay the course, as this resolution states, until Iraq can 
+secure its nation and we defeat terror. This struggle will be as long 
+as it is hard. But in the end, the lesson of history will be reaffirmed 
+that appeasement is a failed strategy, and that sacrifice for freedom 
+is always worthwhile.
+  Mr. LANTOS. Mr. Speaker, I yield 2 minutes to our colleague from 
+Florida (Mr. Wexler).
+  Mr. WEXLER. Mr. Speaker, I oppose this resolution because it 
+represents an unrealistic and disingenuous portrayal of the situation 
+in Iraq. The rhetoric on the other side of the aisle is filled with 
+erroneous assertions of impending victory reminiscent of President 
+Bush's premature ``mission accomplished'' claim.
+  Mr. Speaker, after 3\1/2\ years, it is clear that the Iraq war has 
+become an exercise in futility that can no longer be justified with 
+pipe dreams and good intentions. Americans were egregiously misled 
+going into this war without a plan to win the peace. They have been 
+misled about America's progress in Iraq, and today they deserve the 
+truth.
+  The truth is that President Bush took his eye off the ball in the war 
+on terror, diverted necessary resources from Afghanistan to Iraq, and 
+today Osama bin Laden remains free.
+  The truth is that victory is not around the corner in Iraq, that the 
+insurgency and sectarian violence continue unabated, and that the death 
+of Zarqawi, while very significant, will not bring security to Iraq.
+  The truth is that on the day Zarqawi was killed there were five 
+bombings in Baghdad, and the violence continues irrespective of his 
+death.
+  The truth is that while 265,000 Iraqi security forces have been 
+trained and armed, nearly one-third of the force does not show up for 
+work.
+  The truth is that our policies have failed to stabilize Iraq, and we 
+must not stay the course. We must change the course.
+  Mr. Speaker, this resolution blurs the line between reality and 
+fiction by painting a rosy picture of Iraq and ignoring the ongoing 
+insurgency on the ground.
+  To paraphrase Secretary Rumsfeld, in a war we must deal with the 
+reality we have and not the reality we want.
+  Please join me in opposing this charade.
+
+[[Page H4089]]
+
+  Mr. HUNTER. Mr. Speaker, I yield 2\1/2\ minutes to the gentlewoman 
+from North Carolina (Ms. Foxx).
+  Ms. FOXX. Mr. Speaker, I rise today in strong support of H. Res. 861. 
+I am proud of the progress being made in the global war on terror every 
+day. While there is no quick path to victory, it is absolutely 
+necessary for us to maintain our resolve. Many people forget that 
+terrorists have long waged war against the United States, well before 
+the 9/11 attacks. Americans were bombed in Lebanon in 1983, at the 
+World Trade Center in 1993, at Khobar Towers in Saudi Arabia in 1996, 
+at the American embassies in Kenya and Tanzania in 1998, and on board 
+the USS Cole in 2000. Over the years, terrorists have made it their 
+mission to strip us of our freedoms, thinking they could kill innocent 
+Americans unprovoked, without paying a price. It is vital that we 
+continue to stand up to these murderers and show them that the United 
+States will not sit back and tolerate their savage acts. We can either 
+win this global war on terror now, or we can let the terrorists bring 
+the war to us like they did on 9/11. The right choice is clear.
+  Thanks to the hard work and perseverance of our troops, Abu Musab al 
+Zarqawi was killed last week. Yet, as President Bush said, we must 
+continue to prosecute this global war on terror until our mission is 
+accomplished and until Iraq can defend and govern itself fully.
+  I am very proud of our troops for their service, selfless attitude 
+and sacrifice. They are making great strides. They are freeing people 
+from oppression so they may enjoy the same freedoms that all Americans 
+cherish. Today our military has liberated the people of Afghanistan 
+from the brutal Taliban regime, and has denied al Qaeda its safe haven 
+of operations. They have crushed Saddam's Hussein's brutal dictatorship 
+and captured thousands of terrorists and terrorist operations. Children 
+in Iraq are returning to school and Iraqi businesses are prospering. 
+Iraq has had several successful elections and has formed their 
+government under a new prime minister. There is undeniable progress and 
+hope in Iraq every day.
+  Mr. Speaker, I close with a story about a constituent, Sergeant Dale 
+Beatty of Statesville, North Carolina. Sergeant Beatty was severely 
+injured while fighting the global war on terror and lost both legs. Yet 
+Sergeant Beatty is not angry. In fact, his resolve is even stronger 
+today. He knows that he made a great sacrifice for a noble cause. 
+Sergeant Beatty came to visit me while he was at Walter Reed and told 
+me he would gladly go back to the Middle East to fight alongside his 
+comrades if he could. That is a true American hero. Sergeant Beatty's 
+morale and the morale of our troops I have spoken with demonstrate we 
+are doing the right thing.
+  Mr. LANTOS. Mr. Speaker, I reserve the balance of my time.
+  Mr. HUNTER. Mr. Speaker, I yield 4 minutes to the gentleman from 
+North Carolina (Mr. Hayes), a very fine member of the committee.
+  Mr. HAYES. Mr. Chairman, thank you for yielding time. Your commitment 
+to our troops is unmatched.
+  Daniel Patrick Moynihan, Mr. Speaker, said we are all entitled to our 
+own opinions, but he went on to say we are not entitled to our own 
+facts.
+  Facts have been badly set aside today. Oversight? 92 hearings, 42 
+full committee, 52 subcommittee and others. Anyone that did not have 
+oversight or was not fully informed simply had other priorities. And 
+that is an option in the People's House. But the information was there, 
+publicly exposed. And other information was readily available.
+  Generals? Six generals have spoken out. In America we are free. We 
+can speak out. But the facts are that in the Army alone there are 11 4-
+stars, 53 3-stars, in the Air Force 11 4-stars, 38 3-stars and numerous 
+others who take exception to the quotes that have been misstated here 
+tonight.
+  This is a war against terrorists. Terror is a tactic. Here are 27 
+pages and 191 incidents since 1961 where Americans have died at the 
+hands, the bombs or other devices of terrorists. Make no mistake about 
+it. Terrorists have a goal, and it is to destroy freedom, America, all 
+of us who live free. That is their goal. This is not about territory. 
+This is not about negotiation.
+  Our men and women have served us admirably, courageously and well. 
+The progress was well documented by a release from Zarqawi himself this 
+morning. The war for terrorists is going poorly, an incredible sign of 
+progress.
+  And I have been to Iraq and Afghanistan many, times Mr. Speaker. But 
+on the floor of this House, just last week, I looked into the gallery, 
+right there, and there sat seven members of Parliament from 
+Afghanistan. I went up to speak to them, and as I walked down the 
+steps, they saw me coming and they said, we had dinner with you in 
+Afghanistan last week. Members of Parliament here in America looking at 
+the People's House seeing how freedom, liberty, justice and the rule of 
+law is made and administered. Remarkable, remarkable progress, Mr. 
+Speaker.
+  I am so proud of the men and women who are making this possible 
+around the world. And I guess I should close by saying redeployment? 
+What is that? It is cut and run. It is snatch defeat from the jaws of 
+victory. Sam Adams, several hundred years ago, spoke to this when he 
+said, ``if you love wealth greater than liberty, the tranquility of 
+servitude better than the animating contest for freedom, go from us in 
+peace. We ask not your counsel or your arms. Crouch down and lick the 
+hands which feed you, and may posterity forget that you were our 
+countryman.''
+  Mr. Speaker, God has blessed this country with men and women who wear 
+the uniform, make us proud and make us free. Our heartfelt thanks and 
+gratitude to them and their families.
+  Mr. LANTOS. Mr. Speaker, I yield 2 minutes to the gentleman from 
+California (Mr. Sherman).
+
+                              {time}  2015
+
+  Mr. SHERMAN. Mr. Speaker, by this point just about every point has 
+been made. But believe it or not, I would like to make a point that has 
+not yet been stated on this floor.
+  I think we all realize that the development of Iraq, its ability to 
+provide water and electricity to its people, will influence the level 
+of casualties that we suffer, may even influence the result of success 
+or failure of this mission. But what is not stated is how the debts of 
+Saddam Hussein now crushing the existing regime in Baghdad are playing 
+a role in preventing that development, a role in killing our soldiers.
+  Now, most oil rich countries borrow for development. They do not rely 
+chiefly upon aid. Why can't Iraq with enormous oil wealth borrow? The 
+answer is the huge debts incurred during the years of Saddam Hussein. 
+In fact, on this floor many of us thought that half of that $19 billion 
+of aid we gave in 2003 should be a loan, and we were told no, Iraq 
+can't borrow, they have too many debts already.
+  Now, the well-known debts to Europe and Russia have been 80 percent 
+forgiven. The secret debts, the ones that are never talked about, are 
+the enormous debts claimed by Saudi Arabia, Kuwait, and other Gulf 
+States detailed on this chart, totaling over $64 billion.
+  Now, much of the European money that was lent to Iraq was used for 
+roads and oil wells, things of continuing value to the Iraqi people. 
+But what did Saudi Arabia and Kuwait lend Saddam money for? To finance 
+his war of aggression and death against Iran. So why does the State 
+Department not have the courage to stand by the new Iraqi government in 
+its declaration that these debts are odious, null and void, and need to 
+be wiped off the balance sheet?
+  The question before us is whether the blood of Americans will be shed 
+in order to pay the debts Saddam Hussein incurred.
+  Mr. HUNTER. Mr. Speaker, I would like to yield 2\1/2\ minutes to the 
+gentleman from Idaho (Mr. Otter), who has just welcomed home his old 
+unit, the 116th Armored Cav.
+  Mr. OTTER. Mr. Speaker, it is my hope that we pause long enough 
+during this important debate tonight to remember back to another time 
+in a place not too far from this place.
+  During the heated debate and many times rancorous discussions on 
+their efforts to establish a government that would elevate the 
+individual above the crown, above the prince, above the king, and above 
+the head of state, much was said about the doubtfulness of victory and 
+the certainty of failure. Caution was urged, voted on, and rejected. 
+The hope and the promise, the
+
+[[Page H4090]]
+
+value for the chance at being free was so strong that our Founding 
+Fathers measured well that the risk was worth the reward.
+  Now is our opportunity once again to revive that spirit. And in doing 
+so, we demonstrate to ourselves, the people of the United States, 
+indeed, Mr. Speaker, the people of the world that we are worthy of the 
+suggestion that we are the beacon of freedom for the world and we share 
+that light with pride, with honor, and hope.
+  The Iraqi people who yearn for freedom, I am confident, do so with no 
+less courage and resolve than those who so boldly signed the 
+Declaration of Independence and at that time set this Nation on a 
+destiny of freedom envied by all peoples of the world who suffer under 
+the burden of tyranny.
+  Our allies throughout the war for independence did not pack up and go 
+home when the going got tough. They believed in us, as I believe that 
+we should believe in the Iraqi people. They stayed the course, as I 
+believe we should.
+  Mr. Speaker, in his book ``The Glorious Quest,'' James R. Evans gives 
+us all a thought that we should ponder as we approach this freedom-
+rendering vote. He said, ``No historian of the future will ever be able 
+to prove that the ideas of individual liberty practiced in the United 
+States were a failure. He may be able to prove that we were not yet 
+worthy of them. The choice is ours.''
+  By our actions here today, we are deciding whether or not the Iraqi 
+people are worthy of living in freedom. This choice is ours. Those of 
+us who will favor or deny this resolution surely decide the worth of 
+the Iraqi people.
+  Mr. HUNTER. Mr. Speaker, I would like to yield to the gentlewoman 
+from Florida (Ms. Ginny Brown-Waite) for 2\1/2\ minutes.
+  Ms. GINNY BROWN-WAITE of Florida. Mr. Speaker, I thank the gentleman 
+for yielding.
+  Mr. Speaker, even those of us on this side of the aisle sometimes 
+wonder if after 3 years we should still be in Iraq.
+  I recently traveled there, and like many of my colleagues, we met 
+with soldiers from Florida. We each asked to meet with soldiers from 
+our home State. I will never ever forget this young man. He was not 
+from my district. He actually was from south Florida. And I asked each 
+of them where they were from and if they were married. This young man's 
+name was Joe. And I said to him, ``Joe, are you married?''
+  He said, Yes, ma'am. I am married and I have five children.''
+  So right away I said, ``Your wife must be a saint to be home with 
+five children.''
+  And he looked at me with all of the conviction that you would ever 
+ask for in a soldier, and he said, ``Ma'am, he said, ``my wife who's 
+home with my five children feel exactly the way that I do, and that is 
+until the children in Iraq are safe on the streets, our children won't 
+be safe in Florida or in America.''
+  Obviously we are very proud of what our soldiers are doing, as are 
+their families. As Members of the Congress, I believe that we have an 
+obligation to honor every person's service to our country. Using words 
+like ``quagmire'' and ``mistaken war'' do not honor our military's 
+service. We can do this by providing our soldiers with the support that 
+they need and the recognition that they deserve. The negacrats and the 
+media do nothing to make our children safer on the streets in America 
+like Joe and his buddies do. This kind of rhetoric not only impacts our 
+soldiers, but as I sat here tonight, I could not help but think about 
+the families of the soldiers who are watching this at home, the 
+children of our very, very brave soldiers who are in harm's way.
+  In closing, I want to thank Joe and all of our troops and those 
+families, and I want to convey my eternal gratitude for everything that 
+they do. May God bless them all. May God bless our troops, who, 
+together with God, will keep our country safe.
+  Mr. LANTOS. Mr. Speaker, I am pleased to yield 2 minutes to the 
+gentleman from Oregon (Mr. Blumenauer).
+  Mr. BLUMENAUER. Mr. Speaker, it is sad that the greatest deliberative 
+body of the world's democracies cannot provide an opportunity to give 
+voice to the concerns that are shared by Americans. Instead, we are 
+given a White House press release against terror and for staying the 
+course. That is not a plan. It is a bumper sticker.
+  Our troops won the war against Saddam Hussein over a thousand days 
+ago, and they have been paying the price ever since their victory 
+because they were not properly managed, staffed, trained, or equipped. 
+Of course, nobody is in favor of an arbitrary cutoff. On my Web site I 
+detailed an approach that I think ought to be taken to focus our 
+priorities and stop short-changing, for instance, our battle in 
+Afghanistan, slowly spinning outside of control. But it is sad that the 
+Republicans can only think of two choices: stay the course, cut and 
+run.
+  If the White House and the Republican leadership believed in 
+democracy in America as much as they say they do in Iraq, we would be 
+debating the resolution of Mr. Murtha's, for example, here. Americans 
+could see their hopes and their concerns not just debated but acted 
+upon.
+  But, sadly, it is going to take another day and different leadership 
+to give Americans that type of democracy here in Congress. And in the 
+meantime every day our troops will continue to pay the price in Iraq as 
+American prestige is assaulted around the world.
+  It is sad and it is unnecessary, but it is the hand that we have been 
+dealt.
+  Mr. HUNTER. Mr. Speaker, I would like to yield 2\1/2\ minutes to the 
+gentleman who represents Dyess Air Force Base, the gentleman from Texas 
+(Mr. Neugebauer).
+  Mr. NEUGEBAUER. Mr. Speaker, I have been amused at some of the 
+rhetoric tonight, but one of the questions that has been asked is what 
+is our strategy?
+  We have a strategy. The strategy is to win. The strategy is to keep 
+America safe.
+  We are winning the war on terrorism. We have gotten Saddam Hussein. 
+We have gotten Zarqawi. But the problem is are there other Saddams, 
+other Zarqawis out there that would threaten the very fabric of the 
+life that we live in America?
+  We have a choice. We can fight that war on terrorism in other places 
+around the world or we can fight it here in America. The right choice 
+is to fight those terrorists where they are, where they are beginning 
+to thrive, and keep them contained where they are.
+  If we get out too quickly, what are we going to tell those families 
+of those young soldiers that paid the ultimate price for the freedom 
+and democracy that we are sewing the seeds for in Iraq today? What are 
+we going to tell the young men and women that are over there today that 
+have volunteered, I repeat, volunteered, to come and serve a noble 
+purpose?
+  I got a letter from a young marine named Kevin Hester. And Kevin 
+enlisted, Mr. Speaker. He knew exactly what he was getting into when he 
+enlisted in the Marines. And Kevin is in Iraq today. And Kevin wrote me 
+a letter the other day, and he said, The Iraqi people trust us, and 
+they trust us now and they are trying to help us help them by telling 
+us who the bad guys are in their country.
+  We have been fighting the cause for America and keeping America safe 
+for over 230 years coming this July 4. This is a war on terrorism. This 
+is a different war than we have fought before. This is like the war on 
+drugs. This is like the war on crime. The war on terrorism is a war 
+that we will be fighting for many years to come, but it is a war that 
+we cannot afford to lose. We cannot disgrace those young men and women 
+that are representing and defending our country so greatly.
+  And so, Mr. Speaker, I encourage people to support this resolution in 
+order to say to the young men and women around the world that are 
+defending freedom and democracy, we love you, we appreciate you.
+  God bless them and God bless America.
+  Mr. LANTOS. Mr. Speaker, I continue to reserve the balance of my 
+time.
+  Mr. HUNTER. Mr. Speaker, I yield 2\1/2\ minutes to the distinguished 
+gentleman from Kansas (Mr. Ryun), a very distinguished member of the 
+Armed Services Committee.
+  Mr. RYUN of Kansas. Mr. Speaker, I thank the chairman for yielding.
+  I rise today in strong support of our servicemembers who have worked 
+hard during the global war on terrorism. They are keeping us safe by 
+defeating a very destructive enemy.
+
+[[Page H4091]]
+
+  I am disappointed, however, that many of my colleagues on the other 
+side of the aisle have lost sight of what our servicemembers are doing 
+and have turned the global war on terror into a cheap political issue. 
+They have forgotten that instead of defeating terrorists on their home 
+turf we could be allowing our citizens to be attacked here at home. I 
+prefer to keep the terrorists outside our borders.
+  Right now al Qaeda and the insurgents in Iraq are busy attacking our 
+servicemembers and our allies, and they would like nothing better than 
+to bring these attacks to America. Even the terrorists themselves admit 
+Iraq is the front line of the global war on terror. Why should we not 
+continue this fight and keep it from coming to our own backyard?
+  Fortunately, we are fighting this battle in Iraq and our 
+servicemembers are making real progress in the global war on terror. 
+Not only are we capturing, destroying, and eliminating al Qaeda's most 
+brutal leaders, but we are training law abiding Iraqi citizens to 
+defend their own freedom. In fact, over 250,000 Iraqi citizens have 
+stepped forward and responded to the call of duty to defend their 
+country.
+  I think there are several obvious reasons why so many Iraqi soldiers 
+and citizens are willing to join the Iraqi security forces. First, they 
+know the enemy they are fighting against because they have endured 
+hardship under this enemy for most of their lives. For years they and 
+their families have been brutalized by ruthless dictators. Many of them 
+have been separated from their families and had not seen them for many 
+years.
+  Second, they have seen the pain that al Qaeda has inflicted on 
+America and other democracies around the world. They know that what al 
+Qaeda did on 
+9/11 is just a hint of what could happen. Because of this, Iraqi 
+security forces are seizing this opportunity to root out evil.
+  Third, they can taste freedom and they want to hold on to it. After 
+being liberated from tyranny and introduced to democracy they cherish 
+the freedom and are willing to fight for it just as our servicemembers 
+have fought for our freedom.
+
+                              {time}  2030
+
+  Fourth, they are inspired by the work servicemembers are doing in 
+Iraq. As a result, they are joining the Iraqi security forces in the 
+fight for freedom. Not only are their servicemembers fighting against 
+terrorism, but they are also working alongside our members and the 
+Iraqi security forces to train them how to effectively defeat the 
+enemy.
+  I want to encourage all of our colleagues today to support our 
+outstanding men and women in uniform. May God continue to bless them 
+and their families. Our prayers are with them. I urge my colleagues to 
+support House Resolution 861.
+  Mr. LANTOS. Mr. Speaker, I am pleased to yield 2\1/2\ minutes to the 
+gentleman from New York (Mr. Meeks).
+  Mr. MEEKS of New York. Mr. Speaker, I rise to share with the American 
+people the truth about the war in Iraq. For truly it had nothing to do 
+with 9/11 or the war on terrorism.
+  We invaded Iraq because Vice President Cheney erroneously claimed, 
+there is overwhelming evidence that there was a connection between al 
+Qaeda and the Iraq Government.
+  The fact is, Mr. Speaker, that Secretary of State Colin Powell 
+conceded that he had no smoking gun proof of a link between the 
+Government of Iraq, President Saddam Hussein, and the terrorists of al 
+Qaeda.
+  We know there were no weapons of mass destruction. The prewar costs 
+estimates were as incorrect as our intelligence on WMDs. The postwar 
+planning was nonexistent. The laundry list of things we did wrong and 
+the deceptions surrounding this war are never-ending, and we continue 
+to make mistakes even now.
+  No, Mr. Speaker, the mission was not accomplished. Instead of 
+invading Iraq, we should have mobilized all of our forces to pursue and 
+apprehend Osama bin Laden, the terrorist who in fact orchestrated 9/11 
+while we had him pinned down in Tora Bora, in Afghanistan.
+  At that time we had an opportunity to unite the world and bring 
+people together when we had a true coalition of nations. American 
+families can tell that things are not going well in Iraq.
+  However, a leader, a true leader, a real leader, needs to have a 
+plan. A plan of engagement. A plan of how to exit. We went into war 
+with neither.
+  The American people, the families who have lost the loved ones, 
+deserve more than that. They deserve to know that there is indeed a 
+plan, an exit strategy. This Congress, this Congress, must stand up for 
+our troops, for their families, for America, and for the sake of 
+refocusing, to wage a real struggle against terrorism.
+  No, Mr. Speaker, we must not stay our failed course. We must not be 
+stubborn, because stubbornness does not win wars. Stubbornness really 
+and actually causes us to lose. I tell my children not to be stubborn, 
+because stubborn does not win. Let's do the right thing for the 
+American people and tell them the truth.
+  Mr. HUNTER. Mr. Speaker, I yield 3 minutes to the gentleman from 
+Missouri (Mr. Akin), a distinguished member of the committee.
+  Mr. AKIN. Mr. Speaker, I think that this debate is helpful. I think 
+that whenever you get into a complicated project, even if you are 
+solving a physics problem, many times it is helpful to just stop, stop 
+right where you are and say to yourself, just using common sense, are 
+we on the right track?
+  I think we should stand back from the war for just a moment tonight 
+and ask that simple question: Are we on the right track? And we can 
+think about this country that we love so dearly, the flag that we have 
+just celebrated, and all that makes America special.
+  But what happens if you were to try to condense the goodness that we 
+love in America into a formula, which is, which really states what 
+Americans have been for all time?
+  If you were like an onion to peel off the outer things of hot dogs 
+and baseball, what would be the core that makes America what we love? I 
+would suggest that the answer to that question is found in your 
+birthday document, the Declaration, that says, we hold these truths to 
+be self evident, that all men are endowed by their Creator with certain 
+inalienable rights, life, liberty, pursuit of happiness.
+  And it goes on to say the job of government is to protect those 
+rights. And that is what we have fought wars all through history, to 
+support that basic idea. And so should it surprise us this evening to 
+find ourselves on the battlefield against terrorists?
+  Let's see. Terrorists blow up innocent people. We say, innocent 
+people have a life that is given them by God. They say they want to 
+terrorize so that people cannot be free, to compel you to do what you 
+do not want to do.
+  We say, liberty is a gift of God. And so it should be no surprise, 
+just as we have found ourselves in the War of Independence and the wars 
+against Hitler and the other wars of our history, that we are arrayed 
+against people who have no respect for the formula that has made 
+America so great.
+  And just as in the past, there is a cost. You know, my own son just 
+came back from Fallujah. They say that the cost of freedom is not free. 
+And the parents all across our country, just as my wife and I did, 
+would look at the local paper in the morning. We would say, oh, three 
+marines killed in Fallujah. I wonder if my son is one of them.
+  No, freedom is not free. But we were proud that our son, just as 
+other families are proud of their children, can carry on that same 
+tradition that the patriots did. That is what makes us feel so good 
+when we see the flag flying, the heart and soul of America, that there 
+is indeed a God that gives basic rights to people and government should 
+protect those rights. And the terrorists will not stand, because that 
+formula does not apply just to Americans; it applies to people all over 
+the world.
+  Mr. LANTOS. Mr. Speaker, I yield 2 minutes to gentlewoman from 
+Florida (Ms. Corrine Brown).
+  Ms. CORRINE BROWN of Florida. Mr. Speaker, I would like to begin by 
+saying that I support the troops. Yet the debate about the Iraqi war is 
+not about supporting the troops. I knew from the very beginning that 
+there were no weapons of mass destruction. Well, how did I know that? 
+Well, I am from Florida. And I knew back in 2000
+
+[[Page H4092]]
+
+that the Bush administration that we were dealing with would say 
+anything and do anything. They were full of lies. Let's look at the 
+evidence.
+  Since the beginning, the Republican leadership in Congress has 
+outright refused to investigate Vice President Cheney involving the 
+billions of dollars awarded to Iraq for reconstruction contracts to 
+Halliburton. $9 billion in reconstruction funds have been unaccounted 
+for. I repeat, $9 billion in reconstruction funds have been unaccounted 
+for.
+  The amount of taxpayers' money spent by Halliburton and the defense 
+contractors audit agents have deemed either excessive or insufficient 
+documentation is $1.7 billion.
+  Halliburton has received more than $17 billion in no-bid cost-plus 
+contracts for Iraq reconstruction. Folks, I am talking about billions 
+with a B. That is billions and billions of dollars. It amazes me now 
+that these figures contrast with the attention that the media has given 
+to the Katrina mismanagement, while the billions and billions of 
+dollars in unaccounted funds to Halliburton are still largely ignored 
+by the media.
+  You know, we need checks and balances. The House, the Senate and the 
+administration are all Republicans. There are no checks and balances. 
+No checks, no balances. No checks, zero balance.
+
+
+                Announcement by the Speaker Pro Tempore
+
+  The SPEAKER pro tempore (Mr. Putnam). The Chair will remind Members 
+that although remarks in debate may include criticisms of the 
+President's or the Vice President's official actions or policies, it is 
+a breach of order to question the personal character of the President 
+or the Vice President, whether by actual accusation or by mere 
+insinuation.
+  Mr. HUNTER. Mr. Speaker, I yield 3\1/2\ minutes to the gentleman from 
+Pennsylvania (Mr. Weldon), the chairman of the Air Land Subcommittee.
+  (Mr. WELDON of Pennsylvania asked and was given permission to revise 
+and extend his remarks.)
+  Mr. WELDON of Pennsylvania. Mr. Speaker, I thank my distinguished 
+chairman for yielding me time.
+  I heard one of our colleagues on the other side say that we have two 
+choices tonight: we could stay the course, or we can cut and run. Well, 
+those are not the only choices we have. They were not the choices that 
+we used in the 38 deployments in the 1990s when I supported our 
+Democrat President when we sent troops to Somalia, Haiti, East Timor, 
+Macedonia, Kosovo, Bosnia. You name it we were there.
+  The decision of when we left those countries was made by our military 
+leaders. It was made by the generals and the commanders, not arm-chair 
+politicians back here who try to do what was done by the Congress 
+during the Vietnam War.
+  Believe me, I want our troops back home. But there is a process that 
+we can use that I think is very logical. You know, when I have been to 
+the theater, the generals talk about the way that they assess the 
+capability and the readiness of the Iraqi brigades.
+  They categorize them into four levels. They know how to assess the 
+readiness of the Iraqi brigades. They have perfected it. What we should 
+be doing is what is already happening. We do not tie the removal of our 
+troops to an artificial date. We tie it into the assessment that our 
+generals make of the capability of the readiness of the Iraqi brigades.
+  Mr Speaker, this morning I went back to my district. I was at the 
+Boeing plant where we rolled out the newest model of the CH-47F, the 
+cutting-edge platform for our Army for the next 50 years. It is a great 
+aircraft.
+  The speaker there, the keynote speaker for this rollout was an Army 
+colonel. In fact, he was the airwing commander of the 101st Airborne 
+Division. He oversees 167 aircraft in theater right now. He is home for 
+two weeks of R&R. He oversees 3,200 of our troops that are on the 
+cutting edge. He wants to be home with his family. He has been in the 
+service 24 years. This was his second deployment. He is from Edgewater, 
+Maryland; he is not my constituent.
+  And I said to Colonial Warren Phipps, Colonel, we are debating today 
+in Congress whether or not we should set a date certain. What do you 
+think? You are there. Is that the right thing for us to do? He said, 
+With all due respect, sir, that is the worst thing that our Congress 
+could do for my troops under my command.
+  That is the worst thing we can do, because it would telegraph and 
+signal the enemy when they can plan their attacks, and when they can do 
+harm to my colleagues.
+  Well, I will be honest with you, Mr. Speaker. I did not support 
+artificial dates under President Clinton, and I do not support 
+artificial dates under President Bush.
+  I want the ultimate decision of when the troops come home not to be 
+done by us, but by the field generals in the command situation, command 
+leadership in Iraq, who understand that the safety and security of the 
+troops is their number one priority as well as ours.
+  What this young colonel said was, Congressman, we are making great 
+success. Today the Iraqis are handling more and more of their own 
+security. That should be the determining criteria on when our troops 
+come home.
+  As this colonel sees with his own eyes that the Iraqis are engaged 
+and are handling more and more of their own defense. He said, Today, 
+Congressman, they are going out on their own missions. He said, when I 
+have meetings and we are doing planning sessions, if I close my eyes, 
+when I hear the Iraqis planning, it is just as though it were American 
+generals planning for our operations.
+  He said, Now is not the time to cut and run. Mr. Speaker, I urge my 
+colleagues to support this resolution and not cut and run.
+  Mr. LANTOS. Mr. Speaker, I yield back the balance of my time to the 
+gentleman from Pennsylvania (Mr. Murtha).
+  The SPEAKER pro tempore. The gentleman is recognized for 2\1/2\ 
+minutes.
+  Mr. MURTHA. Mr. Speaker, I yield 2 minutes to the gentleman from 
+California (Mr. Farr).
+  (Mr. FARR asked and was given permission to revise and extend his 
+remarks.)
+  Mr. FARR. Mr. Speaker, I am here tonight, I have been watching this 
+on TV and listening all day long. I am really kind of saddened by the 
+fact that it seems to be an issue between making excuses for why we are 
+in Iraq, and the other side is cut and run.
+  I remember being in the Congress before we voted on this resolution. 
+I remember being summoned into a hearing with all of the intelligence 
+agencies there. I remember a colleague asking these intelligence 
+agencies, is Iraq an immediate threat to the United States, yes or no? 
+Every single one of those intelligence agencies represented, every one 
+said no.
+  And here we are 3 years later with all of the loss of life. Some say, 
+just stay the course. Stay the course for what? There is not even a 
+plan. Mr. Weldon was right, we had a plan in Kosovo, we had a plan in 
+Bosnia, we had plans. Where is the plan?
+  We have a plan by Mr. Murtha. There is no cut and run date in it. 
+There are no specifics on it. But it is a plan. Why are we not debating 
+a plan?
+
+                              {time}  2045
+
+  It is embarrassing that we are here this far into the war, people 
+watching us and having Congress without the ability to exercise 
+democracy, without the ability to have a vote on the only resolution 
+that is ready for a vote, which is Mr. Murtha's. I associate myself 
+with the remarks he made about what he saw and what we experienced 
+going into Iraq.
+  I wish the majority in this House would have allowed a debate on Mr. 
+Murtha's resolution.
+  I rise to associate myself with the remarks of Mr. Murtha and to 
+everyone who supports our men and women in uniform. We all support the 
+troops and the sacrifices they and their families have made. But, 
+that's not what this debate is about.
+  I've been listening all day to this debate and find Members are still 
+making excuses for why we got into Iraq in the first place.
+  You are not hearing what the intelligence community really told this 
+house.
+  Before the vote on authorization of the war all the intelligence 
+agencies were gathered together for a Congressional briefing. One of my 
+colleagues asked the question:
+  ``Is Iraq an immediate threat to the United States, tell us Yes . . . 
+or No?''
+  It was surprising to me that each intelligence community 
+representative said--``No, Iraq is not a threat to our national 
+security.''
+
+[[Page H4093]]
+
+  And even more shocking to see was that so few of my colleagues were 
+listening.
+  So, why have we been sucked into a war that was not necessary to 
+protect our national security?
+  And here we are 3 years later. Over 20,000 U.S. military personnel 
+have been killed or wounded in Iraq.
+  The loss of American lives is tragic and unnecessary.
+  Especially because Iraq never was a threat to the United States, nor 
+is it now.
+  So, today, why aren't we discussing an end to wasteful spending, to 
+unnecessary loss of lives and building a stronger America?
+  We can't because, as you have heard so often today, the majority has 
+stopped listening.
+  They have made up their minds. They are just as wrong today as they 
+were 3 years ago.
+  Look--we need a plan. Congressman Murtha is the only one with a plan. 
+Congressman Murtha's bill, H.J. Res 73, is doable and its 
+implementation would be respected by the rest of the world.
+  Mr. Speaker, I hope the President is listening to this debate. And 
+more importantly I hope he implements the Murtha plan.
+  The world would be better off for it.
+  Mr. HUNTER. Mr. Speaker, I would like to yield 2\1/2\ minutes to a 
+very distinguished member of the Armed Services Committee, Mr. Calvert.
+  Mr. CALVERT. Mr. Speaker, just last week we witnessed American, 
+coalition and Iraqi forces taking the fight to the enemy by eliminating 
+the terrorist leader of al Qaeda in Iraq. During the very same week the 
+Iraqi people looked as their first democratically elected Prime 
+Minister finalized his cabinet by selecting a new Minister of Defense, 
+a new Minister of Interior, a new member of the state for national 
+security.
+  The two events are clear evidence that Iraqi forces are making 
+progress on two major fronts in the ongoing war. On one front the 
+coalition and Iraqi forces remain in the hunt for insurgents and other 
+groups that threaten a free and democratic Iraq. On the other front the 
+Iraqi government continues to show encouraging signs into developing a 
+much needed stabilizing body the country is longing for.
+  During my three trips to Iraq I have observed our military engaging 
+the enemy, protecting the innocent citizens, training the Iraqi forces 
+to make and control and support the new elected government. Despite the 
+positive developments on the ground, we continue to hear naysayers 
+around the world questioning the importance of the outcome in Iraq.
+  On the other hand, al Qaeda leadership and its terrorist network 
+fully understand the consequences of war, calling Iraq the place for 
+the greatest battle of the modern era.
+  I have a copy of a document captured from the safe House where al 
+Zarqawi met his end. In it al Qaeda leaders lament the fact that their 
+strategy for undermining America's resolve in Iraq is failing. They 
+know that time, time to undermine America's resolve, time to foment a 
+civil war, time to get media on their side, time to spread death and 
+destruction to Iraq's neighbors is running out for them.
+  Ironically the document notes that al Qaeda originally saw time as 
+being on their side in Iraq. It states time has been an element in 
+affecting negatively the forces of occupying countries due to losses 
+they sustain economically and in human lives which are increasing with 
+time. However, here in Iraq, time is now beginning to be a service of 
+the American forces and harmful to the resistance.
+  Winston Churchill understood the importance of resolve when a 
+nation's interests are on the line. Winston Churchill, quote, I was 
+only the servant of my country and had I, at any moment, failed to 
+express her unflinching resolve to fight and conquer, I should at once 
+have been rightly cast aside.
+  This body recognized that necessity when we passed the authorization 
+of the use of military force against Iraq. While five pages long, the 
+really vital 10 words are, ``be it resolved by the Senate and the House 
+of Representatives.''
+  Mr. MURTHA. Mr. Speaker, I yield to the combat veteran from the 173rd 
+who preceded the gentleman from California in the 173rd, 15\1/2\ 
+minutes, and ask unanimous consent that he may yield time to other 
+Members of the Veterans Caucus.
+  The SPEAKER pro tempore (Mr. Putnam). Is there objection to the 
+request of the gentleman from Pennsylvania?
+  There was no objection.
+  Mr. THOMPSON of California. Mr. Speaker, I yield myself such time as 
+I may consume.
+  Mr. Speaker, this resolution will not secure any success in Iraq. It 
+will not bring our troops home. It will only signal the death of true, 
+honest debate within the walls of this great Chamber.
+  Today's so-called debate is politics at its worst. We are playing 
+politics while U.S. men and women are being killed, wounded and kept 
+away from their families. I remember laying in an Army hospital bed 
+just home from Vietnam while another Congress played politics.
+  He was disdainful then, and when I think of those brave men and women 
+I visited at Walter Reed, Bethesda, Ramstein, it makes me sick today. 
+Let's do our job and bring our troops home as soon as possible.
+  For weeks we have been told, and the American people have been 
+promised by the Republican majority, that there would be a debate on 
+this floor on the Iraq war. Instead we get what the news is calling 
+today Republican election year strategy. This resolution ignores the 
+issues most important to the men and women serving in Iraq, their 
+families and the taxpayers who have already been billed nearly a half 
+trillion dollars.
+  It ignores the issues raised by some of our most respected generals, 
+and it ignores the lack of accountability and oversight that has led to 
+some of the most egregious and embarrassing examples of waste, fraud 
+and abuse on record. We need to be working nonstop to bring our troops 
+home as soon as possible, not trying to score political points while 
+they are fighting a war.
+  We need to be working to keep them safe, as safe as possible, until 
+they are home. For starters, we should send a strong, loud message to 
+the insurgents who will not occupy Iraq and will not control Iraq's 
+oil, a message that we want to leave, as bad as they want us to leave.
+  On my last visit to Iraq, everyone I spoke with said that they want 
+the Iraqis to assume more security responsibility faster. Our military 
+has done its job, often in two, three or four deployments, an 
+unconscionable demand on our troops, an unconscionable demand on their 
+families, and an unconscionable demand on their communities. Make no 
+mistake, it has taken a toll on our military. Stay the course is not a 
+strategy for success, and we are not doing our job by being a rubber 
+stamp for this administration.
+  Mr. Speaker, this isn't honest debate. While the majority plays 
+politics, our men and women serving in Iraq are in terrible danger.
+  Mr. Speaker, I yield 2 minutes to the gentleman from Michigan (Mr. 
+Dingell), a veteran of the Second World War.
+  (Mr. DINGELL asked and was given permission to revise and extend his 
+remarks.)
+  Mr. DINGELL. ``To announce that there must be no criticism of the 
+President, or that we are to stand by the President, right or wrong, is 
+not only unpatriotic and servile, but it is morally treasonable to the 
+American public.'' Teddy Roosevelt.
+  I remember how proud I was to serve my country in World War II, and I 
+remember how proud I was of the support of Americans, and I remember 
+how proud I am now to be a Member of this body. I know how important it 
+is that we support the troops, and I remind my colleagues over here, we 
+all, everyone in this room, supports our troops without exception. We 
+have honest differences about the policies or how we got where we are. 
+We are not permitted to discuss those under this gag rule.
+  What this body should do, and I remember how proud I was of the 
+different meaningful debates which we had here, where there was 
+opportunity to amend, to discuss, to have a 5-minute rule, to have a 
+motion to recommit, so that a national policy bringing us together 
+could be forged in a proper legislative forum and a proper legislative 
+fashion.
+  We are told, either expressly or implicitly, by the administration, 
+and by people on that side of the aisle, that there is something 
+unpatriotic about questioning the behavior of this administration or 
+the policies or the way they are being conducted. Let me not answer 
+that yet. But let me give you
+
+[[Page H4094]]
+
+the answer that Teddy Roosevelt, a great patriot, a Republican, a 
+wonderful President, had to say: ``To announce that there must be no 
+criticism of the President, or that we are to stand by the President, 
+right or wrong, is not only unpatriotic and servile, but it is morally 
+treasonable to the American people.'' Listen to that. That is what we 
+are supposed to do.
+  We are not supposed to be a congregation of yes men and lickspittles. 
+We are supposed to be the voice of the people and to hammer out the 
+policies of this Nation in an honorable and open fashion. That is not 
+happening today.
+  Mr. Speaker, this is not a fair and proper procedure nor is it a 
+debate.
+  H. Res. 861 comes before us under a closed rule, no amendments are 
+allowed. This body is told by the rule, no amendments are allowed. Take 
+it or leave it, we are told.
+  I say shame. What is there to fear from an open debate and what is 
+there to cause us to lose the right to amend this legislation?
+  There is much which we can approve in H. Res. 861 and much on which 
+we can arrive at agreement and consensus.
+  There are things in this resolution which are controversial, and 
+these require, more than ever, honest and frank discussion.
+  I find the language of paragraph 3 to be a particular problem. We 
+should not foreclose our options on redeployment.
+  It may well become that there is such a need and such an interest in 
+the United States, and arbitrary pronouncements such as this will 
+actually haunt us.
+  Like many other Members of this body, I supported the President's 
+father when he came to Congress seeking authorization to liberate 
+Kuwait.
+  There the process was honest, open, and truthful. The intelligence 
+was clear, the mission was finite, and the world was united. Here the 
+process is closed, the debate filled with hyperbole and half-truths, 
+the world is alienated, and our mission is murky and indefinite.
+  Here the reasons given for invasion of Iraq were that Saddam Hussein 
+had weapons of mass destruction, chemical weapons, and nuclear weapons.
+  Like many others, I did not believe the evidence supported the 
+administration.
+  I believed we had careless use of intelligence: honest mistake, 
+careless with use of the facts, or willful deceit.
+  History tells us one or all of these unflattering conclusions are 
+supported by the unfortunate facts of the administration's behavior.
+  Now for my own position: Like all of us, I support our troops. I 
+consistently vote for more money, more equipment, and more resources to 
+support them in every way I can to win and to bring them home safe and 
+well.
+  I have not called for withdrawal of our troops. I have suggested no 
+tactics or strategy, but then neither has the administration, which 
+seems to have for its purpose and tactics more of the same, stay the 
+course.
+  Our failures and mistakes are many, leaving weapons and munitions 
+everywhere uncollected and available to criminals, insurgents, 
+jihadists, and al-Qaeda members.
+  We disbanded the army police and security services, necessary to 
+keeping order and assisting in husbanding victory and peace.
+  I am outraged at the fact that this exercise appears to be 
+politically motivated. Charges verging on disloyalty are directed at 
+loyal Americans who criticize the administration failures or suggest 
+better tactics or strategies.
+  Listen to Republican leadership instructions to their members: 
+``Democrats on the other hand are prone to waver endlessly about the 
+use of force to protect American ideals. Capitol Hill Democrats' only 
+specific policy proposals are to concede defeat on the battlefield.''
+  These words are false, deceitful, dishonest, outrageous, and vicious. 
+So here we have today's proceedings: Political attacks on Democrats. 
+Disregard of truth. Disregard of facts, and most importantly, disregard 
+of the need to correct failed policies. I cannot, and will not, support 
+such a phony and arrogant process.
+  We must deal more fairly with one of the great issues of our day, 
+which has cost us over $450 billion, 2,500 dead Americans, 20,000 
+casualties, the trust of our people and the respect of the people of 
+the world.
+  We are losing the equivalent of a battalion a month and spending 
+$1\1/4\ billion a week.
+  Our troops are performing magnificently, but the administration is 
+functioning without any adequate plans.
+  The results are disastrous consequenes for our troops, for our 
+country, for our relatIons with our friends and allies, particularly 
+people in the Arab world.
+  We need a real opportunity to discuss these matters and to provide 
+real congressional input into this situation. That is being denied to 
+the Congress and the country here.
+  I cannot support this process and I express the thoughts of the 
+people on this war and on a strange, foolish, and irresponsible 
+process.
+  Mr. HUNTER. Mr. Speaker, I yield myself 1 minute to say earlier the 
+gentleman from Arkansas (Mr. Snyder) rose and talked about what he 
+called a lack of oversight on the Armed Services Committee with respect 
+to Iraq. I want to enter into the Record, if I might, the fact of 41 
+full committee hearings, 21 on the war on terror, two on 
+reconstruction, two on troop rotation, three on the Iraqi forces, four 
+on force protection, four on detainees and five markups on that issue.
+  I would just point out that the most extensive investigation in the 
+history of detainees was completed by General Taguba, who gave us a 
+voluminous report with something like 116 annexes. I made that 
+available to everybody, Democratic, Republican, on the Armed Services 
+Committee, including Mr. Snyder, and a total of three members from the 
+Democrat side of the aisle on our committee looked at that the report. 
+It is still available for Mr. Snyder. When he gets finished reading it 
+we will have more hearings for him.
+
+                 HASC Breakdown of Iraq/GWOT Activities
+
+
+                       Total Committee Events--93
+
+       Detainees--17
+       Force Protection--10
+       ISF--6
+
+
+                      Full Committee Hearings--41
+
+       General GWOT/Iraq--21
+       Reconstruction--2
+       Troop Rotation--2
+       ISF--3
+       Force Protection--4
+       Detainees--4
+       Mark-Ups--5
+
+ Full Committee Briefings, Subcommittee Hearings, and CDR Hearings on 
+                             Iraq and GWOT
+
+       10/21/2003:
+       Readiness Subcommittee
+       Resetting and Reconstituting the Forces
+       2/2/2004:
+       Members Only Force Protection Briefing
+       3/9/2004:
+       Full Committee Briefing
+       Top Secret Codeword on Operations in Iraq, Afghanistan, and 
+     the Evolving Situation in Haiti
+       3/31/2004:
+       Full Committee Briefing
+       Top Secret Codeword on Activities of the Iraq Survey Group
+       4/1/2004:
+       Tactical Air and Land Subcommittee Hearing
+       Land Component Request for FY05--included Force Protection
+       4/2/2004:
+       Full Committee Briefing
+       Top Secret Codeword on GWOT
+       4/28/2004:
+       Full Committee Briefing
+       Top Secret Codeword on Operations in Iraq and Afghanistan
+       5/4/2004:
+       Full Committee Briefing
+       Secret brief on Iraqi Prisoner Abuse Investigation
+       5/17/2004:
+       Issue Forum
+       Stability Operations by the Iraq Coalition
+       5/18/2004:
+       Full Committee Briefing
+       Secret on Iraqi Prisoner Abuse Investigation
+       5/18/2004:
+       Full Committee Briefing
+       Top Secret/SCI on Iraqi Prisoner Abuse Investigation
+       6/2/2004:
+       Full Committee Briefing
+       Secret on DOD Detainee Interrogation Program at GTMO
+       6/10/2004:
+       Members only Force Protection Briefing
+       6/24/2004:
+       Full Committee Briefing
+       Members Only on ICRC Review of U.S. Detainee Operations
+       6/24/2004:
+       Full Committee Briefing
+       Top Secret Codeword on Iranian Nuclear Weapons 
+     Deployment Program and Involvement in Iraq
+       7/8/2004:
+       Full Committee Briefing
+       Secret on Army Force Protection Programs in Iraq and 
+     Afghanistan
+       7/14/2004:
+       Member Session
+       Members Only review of copies of reports from ICRC related 
+     to the Iraq Theater of Operations' Detention Facilities
+       7/21/2004:
+       Member Session
+       Members Only review of detainee operations in Iraq and 
+     photographs related to a new investigation of Iraqi detainees 
+     while in the custody of U.S. forces
+       9/26/2004:
+       Full Committee Briefing
+       Top Secret Codeword on Operations in Iraq and Afghanistan
+       11/18/2004:
+       Full Committee Briefing
+       Top Secret Codeword/SCI on Operations in Iraq
+       1/25/2005:
+       Full Committee Briefing
+       Top Secret Codeword on Ops and Intel in Support of Tsunami 
+     Relief, Iraq, and Afghanistan
+
+[[Page H4095]]
+
+       1/26/2005:
+       Full Committee Briefing
+       Secret on Efforts to Train Iraqi Security Forces and the 
+     Up-coming Elections
+       2/2/2005:
+       Readiness/Tactical Air Land Subcommittees
+       Ground force vehicle and personnel protection and rotary 
+     wing safety of flight issues
+       2/2/2005:
+       Full Committee Briefing
+       Secret on OIF and OEF Force Protection Initiative
+       2/15/2005:
+       Strategic Forces/TUTC
+       Able Danger Program
+       *Followed by a closed briefing
+       3/16/2005:
+       Tactical Air and Land Subcommittee Hearing
+       Future Combat System, Modularity, and Force Protection
+       6/8/2005:
+       Full Committee Briefing
+       TS on Metrics, Trends, and the Iraqi Security Forces
+       6/16/2005:
+       Member Session
+       Members Only review of copies of reports from ICRC related 
+     to the Iraq Theater of Operations' Detention Facilities
+       6/23/2005:
+       Full Committee Briefing
+       Members only from Gen. Barry McCaffrey (Ret.) on his 
+     experiences and observations in Iraq
+       6/23/2005:
+       Full Committee Briefing
+       Secret on Iraqi Security Forces
+       7/14/2005:
+       Full Committee Briefing
+       Secret on the Schmidt/Furlow Detainee Investigation Report
+       7/19/2005:
+       Full Committee Briefing
+       From TYCO Corp. on Rapid Fielding of the low-cost Warlock 
+     Blue Jammer for IED Force Protection
+       7/21/2005:
+       Full Committee Briefing
+       DOD's work in developing and tracking metrics for OIF
+       7/28/2005:
+       TUTC/Oversight and Investigation of the Financial Services
+       Committee Hearing
+       Financing of the Iraqi Insurgency
+       10/26/2005:
+       Radical Islam Gap Panel
+       Alternative Views on U.S. Counterterrorism Policy--Roles, 
+     Missions, and Capabilities
+       10/27/2005:
+       Full Committee Briefing
+       Secret on Activities involving the ICRC and enemy 
+     combatants detained by American Forces in Iraq, Afghanistan, 
+     and GTMO
+       11/1/2005:
+       Terrorism and Radical Islam Gap Panel
+       DOD Roles, Missions, and Capabilities in Counter-Terrorism
+       11/13/2005:
+       Radical Islam Gap Panel
+       Understanding Aspirations of Radical Islam: Why Mainstream 
+     Islam is Radically Different
+       11/9/2005:
+       Terrorism and Radical Islam Gap Panel
+       TS Brief on Counter-Terrorism Intelligence
+       11/10/2005:
+       Terrorism and Radical Islam Gap Panel
+       S Brief from State on Counter-Terrorism Policy
+       11/17/2005:
+       Terrorism and Radical Islam Gap Panel
+       S Brief from DIA on Counter-Terrorism Policy
+       2/1/2006:
+       Joint Subcommittee Hearing and Brief on Force Protection
+       2/16/2006:
+       TUTC Hearing
+       Combating al Qaeda and the Militant Jihadist Threat
+       3/1/2006:
+       Mark-up for H. Res. 645
+       Requesting the President and directing the Secretary of 
+     Defense to transmit to the House of Representatives all 
+     information in the possession of the President or the 
+     Secretary of Defense relating to the collection of 
+     intelligence information pertaining to persons inside the 
+     United States without obtaining court-ordered warrants 
+     authorizing the collection of such information and relating 
+     to the policy of the United States with respect to the 
+     gathering of counterterrorism intelligence within the United 
+     States.
+       3/2006:
+       Full Committee Brief
+       TS Brief on Joint Improvised Explosive Device Defeat 
+     Organization (JIEDDO)
+       3/8/2006:
+       Full Committee Briefing
+       Secret Brief from General George Casey, U.S. Forces 
+     Commander in Iraq
+       3/8/2006:
+       TUTC Hearing
+       Special Operations Command: Transforming for the Long War
+       3/15/2006:
+       TUTC Hearing
+       Implementing the GWOT Strategy: Overcoming Interagency 
+     Problems
+       3/30/2006:
+       Readiness/Tactical Air Land Subcommittees
+       Army and Marine Corps Reset Strategies for Ground Equipment 
+     and Rotorcraft
+       4/4/2006:
+       Tactical Air and Land Subcommittee Hearing on Force 
+     Protection Initiative
+       4/6/2006:
+       Tactical Air and Land Forces Briefing
+       TS on Intelligence, Surveillance, and Reconnaissance 
+     Activities are being used in theater to counter IEDs.
+
+        House Armed Services Committee Hearings on Iraq and GWOT
+
+       Sept. 10, 2002:
+       The State of the Iraqi Weapons of Mass Destruction Program 
+     and the History of the United Nations Inspections Efforts in 
+     Iraq
+       Sept. 18, 2002:
+       U.S. Policy Towards Iraq
+       Sept. 19, 2002:
+       Iraq's Weapons of Mass Destruction Program and Technology 
+     Exports
+       Sept. 26, 2002:
+       U.S. Policy Towards Iraq
+       Oct. 2, 2002:
+       U.S. Policy Towards Iraq
+       Apr. 4, 2003:
+       Operation Iraqi Freedom: Operations and Reconstruction: 
+     Iraq Violations of the Law of Armed Conflict
+       June 12, 2003:
+       The State of Reconstruction and Stabilization Operations in 
+     Iraq
+       July 10, 2003:
+       Operation Iraqi Freedom: Operations and Reconstruction--
+     Operation Iraqi Freedom: The Commander's Perspective.
+       Sept. 25, 2003:
+       Operation Iraqi Freedom: Operations and Reconstruction--
+     U.S. Policy and Operations in Iraq
+       Oct. 2, 2003:
+       Operation Iraqi Freedom: Operations and Reconstruction--
+     Operational Lessons Learned from Operation Iraqi Freedom
+       Oct. 8, 2003:
+       Operation Iraqi Freedom: Operations and Reconstruction--
+     Iraq: Reconstruction and Rehabilitation
+       Oct. 21, 2003:
+       Operation Iraqi Freedom: Operations and Reconstruction--
+     Operation Iraqi Freedom: Outside Perspectives
+       Oct. 29, 2003:
+       Operation Iraqi Freedom: Operations and Reconstruction--
+     Iraq Reconstruction and Stability Operations: The Way Forward
+       Jan. 28, 2004:
+       Operations and Reconstruction Efforts in Iraq--Operation 
+     Iraqi Freedom Force Rotation Plan
+       Apr. 21, 2004:
+       Operations and Reconstruction Efforts in Iraq--Iraq's 
+     Transition to Sovereignty
+       Apr. 21, 2004:
+       Performance of the DOD Acquisition Process in Support of 
+     Force Protection for Combat Forces
+       May 7, 2004:
+       Operations and Reconstruction Efforts in Iraq--The On-Going 
+     Investigation into the Abuse of Prisoners within the Central 
+     Command Area of Responsibility
+       May 21, 2004:
+       Operations and Reconstruction Efforts in Iraq--Conduct and 
+     Support of Operation Iraqi Freedom
+       June 14, 2004:
+       Mark-up of H. Res. 640--Resolution of Inquiry requesting 
+     that the SECDEF transmit to the House any picture, 
+     photograph, video, etc. produced in conjunction w/ any 
+     completed DOD investigation conducted by MG Taguba relating 
+     to allegations of torture or violations of the Geneva 
+     Conventions of 1949 at Abu Ghraib prison in Iraq or any 
+     completed DOD investigation relating to abuse of a prisoner 
+     of war or detainee by civilian contractors working for DOD.
+       June 16, 2004:
+       Operations and Reconstruction Efforts in Iraq--Status of 
+     U.S. Forces in Iraq after June 30, 2004
+       June 17, 2004:
+       Operations and Reconstruction Efforts in Iraq--Training of 
+     Iraq Security Forces
+       June 22, 2004:
+       Operations and Reconstruction Efforts in Iraq--Progress in 
+     Iraq
+       July 7, 2004:
+       Operations and Reconstruction Efforts in Iraq--Army and 
+     Marine Corps Troop Rotations for Operation Iraqi Freedom 3 
+     Operation Enduring Reserve
+       July 15, 2004:
+       Mark-up on H. Con. Res. 472--SOC on apprehension, 
+     detention, and interrogation of terrorists are fundamental in 
+     successful prosecution of GWOT and protection of lives of 
+     U.S. citizens at home and abroad.
+       July 15, 2004:
+       Mark up of H. Res. 869--Requesting POTUS and directing 
+     other federal official to transmit to HOR docs relating to 
+     treatment of prisoners or detainees in Iraq, Afghanistan, and 
+     GTMO.
+       Aug. 10, 2004:
+       Final Report of the National commission on terrorist 
+     attacks upon the U.S.
+       Aug. 10, 2004:
+       Denying terrorist sanctuaries: policy and operational 
+     implications for the U.S. military
+       Aug. 11, 2004:
+       Operations and Reconstruction Efforts in Iraq--Implications 
+     of the Recommendations of the 9/11 Commission on the 
+     Department of Defense
+       Sept. 8, 2004:
+       Operations and Reconstruction Efforts in Iraq--The 
+     Performance of U.S. Military Servicemembers in Iraq and 
+     Afghanistan
+       Sept. 9, 2004:
+       Operations and Reconstruction Efforts in Iraq--Report of 
+     the Independent Panel to Review Department of Defense 
+     Detention Operations
+
+[[Page H4096]]
+
+       Sept. 9, 2004:
+       Operations and Reconstruction Efforts in Iraq--
+     Investigations of Military Activities at Abu Ghraib Prison 
+     Facilities
+       Mar. 17, 2005:
+       Current Operations and the Political Transition in Iraq
+       Apr. 6, 2005:
+       Iraq's Past, Present and Future
+       May 5, 2005:
+       Status of Tactical Wheeled Vehicle Armoring Initiatives and 
+     IED Jammer Initiatives in OIF
+       June 21, 2005:
+       Marine Corps Underbody Armor Kits
+       June 23, 2005:
+       Progress of the Iraqi Security Forces
+       June 29, 2005:
+       Detainee Operations at GTMO
+       Sept. 29, 2005:
+       Operations in Iraq
+       Oct. 20, 2005:
+       Army's 4th ID Up-Armor HMMWV Distribution Strategy
+       Nov. 3, 2005:
+       Your Troops: Their Story
+       March 14, 2006:
+       Mark-up for H. Res. 685
+       Requesting the President and directing the Secretary of 
+     State and Secretary of Defense provide to the House of 
+     Representatives certain documents in their possession 
+     relating to any entity with which the United States has 
+     contracted for public relations purposes concerning Iraq.
+       April 4, 2006:
+       Improving Interagency Coordination for GWOT and Beyond
+
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. THOMPSON of California. Mr. Speaker, we reserve the balance of 
+our time. We have a lot less time than on the other side.
+  Mr. HUNTER. We have reserved the balance of our time. I think we have 
+got a transition here, Mr. Speaker, with the next committee coming up.
+  Mr. THOMPSON of California. Mr. Speaker, I yield to the gentlewoman 
+from California for the purpose of putting a statement in the Record.
+  (Ms. ZOE LOFGREN of California asked and was given permission to 
+revise and extend her remarks.)
+  Ms. ZOE LOFGREN of California. Mr. Speaker, I rise in opposition to 
+the resolution.
+  Mr. Speaker, When we made the decision to invade Iraq I said this:
+
+       The President is asking us to pass this resolution now, but 
+     he has not yet made the case for war.
+       I cannot support the President's request that we authorize 
+     military force against Iraq. I make this very difficult 
+     decision for three important reasons: The United States is 
+     not acting in self-defense or from an imminent threat from 
+     Iraq, the United States should not be pursuing unilateral 
+     action without international support, and the President has 
+     not stated an exit strategy.
+       I believe there are times when countries must resort to 
+     war, and indeed international law recognizes the rights of 
+     nations to defend themselves. I strongly support our campaign 
+     against terrorism. But are we voting this week on a case of 
+     self-defense? It would certainly be self-defense if Iraq 
+     supported the al Qaeda attack on September 11, but the 
+     evidence of such support is lacking.
+       I have listened to the administration and met with top 
+     officials. I have yet to see any credible evidence that Iraq 
+     is connected with al Qaeda. The experts readily admit that 
+     there is no real connection.
+       I can believe that Iraq is a threat to the region and to 
+     some American interests overseas, but I do not believe the 
+     threat is imminent or must be handled with a unilateral 
+     military strike.
+       This resolution is an unwise step for America that will in 
+     the end weaken America.
+
+  How unsatisfactory are the words ``I told you so''.
+  We invaded Iraq even though it was not involved with al Queda and, 
+when we diverted our gaze from the War on Terror, we let Osama Bin 
+Laden get away and now his organization has metastasized so that his 
+capture would no longer be the disruptive blow to al Queda that it 
+could have been then. Our soldiers have served bravely but their 
+courage has not been matched by adequate leadership by the brass 
+starting with the Commander in Chief. The problems that face us now in 
+Iraq are not primarily military ones but we are expecting our military 
+to accomplish them anyway.
+  This entire venture was a mistake, but the question is what do we do 
+now? I think the answer is that it's time for the Iraqi's to take 
+responsibility for their own country. Our American soldiers signed up 
+to defend America. Let the Iraqi's do the same for their country.
+  We have spent American lives and treasure in Iraq. It is now the 
+obligation of the Commander in Chief to present a strategy for a 
+successful completion of American activities there so that our troops 
+can be removed from Iraq as soon as is practicable.
+  Doing the same thing over and over again and expecting a different 
+result is the definition of insanity. It is time for leadership from 
+the Commander in Chief that is more than ``stay the course'' and more 
+of the same.
+  The war in Iraq is not the war on terror and never has been. I voted 
+to authorize the use of force in Afghanistan because it was necessary 
+that we disrupt that terrorist hotbed that had helped breed the 
+terrorists who attacked us on September 11th. Now even that necessary 
+endeavor in Afghanistan is faltering because of the diversion into 
+Iraq.
+  If we are to win the war on terror, we must focus our efforts on the 
+terrorists and not on Iraq. We are spending $8 billion or more a month 
+in Iraq and need to utilize those funds instead effectively in the 
+fight against terrorists and also to protect the United States from the 
+potential of terrorist attacks.
+  We have other threats around the world and have, tragically, damaged 
+our military readiness to face them through our miscalculations in 
+Iraq. To maintain the strong military might that America needs we need 
+to bring the Iraq misadventure to an end as soon as is practical.
+  Mr. THOMPSON of California. Mr. Speaker, I yield to the gentleman 
+from New York for the same purpose.
+  (Mr. McNULTY asked and was given permission to revise and extend his 
+remarks.)
+  Mr. McNULTY. Mr. Speaker, in accordance with my statement on Tuesday, 
+I rise in opposition to the resolution.
+  Mr. Speaker, I am in agreement with much of the content of House 
+Resolution 861, particularly the expressions of gratitude for the 
+service and sacrifice of our troops.
+  The language of the resolution, however, includes a commitment to 
+keep our troops in Iraq indefinitely and an outright refusal to set a 
+date for withdrawal. For these reasons, I strongly oppose the 
+resolution.
+  Eighty-two percent of the Iraqi people want us out of their country, 
+and 47 percent say it is justified to attack American troops. It is 
+simply unacceptable to keep our troops in Iraq indefinitely under these 
+conditions. I continue to call for the withdrawal of American forces 
+from Iraq, and challenge the Iraqi people to stand up and defend their 
+own country.
+  Mr. Speaker, when we debated the original Iraq war resolution, the 
+administration told us that Iraq was stockpiling weapons of mass 
+destruction, that there were ties between Saddam Hussein and 9/11, and 
+that Iraq was within a year of having a nuclear capability.
+  Fast-forward to the deliberations of the 9/11 Commission. They 
+concluded that there were no weapons of mass destruction, no ties 
+between Saddam Hussein and 9/11, and no nuclear capability.
+  Mr. Speaker, these votes weren't 8-4 or 7-5, they were all 12-0 that 
+the very basis for the war did not exist.
+  When I go back home, Mr. Speaker, and my constituents ask me to 
+summarize where we are in the war on terror, I tell them this: As we 
+approach the fifth anniversary of the worst terrorist attack in the 
+history of our country, we have committed hundreds of billions of 
+dollars in Iraq. More important, over 20,000 young Americans have 
+either been killed or seriously wounded going after Saddam Hussein, who 
+did not attack us, while Osama bin Laden, who did attack us, is still 
+alive, free, planning another attack on our country.
+  That, Mr. Speaker, is the very definition of failure in the war on 
+terror.
+  We went after the wrong guy.
+  But after the invasion, did we have a responsibility to help the 
+Iraqi people build a new government and a new way of life? The answer 
+to that question is yes. And we have fulfilled that obligation. We have 
+helped them through not one, not two, but three elections. It is now 
+time for the Iraqi people to stand up and defend themselves.
+  There is a general rule of military engagement that says that you do 
+not signal to your enemy what you are going to do in advance. But there 
+are exceptions to every rule, and there are two exceptions to this 
+rule.
+  Number one is that the insurgents in Iraq are using as a recruitment 
+tool the argument that we have no intention of leaving their country, 
+and that we're going to steal their oil--and it is working. It is 
+fueling the insurgency.
+  As for our friends in Iraq, those who want this new government and 
+new way of life, they seem perfectly content to let our soldiers take 
+all of the enemy fire. The problem with security in Iraq is not the 
+system of training; it's the fact that the Iraqis are not stepping 
+forward to defend their own government.
+  So, today, Mr. Speaker, my basic disagreement with the President is 
+this: He says that we should stay in Iraq until the Iraqis declare that 
+they are ready to defend their own country; and I propose that we 
+announce a timetable for withdrawal, start withdrawing our troops, and 
+make our position very clear to the Iraqis: If they want this new 
+government and this new way of life, they have to come forward, 
+volunteer, stand up, and defend it.
+
+[[Page H4097]]
+
+  Mr. Speaker, it is time to bring our troops home.
+  Mr. THOMPSON of California. Mr. Speaker, I reserve the balance of my 
+time.
+  Mr. COBLE. Mr. Speaker, I am manager of the bill for the Judiciary 
+Committee for our side.
+  The SPEAKER pro tempore. The gentleman from North Carolina is 
+recognized.
+  Mr. COBLE. Mr. Speaker, I yield myself such time as I may consume.
+  I want to initially present an update as to where we have been and 
+where we are in Iraq. Many months ago an Iraqi citizen said to me, you 
+all must remove Saddam. We can't do it, he said, because we know what 
+he is capable of doing to us in retaliation. I said to him if we do 
+remove him, will you embrace us or will you kick us? He said, I don't 
+know.
+  I responded, that is my concern. I don't know either. I believe his 
+anti-Saddam remarks at that time represented a majority view in Iraq, 
+but my concern proved prophetic. Our exercise in Iraq, Mr. Speaker, and 
+colleagues, has not been without mistakes. Our entry strategy was 
+superb. Our post-entry strategy was tentative at best, inept at worst.
+  A better response to the looting that ensued in the early days should 
+have been in place. The disestablishment of the Army, without an 
+alternative plan, in my opinion, was premature. Some would blame the 
+United States for the delayed political development, but after all, our 
+forefathers were deliberate in forming our country's operational 
+apparatus, so I think the political complaint is probably unfounded.
+  Was Saddam an evil, brutal murderer, a flagrant violator of human 
+rights? You bet. Was he involved in international terrorism? You bet. 
+Was he directly or indirectly involved in the 9/11 attack? I don't 
+know. I can neither confirm nor reject that theory. My point, Mr. 
+Speaker, is that intelligence was flawed. Mistakes were made. But the 
+cause for freedom is a noble one, and progress has, indeed, been 
+realized.
+  I am concerned, Mr. Speaker, and colleagues, about the lack of 
+objectivity in reporting the war on terrorism. Some liberal talk show 
+host reports imply that no good has been accomplished. Conversely, some 
+conservative talk show hosts portray Baghdad as moonlight and roses. 
+Clearly these two slanted versions are inaccurate and unfair.
+
+                              {time}  2100
+
+  Let me say a word about the PATRIOT Act, Mr. Speaker, and this will 
+be discussed in more detail subsequently.
+  But the PATRIOT Act was reported in the full House by the Judiciary 
+Committee, and it addressed the nexus of the sale of illicit narcotics 
+and terrorist financing. These two shadowy worlds of narcotics 
+trafficking and terrorism is an element of terrorism that I think is 
+lost on many Americans. They are joined at the hip, and I am 
+particularly pleased that the PATRIOT Act did respond to that end.
+  Seventeen months ago, Mr. Speaker, I publicly indicated that troop 
+withdrawal was conspicuously absent when the war on terrorism was 
+discussed. Oh, we spoke of appropriating more funds, we spoke of 
+dispatching additional troops, but virtually no one ever even remotely 
+included troop withdrawal in their discussions.
+  Now, I am not suggesting troop withdrawal tomorrow, but I want our 
+armed servicemen and -women home sooner rather than later. Some may 
+declare, oh, we cannot cut and run. Cut and run? We have had a presence 
+in Iraq in excess of 3 years. 2,500 armed services Americans have given 
+the ultimate sacrifice to the cause of freedom, Mr. Speaker. Thousands 
+of permanent and disabling injuries have been inflicted upon members of 
+our armed services in addition to the spending of billions of dollars.
+  I do not know what constitutes cutting and running, but I do know 
+that when we have logged a wartime duration of 3 years, when 2,500 
+Americans have given their lives for freedom, and Lord only knows how 
+many Americans have been injured, this does not constitute cutting and 
+running.
+  The time has come, it seems to me, Mr. Speaker, to pass the baton to 
+the Iraqi Government. Now, this decision will ultimately be made 
+militarily, and properly so, by the commanders on the ground; but I do 
+not want this matter of withdrawal to be lost in the shuffle.
+  If freedom and peace prevail in Iraq, Mr. Speaker, history will be 
+generous in its praise to President Bush and the Congress.
+  Mr. Speaker I reserve the balance of my time.
+  Mr. THOMPSON of California. Mr. Speaker, I reserve the balance of my 
+time.
+  Mr. COBLE. Mr. Speaker, I am pleased to yield 4 minutes to the 
+distinguished gentleman from Texas (Mr. Smith) who chairs the judiciary 
+Subcommittee on Courts, the Internet and Intellectual Property.
+  Mr. SMITH of Texas. Mr. Speaker, I thank my colleague on the 
+Judiciary Committee, the gentleman from North Carolina (Mr. Coble) and 
+the chairman of the Subcommittee on Crime, Terrorism and Homeland 
+Security, for yielding me time.
+  Mr. Speaker, I strongly support this global war on terror resolution. 
+The war on terror is being fought on two fronts, both abroad and here 
+at home. We applaud the diplomatic and military achievements overseas, 
+but we also need to remain vigilant here in our own country.
+  Until the terrorists are defeated, Americans will continue to be 
+their targets as long as we stand for freedom and democracy.
+  One of our weapons in the war on terror is the USA PATRIOT Act. That 
+bill, which originated in the Judiciary Committee, gives law 
+enforcement officials and intelligence officials the ability to 
+cooperate during investigations.
+  More than 250 people in the United States have been charged with 
+crimes tied to international terrorist investigations and have been 
+convicted or have pled guilty because of the USA PATRIOT Act.
+  In response to the events of September 11, 2001, we also passed 
+legislation that created a Director of National Intelligence so that 
+all of our intelligence capabilities would be coordinated by one 
+official.
+  We passed the REAL ID Act which contains several antiterrorism 
+provisions, including one that makes certain foreign nationals 
+deportable because of their ties to terrorism.
+  We must continue to pass legislation that makes it more difficult for 
+terrorists to enter the United States. That means enacting meaningful 
+border security legislation like the bill that the House passed last 
+December.
+  Those who would do us harm, Mr. Speaker, respect no borders. 
+Potential terrorists and thousands of others continue to enter our 
+country illegally every day.
+  In America, we are blessed to have the freedom that others only dream 
+about, but freedom is never free. It must be nurtured and protected, 
+sometimes at great cost in lives; but we will not surrender to 
+terrorists. That only empowers them. We will fight them today so we can 
+enjoy a better tomorrow. Any other course only resigns us to an 
+uncertain future.
+  In closing, Mr. Speaker, let me pay tribute to the brave men and 
+women of the 21st Congressional District of Texas who are fighting this 
+war overseas. The most difficult action I have ever taken as an elected 
+official is to call the families of the 14 servicemembers from my 
+district who have made the ultimate sacrifice. Their families' 
+patriotism and love of country is almost indescribable. Their faith is 
+great because they know our cause is great.
+  Mr. Speaker, I am glad this resolution has been brought to the floor, 
+and I urge my colleagues to support it.
+  Mr. THOMPSON of California. Mr. Speaker, I yield 3\1/2\ minutes to 
+the gentleman from New York (Mr. Rangel) who fought in the Korean War 
+and was awarded the Purple Heart and the Bronze Star.
+  (Mr. RANGEL asked and was given permission to revise and extend his 
+remarks.)
+  Mr. RANGEL. Mr. Speaker, I regret that the majority has seen fit to 
+bring to this floor a political statement where if you vote against it, 
+you are voting against our troops; and if you vote for it, of course 
+you are supporting the President's policy. But being a politician, I 
+can understand that.
+  We cannot say enough about the courage and the dedication of our 
+young people, the volunteers and the
+
+[[Page H4098]]
+
+National Guards people that are putting their lives on the line each 
+and every day. Tragically, we reached a point that we passed the 2,500 
+mark in terms of loss of life, and tens of thousands are permanently 
+maimed.
+  When we laud them, as we have heard, as supporting the President's 
+policy, I really think this is so unfair, and why? Because with our 
+fighting men and women, when that flag goes up, they salute it not 
+because of a President's policy, but because of respecting their oath 
+to the Commander in Chief.
+  When I was in Korea, I do not remember any of the soldiers that were 
+in combat questioning the wisdom of Commander in Chief President 
+Truman. They never asked did the Congress declare war. They never asked 
+why were we involved in a civil war between the North Koreans and the 
+South Koreans. They never thought that the North Koreans were going to 
+invade our communities.
+  I tell you that our fighting men and women today are not saying that 
+they challenge the Commander in Chief. They do not ask whether there 
+were weapons of mass destruction. They do not ask whether or not Saddam 
+Hussein was a part of al Qaeda. They do not ask those political 
+questions, and neither did I when I was a sergeant in the infantry.
+  But I am not a sergeant in the infantry now. I am a Member of the 
+United States Congress, a Member of this House of Representatives, and 
+each one of us has the right to challenge any direction, not of the 
+Commander in Chief, but the President of the United States. That is the 
+most patriotic thing we can do because, in doing that, whether it is 
+Vietnam, whether it is Korea, or whether it is Iraq, we are protecting 
+as best we see it, the lives and the safety of the men and women that 
+have volunteered.
+  Let us face it, they did not volunteer to knock off Saddam Hussein. 
+They volunteered because they were looking for a better way of life, 
+the same way I did when I volunteered in 1948, and you can see where 
+they come from. It does not take away from their patriotism, but they 
+did not take a poli-sci course in terms of how do you bring peace in 
+the Middle East. I mean, they were not there looking for Saddam 
+Hussein. They were looking for a better opportunity, which I guess they 
+received. They come from our inner cities. They come from our rural 
+areas. They come from the areas of high unemployment. But when they get 
+in the military, they are patriots who do not challenge the policies of 
+a President or Commander in Chief. So they are not advocates. They are 
+patriots.
+  Mr. COBLE. Mr. Speaker, I am pleased to yield 3 minutes to the 
+distinguished gentleman from Florida (Mr. Keller) who sits as a member 
+of the Judiciary Committee.
+  Mr. KELLER. Mr. Speaker, I thank Chairman Coble for yielding me time.
+  Mr. Speaker, I have just returned from visiting our troops in Iraq 
+and Afghanistan. I witnessed the impact of Zarqawi up close and 
+personal. I have seen the damage Zarqawi inflicted. I visited the areas 
+where Zarqawi lived and terrorized people, and I met the brave soldiers 
+who ultimately tracked him down and killed him.
+  It was Sunday evening, May 28, 2006, and I was in Amman, Jordan, with 
+a small delegation of six Congressmen. As I walked through the metal 
+detector to enter the hotel's lobby, I thought of Zarqawi. It was here, 
+in Amman, Jordan, that Zarqawi, a native of Jordan, killed 60 people by 
+bombing three hotels on November 9, 2005.
+  The next day was Memorial Day, Monday, May 29, and I was in Iraq 
+visiting with our troops. Once again, my thoughts turned to Zarqawi. I 
+toured the Special Operations Command Center with General Stan 
+McCrystal, a three-star general in charge of tracking down Zarqawi. All 
+over the walls of the command center were posters of Zarqawi. General 
+McCrystal and his team were confident that they would get Zarqawi, and 
+they briefed us on their efforts.
+  That same day I flew in a Blackhawk helicopter around the area of 
+Ba'Qubah where Zarqawi was ultimately located. I also toured Baghdad, 
+where Zarqawi intimidated the U.N. by bombing their headquarters and 
+where al Jazeera TV once broadcast a videotape showing Zarqawi 
+personally beheading an American citizen.
+  A week later, on Wednesday, June 7, I was at the White House with a 
+few other Members of Congress to brief President Bush about what we saw 
+in Iraq. At exactly 3:57 p.m., National Security Advisor Stephen Hadley 
+slipped a note to President Bush, Vice President Cheney and Secretary 
+of State Condi Rice. President Bush read the note, smiled and winked at 
+Condi Rice. Zarqawi was dead.
+  General McCrystal later personally went to the scene and determined 
+for himself that Zarqawi had officially been killed. President Bush 
+already called General McCrystal to thank him and his troops, and today 
+Congress thanks them as well.
+  Mr. Speaker, Amman, Jordan, is a long way from my hometown of 
+Orlando, Florida. Tonight, thousands of people in Orlando will walk 
+into hotel lobbies without having to go through a metal detector, 
+unlike the hotels in Amman, Jordan. Why? Because our soldiers are 
+taking the fight to the terrorists, like Zarqawi in the Middle East, so 
+the rest of us can live freely in the United States.
+  However one feels about the war in Iraq, realize that our troops 
+deserve our support 100 percent. God knows they have earned it.
+  I urge my colleagues to vote ``yes'' on House Resolution 861.
+  Mr. THOMPSON of California. Mr. Speaker, I reserve my time.
+  Mr. COBLE. Mr. Speaker, how much time remains on each side?
+  The SPEAKER pro tempore. The gentleman from North Carolina has 62\1/
+2\ minutes remaining.
+  Mr. COBLE. And the other side?
+  The SPEAKER pro tempore. The gentleman from California has 7 minutes 
+remaining. The gentleman from Pennsylvania has 57 minutes remaining.
+  Mr. COBLE. Mr. Speaker, I yield 3 minutes to the distinguished 
+gentleman from Ohio (Mr. Chabot) who chairs the Subcommittee on the 
+Constitution on the House Judiciary Committee.
+  Mr. CHABOT. Mr. Speaker, I thank the gentleman for yielding.
+  No one can honestly say that everything has gone just as planned in 
+the war on terror. As with any war, we continue to face many 
+challenges, some predictable, others unforeseen.
+
+                              {time}  2115
+
+  But I have no doubt that we will ultimately prevail and we will 
+prevail because of the bravery and sacrifice and commitment to 
+excellence of so many of our courageous men and women in uniform who 
+have selflessly answered the call to duty.
+  Because of these patriots, Saddam Hussein is on trial for his life, 
+for his crimes against humanity. His evil sons, Uday and Qusay, are no 
+doubt roasting in hell. There are no more mass graves in Iraq being 
+filled with the bodies of the innocent. And 25 million Iraqis, instead 
+of fearing torture and execution for such crimes as insulting the 
+President, can now, instead, actually vote for their leaders. And Iraq 
+now has an elected government under a new constitution. And because of 
+the skill and professionalism of our troops and our allies in the war 
+on terror, terrorist kingpin, Abu Musab al Zarqawi is dead, and al 
+Qaeda is left without its mastermind in Iraq. And in Afghanistan, in 
+the face of extremely difficult conditions, our courageous men and 
+women have overcome al Qaeda and the Taliban, allowing for free 
+elections and the first democratically elected President, President 
+Karzai, in that nation's history.
+  The job done by our soldiers and our sailors, our airmen and marines 
+has been nothing short of superb. It is because of them that we will 
+ultimately prevail in the war on terror. Of that I have no doubt. Like 
+many of my colleagues, I have had the opportunity to visit with our 
+troops in Afghanistan and in Iraq, and I have returned home with even 
+more respect and admiration for the great work our servicemembers do 
+each and every day. And like many of my colleagues, I have attended 
+funeral services for too many of our heroes who have given their lives 
+on the battlefield in the service of their Nation. May God bless them 
+and the families that they have left behind.
+  Mr. Speaker, these sacrifices remind us that ultimately the people of 
+Iraq must control their own destiny. Many of us have supported the 
+important mission of training Iraqi troops to take
+
+[[Page H4099]]
+
+responsibility for the security of Iraq. Ultimately, the Iraqi people, 
+the troops, the police officers there have to be responsible for the 
+security of Iraq. There is only so much that our troops can do. This 
+must continue to be a primary focus so that our brave men and women can 
+return home as soon as possible.
+  Mr. THOMPSON of California. Mr. Speaker, it is a pleasure to yield 
+3\1/4\ minutes to the gentleman from Michigan (Mr. Conyers), a combat 
+veteran of the Korea war.
+  Mr. CONYERS. Mr. Speaker, I thank the gentleman for yielding.
+  Ladies and gentlemen, General Anthony Zinni and other retired 
+generals have been outspoken in their opposition to the planning and 
+execution of our occupation of Iraq. But our administration rejected 
+their sound recommendations which predicted exactly what would happen 
+if we didn't plan for the occupation. These generals explained that our 
+forces were not provided enough resources to do the job; that we 
+alienated allies that could have helped in rebuilding Iraq; and that 
+the Defense Department ignored planning for the postwar occupation, 
+unaware of the growing insurgency there.
+  I have heard from too many military families, those children of 
+theirs who have been wounded or killed in duty. Their grief is so much 
+harder to bear knowing that often we did not adequately equip their 
+sons and daughters in battle.
+  Back home I have met many times with Lila Lipscomb, a proud mother 
+from Flint, Michigan, who lost her son Michael in Iraq. Initially, Mrs. 
+Lipscomb supported the war, on the assumption that the government knew 
+best. A week after finding out her son had died, she received a letter 
+from her son in which he forcefully argued that we should not be in 
+Iraq because there was no connection between Iraq and Osama bin Laden.
+  Cindy Sheehan lost her son Casey in Iraq and became a voice for 
+mothers of soldiers who oppose the war. Cindy's loss motivated her to 
+unite with other grieving mothers in opposition to the war. And her 
+willingness to speak truth to power has drawn attention to the 
+misconduct of the war and the terrible price that service men and women 
+and their families have paid.
+  Let me tell you this: We need to encourage our friends and allies 
+around the globe to help with Iraqi reconstruction and peacekeeping. We 
+just don't have sufficient resources to manage this work on our own. We 
+haven't learned from the first gulf war. If we can bring the 
+international community into Iraq to help establish a democracy, 
+protect its citizens, and rebuild its infrastructure, it will free 
+American forces and resources to address the real problem we face: 
+Terrorism.
+  Let's heed the advice of our colleague, Mr. Murtha, and redeploy our 
+troops to find Osama bin Laden and fight terrorists. If we can shatter 
+the myth that occupying Iraq is the same thing as fighting terrorism, 
+then these 10 hours of debate tonight will have been worth something 
+after all.
+  Mr. COBLE. Mr. Speaker, I yield the distinguished gentleman from Iowa 
+(Mr. King), who sits as a member of the Judiciary, 3 minutes.
+  Mr. KING of Iowa. I thank the gentleman from North Carolina, and I 
+appreciate the privilege to address you, Mr. Speaker, and also this 
+Chamber.
+  If we take ourselves back to September 11, 2001, we had a lot of 
+small problems then that we thought were big problems, and all of a 
+sudden we had a great big problem. We were attacked by an enemy that 
+most of us hadn't paid much attention to, if indeed we had ever heard 
+of that enemy. We believed that that day wouldn't be over before on top 
+of the attacks we knew about there would be other attacks on top of 
+that. We believed in the following days there would be more and more 
+attacks in this country because of an organized effort that would be 
+continuing with suicide bomber attacks that would continue to cost the 
+lives of Americans.
+  We mobilized this. The President stepped up in New York at ground 
+zero and took a leadership role. He said if you're not with us, you're 
+against us. If you harbor terrorists, you are a terrorist. And he 
+carried that out.
+  And as we began to get mobilized to go to Afghanistan, there were 
+those on the other side of the political equation that said you can't 
+go in there and successfully invade and occupy a nation like that; that 
+has never happened in the history of the world. The terrain is too 
+difficult, the fighters are too tenacious, and it is a fool's errand to 
+go into Afghanistan and think you can succeed in there militarily. But 
+in fact that is what happened.
+  They said it would be another Vietnam, but it wasn't another Vietnam. 
+The Afghani people voted on that soil for the first time in the history 
+of the world, and American troops were there to see to it that they 
+were able to do that. They have chosen their own leaders and directed 
+their own national destiny, 25 million people.
+  And the advisers that put that together, both civilian and military, 
+were the same advisers that advised President Bush on Iraq. The 
+similarities are almost identical: Difficult country, 25 million 
+people, you can't go there and succeed. The same advisers. And because 
+some people can find one or two generals that had a different idea, 
+they seem to believe that the President hasn't used the best wisdom 
+possible.
+  In the shortest time in the history of the world, an armored column 
+went across the desert and invaded and occupied the largest city ever 
+in the history of the world to be invaded and occupied, and that is 
+Baghdad, successfully, 25 million people. Even though we had some 
+people who have spoken on this floor tonight that were inclined to 
+surrender before the operation ever began. And now we have an operation 
+going over there that has freed 25 million more people. And Afghanistan 
+and Iraq are the lodestars for the Arab people in the Arab world.
+  When the Berlin Wall came down on November 9 of 1989, many in this 
+place did not predict that freedom would echo across Eastern Europe for 
+hundreds of millions of people, but it did. And freedom can echo across 
+the Arab world for tens and hundreds of millions of people the same way 
+that it echoed across Europe. That is the Bush doctrine. That is the 
+vision: To free people. Because free people never go to war against 
+other free people. We don't, at least.
+  And to the extent that the world is a freer place, it is a safer 
+place, especially a safer place for Americans. So, Mr. Speaker, I 
+appreciate the privilege and I stand with our military.
+  Mr. THOMPSON of California. Mr. Speaker, I yield myself 10 seconds to 
+correct some disinformation that the previous speaker put out.
+  It should be noted that this Chamber was near united on going into 
+Afghanistan. Moreover, we believed strongly that is where we should 
+have been. So it wasn't anywhere close to what he explained.
+  Mr. Speaker, I yield 3\1/2\ minutes to my friend from Tennessee (Mr. 
+Tanner), who served 4 years active duty in the U.S. Navy and retired as 
+a full bird colonel after 26 years with the Tennessee National Guard.
+  (Mr. TANNER asked and was given permission to revise and extend his 
+remarks.)
+  Mr. TANNER. Mr. Speaker, our country was founded and bases itself on 
+civilian control of the military. And when I wore the uniform of our 
+country, I, like all other military people in uniform, followed orders. 
+I obeyed my commanders and I tried to do whatever the mission was that 
+was set before us. That is what you do in the military of the United 
+States under civilian control.
+  But I am not in uniform any more. I am a civilian now, and part of 
+that civilian authority. And it is our patriotic duty as part of that 
+civilian authority to ask questions, to constantly reexamine the 
+strategy, to constantly reexamine the policy of this country, to do 
+everything we can to, one, accomplish our mission; and, secondly, and 
+more importantly, protect the men and women who are actually doing the 
+fighting for us now.
+  That is why this debate, I would have hoped, would have been more 
+broad; that we would have had more opportunity, because this debate in 
+this country has to take place in this building on this floor here and 
+in the Senate Chamber. It is the patriotic obligation and duty of 
+civilian authority to do that, and I am proud to be here tonight.
+  Now, I have supported resolutions like this in the past, but I want 
+to ask
+
+[[Page H4100]]
+
+Mr. Coble a question, sir. There was a news report this morning that 
+the new Iraqi government is negotiating with some of the elements there 
+in Iraq that are insurgents who have been murdering Americans, and this 
+was what one of the Iraqi government officials said this morning, 
+according to these news reports, and I quote: ``There is a patriotic 
+feeling among the Iraqi youth and the belief that these attacks on 
+Americans are legitimate acts of resistance in defending their 
+homeland. These people will be pardoned, definitely, I believe.''
+  Now, unless that can be cleared up, I am not prepared to vote for a 
+resolution which says in part that the United States and its coalition 
+partners will continue to support Iraq. If this government in Iraq is 
+going to grant amnesty to people who kill Americans because they feel 
+it is their patriotic duty and they are defending their homeland, then 
+we have got to reassess where we are with these people.
+  Do you know whether or not this has been cleared up?
+  Mr. COBLE. Mr. Tanner, I do not know. I am told that it was announced 
+that it was a mistake. But I cannot verify that, and this is a case of 
+first impression with me, what you have just shared with me.
+  Mr. TANNER. Well, I don't want to catch you off guard, but we need to 
+clear this up before we vote on this resolution. I do not think the 
+American people will support a government that grants amnesty to people 
+who kill American soldiers.
+  Mr. COBLE. Mr. Speaker, I am pleased to yield 2 minutes to the 
+gentlewoman from New York (Mrs. Kelly), who, by the way, is the founder 
+and chairman of the bipartisan, bicameral Anti-terrorist Funding Task 
+Force.
+  Mrs. KELLY. Mr. Speaker, I want to talk briefly about one aspect of 
+our fight against terrorism that is often overlooked, and that is our 
+efforts to detect and eradicate terrorist funding networks around the 
+world. The fight against terror finance goes hand in hand with the war 
+on terror.
+
+                              {time}  2130
+
+  Terrorists infiltrate our financial systems to distribute the money 
+that they need to support their evil activities around the globe. They 
+exploit a wide variety of alternative funding networks that range from 
+charities to commonplace criminal activity like drug peddling and 
+illegal cigarette sales.
+  My colleagues would likely agree that while we may have targeted the 
+financial resources of terrorists networks at times prior to 9/11, the 
+fight against terror finance didn't begin in earnest until after the 9/
+11 attacks.
+  The 9/11 hijackers used U.S. and foreign banks to transfer the 
+roughly half-million dollars necessary to the plan to execute their 
+attacks on America.
+  We fought back against terror financiers with people like Dennis 
+Lormel, a veteran FBI agent who was tasked with tracking down the 
+financial lifelines that enabled the 9/11 hijackers to operate.
+  We fought back with people like David Aufhauser, who was then general 
+counsel at the Treasury Department who was put in charge of a small 
+interagency terror finance group which met regularly at the White House 
+after 9/11.
+  And we fought back here in this House. Chairman Oxley and the ranking 
+member, Mr. Frank, convened a Financial Services Committee hearing on 
+terror finance just 3 weeks after the attacks. Shortly thereafter, this 
+body passed the PATRIOT Act, which provided critical new terror finance 
+tools.
+  We have held numerous hearings since to improve the government's 
+antiterror finance efforts and to identify which foreign countries need 
+to do more to stop terror financing within their borders.
+  And we have created the bipartisan Congressional Anti-Terrorist 
+Financing Task Force to bring a stronger focus on bolstering our fight 
+against terror financiers.
+  In just a few years, we have made significant progress in combating 
+terror-funding networks. We still have a long way to go, but we are on 
+the right track.
+  Last December, the 9/11 Commission came out with a report card 
+grading the government's response to 9/11. The government's efforts 
+against terror finance got the highest grade of them all, an A minus.
+  Just last week, an al Qaeda planning document was found in al 
+Zarqawi's hideout which laments our successes in restricting the al 
+Qaeda financial outlets. This House has played an important role in 
+this effort, and it has been approached in a bipartisan way even when 
+dealing with terror finance in Iraq. Continued progress on this complex 
+issue requires a sustained commitment from our Congress.
+  Last year, members from both sides of the aisle joined me in a letter 
+pressing Syria for more action in stopping the flow of fighters and 
+finances into Iraq.
+  Members from both sides of the aisle joined me in asking the 
+government of Italy to crack down on open fundraising efforts for Iraqi 
+terrorists in their country.
+  As we move forward, our challenges continue to grow more daunting as 
+terrorists perpetually adapt to our methods to stop them. They are 
+constantly finding new ways to raise and distribute money.
+  So we must work even harder to keep up with terrorists' ever-changing 
+financing techniques. We must continue pressing foreign governments to 
+do the same.
+  Continued progress on this complex issue requires a sustained 
+commitment from Congress. By stopping the flow of terrorist money, we 
+can diminish the ability of terrorists to attack our citizens and our 
+country. Fighting terror finance must remain a critical component of 
+the War on Terror.
+  Mr. THOMPSON of California. Mr. Speaker, I would like to thank the 
+gentleman from Pennsylvania for yielding time for some of the veterans 
+on the Democratic side of the aisle to have the opportunity to speak 
+out against this sham resolution, and I yield back to him the balance 
+of my time.
+  Mr. MURTHA. Mr. Speaker, I yield 2 minutes to the gentleman from 
+Maine (Mr. Allen).
+  Mr. ALLEN. Mr. Speaker, I thank the gentleman for yielding.
+  I rise to oppose this resolution and to call for a significant 
+reduction of U.S. forces this year and an end to the occupation in 
+2007.
+  I voted against the invasion in 2002 because I believed the war would 
+be a strategic blunder of historic proportions. And it has been.
+  We owe the men and women we sent to Iraq and their loved ones more 
+than a few hours of grandstanding on this floor and an empty resolution 
+of support.
+  We must work toward a national consensus to end this war, a war born 
+in deception and managed under a delusion. Today's news that the 
+American death toll has surpassed 2,500 is the grim reminder of the 
+danger and sacrifice our Armed Forces face daily in Iraq. We need to 
+end our occupation of Iraq so America can rebuild our economy at home 
+and regain respect abroad.
+  Mr. COBLE. Mr. Speaker, I yield 3 minutes to the distinguished 
+gentleman from Arizona (Mr. Hayworth), who sits on the House Ways and 
+Means Committee.
+  (Mr. HAYWORTH asked and was given permission to revise and extend his 
+remarks.)
+  Mr. HAYWORTH. Mr. Speaker, again we return to the people's House to 
+discuss the people's business and the central question that cuts to the 
+very core of our existence: free men and women engaged in an armed 
+struggle to advance freedom elsewhere in the world; our all-volunteer 
+military, standing in the breach against Islamofascism and terror in 
+Afghanistan and in innumerable other places around the globe. But the 
+central front for our discussion this evening in Iraq.
+  Mr. Speaker, I rise in support of the resolution, in support of the 
+troops, in support of this mission, as I often recall the words of Mark 
+Twain that history does not repeat it, but it rhymes.
+  I review the debate that has gone on in the people's House today, so 
+many willing to compare this to Vietnam. So many coming to this floor 
+using the term ``quagmire,'' and yet any dispassionate, objective 
+evaluation of what has transpired would be remiss if we did not include 
+not one, not two, but three elections where we have seen turnout by the 
+Iraqi people exceed on each occasion what had gone on before.
+  We see a nation being born, fighting terror, and we see American 
+troops, volunteers, stepping forward.
+  Others have made the point, Mr. Speaker, that there is no more solemn 
+and sacred obligation than casting a
+
+[[Page H4101]]
+
+vote to put our military into harm's way. I have been at Walter Reed 
+with one of my constituents prior to surgery. I had that young man say 
+to me: Congressman, I am a cav scout. That's my job; that's my 
+profession. Help me do all I can to get back with my unit.
+  The men and women of our military are professionals doing a tough 
+job. I don't doubt the sincerity and intent of those who oppose this 
+resolution, but I do respectfully take issue with their judgment.
+  If not us, who? If not now, when? We have no choice. Failure is not 
+an option, and to those for whatever reason eager to snatch defeat from 
+the jaws of victory, al Zarqawi is dead. A democracy is being born. 
+Freedom is on the march. This remains an imperfect world with mistakes 
+and challenges that likewise remain, but let us stand steadfast, true 
+to the course, true to the cause, true to freedom. Vote ``yes'' on this 
+resolution.
+  Mr. MURTHA. Mr. Speaker, I reserve the balance of my time.
+  Mr. COBLE. Mr. Speaker, I am pleased to yield 2 minutes to the 
+distinguished gentleman from Connecticut (Mr. Simmons), a Vietnam 
+veteran and the recipient of two Bronze Stars.
+  Mr. SIMMONS. Mr. Speaker, I rise in qualified support of the 
+resolution. There is much in the resolution to like. It honors those 
+Americans who fought in the global war on terror, and especially those 
+who have been wounded and died; and it expresses a commitment to a 
+sovereign, free, secure, and united Iraq. And it urges we protect 
+freedom.
+  But the resolution fails to address a key question that most 
+Americans are asking: When are the troops coming home? Let me be clear, 
+I have long opposed setting a date certain for immediate withdrawal of 
+U.S. forces because such plans encourage our enemies and put our troops 
+at risk.
+  However, speaking as a Vietnam veteran, I believe every 
+unconventional conflict has a tipping point where the presence of 
+foreign soldiers on sovereign soil begins to become counterproductive, 
+and I learned that we cannot secure a foreign land all by ourselves. We 
+must plan a transfer of authority where a sovereign state assumes the 
+solemn task of securing their own people within their own borders. And 
+I believe this tipping point is fast approaching.
+  We must patiently but firmly insist that the new Iraqi Government 
+assume these responsibilities, and we must also be systematic in 
+bringing home those American soldiers who have so bravely served us on 
+the ground in Iraq.
+  Mr. Speaker, I observe in this great Chamber two portraits: one of 
+George Washington, a revolutionary leader; the other is France's 
+General Lafayette who helped us with our revolution from 1777 to 1781. 
+It is instructive to note that General Lafayette did not stay here 
+forever, nor did we want him to go. Good friends know when to come; 
+good friends know when to go.
+  In conclusion, Mr. Speaker, it is important to be resolute about our 
+support for the troops. But it is also time to send a clear message 
+that our commitment is conditional on their successes, and our days in 
+their country are not indefinite.
+  Mr. Speaker, I rise in qualified support of the Resolution. There is 
+much in this resolution to like.
+  After all, it honors those Americans who have fought in the Global 
+War on Terror, and especially those who have been wounded or died.
+  It expresses a commitment to a ``sovereign, free, secure and united 
+Iraq.'' And it urges that we ``protect freedom.''
+  But this resolution fails to fully address a key question that most 
+Americans are asking: ``When are the troops coming home?''
+  Now let me be clear--I have long opposed setting a ``date certain'' 
+for ``immediate withdrawal'' of U.S. forces because such plans 
+encourage our enemies and put our troops at risk.
+  However, speaking as a Vietnam Veteran, I believe that every 
+unconventional conflict has a ``tipping point'' where the presence of 
+foreign soldiers on sovereign soil begins to become counter-productive.
+  I learned that we cannot secure a foreign land all by ourselves. We 
+must plan a transfer of authority where a sovereign state assumes the 
+solemn task of securing their own people within their own borders.
+  I believe that this ``tipping point'' is fast approaching in Iraq. We 
+must patiently, but firmly, insist that the new Iraqi Government assume 
+these responsibilities.
+  We must also be systematic in bringing home those American soldiers 
+who have so bravely served us on the ground in Iraq.
+  President Bush and this Congress must clearly tell our partners in 
+Iraq--particularly, the new government--that they must step up to the 
+plate and assume their solemn responsibilities for securing their 
+country.
+  The new Iraqi Government must understand that the American people 
+will not allow their own sons and daughters to stay indefinitely; and 
+that it's time for the Iraqis to assume more of the burden of sacrifice 
+that any war and any revolution might bring.
+  It is time for Iraq to come together and show the American people 
+that it is ready to defend itself, govern itself and sustain itself.
+  In closing, Mr. Speaker, I observe in this great chamber two large 
+portraits. One is of George Washington, our revolutionary leader. The 
+other is of France's General Lafayette, who helped us with our 
+revolution from 1777 to 1781.
+  It is instructive to note, that General Lafayette did not stay here 
+forever; nor did we want him to. Good friends know when to come--and 
+when to go.
+  In conclusion, Mr. Speaker, it is important to be resolute about our 
+support for our troops and their important mission. But it is also time 
+to send a clear message to our friends in Iraq, that our commitment is 
+conditional on their own successes, and that our days in their country 
+are not indefinite.
+  And although I wish this resolution could have made this point more 
+clearly, I will support the resolution.
+  Mr. MURTHA. Mr. Speaker, I yield 2 minutes to the gentleman from 
+Georgia (Mr. Lewis).
+  Mr. LEWIS of Georgia. Mr. Speaker, I want to thank my friend and 
+colleague, Mr. Murtha, for yielding.
+  Mr. Speaker, it is time for us to close this very grim and dark 
+chapter in American history, a chapter that is leaving a dark stain on 
+the moral fabric of our Nation and compromising our credibility among 
+the communities nations.
+  As Gandhi once said: ``Liberty and democracy become unholy when their 
+hands are dyed with innocent red blood.''
+  Mr. Speaker, we have buried 2,500 of our Nation's mothers, fathers, 
+daughters, sons, husbands, wives, brothers and sisters. The lives of 
+18,000 men and women have been changed forever. Some have lost their 
+arms, their legs, and their sight in this unnecessary conflict.
+  Mr. Speaker, war is messy. War is bloody. It tends not only to hide 
+the truth, but to sacrifice the truth. While we may have won some 
+military victories, those do not erase the mistake of a preemptive war.
+  They will not silence the questions that are troubling the minds of 
+the American people. They know today that Iraq did not pose an 
+immediate threat. There were no weapons of mass destruction, and they 
+see that we are deeply involved in a misguided conflict.
+  Mr. Speaker, I deeply believe that the American people want us to 
+bring our children home. We are not safer today than we were before we 
+went to war. This war is not the answer, so we must find a way out of 
+no way to bring our young men and our young women home. Bring them 
+home.
+  Mr. COBLE. Mr. Speaker, before I recognize the next speaker, could 
+you tell me how much time remains.
+  The SPEAKER pro tempore. The gentleman from North Carolina has 49 
+minutes remaining. The gentleman from Pennsylvania has 54\1/2\ minutes 
+remaining.
+  Mr. COBLE. Mr. Speaker, I am pleased to yield 3 minutes to the 
+gentleman from California (Mr. Daniel E. Lungren) who sits on the House 
+Judiciary Committee.
+  Mr. DANIEL E. LUNGREN of California. Mr. Speaker, I thank the 
+gentleman for yielding, and I rise in support of this resolution.
+  Over a quarter of a century ago when I served in my first term during 
+my first period of service in Congress, I remember making a very 
+difficult phone call. That phone call was to the parents of a young man 
+in uniform who had died in our failed attempt in the desert to attempt 
+to rescue our hostages in Iran.
+  I recall the feeling of helplessness we had at that moment, not 
+understanding what we were doing, not having a strategy as to how we 
+respond to what was, very simply put, a terrorist attack.
+
+[[Page H4102]]
+
+  I recall being awakened one morning to learn that we had suffered the 
+loss of our marines in Beirut. I recall the attack on the USS Cole. And 
+then, of course, I recall with all of us the terrible tragedy of 9/11.
+  Say what you will about the President's policies and say what you 
+will about the imperfections involved, the fact of the matter is since 
+9/11 this President, this administration, has embarked on a strategy 
+that says we will not wait to be attacked. We will not wait to respond 
+exactly where they attacked us. We will change the rules of the game, 
+and we will decide where and when we will attack.
+  We understand that this is a global war on terror. Those who suggest 
+that the war in Iraq is not essential to our defense in the war on 
+terror should only listen to the words of Mr. Zarqawi and the 
+correspondence that he had last October where he suggested one of the 
+very first objectives of al Qaeda was to make sure we were defeated in 
+Iraq.
+
+                              {time}  2145
+
+  We should understand that we have done great things in response to 
+this, on a bipartisan basis. We have given the President the tools to 
+use, the PATRIOT Act, intelligence gathering that he did not have the 
+capacity for before. And let me just mention a number of plots that 
+have been deterred.
+  The West coast airliner plot in mid-2002. The U.S. disrupted a plot 
+to attack targets on the West coast of United States using hijacked 
+airplanes.
+  The East Coast airliner plot in mid-2003,
+  The Jose Padilla plot to blow up apartment buildings in the United 
+States in May of 2002.
+  The 2004 U.K. urban targets plot where the U.S. and partners 
+disrupted a plot that involved urban targets in the United Kingdom.
+  The 2003 Karachi plot.
+  The Heathrow Airport plot in 2003.
+  The 2004 U.K. plot.
+  The 2002 Arabian Gulf shipping plot.
+  The 2002 Straits of Hormuz plot,
+  The 2003 tourist site plot where the U.S. and a partner nation 
+disrupted a plot to attack a tourist site outside the United States.
+  We are making progress precisely because we are playing away games, 
+not home games. Let's not forget that as we debate this important 
+resolution.
+  Mr. MURTHA. Mr. Speaker, I yield 3 minutes to the gentleman from 
+Texas (Mr. Gene Green).
+  Mr. GENE GREEN of Texas. Mr. Speaker and Members, our job is to 
+protect our Nation. We have thousands of young men and women who are 
+doing it today.
+  I believed in early 2003 we should do more to capture or eliminate 
+the people who caused the 9/11 attacks. They were predominantly in 
+Afghanistan, not in Iraq.
+  Today it seems we have a resurgent Taliban in Afghanistan and 
+increasing attacks in Iraq on our troops and Iraqi citizens.
+  We have seen success in capturing Saddam and eliminating al Zarqawi. 
+I have never doubted the ability of our young men and women in our 
+Armed Forces. We saw what they were capable of doing in the first days 
+of the war when they stormed Iraq and Baghdad within days, overwhelming 
+the Iraqi forces.
+  The accomplishments we have seen in Iraq can be attributed directly 
+to these troops' discipline and persistence in fighting the insurgency.
+  Mistakes have been made, and the most experienced members of our 
+Armed Forces have pointed that out. One of the individuals who spoke 
+out was retired Marine General, Former Chief of U.S. Central Command 
+Anthony Zinni, who said, ``We grow up in a culture where 
+accountability, learning to accept responsibility, admitting mistakes 
+and learning from them was critical to us. When we don't see that 
+happening, it worries us. Poor military judgments has been used 
+throughout this mission.''
+  As this war has gone on, the lack of planning and poor judgment by 
+this administration has become more apparent.
+  I have here the May 1, 2003 press release from the White House in 
+which President Bush, on board the U.S. Abraham Lincoln, declared all 
+major combat operations have ended. We now know that this was one 
+miscalculation among many.
+  Since that time, seven young men from our 29th Congressional district 
+in Texas have lost their lives in Iraq. Across this Nation, 2,300 
+service personnel, men and women have lost their lives since the 
+President made these remarks.
+  Reading over these remarks, it is clear that the administration had 
+no clear plan for securing Iraq after the invasion and no clue about 
+what was to follow the next 3 years.
+  Given the size and the strength and the effectiveness of the 
+insurgency, the administration's intelligence should have given some 
+indication that there would be problems down the road and done a better 
+job of preparing both our public and, more importantly, our troops on 
+what was to come the following month and the following years.
+  It is clear that we did not have enough troops on the ground 
+immediately after the invasion, and that shortage continues.
+  Congress doesn't direct troops on the ground. We are not the 
+Commander in Chief. But we are charged with sending our sons and 
+daughters into battle, and therefore we need an honest and open debate 
+about what is occurring in Iraq.
+  I strongly disagree with the way the administration planned and 
+carried out this war. I will continue, though, to vote for the defense 
+appropriations and the supplemental dollars because we have to give our 
+troops protections that they need, and we learn every day that they 
+need even more.
+  Many brave men and women have given their lives in Baghdad and all 
+across Iraq. We honor those families for their sacrifice, their 
+ultimate sacrifice.
+  Mr. Speaker, this war is not the one we anticipated fighting or the 
+war we were led to believe we were getting into, but I believe we must 
+leave a secure Iraq that can defend itself and be a symbol for 
+democracy to prosper.
+  Mr. COBLE. Mr. Speaker, I yield 3 minutes to the distinguished 
+gentleman from Texas (Mr. Gohmert).
+  Mr. GOHMERT. Mr. Speaker, the question came up previously from a 
+colleague about did Iraq intend to give amnesty to those who have 
+killed American soldiers, and I want to clarify that. The National 
+Security Adviser said just earlier regarding alleged comments from the 
+Prime Minister that supposedly amnesty would be given to some who have 
+killed Americans. He said, ``This is not the case. I am sorry to say 
+the Prime Minister of Iraq has been misquoted and misunderstood. He did 
+not mean to give amnesty to those who killed Americans.'' So that 
+should clarify that.
+  Now, Mr. Speaker, there are those who have said it is a quagmire in 
+Iraq. It is a mistake for us to be there. Some made these statements 
+from personal heartache. Some, on the other hand, were made from 
+partisan political motivation, and some from disdain for our President 
+and a desire to see his efforts fail, even though it risks world 
+stability and national security.
+  But our soldiers are there. They know they have done great things and 
+will continue to accomplish more. They have seen the admiring faces of 
+Iraqi children that were never present in Vietnam. They have heard 
+gratitude from many there in Iraq that was never heard in Vietnam.
+  Our valiant soldiers not only fight, protect and defend, they also 
+see the frantic efforts of terrorists who are terrified that democracy 
+and the people will begin to rule over them and their oppressive 
+dictatorial ways. They keep many terrorists occupied there rather than 
+here in America.
+  Mr. Speaker, as legislators, we get to ask a question that I didn't 
+get to ask as a judge. It was inappropriate because of the separation 
+of powers. And that is, who will be hurt or helped by the actions and, 
+in my case as a judge, by the ruling?
+  Well, here in this debate as legislators we get to ask that question. 
+Who will be hurt by pulling out? Those yearning for freedom who have it 
+within their grasp will be hurt. And ultimately America will be hurt 
+because of terrorist activities that would resume and multiply unabated 
+in Iraq, and bin Laden would have been proven right, that we didn't 
+have the stomach to go all the way to victory.
+  Who would be helped by our pulling out? Well, there are some families 
+that would not endure the heartache from losing or having a wounded 
+soldier in
+
+[[Page H4103]]
+
+their family. But the price in lost lives might be far more expensive 
+in the future. Who would really be helped would be ruthless, heartless, 
+finger detaching, hand removing, throat slashing, decapitating, women 
+raping and abusing, child misusing, corpse abusing, merciless, 
+calloused, deranged, religious zealot, murderers who think they are 
+going to get virgins in the next life, but may find they are the 
+virgins with what happens to them.
+  Let me just close by saying, some have not had nice things to say 
+about our colleague, Mr. Murtha, and others wanting to pull out of Iraq 
+quickly. But I understand the faithful visitation that he does 
+routinely. So I say thank God for his big heart. I say thank God for 
+his compassion. Thank God for his visits to the wounded. Thank God for 
+his ministering to grieving families. But thank God he was not here and 
+prevailed after the bloodbaths at Normandy and in the Pacific, or we 
+would be here speaking Japanese or German.
+  Mr. MURTHA. I yield myself 1 minute.
+  I ask the Speaker, was the gentleman at any of those locations? Was 
+the gentleman at either Normandy or any of those locations?
+  Mr. GOHMERT. Will the gentleman yield?
+  You want to know which locations?
+  Mr. MURTHA. Yes.
+  Mr. GOHMERT. Normandy was a horrible bloodbath.
+  Mr. MURTHA. I said were you there?
+  Mr. GOHMERT. Oh, no, I wasn't.
+  Mr. MURTHA. Were you in Vietnam?
+  Mr. GOHMERT. No, sir, I wasn't.
+  Mr. MURTHA. Were you in Iraq?
+  Mr. GOHMERT. I have been over there. I haven't been fighting.
+  Mr. MURTHA. Boots on the ground?
+  Mr. GOHMERT. And I do admire the gentleman's compassion, and I do 
+appreciate all that he has done for our wounded. He has done a great 
+service, and that would be you, Mr. Murtha. Thank you for your work.
+  Mr. MURTHA. Mr. Speaker, I yield 2 minutes to the gentleman from 
+Vermont (Mr. Sanders).
+  Mr. SANDERS. Mr. Speaker, the process that we are dealing with this 
+evening is nothing less than an outrage. The idea that on an issue of 
+this great importance those of us in the minority are not being allowed 
+to offer a resolution of our own is an insult to the democratic process 
+and tells us why we have to end one party government in America.
+  The Republican resolution talks about democracy in Iraq. I am all for 
+that. But I would also like to see some democracy on the floor of the 
+U.S. House of Representatives.
+  Three and a half years ago, when we were asked to give the President 
+the authority to go to war in Iraq, I voted against that resolution, 
+and I think history will indicate that that was the right vote.
+  Three and a half years ago President Bush told us that Iraq had 
+weapons of mass destruction, that Iraq was likely to attack us, and 
+that it was necessary to wage a preemptive war against them. President 
+Bush was wrong.
+  Three and a half years ago, we were told that there was a link 
+between Iraq and al Qaeda. That was wrong.
+  Three and a half years ago, we were shown all of those aluminum tubes 
+which allegedly told us about a nuclear weapons program in Iraq. That 
+was wrong.
+  Three and a half years ago, we were told that Iraq was importing 
+depleted uranium from Niger. That was wrong.
+  Mr. Speaker, terrorism is a major problem for our country and the 
+world. Unfortunately, in many respects, the war in Iraq has created 
+more terrorists than it has stopped, and has deflected our attention 
+away from the fight against Osama bin Laden and al Qaeda.
+  Mr. Speaker, let us bring our troops home as soon as possible. Let us 
+mount a focused campaign against terrorism with military force, with 
+improved intelligence capabilities and with an understanding that we 
+need to work with the entire world.
+  Mr. COBLE. Mr. Speaker, I yield 2 minutes to the distinguished 
+gentleman from New Jersey (Mr. Ferguson).
+  Mr. FERGUSON. Mr. Speaker, I rise in support of this resolution.
+  Mr. Speaker, Iraq is a part of the global war on terrorism, and a 
+strong democratic Iraq means a safer America.
+  Rather than debate the past, I choose to look at where we are today 
+and where we will be tomorrow. In the days and weeks and months ahead, 
+the global war on terrorism will come to a turning point. Today the 
+question is, do we continue to fight and defeat the terrorists who will 
+stop at nothing to destroy Iraq's democracy?
+  Ultimately, the success of democracy in Iraq will be decided by the 
+Iraqis themselves, for it is they who must take their country back.
+  Like many of our colleagues, I have traveled to Iraq. I have visited 
+with its leaders, including the new Prime Minister. I have also visited 
+with our troops, including from my home State of New Jersey. I have met 
+with members of the Signal Battalion from Westfield and our Finance 
+Battalion in Flemington before their deployments. Their courage in the 
+face of danger and willingness to serve inspire us all.
+  Difficult days still lie ahead. We acknowledge the sacrifices of our 
+Armed Forces and their families here at home. For those Americans who 
+have made the ultimate sacrifice, 2,500 as of today, their sacrifice is 
+immeasurable, and America extends our hands and our hearts to their 
+families.
+  Looking forward, not backwards, I believe we must stand with the 
+Iraqis who are fighting for their country, because a strong democratic 
+Iraq means a safer America. There can be no alternative to winning the 
+global war on terrorism. There can be no alternative to a democratic 
+Iraq, lest it return to tyranny and a breeding ground for international 
+terrorists who would then seek to fight us far closer to our own 
+shores.
+  Let us choose a democratic Iraq and a safer America. I urge my 
+colleagues to support this resolution.
+  Mr. MURTHA. I yield 3 minutes to the gentleman from New Jersey (Mr. 
+Rothman).
+  Mr. ROTHMAN. Mr. Speaker, how did this happen? We have lost 2,500 
+American servicemen and women. They have been killed in Iraq. 18,000 
+U.S. soldiers grievously wounded. We have spent over one-third of a 
+trillion dollars in Iraq on this war, so far. Yet, 80 percent of the 
+Iraqi people want us to leave. 80 percent of the Iraqi people want us 
+to leave. They are shooting at our soldiers, blowing up our soldiers 
+with improvised explosive devices.
+  How did we get here? Oh, yeah. I remember. President Bush said that 
+Saddam Hussein was an imminent threat to the United States and had 
+weapons of mass destruction. So many of us voted to send our troops to 
+Iraq to eliminate this threat of the use of weapons of mass destruction 
+and this imminent threat to our national security.
+
+                              {time}  2200
+
+  It turned out not to be true. There were no weapons of mass 
+destruction. Saddam Hussein was no imminent threat to the United 
+States. Well, we deposed him and that is a good thing. But there was a 
+huge power vacuum and many of us felt, even though we were misled going 
+into war, that we had a moral obligation to help the Iraqi people 
+stabilize their country and bring democracy there, and we have been 
+there now 3 years, 2,500 dead, 18,000 of our young men and women 
+wounded, a third of $1 trillion spent, and 80 percent of the Iraqis 
+want us to leave.
+  I support the Murtha resolution, which says that we should withdraw 
+most of the U.S. troops back to the United States and leave a quick 
+reaction force in friendly countries around the region.
+  Some say Iraq is part of the war on terror. Nonsense. There are 25 
+million people in Iraq, 25 million people in Iraq, less than 1,000 
+foreign fighters. This is a civil war. The Iraqi Shiias, Sunnis, and 
+Kurds cannot agree how to divide up Iraq now that we got rid of Saddam. 
+Well, it is 3 years later. All of this American loss of life. President 
+Bush says stay the course, and in fact, it will not be President Bush 
+who gets rid of this war. It will be the next President. Well, you know 
+what? Americans do not want this war without end. Deploy most of our 
+troops back to America within 6 months. Redeploy a significant number 
+in friendly countries around the horizon in case other countries want 
+to meddle.
+  War without end is not the American way. We met our moral obligation 
+to
+
+[[Page H4104]]
+
+the people of Iraq. Now it is up to the Shiias, Sunnis, and Kurds in 
+Iraq to decide whether they want to live in peace with one another or 
+not.
+  Mr. COBLE. Mr. Speaker, I yield 2 minutes to the gentleman from 
+Minnesota (Mr. Kennedy), who sits on the Financial Services and 
+Transportation Committees.
+  (Mr. KENNEDY of Minnesota asked and was given permission to revise 
+and extend his remarks.)
+  Mr. KENNEDY of Minnesota. Mr. Speaker, for our families and country 
+to truly be secure, we must prevail in the war on terror. Iraq is a 
+central front in that war.
+  Mistakes have been made, but so have corrections. But the fundamental 
+fact remains that John F. Kennedy's words have never been more true: 
+``If men and women are in chains anywhere in the world, then freedom is 
+in endangered everywhere.''
+  Men and women in the chains of tyranny, without hope, provide the 
+breeding grounds for terrorists that endanger America and the entire 
+civilized world. Terrorism can only be defeated by bringing hope to 
+harsh places.
+  America has always found that the best way to make our families 
+secure is to confront tyranny and expand the frontiers of freedom. That 
+is our mission in Iraq. And with a democratically elected government 
+and Iraqi troops increasingly taking over for our troops, we are on a 
+path to success.
+  Others offer a different path, a path that says get out now no matter 
+what the commanders in the field say; get out now, whether or not 
+milestones have been achieved; get out now, whether or not Iraq becomes 
+a sanctuary for terrorists to regroup and attack America again; get out 
+now no matter what signal that sends to Iran.
+  Let me be clear. Cutting and running is one path, but it is the wrong 
+path. The only path for security for our families is victory in the war 
+on terror.
+  The troops that I visited in Iraq in each of the last 3 years have 
+told me that they should come home as soon as possible, after we have 
+defeated the terrorist threat and set out a lasting peace.
+  I support this proposal and encourage all my colleagues to do the 
+same.
+  Mr. Speaker, I rise today in support of the Resolution offered by the 
+gentleman from Illinois, a man who has spent his life as a tireless 
+advocate for freedom and respect for the fundamental dignity of all 
+human life.
+  It cannot be overstated how important it is that we are here for 
+today's debate. There is no more important issue facing this Congress 
+or this country than winning the War on Terror.
+  Our mission in Iraq is a central front in that war.
+  At stake is not only the safety of our families and our country but 
+also the resolve of this great Nation to stand up and oppose the forces 
+of terror wherever they may appear.
+  Make no mistake about it: there is more at stake in our mission in 
+Iraq than helping rebuild a country decimated by a despot for decades. 
+We must defeat the terrorists overseas, so we don't have to fight them 
+here at home.
+  Mistakes have been made, so have corrections, but the fundamental 
+fact remains that John F. Kennedy's words have never been more true: 
+``If men and women are in chains anywhere in the world, then freedom is 
+endangered everywhere.''
+  People in the chains of tyranny without hope are the breeding ground 
+for terrorists that endanger America and the entire civilized world. 
+Terrorism can only be defeated by bringing hope to harsh places.
+  We must also remember our own proud historical tradition: America has 
+always found that the best way to provide for our security at home is 
+to confront tyranny and expand the frontiers of freedom.
+  That is our mission in Iraq.
+  And with a democratically elected government and an Iraqi army and 
+police force increasingly taking over for our troops, we are on a path 
+to success, and a path to bringing our troops home.
+  Others offer a different path, a path that says, get out now, no 
+matter what the commanders on the ground think; get out now whether or 
+not milestones are achieved; get out now, whether or not Iraq becomes a 
+sanctuary for terrorists to regroup and attack America again; get out 
+now, no matter what signal it sends to Iran and other countries that 
+would endanger our security.
+  Cutting and running is one path. But it is the wrong path.
+  The only path that makes our families secure is victory in the War on 
+Terror.
+  Mr. Speaker, beyond the lessons of history, I look to what the 
+soldiers on the ground are saying.
+  The soldiers I have spoken to on the ground in Iraq, at places like 
+Camp Victory in Baghdad, many of them men and women from the Minnesota 
+Army National Guard, want to come home as soon as possible.
+  However, they realize better than most that if they come home before 
+they have defeated the terrorist threat, there will be no lasting 
+peace--there will be no victory in the War on Terror. They know that if 
+we don't finish the job in Iraq, we'll have to finish it someplace 
+else.
+  Like them, I want to finish the job in Iraq, because if we don't 
+finish it there, the horror of 9/11 should inform us that the war will 
+be brought to us here at home.
+  Mr. Speaker, let us remember in our thoughts and prayers those who 
+have sacrificed, as well as those who continue to stand in harm's way 
+around the world fighting the War on Terror. Let us deserve the bravery 
+and selflessness of our men and women in uniform.
+  Mr. MURTHA. Mr. Speaker, I yield 3 minutes to the gentleman from 
+North Carolina (Mr. Price).
+  (Mr. PRICE of North Carolina asked and was given permission to revise 
+and extend his remarks.)
+  Mr. PRICE of North Carolina. Mr. Speaker, the American people are 
+increasingly aware of where things stand in Iraq, despite the glib 
+assurances and political spin we get from sources like the whereas 
+clauses of the resolution before us and the Pentagon's most recent 
+quarterly report, which has been so devastatingly refuted by Middle 
+East expert Anthony Cordesman of the Center for Strategic and 
+International Studies.
+  The real question before us and the question most Americans are 
+asking is, how long must our troops stay in Iraq? Our military's 
+valiant efforts have clearly facilitated such important steps as such 
+as the formation of a democratically elected government in Iraq. But 
+the troubling reality is that our continued presence also makes success 
+more elusive. It serves as a disincentive for Iraqi military and 
+political leaders to take courageous risks to stabilize their country 
+and assume responsibility for their government. Equally important, our 
+presence is a magnet for international terrorism and an incitement for 
+the insurgency.
+  In order to jump-start progress, our troops must begin to come home. 
+We must leave in a way that maximizes Iraq's chances to govern and 
+defend itself. At the same time, we cannot become hostages to the 
+failures of administration policy, prolonging or staying in a situation 
+where our very presence is a continuing provocation. How we leave does 
+matter, but we must leave.
+  That is why Representative Brad Miller and I introduced a resolution 
+last fall, H.J. Res. 70, which would require the President to deliver 
+an exit strategy for Iraq. Tonight I am renewing that call. Let me 
+explain briefly in clear terms what a responsible exit strategy means.
+  First, we need to hear that the President has a plan for reducing our 
+presence in Iraq within a reasonable time frame. ``As they stand up, we 
+will stand down'' is not a strategy. It is a slogan. Secondly, we need 
+to hear that such a plan would begin with an initial near-term drawdown 
+of U.S. forces to send a clear message to the Iraqis that our presence 
+is coming to an end. We also need to hear a pledge from the President 
+that we will not establish long-term bases on Iraqi soil.
+  And, finally, we need to hear that there is a plan for filling the 
+void left behind when our troops depart, to mobilize resources within 
+the international community, to ensure that Iraq's neighbors do not 
+interfere in internal Iraqi affairs, and to support the ongoing 
+development of the Iraqi Government and security forces.
+  These are the elements of a responsible exit strategy. This is the 
+type of leadership that the President owes our troops and the American 
+people.
+  Mr. COBLE. Mr. Speaker, I am pleased to yield 2 minutes to the 
+distinguished gentleman from California (Mr. Herger), who sits on the 
+Ways and Means Committee.
+  Mr. HERGER. Mr. Speaker, September 11, 2001, proved that our enemy is 
+determined to kill Americans. Instead of sitting idle, our Nation went 
+on the offense. We removed the Taliban from power in Afghanistan. We 
+removed the regime in Iraq that had invaded neighbors and financed 
+terrorism. And we have kept terrorists on
+
+[[Page H4105]]
+
+the run, limiting their avenues of attack, disrupting their finances 
+and eliminating safehouses around the globe. Mr. Speaker, it is not by 
+coincidence that our Nation has not suffered another attack here at 
+home.
+  Some have doubts about our mission in Iraq. But I believe Americans 
+can find solace in the midst of sacrifice and hope in the midst of 
+hardship. The reason is simple: we are clearly on the road to victory 
+and success in Iraq, and our Nation is safer today because of it.
+  Since the fall of Saddam's regime, 70 percent of eligible Iraqis for 
+the first time in history elected a national unity government. They 
+have ratified a democratic Constitution for the first time ever, and 
+they helped us eliminate al Qaeda's mastermind, Zarqawi.
+  Mr. Speaker, progress in Iraq makes America safer. Terrorists are 
+being pursued, not harbored. We have seen movement toward democracy in 
+neighboring countries. Work remains, but freedom is making progress. 
+And freedom, Mr. Speaker, lays the foundation for a more secure future 
+for America.
+  Mr. Speaker, I have also had the privilege of visiting our troops in 
+Iraq. They are outstanding young men and women, and they overwhelmingly 
+believe in their mission. I urge my colleagues to offer their 
+unqualified support to our troops abroad until their mission is 
+complete.
+  Mr. MURTHA. Mr. Speaker, I yield 2 minutes to the gentleman from 
+Washington (Mr. Larsen).
+  Mr. LARSEN of Washington. Mr. Speaker, I rise today because the 
+current administration has gotten too many things wrong in Iraq and has 
+totally misrepresented the lessons of the post-9/11 world. It is now up 
+to Democrats to get things right in Iraq so we can focus our military 
+efforts to fighting terrorists around the world who want to harm us.
+  Today I ask my colleagues: Will we realistically confront terrorists 
+and terrorism with all the elements of our national power, or will we 
+continue to ignore a proven approach in order to follow a shop-worn, 
+idealistic approach that drains our military of its resources and 
+America of its goodwill with the very partners we need to fight 
+terrorists? That is the choice that our country faces in Iraq and in 
+our national security.
+  Democrats must speak out against this administration's tendency to 
+overlook problems and push for a policy that centers on oversight of 
+U.S. taxpayer dollars. Unfortunately, we do not practice oversight. 
+This Congress practices ``overlook.'' We must respond to public 
+frustrations by creating a secure future for our military and 
+reestablish a foundation for American efforts to fight terrorists and 
+terrorism across the globe. Congress must confront the legacy of the 
+waste, fraud, and abuse that plagues our efforts in Iraq.
+  As Democrats, we must continue our efforts, in spite of the current 
+opposition, to bring this waste, fraud, and abuse in Iraq to light.
+  Some talk about cutting and running. But I say we must confront the 
+legacy of cutting and running from veterans health care. Just as the 
+next generation of combat veterans return home, the long-term veterans 
+health care budget falls $8.6 billion short from projected needs. We 
+must reject that legacy of Iraq.
+  And, finally, I join my colleagues in commending our U.S. military 
+working in conjunction with Iraqi security and Iraqis themselves for 
+locating and eliminating Abu Musad al Zarqawi. His terrorist violence 
+is gone. But we have learned in Iraq that fighting a classic guerrilla-
+type war means that a victory like killing Zarqawi cannot be celebrated 
+too long. Much remains to be done in Iraq, and Democrats have to make 
+right where the administration has gone wrong. Our obligations compel 
+us to ask the tough questions that are currently ignored.
+  Mr. COBLE. Mr. Speaker, I am pleased to yield 3 minutes to the 
+distinguished gentleman from Wisconsin (Mr. Ryan), who sits on the Ways 
+and Means, Budget, and Joint Economic Committees.
+  Mr. RYAN of Wisconsin. Mr. Speaker, I thank the gentleman for 
+yielding.
+  Mr. Speaker, I just recently read a lecture from the most highly 
+respected scholar on Middle East affairs and Islam in America, Bernard 
+Lewis. He went through Osama bin Laden's original fatwa. He went 
+through a lot of writings of al Qaeda back in the early to mid-1990s, 
+and what they declared is very chilling. They declared that their war 
+was going to be against the two superpowers at the time: the Soviet 
+Union and America. They believed they defeated the USSR in Afghanistan. 
+I would like to think peace through strength is what beat it here and 
+the fact that communism did not work. But they think they beat it.
+  Now they think they have one last enemy to beat before they can reach 
+their caliphate from Spain to Indonesia: America.
+  Mr. Speaker, the war on terror did not begin on 9/11. It began on 2/
+26. February 26, 1993, when they first hit us at the World Trade 
+Center. Then in 1996, the Khobar Towers. Then in 1998 at our two 
+embassies in Africa. Then in 2000, the USS Cole. Then in 2001, 9/11.
+  Mr. Speaker, we are at war. They have declared this war against us 
+long ago. The sooner we realize it, the better we are. The best way to 
+win this war is to play away games and not home games.
+  The good news on this front is we have not had another 9/11 since 9/
+11. We have not had a major terrorist attack here in America.
+  If Iraq becomes democratic, if Iraq becomes free, they lose. They 
+cannot win and manifest their distorted belief. They want to have a 
+world like what we saw on display in Afghanistan, the Taliban, 
+throughout the entire Middle East. If democracy and freedom can 
+persist, if it can take root, if it can succeed, as it is succeeding in 
+many parts of the Arab world, the terrorists lose.
+  And the most important thing in all of this that all of us should 
+have in the front of our minds is will our children grow up in America 
+with the fear of terrorism in the front of their mind or will it be a 
+distant memory in history? I grew up in Jamesville, Wisconsin, as a 
+happy kid. I want my kids to grow up in Jamesville, Wisconsin, with the 
+same kind of happiness, not with the fear of terrorism.
+  This is a global war, a war we have to win, a war that only America 
+through its leadership can win for the rest of the world. The sooner we 
+wake up to that, the better off we are and the more peaceful life we 
+can leave to our children.
+
+                              {time}  2215
+
+  That is why our troops overseas are doing a great job. That is why we 
+have to see this thing through. The terrorists think we are weak 
+because of our freedoms. They think that we do not have the stomach. 
+They think they can turn our public opinion. That is not true.
+  Let's prove that that is not true, and let's win this war on terror.
+  Mr. MURTHA. Mr. Speaker, I yield 2 minutes to the gentleman from New 
+Jersey (Mr. Andrews).
+  (Mr. ANDREWS asked and was given permission to revise and extend his 
+remarks.)
+  Mr. ANDREWS. Mr. Speaker, I thank my friend from Pennsylvania for 
+yielding me time.
+  Mr. Speaker, I rise to oppose this resolution because its words honor 
+our troops, but its deeds do not. It is not at all controversial that 
+we honor and respect the heroism of those who serve us.
+  But they deserve so much more than the hollow words of this 
+resolution. They deserve a plan that for the first time would achieve 
+an intelligence alliance, it would make strikes like the one against 
+Zarqawi on a regular basis against the leaders of the resistance.
+  But this resolution has no plan. They deserve a real plan to fortify 
+and improve the Iraqi security forces so as they step forward, our 
+troops can come home. But this resolution offers no such plan. They 
+deserve a clear path to political stability and broadening political 
+participation so the government of Iraq is viewed as an Iraqi 
+Government and not a tool of any outside forces. This resolution has no 
+such plan.
+  We are in the problems that we are in today because the 
+administration has given us slogans, not solutions. This resolution is 
+very much in that sorry tradition. This debate is a sham, Mr. Speaker. 
+It is a pep rally. It is not a discussion of the alternatives before 
+the country.
+  So although I join the words of the resolution in praising our 
+troops, let's move beyond the words to the deeds.
+
+[[Page H4106]]
+
+The way to honor those who fight for this country is to match their 
+sacrifice with our own wisdom. This resolution falls far short of that 
+objective and we should oppose it.
+  Mr. COBLE. Mr. Speaker, I yield 3 minutes to the gentleman from 
+Minnesota (Mr. Kline), a 25-year veteran of the U.S. Marine Corps, a 
+Vietnam veteran who sits on the Armed Services Committee.
+  Mr. KLINE. Mr. Speaker, I thank the gentleman for yielding me time.
+  Mr. Speaker, I rise in strong support of this resolution today. I 
+have enjoyed the debate immensely. The rhetoric has been sometimes 
+heated, the facts sometimes obscured. But I think it is healthy for the 
+American people to see this debate. I am sorry that the gentleman from 
+New York is not here. I wanted to have a discussion about what buck 
+sergeants know and what they do not know in today's Army. But I suppose 
+we will have to let that one slide by.
+  But I will tell you that my son, serving in Iraq today, and his 
+colleagues and his soldiers in the 101st and the other soldiers and 
+marines that I have talked to, they know why they are in Iraq. They 
+know what they are doing. They know what their mission is. And they 
+understand that not everyone here does, that Iraq is the front line in 
+the war against Islamist extremists in the words of the 9/11 
+Commission.
+  But I am here this evening to talk about a trip that I took to Iraq a 
+week ago at the request of the Chairman of the Armed Services Committee 
+to assess the progress of the Iraqi armed forces. I am pleased to 
+report that I was very heartened by what I found. I think all of us now 
+understand that the Iraqi Army is progressing with amazing speed. We 
+know the numbers. Over 260,000 Iraqi security forces, over 100 Iraqi 
+Army battalions, almost 30 Iraqi police battalions, either leading the 
+fight or serving with their coalition partners.
+  But it is not the numbers that count; it is the quality of the 
+troops. It is what they are able to do. In a previous trip to Iraq in 
+November of 2005, I had the opportunity to meet with and assess the 
+progress of the Iraqi counterterrorism forces. These are special forces 
+trained by our Special Operations Command, and they are impressive.
+  The Iraqi special forces have proved their mettle in combat and in 
+training. Last month, last month a young captain became the first Iraqi 
+to graduate from the United States Army Ranger School, an exceptional 
+feat achieved by only 35 percent of any foreign military personnel who 
+try.
+  Over Memorial Day weekend, my confidence was further boosted when I 
+visited with Major General Bashar Ayoub, commander of the Iraqi 9th 
+Mechanized Division, and Major General Jamal Khalid, Commander of the 
+Iraqi Second Division. Both commanders expressed their frustration with 
+the bureaucracy in the interim ministry of defense but both generals 
+demonstrated a quite confidence and professionalism exhibited by 
+seasoned battle-hardened commanders.
+  These two commanders demonstrated the will and the ability of the 
+Iraqi security forces to battle the terrorists and the insurgents who 
+plague their country.
+  In our discussions, Mr. Speaker, they were blunt. They were proud of 
+their accomplishments. They were confident in their ability to move 
+forward, but they recognize that they continue to rely on U.S. 
+logistical and medical assistance, that they cannot move forward by 
+themselves. Not now.
+  We have made a commitment, Mr. Speaker, not only to our American 
+forces, but to these Iraqi forces. We have got to stay with them and 
+help them achieve their freedom and their independence.
+  We have made a commitment--not only to the American men and women of 
+our Armed Forces--but to those who wear the uniform of the Iraqi 
+Security Forces. They have shed their blood alongside our soldiers and 
+Marines in pursuit of a stable and peaceful Iraq.
+  Now is not the time to abandon them, now is the time to stand firm 
+with those who defend freedom in a land that has known only tyranny.
+  Mr. MURTHA. Mr. Speaker, I yield 2 minutes to the gentleman from 
+North Carolina (Mr. Watt).
+  (Mr. WATT asked and was given permission to revise and extend his 
+remarks.)
+  Mr. WATT. Mr. Speaker, during consideration of the rule this morning, 
+our Republican colleagues suggested something pretty revolutionary, 
+that is, that we do something we do not normally do often around here, 
+and that is read the resolution. They said they encouraged us to review 
+it, and vote based on whether we agree or disagree with the content of 
+the resolution.
+  So I reviewed the resolution. And as our colleagues suggested, I 
+intend to vote against it based on the fact that there are several 
+things in the resolution that I strongly disagree with.
+  First, on page 2 of the resolution, it states as follows: ``Whereas 
+by early 2003, Saddam Hussein and his criminal Ba'athist regime in Iraq 
+constituted a threat to global peace and security.''
+  I think the only way one could conclude this would be to conclude 
+that there were, in fact, weapons of mass destruction in Iraq. I did 
+not vote for the war resolution because I never believed the President 
+when he asserted that there were weapons of mass destruction in Iraq in 
+the first place. I did not believe it then. It was subsequently proven 
+not to be the case. And I most certainly cannot support a resolution 
+that asserts it now.
+  Second, the resolution asserts that: ``The terrorists seek to destroy 
+the new unity government because it threatens the terrorist's 
+aspirations for Iraq and the broader Middle East.'' There is probably 
+some truth to that.
+  However, what is probably a lot more true is that the war in Iraq has 
+increased, not decreased, terrorism and the resolve of the terrorists. 
+It has created conditions in Iraq that allow terrorism to thrive.
+  Finally, the Resolution asserts that ``Iraqi forces are, over time, 
+taking over from United States and Coalition forces a growing 
+proportion of independent operations and increasingly lead the fight to 
+secure Iraq.'' If that were true, we would have started bringing our 
+troops home by now. At some point we've got to make Iraq assume 
+responsibility for itself and its own people. I just don't believe they 
+or we have come to grips with that.
+  There obviously are a number of things in the Resolution with which I 
+agree. But we were given no opportunity to amend the Resolution to 
+strip out the things that are untrue and/or offensive or, for that 
+matter, to add to the things with which we agree. My Republican 
+colleagues have, once again, chosen to politicize a matter that should 
+be above partisan politics. I cannot vote for the Resolution in this 
+form and will, therefore, vote ``no.''
+  Mr. COBLE. Mr. Speaker, may I inquire of the Chair the amount of time 
+on both sides.
+  The SPEAKER pro tempore. The gentleman from North Carolina has 31 
+minutes, and gentleman from Pennsylvania has 37\1/2\ minutes remaining.
+  Mr. COBLE. I thank the Speaker.
+  Mr. Speaker, I yield 2 minutes to the distinguished gentleman from 
+Pennsylvania (Mr. Sherwood), a veteran of the U.S. Army, who sits on 
+the Appropriations Committee.
+  Mr. SHERWOOD. Mr. Speaker, I rise in strong support of this 
+resolution for many reasons. But one is that I know we are achieving 
+real progress in Iraq and Afghanistan. I know this not from government 
+reports or media sources, but from two fine Pennsylvanians. I want to 
+quote from an e-mail I received this morning from a constituent, an 
+Army officer in northwest Iraq commanding the military transition team.
+  And he writes, ``There are many positive things going on over here 
+that the American public never hear about. My little 10-man team 
+contributed over 150 boxes of school supplies to the schools in my 
+area. Other units purchased grain to give out to small villages. I am 
+very proud of the accomplishments of U.S. and Iraqi forces and it truly 
+is a shame that all of the news tends to be negative towards the 
+activities of the soldiers, both American and Iraqi who are working 
+very hard every day to make this country safe.''
+  I am very pleased and honored this summer to have an intern, Mike 
+Wright, who is a soldier in the 82nd Airborne. When he arrived in 
+Afghanistan in July 2002, the people had nothing: no schools, no 
+healthcare, no paved roads. But in 7 months his unit helped build the 
+first school and health clinic. When his unit came back to Afghanistan 
+in late 2004, it was a different place. New facilities, factories, more 
+electricity, and miles of paved roads.
+  When arriving in the village, he tells me his unit would be greeted 
+by small
+
+[[Page H4107]]
+
+children, smiling youngsters throwing colorful plastic flowers at them. 
+These examples are among many that illustrate real progress, laying a 
+foundation for future peace, shaping the world where the terrorist 
+message will fall on deaf ears.
+  Mike told me this also, ``The Afghani war veterans, the old-timers 
+have asked him, why did you abandon us when the Soviets left?''
+  Today their biggest fear is that we will leave before the mission is 
+done and allow the Taliban or other tyrants to take over. We must know 
+that the Iraqi civilians remember 1991 and fear the same thing. We must 
+complete this mission.
+  Mr. MURTHA. Mr. Speaker, I yield 2 minutes to the gentleman from New 
+Jersey (Mr. Pascrell).
+  Mr. PASCRELL. Mr. Speaker, their side of the aisle, your side of the 
+aisle, has a major problem. Yesterday, Prime Minister Nouri al Maliki 
+suggested that they would provide amnesty for those people who killed 
+or who wounded our soldiers. We are going to see who are the patriots 
+here in the future.
+  In a speech that Jack Murtha gave on April 20 this year, he started 
+off by talking about President Teddy Roosevelt. He said, ``There must 
+be no criticism of the President or that we have to stand by the 
+President right or wrong is not only unpatriotic and servile, but is 
+morally treasonable to the American public.''
+  You are going to have to explain that. You made a very big mistake. I 
+voted for the war, for the efforts of the President, the Chief, the 
+Commander in Chief in December of 2002. And here we are a few years 
+later, looking back at what that decision was based upon.
+  Talk about impunity, we have had people come on the floor in the last 
+2 years to impugn this gentleman's character. The CIA impugned the very 
+facts that the administration has tried to provide. Every day a former 
+CIA agent says that this administration failed to listen to the advice 
+and counsel of those folks who have boots on the ground. That is a 
+shame.
+  And the other side, the other side has simply provided a rubber 
+stamp, a rubber stamp to all of the policies. You have mindlessly 
+rubber-stamped the mismanagement that has cost our sons, and you may 
+laugh, these are our sons and daughters, our sons and daughters their 
+lives.
+  And now, here we are today--considering a partisan, political 
+resolution that ultimately means nothing; a resolution that won't 
+assist our troops on the ground; a resolution that does not help us 
+move forward in bringing our men and women home.
+  This is just another shameful example that the leadership of this 
+body is not fit to serve. This Congress has failed to fulfill its most 
+basic of duties. Shame should permeate every hallway and every hearing 
+room.
+  If we were serious--truly serious--about helping our men and women in 
+the military, we would not waste our time on this resolution.
+  Instead we would delve into the deception, the intelligence failures, 
+the scapegoating of the C.I.A., and the mismanagement that has placed 
+us where we are today. The generals, the men and women of our Armed 
+Forces have done their job. We have voted time and time again in 
+budgets and supplements supported their protection, yet we have had the 
+real culprit come to this floor and demean, undermine, those who ask 
+questions or may criticize. Teddy Roosevelt turned over from the 
+clownish gyrations of the Congressmen or women from Ohio.
+  And we'd also take up H.J. Res. 73--Congressman John Murtha's well-
+reasoned, essential call to redeploy our troops from Iraq.
+  We are faced with a choice--more of the same from the Bush 
+administration, or Jack's way. I believe that rapid turnover of Iraq to 
+the Iraqi people is essential and that our troops need to be redeployed 
+at the earliest practicable date. That is why I am proud to cosponsor 
+my friend's resolution.
+  Today is just another sham in the House of Representatives, but that 
+is what we've come to expect.
+  Our troops deserve better.
+  Mr. COBLE. Mr. Speaker, I yield 2 minutes to the distinguished 
+gentlewoman from Tennessee (Mrs. Blackburn) who sits on the House 
+Energy and Commerce Committee.
+  Mrs. BLACKBURN. Mr. Speaker, you know, our colleagues across the 
+aisle are asking the American people to divorce our mission in Iraq 
+from the global war on terrorism. I think it is impossible. I think it 
+is irresponsible, and it is bad policy.
+  If only terrorism were as clear cut a problem as they want us to 
+believe, and if only elimination of the Taliban would have been 
+sufficient to free us from the threat of terrorism. Mr. Speaker, have 
+we not learned anything from September 11? It should be crystal clear 
+that terrorism went far deeper than one rogue regime in Afghanistan.
+  But that is where they are in this debate. They are ignoring reality. 
+Our troops, my folks from the 101st and the National Guard, know that 
+if we are going to be free of terrorism, if the goal is to prevent 
+terrorism from killing 2,000 Americans on our soil tomorrow or 
+forevermore, then we must bring major change to the Middle East.
+
+                              {time}  2230
+
+  It is an unpleasant reality, but it is a reality. That is where we 
+are in Afghanistan. That is where we are in Iraq. Progress is being 
+made. Libya has changed, the Taliban is basically gone now, al Qaeda 
+has significantly weakened and bin Laden is on the run.
+  Pakistan is an ally in the war on terrorism. Iraq, despite a 24/7 
+massive media campaign of negative news, is making progress, and we 
+have eliminated al-Zarqawi. On this issue of amnesty, the Iraq National 
+Security Adviser corrected the record and, for the record, stated that 
+the Prime Minister was misquoted.
+  I have that entire interview and the transcript for the record, and I 
+would like to quote for my colleague's benefit another portion, and I 
+quote, he, as a matter of fact, if you were there, and this is the 
+Iraqi National Security Adviser speaking, if you were there in this 
+meeting with President Bush a couple of days ago, he looked the 
+President in the eye and he said, thank you very, very much for 
+liberating our country. I thank the American wives, the women, the 
+American mothers for the treasure and the blood that they have invested 
+in this country. It is worth investing for liberating 30 million 
+people, and we are ever so grateful.
+  Mr. Speaker, we all stand grateful. We stand grateful.
+
+       From CNN Interview:
+       Kagan. Doctor, I know there's a big effort by your 
+     government in your country to try to prevent civil war. And 
+     as part of that, The Washington Post reports today that your 
+     prime minister is considering offering amnesty to Sunnis or 
+     to others who perhaps attacked only U.S. troops. This, not 
+     surprisingly, causing great consternation here in the U.S., 
+     even talking about it and being raised on the floor the U.S. 
+     Senate today. Is this, indeed, the case? Is your government 
+     thinking about offering amnesty to those that attacked only 
+     U.S. military?
+       Rubaie. This is not the case. I'm sorry to say that the 
+     prime minister of Iraq has been misquoted and misunderstood. 
+     He did not mean to give amnesty to those who killed the 
+     Americans.
+       Aa matter of fact, if you were there in his meeting with 
+     President Bush a couple of days ago, he looked the president 
+     in the eye and he said, thank you very, very much for 
+     liberating our country. Please thank the American wives and 
+     American women and American mothers for the treasure and the 
+     blood they have invested in this country. It's well worth 
+     investing, of liberating 30 million people in this country. 
+     And we are ever so grateful.
+       And we will--the blood of the Iraqi soldier and blood of 
+     Iraqi civilian soldier is as sacred to us as the American 
+     soldier. We are fighting the same war, we are fighting 
+     together, and this is a joined responsibility. And we will 
+     never give amnesty to those who have killed American soldiers 
+     or killed Iraqi soldier or civilian.
+
+  Mr. MURTHA. Let me ask the gentleman, my good friend, how many more 
+speakers he has?
+  Mr. COBLE. I say to my good friend from Pennsylvania, I have two more 
+speakers, Mr. Murtha.
+  Mr. MURTHA. I will be the last speaker.
+  Mr. COBLE. Mr. Speaker, I am pleased to recognize for 2 minutes the 
+distinguished gentleman from Connecticut (Mr. Shays), who is the 
+chairman of the National Security Subcommittee of the Government Reform 
+Committee, and who has been to Iraq 12 times.
+  Mr. SHAYS. I thank the gentleman for yielding.
+  I have been listening to this debate all day. The argument I am 
+hearing most from the opponents of this resolution is we shouldn't have 
+gone into Iraq to remove Saddam Hussein in spite of the fact that many 
+of them voted to go into Iraq.
+  I am hearing from opponents that there was and is no connection 
+between Islamist terrorists and the war in Iraq,
+
+[[Page H4108]]
+
+in spite of the fact that the prince of al Qaeda, al Zarqawi, did his 
+gross handiwork in Iraq. Fortunately, he is dead.
+  I am hearing from opponents of this resolution that we have made many 
+mistakes in Iraq, as if that is justification for arguing that we need 
+to leave. We have made a number of mistakes. We permitted the looting 
+of government buildings. We didn't secure the munitions depot. We 
+disbanded their army, their border patrol and police, and then asked 
+the 150,000 coalition forces, mostly brave American soldiers, to 
+protect and defend 26 million Iraqis living in a country the size of 
+California.
+  These were mistakes, but mistakes do not justify leaving prematurely. 
+They help explain why things could be better, and why, because we learn 
+from our mistakes, we are doing better.
+  Since the transfer of power to Iraq in June of 2004, we have seen 
+considerable progress, three free elections that put our elections in 
+the United States to shame, the training of hundreds and hundreds of 
+thousands of Iraqi security forces, the establishment of a government 
+chosen by a national assembly comprised of 30 percent women.
+  I am not afraid we will lose the war in Iraq. I am deeply concerned 
+we will lose the war in Iraq here at home. Our efforts to remove Saddam 
+Hussein from power and help bring democracy to the most troubled part 
+of the world is truly a dear and noble effort that must succeed.
+  Mr. MURTHA. Mr. Speaker, I yield myself 5 minutes.
+  I was just out to a hospital a week or so ago, and a young woman 
+whose husband was in the bed right next to her, and she said, I didn't 
+join the Army to fight for Iraq. He joined to fight for the United 
+States.
+  We don't send people to fight for other countries. We send them to 
+fight for the United States' national security. That is the first 
+lesson we learn, and then we send them with overwhelm force and then we 
+have an exit strategy.
+  What we are looking for is all the same thing. All of us want the 
+same thing. We want a resolution. We want a positive resolution to what 
+is going on in Iraq. We want a plan. We want a plan that we can live 
+with. It is not enough to say stay the course. We need somebody to tell 
+us exactly how we are going to do this.
+  When you talk about the amount of money this is costing us per month, 
+and I think about $8 billion, which almost as long as I have been on 
+the Defense Subcommittee, and all of the money that I have seen in the 
+Defense Subcommittee, and I can't recognize what $1 billion is, $450 
+billion at the end of this year.
+  Then I think how long did it take us to pay for the Vietnam War? It 
+took us almost 18 years at 18 percent interest rates to pay for the 
+Vietnam War. There were a lot more people, a lot more of a cross-
+section of people fighting in the Vietnam War, and yet a plurality of 
+people still supported the Vietnam War to the very end.
+  Let me read something. People say they don't want a time schedule. 
+Nobody has said they don't want a time. Let me read these comments from 
+some of the people that traveled back from the President from Iraq 
+recently. She says in her news release, here is Bush Tuesday night on 
+the way home on Air Force One discussing his conversation with Iraqi 
+leaders. There are concerns about our commitment and keeping our troops 
+there. They are worried almost to a person that we will leave before 
+they are capable of defending themselves. I assured them they didn't 
+need to worry.
+  That is what we hear back here all the time. But apparently what he 
+says almost to a person, not including the President and the Vice 
+President, the President and Vice President of Iraq.
+  The Associated Press reports this morning, Iraq's Vice President has 
+asked President Bush for a timeline for the withdrawal of foreign 
+forces from Iraq. The Iraqi President's office said, the Vice 
+President, a Sunni, made the request during his meeting with Bush on 
+Tuesday when the U.S. President made a surprise visit to Iraq.
+  I supported him in this. This is the President of Iraq. I supported 
+them, said the President, in a statement released Wednesday. Now, 80 
+percent of the Iraqis want us out of there, 62 percent of the people in 
+the United States want us out of there.
+  It is not surprising to me that they are going to offer amnesty to 
+some of the Iraqis who are killing Americans, because 47 percent of the 
+Iraqis think it is all right to kill Americans.
+  We have diverted ourselves away from the war of terrorism. All of us 
+agree about the war on terrorism. All of us have the same goals in the 
+war on terrorism. What we are concerned about is we are caught in a 
+civil war in Iraq. There is only 1,000 al Qaeda or less in Iraq. We 
+destroyed the leader of al Qaeda.
+  What we are worried about is the Sunnis and the Shiias. The Shiias 
+are 100,000, and there are 2,000 Sunnis fighting with each other. The 
+way we have to do it is one of the biggest problems we have. When you 
+fight a military operation, you have to destroy everything. Fallujah, 
+for instance. We put 300,000 people outside their homes and only 
+100,000 came back. That is nation building. Yet we are trying to make 
+friends in that country. You can't make friends if you operate the way 
+the military does.
+  And I agree with the military. To protect American lives, we have to 
+go in with overwhelming force. When you go in with overwhelming force, 
+you are going to inadvertently kill civilians.
+  Then when you send in people who are untrained and they go into a 
+country, into a job like a prison and they don't know what they are 
+doing, they don't know how to handle it, untrained people that caused 
+us a terrible public relations disaster.
+  So you have this combination of untrained troops, inadequate forces, 
+and then on top of that, you have no plan to remove the military. Every 
+military leader I have talked to has said the same thing to me. They 
+have said, we can't win this militarily.
+  All of us want the same thing. We want a resolution to this thing. We 
+want to not only bring our troops home. Internationally it is important 
+we have stability in the Middle East. There is no question. All of us 
+want the same thing. It is how we get it. And we have to have 
+international cooperation.
+  As I had mentioned, and I will end with this, in the first war we had 
+international cooperation. We had 160,000 international troops and 
+400,000 American troops. And $60 billion came from the international 
+community and we paid between 4 and $5 billion.
+  In this particular war so far, we have spent $450 billion and not 
+only the financial treasure but the human treasure that we have lost in 
+the United States.
+  Mr. COBLE. Mr. Speaker, our final speaker from this side tonight is 
+the distinguished gentleman from North Carolina who sits on the Armed 
+Services Committee, vice chairman of the Special Forces Subcommittee 
+and is a leader on the bipartisan congressional delegation to Iraq and 
+Afghanistan, Mr. Hayes. I yield 2 minutes.
+  Mr. HAYES. Mr. Speaker, I thank my friend the gentleman from North 
+Carolina for yielding and I rise today to engage in this discussion on 
+Iraq. But I don't think this is solely a discussion on Iraq because 
+what happens in Iraq will have far-sweeping ramifications across the 
+Middle East and around the world.
+  When I am asked about a time line for removing our troops, my answer 
+is not a day more than we need to ensure victory. We could leave 
+tomorrow. We could set an arbitrary deadline, 6 months, a year, and 
+tell the terrorists how long they need to stick it out before we leave. 
+But what would the ramifications of that be?
+  Unfortunately, I think there is a perception in this country that we 
+are fighting a broad-based resistance from the Iraqi people, and we are 
+not. Iraqis and their new government want to have a peaceful, free and 
+democratic existence.
+  I don't think it is a coincidence that violence escalated from the 
+terrorist factions when the new government formed. While the violence 
+in Iraq will not cease overnight, it is apparent to me that real 
+progress has been made in the year since I last talked firsthand to our 
+soldiers in Iraq.
+  One of the most compelling changes made since last year is that Iraqi 
+security forces are coming online and are more involved in planning and 
+executing missions to stop terrorist activity. In a briefing with 
+Special Forces
+
+[[Page H4109]]
+
+leaders, we learned that more than 30 percent of all day-to-day 
+missions are planned and carried out by the Iraqis themselves. This is 
+significant because it frees our soldiers to focus on capturing and 
+eliminating key figureheads, as evidenced by the recent death of Abu 
+Musab al Zarqawi.
+  There was so much attention on al Zarqawi that the appointment of 
+three security ministers to complete the new Iraqi cabinet was all but 
+missed. The fulfillment of the new government and these three posts in 
+particular is a critical development in securing their nation from 
+internal and external terrorist factions.
+  Mr. Speaker, the key to victory in Iraq is the Iraqi people. As their 
+government forms, as it gains influence, as their military is able to 
+defend the people and the infrastructure, we can continue to pull back. 
+And we should. But we have to ask ourselves what legacy we want to 
+leave behind in this region, because that is the fundamental question 
+we are asking today.
+  Mr. Speaker, I rise today to engage in this discussion on Iraq. But I 
+don't think this is solely a discussion on Iraq, because what happens 
+in Iraq will have far-sweeping ramifications across the Middle East and 
+around the world.
+  When I am asked about a timeline for removing our troops, my answer 
+is not a day more than we need to ensure victory.
+  We could leave tomorrow. We could set an arbitrary deadline--six 
+months, a year--and tell the terrorists how long they need to stick it 
+out before we leave. But what would be the ramifications of that?
+  I recently returned from leading a bipartisan Congressional 
+Delegation trip to Iraq and Afghanistan, where I met with Special 
+Forces troops to assess the training progress of Iraqi security forces 
+as well as met with top Iraqi government leaders to discuss their 
+commitment to building a coalition government and securing their own 
+country.
+  It's been a year since I was last in Iraq. Since that time, I have 
+attended many briefings and received many reports, but seeing our 
+troops and talking with leaders was the most telling status report of 
+all.
+  Unfortunately, I think there is a perception in this country that we 
+are fighting a broad-based resistance from the Iraqi people--and we are 
+not. The Iraqis and their new government want to have a peaceful, free 
+and democratic existence.
+  There has been and continues to be a very small but determined 
+portion of the population in Iraq combined with al Qaeda who are 
+determined to stop freedom at any cost. They will kill indiscriminately 
+and there is no target off limits--coalition forces, police, women, and 
+children.
+  Their goal is to break our resolve with these barbaric acts of 
+terror. The Iraqis who profited under Saddam's regime do not want a 
+free and stable Iraq. Al Qaeda does not want a free and stable Iraq. 
+Freedom is not conducive to their long term goals. Accountability is 
+not conducive to their long term goals. Democracy is not conducive to 
+their long-term goals. Saddam's former loyalists and al Qaeda thrive on 
+poverty, despair, violence and fear. The bottom line is that they 
+cannot afford for freedom to succeed.
+  Conversely, we cannot afford freedom to fail. How detrimental would 
+it be if we wave the white flag to al Qaeda and the Sunni terrorists? 
+Do you think they will allow the people of Iraq to live in freedom and 
+peace? Do you think they will allow the democratic process to continue?
+  A while back, some of my colleagues on the other side of the isle 
+raised a good point--we walked away from Afghanistan following the 
+Soviet withdrawal. What emerged from that void were the Taliban and a 
+safe haven for al Qaeda. Is that what we want the legacy of Iraq to be? 
+If you think we made a mistake in the past, why would we repeat it?
+
+  If we walk away prematurely, how can we deal with Iran? How can we 
+deal with North Korea?
+  As I said in the beginning, what we do in Iraq will have 
+ramifications across the world for many years.
+  I don't think it is a coincidence that violence escalated from the 
+terrorist factions when the new government formed. While the violence 
+in Iraq will not cease overnight, it is apparent to me that real 
+progress has been made in the year since I last talked first-hand to 
+our soldiers serving in Iraq.
+  One of the most compelling changes made since last year is that Iraqi 
+security forces are coming online and more involved in planning and 
+executing missions to stop terrorist activity. In a briefing with 
+Special Forces leaders, we learned that more than 30 percent of all 
+day-to-day missions are planned and carried out by the Iraqis 
+themselves. This is significant because it frees our soldiers to focus 
+on capturing and eliminating key figureheads, as evidenced by the 
+recent death of Abu Musab al-Zarqawi.
+  Zarqawi was an important leader for al Qaeda and a powerful figure 
+for terrorists around the world--both tactically and symbolically. He 
+was responsible for orchestrating the death of many civilians and 
+coalition soldiers. I don't believe his death will end all violence in 
+Iraq, but his demise is an important psychological boost to the Iraqi 
+people and a blow to those across the world who sympathize with 
+militant extremists and terrorists.
+  The end of one of the most notorious terrorists in the world was a 
+great day for our military forces, but I would point out that our 
+special and regular forces have had many victories that didn't gain 
+media attention or just could not be brought to light due to their 
+sensitive nature--and we all owe our troops a great deal of gratitude 
+for all they do.
+  There was so much attention on Zarqawi that the appointment of three 
+security ministers to complete the new Iraqi cabinet was all but 
+missed. The fulfillment of the new government and these three posts in 
+particular is a critical development to securing their nation from 
+internal and external terrorist factions.
+  Mr. Speaker, the key to victory in Iraq is the Iraqi people. As their 
+government forms; as it gains influence; as their military is able to 
+defend the people and the infrastructure, we can continue to pull back. 
+And we should. But we have to ask ourselves, what legacy we want to 
+leave behind in this region, because that is fundamental question we 
+are asking today.
+  Mr. COBLE. Mr. Speaker, I reserve the balance of my time.
+  Mr. MURTHA. Mr. Speaker, I reserve the balance of my time.
+  Mr. GENE GREEN of Texas. Mr. Speaker, it is our job to protect our 
+Nation and we have thousands of young men and women doing that today. I 
+believed in early 2003 that we should do more to capture or eliminate 
+the people who caused the 9/11 attacks. They were predominately in 
+Afghanistan. Today it seems we have a resurgent Taliban in Afghanistan, 
+and increasing attacks in Iraq on our troops and Iraqi citizens.
+  We have seen success in capturing Saddam and eliminating AI-Zarqawi. 
+I have never doubted the ability of the men and women of our Armed 
+Forces--we saw what they were capable of in the first days of the war 
+when they stormed Iraq and Baghdad within days, overwhelming the Iraqi 
+forces. The accomplishments we have seen in Iraq can be attributed 
+directly to the troops' discipline and persistence in fighting the 
+insurgency.
+  Mistakes have been made, and some of the most experienced members of 
+our Armed Forces have pointed that out. One of the individuals who 
+spoke out was retired Marine General and former chief of U.S. Central 
+Command Anthony Zinni who said:
+
+       We grow up in a culture where accountability, learning to 
+     accept responsibility, admitting mistakes and learning from 
+     them was critical to us. When we don't see that happening it 
+     worries us. Poor military judgment has been used throughout 
+     this mission.
+
+  As this war has gone on, the lack of planning and poor judgment by 
+this administration has become more apparent. I have here the May 1, 
+2003 press release here from the White House in which President Bush--
+on board USS Abraham Lincoln--declared all major combat operations have 
+ended. We now know that this was one miscalculation among many. Since 
+that time seven young men from our 29th Congressional District in Texas 
+have lost their lives; across our nation over 2,300 servicemen and 
+women have lost their lives since the President made those remarks. 
+Reading over these remarks it is clear that the administration had no 
+clear plan for securing Iraq after the invasion, and had no clue about 
+what was to follow for the next three years.
+  Given the size, strength and effectiveness of the insurgency, the 
+administration's intelligence should have given some indication that 
+there would be problems down the road and done a better job of 
+preparing the public and more importantly our troops for what was to 
+come in the following month and years. It is clear that we did not have 
+enough troops on the ground immediately after the invasion, and that 
+shortage continues. Fortunately, thanks to the relentless efforts by 
+our Armed Forces, progress is being made.
+  Congress does not direct troops on the ground and we are not the 
+Commander-in-Chief, but we are charged with sending our sons and 
+daughters into battle and therefore we must debate what is occurring in 
+Iraq. While I disagree with the way the administration planned and 
+carried out this war, I support our troops and will continue to vote 
+for Defense appropriations and supplemental dollars.
+  Many brave men and women have given their lives in Baghdad, Fallujah, 
+Ramadi, Mosul and across Iraq to bring peace and democracy to that 
+country. We honor them, their families, and the ultimate sacrifice they 
+made serving their country. I want our troops to come home soon.
+  Mr. Speaker, this is not the war we anticipated fighting or the war 
+we were led to believe we were getting into, but I believe we
+
+[[Page H4110]]
+
+must finish our mission to leave a secure Iraq that can defend itself 
+and be a symbol that democracy can prosper in the Muslim world.
+  Mr. MILLER of Florida. Mr. Speaker, I rise in support of America. I 
+rise in support of our active troops and those who have given their 
+lives and those who will give their lives so that we will prevail in 
+this Global War on Terrorism. These troops are part of an all-volunteer 
+force that is the envy of the world.
+  I rise to reassure the American and Iraqi people that we reject any 
+timetable for the withdrawal or redeployment of U.S. forces in Iraq. Al 
+Qaeda and other terrorist organizations have attacked our families, 
+neighbors and friends numerous times over the last three decades. What 
+has been the response? For the most part, there has not been an 
+adequate response. And Mr. Speaker, that is hard to admit. Some would 
+tell you we didn't respond due to lack of political will, others would 
+say America just didn't have the stomach. From the killing of 241 U.S. 
+service members in Beirut in 1983 to the attack on the USS Cole in 
+2001, America responded in a cautious manner.
+  This is no longer the case. Due to the events of September 11, 2001 
+our country was forced to reevaluate our defensive and offensive 
+strategies. Led by our Commander in Chief and with the support of the 
+Congress, our government decided to take the fight to every cave the 
+enemy hides in--sending an unmistakable message. We will fight the 
+enemy overseas and prevent him from reaching our shores.
+  Having been to Iraq during the recent Memorial Day holiday, I am 
+pleased to report the message is getting across. Our enemies are 
+starting to realize that America and its allies are not leaving and are 
+not intimidated. I say to the Iraqi people--we will not abandon you. We 
+are committed to the completion of the mission to create a sovereign, 
+free, secure and united Iraq.
+  During my 4 trips to Iraq in the last 3 years I have been heartened 
+by the continued resolve of our forces. After receiving briefings from 
+the Generals, I always make sure to spend an equal amount of time with 
+the senior enlisted men and junior officers who are leading at the tip 
+of the spear. The casualty count among this group is rising--and that 
+is hard to grapple with--but it is for a purpose.
+  A man who was responsible for so many of these casualties--Zarqawi--
+is now dead. He was killed by a 500 pound bomb dropped from an F-16. 
+This weapon and this method of employment were thoroughly developed and 
+tested at Eglin Air Force Base in Okaloosa County, Florida. The 
+dedicated air force active duty, civilian personnel and contractors 
+from the Test and Evaluation Community and the Air Force Research 
+Laboratory can be equally proud.
+  I would like to remind my colleagues and the American people of the 
+courage it must take to vote in a country that has never known 
+democracy while under the threat of death simply for making one's voice 
+heard. This courage is commendable and is a cause worth fighting for.
+  Mr. Speaker, America and her citizens are strong. We will continue to 
+lead the way in showing the Iraqi people how to establish a free and 
+democratic nation and we and they will never forget the sacrifice of 
+those who made their democracy possible.
+  Mr. BOOZMAN. Mr. Speaker, I rise today to give strong support to H. 
+Res. 861. For more than three years, the man Osama bin Laden called 
+``the prince of al-Qaeda'' orchestrated terror attacks that killed 
+thousands of Iraqis, American troops and coalition forces. Now, thanks 
+to hard work and dedication of the U.S. military and our coalition 
+partners, Abu Musab al-Zarqawi's reign of terror is over.
+  Since the U.S. and our coalition partners liberated Iraq, bin Laden 
+has sought to defeat the efforts of the people of Iraq to transform 
+their nation into a peace-loving democracy so he can turn it into a 
+radical Islamic state where al-Qaeda calls the shots. The air strike 
+that killed Zarqawi has dealt bin Laden's organization a crucial blow 
+by eliminating the man he trusted to wage his jihad in Iraq. It is a 
+major victory in the War on Terror.
+  Mr. Speaker, as Chairman of the House VA Economic Opportunities 
+Subcommittee, I feel strongly about coming to the floor today to honor 
+our brave servicemen and women who are defending our homeland in the 
+Global War on Terror. They have fought valiantly since the vicious 
+unprovoked attacks of 9/11. They liberated the people of Afghanistan 
+from the Taliban, an abusive regime that once harbored Osama bin Laden 
+and his al-Qaeda leadership. The terrorists no longer have a safe haven 
+and are on the run. Their hopes of creating a new Taliban-like state in 
+Iraq has suffered a major setback with our military's latest success in 
+getting Zarqawi.
+  Since the end of the initial operation in Iraq, many of my Democratic 
+colleagues have called for a full withdrawal of our troops from Iraq. 
+When the attacks on U.S. troops and Iraqi civilians intensified, so did 
+their calls for us to pull out. If we had heeded those calls and not 
+allowed our military to complete their mission, Zarqawi would still be 
+alive and be making further strides toward turning Iraq into al-Qaeda's 
+new home base.
+  Whether or not you supported the initial operation in Iraq, the fact 
+of the matter is we have to see this through. Our troops deserve our 
+support and all the resources they need to get the job done. And I am 
+committed to giving them both.
+  Since the liberation of Afghanistan and Iraq, we have captured or 
+killed thousands of suspected terrorists. Our servicemen and women have 
+rooted terrorists out of hiding all over the globe. They deserve our 
+utmost support and praise for keeping us safe and making the world a 
+better place as they continue to fight the global war on terror.
+  Mrs. BONO. Mr. Speaker, I rise today to support our country's effort 
+in the global war on terror. This war takes many forms and is waged on 
+many different fronts. It involves the vigilance of our citizens in 
+their neighborhoods to the first responders who patrol our cities. It 
+courses through every state in the union. It must stand vigilant along 
+our southern border and face the difficult challenges along the even 
+lengthier and more remote terrain of the northern border. And yes, the 
+global war on terror takes place across the vast oceans that no longer 
+offer our homeland the protective barriers they once did.
+  As Americans view on their television sets the hatred spewed by the 
+likes of Ahmadinejad of Iran and whoever is the face of al Qaeda, we 
+stand resolute in our beliefs of freedom and democracy. We carry 
+emotions with us that are equal to those who wish us and our allies 
+harm. But our emotions are not bent on creating destruction but 
+preventing it, not on crying out for the annihilation of an entire 
+nation but on rebuilding and helping those who choose to enter the 
+civilized world community. To those who wish to be our friends, there 
+is no more generous nation than that of the United States of America 
+and to those who wish us harm no more determined of a nation when our 
+values and safety are threatened.
+  In order to win this war, we must support our troops who are deployed 
+around the world. They protect and defend our nation and our allies 
+everyday. These young men and women carry the patch of our flag on 
+their arms and the spirit of our nation in their hearts.
+  We also must continue to rebuild our intelligence agencies so they do 
+not fall into the lackluster conditions they did before and work with 
+others in the world community to stop threats before they reach our 
+shores. There is still a great deal more work to do, but we will pursue 
+until the job is finished.
+  While we fight this battle across the world, others may wonder where 
+we draw our energy from. It is important that our friends and enemies 
+realize one important and crucial fact: the war on terror is spurred on 
+by the hearts and minds of every American who will not let the world 
+forget what happened on that tragic day in September.
+  Mr. BASS. Mr. Speaker, today we come to the floor to debate the 
+merits of H. Res. 841, legislation honoring the men and women of our 
+armed forces and declaring our commitment to a sovereign, free, and 
+united Iraq. As our country continues to engage Al Qaeda and other 
+international terrorist organizations around the globe, it is important 
+that we convey the depth of our resolve. We cannot allow Osama Bin 
+Laden and his lieutenants to succeed in their attempt to drive our 
+forces from Iraq and topple that country's democratically elected 
+government.
+  Today, we are engaged in what I hope will be the first of many public 
+debates on our national strategy to combat the growth and development 
+of global terrorist networks. In Iraq and Afghanistan, as was clearly 
+described by the 9/11 commission, we must stand for a better future by 
+working with the international community to give the citizens of these 
+countries a fighting chance to develop secure democratic institutions. 
+These countries must never again be allowed to descend into the 
+lawlessness that gives sanctuary to international criminals and 
+terrorists.
+  Last week, coalition and Iraqi forces scored a major victory over 
+foreign terrorists working to foment a civil war between the Sunni and 
+Shia peoples of Iraq. Our cooperative efforts to eliminate Jordanian 
+terrorist leader Abu-Musab al-Zarqawi should stand as a landmark along 
+the road to independent security in Iraq. It should also serve as an 
+opportunity for this Congress to publicly expand its oversight 
+activities to include the Iraqi Governments ability to maintain 
+security and expand reconstruction activities absent the direct 
+assistance of our forces on the ground.
+  Over the last few months we have seen momentous changes in Iraq. 
+Prime Minister Maliki's freely elected government has announced plans 
+to expand reconstruction efforts, begin the national reconciliation 
+process, and put an end to independent military forces
+
+[[Page H4111]]
+
+in the country. Last month, Iraqi security forces played an active role 
+in 90 percent of security operations and acted independent of coalition 
+support in nearly 40 percent of those missions.
+  These successes have given us the opportunity to consider the 
+eventual withdrawal of our forces and those of the 28 coalition allies 
+who continue to support the development of a free and stable Iraq. 
+However, in doing so, we have a responsibility to do so based on 
+conditions on the ground, and should not be bound by an arbitrary 
+timeline for withdrawal that could only strengthen our enemies resolve. 
+Doing so would do a grave injustice to the brave men and women of our 
+armed services, who have already sacrificed so much in the cause of 
+freedom.
+  Ms. DeGETTE. Mr. Speaker, I rise in opposition to House Resolution 
+861. Calling this a true debate on Iraq is a joke, and the Republican 
+majority knows it. The Majority Leader has admitted the true motive--to 
+use this issue in the fall elections against the Democrats. Shame on 
+him and shame on the Republican majority for callously restricting what 
+should be a full debate about the most important issue facing our 
+country. Shame on them for trying to set a political trap and not 
+allowing amendments or a full debate. If we were allowed a fair 
+process, the facts would be revealed. And the facts are not pretty.
+  After the tragedy and horror of September 11, 2001, everyone saw the 
+threat posed by Al Qaeda. I voted for the authorization for President 
+George W. Bush to use force against the Taliban in Afghanistan who were 
+harboring Al Qaeda and Osama bin Laden. I am a strong supporter of the 
+war on terrorism.
+  When President Bush came to Congress and asked for authorization to 
+invade Iraq, he made no case that that country was an imminent threat 
+to the United States, or, in fact, related to our international fight 
+against terrorism. So, I opposed the authorization for President Bush 
+to use military force against Iraq in 2002, and that vote was the 
+proudest vote I have taken in nearly 10 years in Congress.
+  Despite the paucity of evidence to invade a sovereign nation, 
+Congress authorized President Bush to go forward and we invaded Iraq. 
+Instead of remaining focused on combating terrorists, the true imminent 
+threat to our country, we got detoured into Iraq. Our courageous men 
+and women in uniform did a tremendous job in the effort to defeat 
+Saddam Hussein. I have supported them every step of the way and 
+continue to support them as I stand here today.
+  Having toppled its government, I felt we had an obligation to see 
+Iraq transition to a new democracy. Like most Americans I was patient 
+as Iraq struggled to establish a new civil society and government after 
+years of oppression.
+  In the three years since the invasion, Americans have provided 
+security and rebuilding assistance. Despite the gross mistakes, 
+mismanagement, and misjudgments of our civilian leadership, Iraq is now 
+a sovereign, free country, a country with a new constitution and a new 
+government. At this point in time, we have done what we can. We've 
+given the Iraqi people an opportunity. It is now their opportunity to 
+grab freedom. It is now their country to lose.
+  Unfortunately our efforts have come at a tremendous cost. Major 
+General John Batiste, a commander in Iraq and military aide to Mr. Paul 
+Wolfowitz, noted that ``Rumsfeld and his team turned what should have 
+been a deliberate victory in Iraq into a prolonged challenge.'' 2,500 
+of our best and brightest young people have paid the ultimate sacrifice 
+to our country. About 18,000 have been wounded. All Americans are 
+forever in their debt. In addition to the heartbreaking human toll, 
+there is a financial one as well. We have now spent or appropriated, 
+according to the Congressional Research Service, about $320 billion on 
+the war in Iraq.
+  Enough is enough. Enough devastation for mothers and fathers who have 
+lost children in Iraq; enough heartache for their loved ones and 
+friends; enough young lives cut short; enough being forced to 
+shortchange domestic priorities like health care and homeland security 
+because billions are being spent on Iraq. We have given the Iraqis a 
+chance. That is all they can ask of us and that is all we can ask of 
+ourselves. As such, it is time to shift troops to the periphery of the 
+conflict and redirect some resources currently being used in Iraq back 
+to America.
+  Despite what the Republican majority suggests through this 
+Resolution, saying it is now time to begin redeploying troops and that 
+President Bush needs to develop a plan to do so is not arbitrary. It 
+is, in fact, a reasonable calculation that the cost of Iraq is no 
+longer worth any benefit we may achieve by continuing our armed 
+presence there. The majority of the American people have made it clear 
+they feel it is simply not worth more blood to achieve perfection in 
+Iraq. They are right. It is time we in Congress listened.
+  Mr. TERRY. Mr. Speaker, I rise in strong support of the resolution to 
+affirm the United States of America will ultimately achieve victory in 
+the Global War on Terror.
+  On September 11, 2001, 3,000 of our fellow Americans were brutally 
+killed by Islamic terrorists under the leadership of Osama bin Laden. 
+President Bush responded by declaring war against terrorism and its 
+strongholds throughout the world. He said we would fight the enemy on 
+their ground to prevent terrorists from once again attacking our 
+citizens on U.S. soil.
+  The Bush Doctrine stated: ``Any nation that continues to harbor or 
+support terrorism will be regarded by the United States as a hostile 
+regime.'' U.S. and Coalition forces have verified his words with 
+irrefutable action. The state-sponsored ``safe harbor'' Al Qaeda 
+enjoyed in Afghanistan ended when U.S. and Northern Alliance forces 
+routed the Taliban in a decisive military victory.
+  Afghanistan now has a newly elected parliament, a market economy, 
+equality for women, and millions of children attending school for the 
+first time. We still face challenges in this nation, but it is on its 
+way to becoming a stable and secure democracy, freed from the 
+oppression of the Taliban extremists. Most importantly, Al Qaeda can no 
+longer use this nation as a launching ground from which to attack the 
+United States.
+  In Iraq, Saddam Hussein repeatedly refused to comply with U.N. 
+weapons inspection. Sovereignty was turned over to Iraqis a year and a 
+half ago; a Constitution was drafted last summer and ratified in 
+October; and a new government is being established. The seeds of 
+democracy are beginning to take root, and a major threat of state-
+sponsored terrorism against the U.S. was removed.
+  Despite the danger of violent retaliation from radical extremists, 59 
+percent of Iraqi citizens exercised their right to vote in January, and 
+approximately 70 percent in December. Iraq is on its way to fully 
+assuming responsibility for its own security and governance.
+  The challenges we face are undeniable and difficult. President Bush 
+was correct when he said this war would come at great cost in blood and 
+treasure. However, the cost would be much higher--intolerably high--had 
+we not decisively acted to protect the security and interests of the 
+United States.
+  Who can forget the cheering of Iraqi citizens in the streets as 
+Baghdad was liberated and the statue of Saddam Hussein toppled to the 
+ground? Who can forget the courage of the Iraqi's who proudly displayed 
+the purple ink on their index finger after exercising their right to 
+vote? Who can forget the sight of Saddam Hussein cowering like a 
+cornered rat when U.S. soldiers forced him from hiding? Above all, who 
+can forget the sight of the North and South Towers of the World Trade 
+Center collapsing, the burning embers of the attack on the Pentagon, or 
+the scorched field in Pennsylvania that will forever stand as a 
+testament to heroism and self-sacrifice. Our successes in the Global 
+War on Terror have prevented additional horrifying images from filling 
+our TV screens, saving untold innocent American lives.
+  We may never know what catastrophes have been averted by the 
+dedication and vigilance of U.S. servicemen and women. Nearly 2,500 
+Americans have nobly given their lives in exchange for the peace that 
+we have enjoyed here at home these past four and one-half years. The 
+very fact that we have not endured another terrorist attack on U.S. 
+soil proves their lives were not given in vain. We have not seen 
+additional attacks such as those in London and Madrid, or experienced 
+the fear Israelis face on a daily basis. We owe our safety and security 
+to the soldiers who are giving their all to protect our families, 
+communities, lives and liberties.
+  Al Qaeda remains a persistent danger to the United States. This 
+terrorist network operates in over 60 countries around the world. It 
+brainwashes men and women into becoming suicide bombers; destroys 
+religious sites; bombs and beheads innocent civilians; and seeks the 
+destruction and overthrow of America, our values, our people, our 
+freedoms and our way of life.
+  We cannot allow Al Qaeda the opportunity to establish a permanent 
+base in Iraq from which to attack the United States. The collapse of 
+Iraq's new democratic government would be a huge victory for Al Qaeda, 
+drawing additional recruits for bin Laden's brand of terrorism from the 
+ranks of young Muslims. It is well-known that bin Laden seeks nuclear, 
+chemical, and biological weapons of mass destruction to inflict severe 
+casualties on the United States and allied countries.
+  Al Qaeda conducted poison gas experiments on dogs in Afghanistan, and 
+the governments of Britain, France, and Jordan have each foiled plans 
+by Al Qaeda to use chemical weapons. U.S. intelligence sources have 
+documented repeated attempts by Al Qaeda to purchase nuclear material, 
+including weapons grade uranium. Nations such as Iran and North Korea 
+are a potential risk for transferring nuclear capabilities to terrorist 
+insurgents.
+  We must not fall into a sense of complacency. The continued threat 
+from Al Qaeda to
+
+[[Page H4112]]
+
+our citizens at home and abroad is real. Thankfully, U.S. and Coalition 
+forces have captured or killed more than three-fourths of Al Qaeda's 
+known pre-9ll leaders. These include senior field commanders, 
+masterminds of the September 11th attacks, communications coordinators, 
+and other key operational leaders. Just last week, the leader of Al 
+Qaeda in Iraq was killed by U.S. forces.
+  Abu Musab al-Zarqawi had repeatedly attacked religious shrines and 
+Iraqi political leaders to destabilize Iraq, provoke a civil war, and 
+create a haven for terrorism. The February bombing of the Askariya 
+shrine in Samarra--one of Iraq's holiest religious sites--ignited a 
+firestorm of reprisals that led to the deaths of over 130 Iraqis. 
+Killing the man who incited this violence was a resounding victory 
+toward building a safe, secure, stable Iraq.
+  More than 4,000 suspected Al Qaeda members have been arrested 
+worldwide since 9/11, and Al Qaeda cells have been identified and 
+dismantled in Europe, the Middle East, Asia and Africa. Over $140 
+million in terrorist financial assets have been confiscated or seized 
+from over 1,400 bank accounts worldwide.
+  Mistakes have been made in the War on Terror, but the Bush Doctrine 
+of dissuasion and deterrence is working. Pakistan broke its state-
+sponsored ties to Al Qaeda and the Taliban, and Libya surrendered its 
+WMD and disavowed terrorism. Until recently, Iran had frozen its 
+uranium enrichment program, but is now threatening our country amid the 
+perceived weakness that we will pull our forces out of Iraq before that 
+nation is able to govern and protect itself from terror. This dangerous 
+situation underscores the fact that we must finish the job we began to 
+ensure the continued safety and security of the American people. We 
+must not give in to terrorism by pulling out of Iraq too early.
+  Fortunately, the talents and capabilities of our U.S. servicemen and 
+women are protecting our nation well. Air Force Chief of Staff, General 
+T. Michael Moseley, told reporters in February that Air Force 
+satellites can locate activities and individuals on a global scale, and 
+targets can be held at risk or struck down with the lethality of a 
+weapon that detonates within several feet of the target. Al-Zarqawi 
+learned this lesson the hard way.
+  General Moseley continued: ``It must be a bit disturbing [to 
+terrorists] to know that if you act against the United States or its 
+Coalition partners, the U. S. Air Force will find you and strike you. 
+And there's nothing you can do about it. We may never know what has not 
+happened because of this capability.''
+  General Ronald Keyes, head of the Air Force's Air Combat Command, 
+rightly said: ``If you're a terrorist and you've got static on your 
+phone, that's me . . . That shadow passing over you, that's me. That 
+computer that will not boot, that's me. That noise you thought you 
+heard until it's too late, that is me. And it will continue to be me 
+until our children and grandchildren and those of freedom-loving 
+nations everywhere emerge from this plight of terrorism.''
+  We can and we must improve our intelligence and military capabilities 
+to ultimately eradicate terrorism worldwide. This war has not been 
+waged perfectly, but it has in arguably succeeded in preventing 
+additional terrorist attacks on U.S. soil, protecting American lives 
+and liberty, and forcing terrorists to spend their time running rather 
+than plotting additional ways to murder innocent citizens and spread 
+darkness and destruction.
+  Voting ``yes'' for this resolution today will send the clear message 
+to Al Qaeda that the United States is truly united in defeating 
+terrorism and promoting a strong and stable Iraq.
+  I urge my colleagues to join me in thanking our U.S. soldiers, 
+sailors and airmen for their incredible sacrifices, and in supporting 
+this resolution to protect our citizens from terrorism at home and 
+abroad.
+  Mrs. LOWEY. Mr. Speaker, I rise in opposition to this resolution. 
+U.S. policy toward Iraq should be focused on bringing home U.S. troops 
+as soon as possible while minimizing chaos in Iraq and maximizing 
+Middle Eastern stability. I believe that 2006 must be a year of 
+significant transition toward full Iraqi sovereignty both politically 
+and militarily and with the responsible redeployment of U.S. forces.
+  Americans deserve a serious discussion in Congress about the future 
+of U.S. involvement in Iraq. Instead, the Republican resolution before 
+Congress today fails to address the road forward. A resolution to 
+achieve a sovereign, free, and united Iraq is not a strategy.
+  This resolution is a partisan attempt to avoid the debate that the 
+American people are demanding. It blurs the line between the War on 
+Terror and the war in Iraq in an effort to legitimize Bush 
+Administration mistakes, and fails to deal with key issues such as the 
+effect of our `stay-the-course-at-any-cost' policy on other threats to 
+our national security and military recruitment and the lack of 
+oversight and accountability over the billions of dollars wasted or 
+stolen in the war and reconstruction effort.
+  I am a strong supporter of our troops, and I have voted consistently 
+to give them the funding and equipment they need to carry out their 
+missions in Iraq and Afghanistan. Our courageous men and women in 
+uniform have met their challenges with skill, bravery, and selfless 
+dedication. We mourn the loss of the 2,500 who have died in Iraq, and 
+offer our support and prayers to the 8,501 who have been injured so 
+gravely they cannot return to duty.
+  While this resolution expresses our gratitude toward the troops, it 
+fails to acknowledge the missteps, misrepresentations, and misjudgments 
+that have fatally flawed our involvement in Iraq from the very 
+beginning, making the mission of our troops more perilous. The 
+President rushed to war based on false and faulty intelligence against 
+the protests of the majority of our allies. Warnings from U.S. 
+commanders about troop levels and equipment went unheeded, and 
+shortsighted decisions were made which seriously damaged our efforts to 
+establish peace and security in Iraq.
+  The Administration's horrendous miscalculations have damaged our 
+ability to aggressively confront other emerging threats around the 
+world and have endangered the stability of the Middle East. To make 
+matters worse, the Administration has consistently rejected calls for 
+accountability for some of its worst mistakes, including the 
+squandering of billions of dollars in reconstruction funds, torture at 
+Abu Ghraib and the provision of inadequate equipment for our troops. 
+The sham resolution before us today is intended to avoid an honest 
+discussion of these issues.
+  The American people deserve better than today's partisan 
+grandstanding and the contempt of the Republican leadership for their 
+genuine concern about U.S. policy toward Iraq. For this reason, I will 
+oppose the resolution.
+  Mrs. MYRICK. Mr. Speaker, I am very concerned about the current state 
+of affairs in this country and around the world. We are in the midst of 
+a global fight against terrorism, and cannot allow partisan politics to 
+undermine our efforts to root out this disease.
+  I rise today in strong support of the brave, young men and women in 
+our military for their sacrifice, dedication and hard work on behalf of 
+all Americans and people fighting for freedom worldwide. Our courageous 
+soldiers have removed a tyrannical dictator from power and are helping 
+eliminate the ability of thousands of terrorists to harm innocent 
+civilians.
+  The war in Iraq has been difficult, but progress is being made. Last 
+week, al-Zarqawi, the terrorist leader in Iraq, was killed. Shiites, 
+Sunnis, and Kurds are working through their differences. Women are now 
+allowed to get an education.
+  Iraqi units are taking the lead on missions to root out insurgents. 
+And we have already brought 30,000 troops home and turned bases over to 
+the Iraqis; but we cannot leave Iraq and allow it to be turned into a 
+breeding ground for international terrorism. We must not leave this 
+problem to our children or grandchildren. And we must always remember--
+we are fighting the terrorists over there so we do not have to fight 
+them here at home! The global terrorist network is constantly 
+recruiting, training and planning its next attack.
+  That is why we must continue to fight terrorists overseas to try and 
+prevent them from reaching our doorstep. However, we must not be 
+foolish enough to believe that they are not already here. That is why I 
+do not understand why people would have us leave Iraq--Why they would 
+take a defensive stand against terrorism. We had that mindset on 
+September 10, 2001, and it cost us thousands of lives on 9/11.
+  We must not take the path that is easy. We must take the path that is 
+right. We must take the fight to the terrorists and continue to do so 
+anywhere we are threatened. We must also secure our borders. There is 
+no doubt that our porous borders are vulnerable to people who want to 
+do us harm. Since the deployment of the National Guard to the border, 
+we have already seen improvements in border security. In the first ten 
+days of June, there has been a 21 percent decline in illegal border 
+crossings compared to the same time period last year.
+  Let us not forget--Terrorism is not an ideology; it is a tactic to 
+make people fearful. Throughout history, terrorism has failed and it 
+will do so again. People in repressive societies yearn for freedom 
+because it is a natural right of humankind. The challenge facing our 
+generation is to help those that seek to be free. This goal is being 
+realized in Iraq and the effects are being felt around the world. We 
+will win the War on Terror.
+  As we debate this war, let's remember that we are fighting an enemy 
+who wants us dead. This leaves no room for partisan politics. It 
+requires a united America.
+  Mr. SULLIVAN. Mr. Speaker, I rise today to support our efforts to 
+secure Iraq in the ongoing Global War on Terror and to honor the brave 
+work our servicemen and women are doing to protect our freedoms at home 
+and to promote democracy abroad.
+
+[[Page H4113]]
+
+  Iraq is the central front in the Global War on Terror. Al-Qaeda views 
+Iraq as the main battleground to spread their ideology of hate and 
+violence against the Iraqi people and the civilized world. The simple 
+fact is we are fighting terrorists in Iraq so we don't have to fight 
+them here on our homeland.
+  I have visited Iraq and have seen firsthand the atrocities brought on 
+the Iraqi people and their infrastructure by Saddam Hussein's regime. I 
+stood in the spider hole that Saddam Hussein was cowering in before his 
+capture and was able to meet many of the brave men and women in uniform 
+who are serving there. Now, the ``Butcher of Baghdad'' is behind bars 
+and is on trial for brutal crimes against his own people, and democracy 
+is slowly coming to fruition in a Nation and a region of the world that 
+has never known it.
+  It has been an exciting week in Iraq, with the completion of Iraq's 
+National Unity Government and the death of Abu-Musab al-Zarqawi, a 
+terrorist and ally of Osama bin Laden. This week was capped off by 
+President Bush's surprise trip to Baghdad Tuesday to reaffirm our 
+Nation's commitment to securing a peaceful Iraq.
+  Only with our continued presence and coalition support will Iraq be 
+able to make the transition to a peacful and prosperous democracy. It 
+is imperative that we remain patient and vigilant as we continue our 
+missions in Iraq and in the Global War on Terror.
+  Mr. Speaker, may God continue to bless our brave men and women 
+serving to protect our homeland.
+  Mr. RAMSTAD. Mr. Speaker, I rise today in strong support of H. Res. 
+861, which, above all, honors our brave men and women prosecuting the 
+Global War on Terror and declares that the United States will prevail. 
+I am pleased we are debating this resolution today, because it is 
+imperative that Congress confirm to the world that Americans stand 
+united in support of our troops. It's also imperative to leave no doubt 
+that the U.S. has the unity and resolve to defeat the terrorists and 
+win the War on Terror.
+  U.S. and coalition forces have made great strides in these efforts to 
+date. We have liberated Afghanistan from the brutal Taliban and 
+continue to support the democratically elected government of President 
+Hamid Karzai.
+  We have overthrown the world's most depraved genocidal maniac in 
+Saddam Hussein, who now sits in a jail cell awaiting judgment before 
+the people who not long ago suffered greatly under his brutality. And 
+we have significantly disrupted al Qaeda's terrorist network by 
+systematically hunting down its leaders, its financiers and its 
+footsoldiers. Our brave troops deserve great credit for killing the 
+murderous head of al Qaeda in Iraq, Abu Musab al-Zarqawi.
+  Now we are engaged in the difficult task of rebuilding Iraq and 
+training Iraqi security forces and police officers. We need to expedite 
+the training of Iraqi security forces so they can secure their country, 
+and our troops can come home with their mission completed.
+  Mr. Speaker, I urge an overwhelming ``yes'' vote on this resolution 
+to show our brave troops in Iraq, Afghanistan and elsewhere in the War 
+on Terror that they continue to have strong, bipartisan support in 
+Congress. Our prayers are with all our brave troops. More than 2,600 
+Minnesota National Guard troops are serving in Iraq in support of 
+Operation Iraqi Freedom. An additional 367 are serving in Afghanistan 
+and elsewhere. All our brave troops are in my daily prayers, along with 
+their families who are making great sacrifices at home. We also pay 
+tribute to our brave troops who made the ultimate sacrifice in the 
+defense of freedom. May these American heroes rest in peace and may God 
+comfort their grieving families.
+  Mr. Speaker, great moments and triumphs in American history require 
+bravery, valor and selfless service. The men and women of our Armed 
+Forces personify these values. Moreover, our troops have the skills, 
+dedication and full support of the American people to prevail in the 
+War on Terror. Today, the Congress can demonstrate our continuing 
+strong support, as well.
+  Mr. McINTYRE. Mr. Speaker, I rise today in support of the resolution 
+before us and the courageous servicemen and women that are currently 
+serving in Iraq and Afghanistan. It is unfortunate that today's debate 
+was limited since this is such a serious issue facing our Nation.
+  In addition to combating terrorism throughout these two countries, it 
+is essential that two key components are met to achieve success in 
+Iraq--security and stability. The Iraqis must continue to move toward 
+self-governance and fulfilling their own destiny, which will increase 
+stability in this new democracy. And, as our American troops continue 
+to train the Iraqi Army and Special Police, the Iraqis can move toward 
+taking control of their own security. Lessening the American footprint 
+in Iraq and bringing our troops home is the goal, and it will be met 
+because of the success our troops have already had in stabilizing Iraq 
+provinces (14 out of 18) and by training Iraqi forces.
+  Having been to Iraq and having met with both the military brass and 
+our enlisted men and women in the war zone, I am optimistic that we can 
+continue moving toward a successful conclusion of this mission. 
+However, I have real concerns that setting an arbitrary timetable for 
+withdrawal of U.S. troops would be a detriment to our national security 
+and the security of our troops. It is essential that we not publicize 
+our plan for withdrawal which would make our servicemen and women 
+vulnerable to attacks. In doing so, we would defeat our purpose and 
+jeopardize their safety. Terrorists are patient and calculating, with 
+some cells waiting years to be activated. We must not back down on our 
+right to defend ourselves.
+  While I am clear on my record for not allowing for a specific 
+timetable for withdrawal, I have been supportive of denying funding to 
+be used for constructing permanent U.S. military bases in Iraq. We 
+should not have permanent American bases there. In addition, I 
+supported the FY 2006 Defense Authorization bill which requires 
+quarterly reports on conditions for withdrawing from Iraq and the 
+progress being made toward achieving such conditions.
+  As a member of the House Armed Services Committee and a strong 
+supporter of our men and women in uniform, I am committed to honoring 
+those who have served and are currently serving our country in the 
+Armed Services. So many men and women and their families have made so 
+many sacrifices, and some have paid the ultimate sacrifice. We must 
+make sure that their efforts have not been in vain.
+  Mr. SHERWOOD. Mr. Speaker, I know that we are achieving real progress 
+in Iraq and Afghanistan. I know this not only from government and media 
+sources, but from two Pennsylvanians.
+  I want to quote from an email I received this morning from a 
+constituent, an Army officer in Northwest Iraq commanding a Military 
+Transition Team:
+  ``There are many positive things going on over here that the American 
+public never hears about . . . My little 10-man team contributed over 
+150 boxes of school supplies to the many schools in my area . . . Other 
+units took up a collection and purchased grain to give out to one very 
+small, poor village. I am very proud of the accomplishments of U.S. and 
+Iraqi forces and it truly is a shame that all the news tends to be 
+negative toward the activities of the soldiers (American and Iraqi) who 
+are working very hard every day to make this country safe.''
+  My summer intern was a soldier in the 82nd Airborne Division. When he 
+arrived in Afghanistan in July, 2002, the people had nothing--no 
+schools, no health care, no paved roads. But in seven months, his unit 
+helped build the first school and health clinic.
+  When his unit went back to Afghanistan in late 2004, it was a 
+different place--new facilities and factories, more electricity, and 
+miles of paved roads. When arriving in a village, his unit was greeted 
+by smiling youngsters mobbing them, throwing plastic flowers.
+  These examples are among many that illustrate real progress--laying a 
+foundation for future peace, shaping a world where the terrorist 
+message will fall on deaf ears.
+  My intern from the 82nd also told me this: Afghani war veterans, the 
+``old-timers,'' asked, ``Why did you abandon us when the Soviets pulled 
+out?'' Today their biggest fear is that we will leave before the 
+mission is done, and allow the Taliban or other tyrants to take over. 
+Iraqi civilians remember 1991 and fear the same thing.
+  We must complete the mission.
+  Mrs. BIGGERT. Mr. Speaker, I rise in support of this resolution and 
+in strong support of our troops. They are far away, waging the war on 
+terror so that we can be safe here at home. In particular, I want to 
+congratulate not only those who directly were involved in the demise of 
+Al-Zarqawi, but all of those troops whose mission each and every day is 
+heroic and brave and appreciated by us all.
+  Every building they secure, every Iraqi troop they train, every 
+vehicle they service, potato they peel, or small mission they 
+accomplish is a blow against terrorism and a boost for our freedom.
+  Many of my colleagues on the other side of the aisle voted for this 
+war. But within months they started dissembling, claiming they'd been 
+misled and clamoring for troop withdrawal.
+  President Bush always warned that the war on terror would not be won 
+easily or overnight. He asked for patience.
+  We are an impatient people, always in a hurry, often seeking the 
+quick success. But our troops do not work on the 24-hour news cycle or 
+a two-year campaign cycle or any timetable other than to execute each 
+mission as it builds toward the larger objective.
+  That patience is paying off. Already we have seen in the information 
+seized at Al-Zarqawi's hideout that the terrorists feared that time was 
+working against them. I shudder to think if those on the other side of 
+the aisle had their way where Al-Zarqawi would be today.
+
+[[Page H4114]]
+
+  In closing, let me just say that when I visited Iraq with my 
+colleagues to thank our troops for all they are doing, it was they who 
+thanked us for caring enough to visit them over there. We owe them such 
+a debt of gratitude, and yet their spirit of service and commitment to 
+their mission led them to thank us.
+  Mr. Speaker, no American troop should ever have to thank a member of 
+Congress. They should know that we are with them, that we support them, 
+and that our support and thanks are there for them and with them 
+always.
+  Mr. GARRETT of New Jersey, Mr. Speaker, a free and prosperous Iraq is 
+one which is no longer a breeding ground for terrorism, no longer a 
+wealth of support for radical Islam, no longer a source of 
+destabilization in the Middle East. The simple truth is that an Iraqi 
+people with hope for the future is an Iraqi people with whom we can 
+work for peace.
+  And, nobody knows this better than the terrorists themselves.
+  They know they win only if they can maintain a strong, divisive, 
+bloody insurgency in Iraq. They know they only win if they can keep the 
+Iraqi people feeling despondent for their future.
+  Let me be clear: The litmus test for whether or troops should stay or 
+withdraw or on what timetable is not about nation-building. The U.S. 
+should not be in the business of nation-building, now or ever. There is 
+nothing in the Constitution which grants this Congress the authority to 
+engage in nation-building, nor does the American public wish that we do 
+so. Instead, the nation which we must always remain steadfast engaged 
+in protecting and building up is this nation--America.
+  The future of the Iraqi people is in their hands and left to their 
+imagination.
+  But, the truth of the matter is that life for the Iraqi people--
+despite the ongoing war on their soil, has been more hopeful than it 
+was before wasting away in the shackles of Saddam Hussein's tyranny. 
+And, it is only getting better.
+  For those Iraqis who survived Saddam's policies of genocide, 
+political imprisonment, and near-constant state of war, they went 
+without jobs, food, and medicine. All the while Saddam and his cronies 
+pocketed billions in illicit oil profits and grew fat from Oil-for-Food 
+program kickbacks.
+  The Iraqis have had increasingly broad and successful elections. They 
+have developed a constitution and established a government. Just last 
+week, the Iraqis appointed key ministers for defense, national 
+security, and interior. Now that the Iraqi people are free to direct 
+their own economy, their own policies, and their own destiny, there is 
+hope for a brighter future.
+  Just last year, in 2005, the Iraqi economy grow by 3 percent. This 
+year economists predict that the economy will grow by 10 percent, with 
+a GDP that will have almost doubled since the fall of Saddam Hussein. 
+As freely elected economic officials begin to work for the benefit of 
+all Iraqis, the future of the Iraqi economy is bright.
+
+  The Iraqi people are rebuilding their capability to care for their 
+own medical needs. Last year, 98 percent of children under the age of 
+three were vaccinated against measles, mumps, and rubella. Basic care 
+has been provided for 1.5 million new mothers and their children, 
+ensuring that a new generation of Iraqis will grow up strong and 
+healthy.
+  Over 110 medical facilities have been renovated and 600 centers have 
+been equipped with basic clinical and lab equipment. By providing 
+training for 2,500 health care workers, Iraqis will build a structure 
+for living longer, healthier lives far into the future.
+  Iraq once boasted one of the most educated female populations in the 
+Middle East. Under Saddam Hussein's iron fist, they fell to near 
+perfect illiteracy. Working together, we have helped the Iraqis provide 
+for 2,800 rehabilitated schools and 8.7 million math and science 
+textbooks. And, young girls can look forward to careers as engineers 
+and scientists, instead of looking forward to legalized honor killings.
+  The preamble of the Iraqi constitution reads: ``We the people of Iraq 
+. . . are determined to respect the rule of law, reject the policy of 
+aggression, pay attention to women and their rights, the elderly and 
+their cares, the children and their affairs, spread the culture of 
+diversity and defuse terrorism.''
+  This is a statement rarely seen in the history of Middle Eastern 
+nations. Iraqi legislators are determined to create a free society on 
+par with our own. The future of Iraq is one in which men and women are 
+free to practice their religion and speak their mind without fear of 
+imprisonment or death.
+  Every one of us feels for the parents and loved ones of the brave men 
+and women who are serving in Iraq. Every one of us wants to see those 
+young heroes quickly and safely return home.
+  I would like to read from a message I received from one of those 
+brave young men who is serving in Iraq. He said: ``There is a tough war 
+going on here, but we can either fight the enemy here or back at home. 
+If we were to withdraw, there would be a bloodbath of epic proportions 
+that would only encourage the enemies of civilization.''
+  Now is the time that the Iraqi people may build a bright future of 
+freedom, opportunity, and peace upon their rich cultural heritage.
+  Mr. WELLER. Mr. Speaker, I rise today in strong support of our 
+Nation's continuing dedication to the War on Terror and this resolution 
+we are debating today. When we think of the War on Terror, we 
+immediately think of the frontlines in Iraq and Afghanistan where our 
+soldiers are bravely fighting for the hope and promise of freedom. But 
+this debate today should not be limited to debating the fighting in 
+Afghanistan and Iraq. This resolution is about freedom and our 
+dedication to eliminating terror globally. This resolution puts in 
+writing that we, the Congress of the United States of America, will 
+honor all Americans who have supported the war on terror as well as our 
+international partners in the struggle to defend freedom.
+  The War on Terror is not only being fought overseas. This war is 
+being fought, and fought successfully, everyday on our own soil by our 
+own law enforcement agencies and the law enforcement agencies of our 
+allies. We have great partners working with us around the globe to win 
+this fight for freedom and, fortunately, one of these great allies is 
+also one of our closest neighbors.
+  On June 2nd and 3rd a series of counter-terrorism raids by Canadian 
+law enforcement teams successfully thwarted possible attacks planned by 
+seventeen Al Qaeda inspired terrorists, terrorists who have been found 
+to have ties not only in Canada, but in many other countries as well.
+  These terrorists took actions to obtain three tons of ammonium 
+nitrate and were allegedly planning to use it against the Government of 
+Canada and the Canadian people. This is more than three times the 
+amount of ammonium nitrate used in the Oklahoma City bombing in 1995.
+  This successful raid on behalf of the Canadian law enforcement 
+bodies, including the Integrated National Security Enforcement Team 
+which coordinated the efforts of the Royal Canadian Mounted Police, the 
+Canadian Security Intelligence Service, the Ontario Provincial Police, 
+and other local police forces, illustrates both the strength of local 
+law enforcement as well as the growing weaknesses of the Islamist 
+militant network.
+  Their achievement has made our hemisphere safer and brings optimism 
+that other nations around the world will have similar triumphs over 
+terror. We all salute Canada for its unwavering commitment in the 
+global war on terror.
+  Their success only emphasizes that we must continue the fight against 
+terror on all fronts: foreign and domestic. We must continue to promote 
+peace, security, and the promotion and protection of liberty, while 
+being vigilant against those extremists who want to do harm to freedom-
+loving countries. We must continue to support our armed forces, first 
+responders, and our international allies in this war and we must 
+continue to work with our close friends, such as Canada, to promote the 
+principles of a free and democratic society. I urge strong support for 
+this resolution.
+  Mr. MURTHA. Mr. Speaker, I submit the following letter for the 
+Record.
+
+                                                     May 31, 2006.
+     Representative John P. Murtha,
+     House of Representatives,
+     Washington, DC.
+       Dear Congressman Murtha: I am a Florida Democrat who feels 
+     deeply in your debt for the campaign you are pursuing to get 
+     our troops out of Iraq ASAP. When a new Democratic Congress 
+     convenes early next year I hope its first order of business 
+     will be to present you with a well-deserved Congressional 
+     Gold Medal.
+       I share your heartfelt concern over the situation in Iraq. 
+     It is a national disaster that is robbing our nation of the 
+     best of our youth and billions of our national treasure. In 
+     this regard I stand squarely behind you and your views of the 
+     war. In support of those views I have prepared a piece called 
+     Iraq: We Need a Strategy, Not Empty Slogans. It is based on 
+     your irrefutable arguments. Its thrust is to demolish the 
+     President's position that we must stay the course. (How I 
+     hate that phrase!)
+       I believe I have made a cohesive, persuasive argument. 
+     Please take a few minutes to read this paper and hopefully 
+     have it inserted in The Congressional Record. In my judgment, 
+     it warrants the attention of every Member of Congress. 
+     Accomplishing this is my main purpose in life at the moment. 
+     Earlier I sent a copy of the enclosed piece to Senator Bill 
+     Nelson, my home-state senator, but subsequently learned he 
+     does not favor early departure.
+       Here are my bonafides: I am an 85 year-old retired Army 
+     lieutenant colonel with 22 years of active service as an 
+     Infantry officer. I saw combat in World War II as a rifle 
+     platoon leader in the Pacific. I received the following 
+     decorations in the course of my military career: 
+     Distinguished Service Cross, Silver Star, Legion of Merit, 
+     Bronze Star Medal with oak leaf cluster, Purple Heart with 
+     oak leaf cluster, Army Commendation Medal, and the Combat 
+     Infantryman Badge. So you don't have to accept these claims 
+     at face value alone, I enclose a copy of my DD 214.
+
+[[Page H4115]]
+
+       I am confident that God will grant you the strength to 
+     carry on your fight. But all Americans should rise to your 
+     support. They need to cast aside complacency and lassitude. 
+     They need to stand up to an Administration hellbent on 
+     destroying the underpinnings of our democracy. In short, we 
+     must sound off.
+       With admiration and respect,
+                                               Sanford H. Winston,
+     LTC, USARet.
+                                  ____
+
+
+              IRAQ: We Need A Strategy, Not Empty Slogans
+
+       God bless Representative John Murtha, the Pennsylvania 
+     Democrat. He is the only Member of Congress with the guts to 
+     tell the American people the truth about the Iraq war. He 
+     does not spin this story. He calls for the removal of our 
+     forces from Iraq ASAP on the basis that only the Iraqis 
+     themselves can heal the divisions that thwart their progress 
+     toward a viable government. He describes bluntly the 
+     irreconcilable mess that is Iraq with its three obdurate and 
+     competing factions--Kurds, Shiites and Sunnis. He emphasizes 
+     the failure of the U.S.-led efforts to provide essential 
+     services to the Iraqi people such as electricity and oil 
+     production that are below the levels existing prior to our 
+     pre-emptive invasion. He makes it clear that the Iraqi people 
+     really don't want us there.
+       Congressman Murtha asserts that most of our more than 2,450 
+     dead and 17,500 wounded--many of them amputations, spinal 
+     cord and head injuries--have been caused by improvised 
+     explosive devices. IED's continue to extract a great toll on 
+     our people even after three years of war and ceaseless effort 
+     to neutralize them. Still, we have had more than enough time 
+     to devise a practical, achievable strategy for extracting our 
+     troops. There is none. Joining Mr. Murtha in the class of 
+     great American patriots are the seven retired Army and Marine 
+     generals who view the Administration's conduct of the war as 
+     deplorable and had the guts to call for the removal of 
+     Secretary of Defense Donald Rumsfeld.
+       President Bush has stated our objective in Iraq is 
+     establishing ``a democracy which can defend itself, sustain 
+     itself--a country which is an ally in the war on terror and a 
+     country which serves as a powerful example for others who 
+     desire to be free.'' Religion, culture and customs combine to 
+     pose impenetrable barriers toward reaching this goal. Iraq is 
+     actually in a state of civil war now even though the 
+     Administration won't acknowledge that fact. American-trained 
+     Iraqi soldiers and police have yet to prove that they are 
+     capable, loyal and trustworthy. The Parliament, to this 
+     point, has refused to agree on Ministers of Defense, Interior 
+     and National Security. Without solid political backing behind 
+     appointees to these three ministries the prospects for 
+     success are remote.
+       The President promotes support of his war by spreading 
+     public fear. He refers to our Iraq campaign as a part of a 
+     ``global war on terror.'' Is there really an ongoing global 
+     war? Are all the Muslims in the world preparing to take on 
+     the United States? This thought by the President acts to 
+     promote public anxiety, but not enough for him to call for a 
+     military draft and marshal the forces we need to prevail in a 
+     global war. If he tried to do that the Congress would revolt 
+     and his approval numbers in the polls would sag to zero. 
+     Administration scare tactics are reinforced by the Vice 
+     President who warns that the Muslims are working to establish 
+     caliphates that extend from the coast of Spain to the tip of 
+     Indonesia. Does this vast conglomerate of caliphates in the 
+     offing intend to attack us? If so, our country is not 
+     prepared to confront this awesome threat. Hopefully we are 
+     summoning aggressive diplomatic activity and the active 
+     support of the United Nations, the countries of Mr. 
+     Rumsfeld's Old Europe, and other peace-loving allies in 
+     readying our defenses.
+       Let's make one thing clear. Iraq is our national disaster. 
+     It is diluting the resources we need to defend ourselves. It 
+     is a tragic sideshow that is bleeding us of our finest young 
+     men and women and costing billions of our national treasure 
+     which are desperately needed for domestic purposes.
+       Bombarded with fear-inducing messages, much of the country 
+     appears docile and uninvolved in Iraq. It's business as 
+     usual. The only people with a real stake in the war are 
+     apparently our men and women in uniform and their families. 
+     They represent about one percent of a population nearing 300 
+     million. There are few signs of spontaneous patriotism other 
+     than Support Our Troops bumper stickers. While the long war 
+     continues, the Army is being torn to shreds courtesy of Mr. 
+     Rumsfeld. It is forced to pay incentives of up to $40,000 to 
+     recruit soldiers and still can't meet its personnel quotas. 
+     It promotes unqualified officers to fill its ranks. The 
+     Marine Corps is no better off. The National Guard has been 
+     worked beyond reason with its people being sent to Iraq on 
+     multiple tours. All this in the face of generals on the 
+     ground in Iraq saying that our involvement may last 10 years.
+       Our people are being fed slogans in lieu of a strategy for 
+     the termination of our operations in Iraq. Some examples:
+       Stay the course. No mention is made of the price that must 
+     be paid to stay the course. The President does not say how 
+     many American lives he is willing to sacrifice in such a 
+     feckless pursuit. He visualizes a lengthy stay in Iraq if one 
+     takes at face value his assertion that he is prepared to hand 
+     off the war to his successor if victory has not been attained 
+     during his term in office. As Commander-in-Chief, the 
+     President must think long and hard about our casualty rate 
+     now and in the future. Early in the war, when Deputy 
+     Secretary of Defense Paul Wolfowitz was asked by a reporter 
+     how many of our troops had been killed in action, he had no 
+     idea of the actual number. This kind of leadership will not 
+     do. To me, stay the course is meaningless rhetoric, not a 
+     substitute for a real strategy.
+       General Tommy Franks, author of the war plan that propelled 
+     us into Baghdad, but who left a big planning void beyond our 
+     conquest of the capital city, declared in a recent speech to 
+     the National Rifle Association, that our KIAs in Iraq have 
+     made the U.S. a safer place by virtue of their sacrifice. 
+     Sadly, there is no discernible truth to that claim. It is 
+     this general's way of telling us we must stay the course.
+       If you break it, you own it. This is General Colin Powell's 
+     unrealistic contribution, guaranteed to extend our stay in 
+     Iraq until the President's objective becomes a reality. Taken 
+     literally, it does not compute. When we broke Germany, did we 
+     own it? When we broke Japan, did we own it? When we broke 
+     Italy, did we own it? Of course not. We gave them postwar 
+     guidance and assistance. Those former enemies repaired the 
+     breakage on their own and have since become valued allies. 
+     There is no reason why the Iraqi people, with our non-
+     military help, can't do the same.
+       When the Iraqis stand up, we'll stand down. Empty rhetoric. 
+     With the intractable hostility marking relations among Kurds, 
+     Shiites and Sunnis, and the unchecked operations of many 
+     hostile local militias, it will be a long time before the 
+     Iraqis can stand up.
+       ``I'll leave when the generals on the ground tell me it's 
+     time to leave, not some Washington politician.''--President 
+     Bush. Who is the decider anyway, the generals or the 
+     President? Besides, isn't he the Number One Washington 
+     politician? This is a sorry expression of policy.
+       We can't cut and run. This phrase is used carelessly. I 
+     recall a first-term Congresswoman from Ohio having the gall 
+     to admonish Congressman Murtha, retired Marine colonel, 
+     decorated and wounded veteran of Vietnam, with the reminder 
+     that Marines do not cut and run. I define cut and run as 
+     people taking purposeful action to avoid hazardous duty in 
+     time of war. It may sound insensitive to say so, but to me 
+     the two most prominent examples of cut and run are the 
+     President and Vice President during the Vietnam War. Why 
+     don't we just eliminate cut and run from our lexicon? It is 
+     Hollywood/John Wayne talk, not real world political talk.
+       The media does not report the positive things we do. 
+     Hogwash! The American press has done more to build and 
+     preserve our democracy than any other national institution 
+     including our armed forces. Blaming the media is the last 
+     resort of knownothings. Government must learn to tell the 
+     truth when dealing with the media.
+       There is a way out of the quagmire. To disengage in Iraq we 
+     need a new Congress sworn to this end--a Congress in the 
+     Murtha mold, a Congress with guts. It is up to the American 
+     people to see that we get one come this November. The new 
+     Congress can vote to cut off funds that support our 
+     operations in Iraq as soon as it convenes. or it can send 
+     leaders representing both parties to stand before the Iraq 
+     Parliament and announce that Iraq has 90 days to assume 
+     responsibility for its own fate.
+       To paraphrase General of the Army Omar Bradley's warning on 
+     Vietnam, the war in Iraq is the wrong war, at the wrong time, 
+     in the wrong place.
+       When the time comes, vote Americans, vote! Only you can end 
+     this war.
+
+  Mr. DAVIS of Tennessee. Mr. Speaker, I am glad we are having this 
+debate today. Frankly, I think it is shameful it has taken us three 
+years to have an ``open'' debate on the war while our soldiers are 
+dying, their family members are praying for their safe return, and the 
+American public is questioning what, exactly, is our policy over there. 
+I just wish the debate were actually open. The lack of debate is even 
+more shameful when you consider the fact we have been fighting in Iraq 
+longer than we fought in World War I, the European Theater of World War 
+II, and Korea. The American people deserve better, and you can bet your 
+life the American soldier definitely deserves better than that. The 
+American soldier deserves more than ten hours of debate on a policy 
+that affects their lives.
+  Mr. Speaker, I want everyone in America to know the Leadership of 
+this House of Representatives wants to stifle debate and control what 
+you hear from your government. Every single American citizen should ask 
+themselves this, ``What are they trying to hide? What are they afraid 
+of? If a policy decision is so sound, you would think they would let it 
+be debated until everyone was blue in the face.'' I think the lack of 
+confidence the Majority has in the ability of their policies to face 
+challenges and amendments should be eye opening to the American public.
+  Mr. Speaker, I am ashamed the Majority Leader of the House abandoned 
+his earlier talk of a ``civil'' debate on policy and instead decided to 
+turn something as serious as a war into a rhetoric filled partisan 
+political tool with
+
+[[Page H4116]]
+
+the goal to make Democrats look ``sheepish.'' In my opinion, war and 
+the deaths of American soldiers is too serious to be used as a 
+political tool. Don't our soldiers deserve more respect from Congress 
+than this? Additionally, anyone who would accuse a Member of Congress 
+of not supporting our troops has no shame and those individuals should 
+ask themselves whether anything is sacred to them anymore. They should 
+ask themselves whether or not there is any depth to which they won't 
+sink in order to score political points?
+  Mr. Speaker, I was not a Member of Congress when the resolution 
+passed giving the President the authority to send our fighting men and 
+women to war. However, since I've been a Member of Congress I have 
+continued my lifelong support for our troops. I have voted for every 
+spending request, and I have been to Iraq to visit our soldiers four 
+times. Every Member of Congress should have gone to Iraq by now, and if 
+you haven't, go. Whether or not you support this war you need to show 
+your support for our soldiers, and they deserve to talk to us face to 
+face and let us know what is really happening over there.
+  Mr. Speaker, how we got to Iraq should not be the point at this time. 
+Historians, politicians, and the American public will debate that for 
+years on end, and you can bet they will draw conclusions and hold 
+people responsible in the history books and the public opinion of the 
+future. However, right now we should focus on how we stabilize the 
+country, allowing for a new, free, democratic Iraq to rein, and how we 
+get our troops home safe as soon as possible while ensuring our future 
+is more stable and secure.
+  Mr. Speaker, I support our troops. The Congress and the American 
+public support our troops. And I think we should reaffirm our support 
+for the troops by giving them every tool they need, like additional 
+armor and padding in their helmets to protect them from IEDs, rather 
+than forking over taxpayers' dollars hand over fist to Halliburton and 
+other defense contractors with little to no accountability. That, I 
+think, would be a stronger sign of support for our troops, or the war, 
+than any politically motivated resolution brought to the House floor as 
+the Majority has admitted in their inter-conference memo of talking 
+points of how ``We must conduct this debate as a portrait of contrasts 
+between Republicans and Democrats'' according to Majority Leader 
+Boehner's memo. I don't know about you, but I believe our country and 
+our troops deserve better than these political tactics.
+  In closing, Mr. Speaker, it is time for both political parties to 
+figure out that our base is America, and the American people, not the 
+ideologues of the political fringe.
+  Ms. MOORE of Wisconsin. Mr. Speaker, with the number of U.S. military 
+deaths in Iraq reaching 2,500, it's disappointing that the best the GOP 
+leadership can do is demand more of the same. That's exactly what this 
+resolution does by calling for a vague open-ended military commitment 
+in Iraq. This resolution reaffirms a policy that simply isn't working.
+  Instead of acknowledging the difficulties our troops face by offering 
+clear alternatives to the President's ``business as usual'' approach, 
+this resolution tries to cloud the debate by focusing on the ``war on 
+terror.'' Indeed, Iraq isn't even mentioned until the eighth paragraph.
+  The real issue at hand is whether this particular U.S. military-led 
+effort that we've been following under Secretary Rumsfeld will achieve 
+lasting peace and democracy in Iraq. I can understand why the GOP would 
+want to divert attention from this critical question--it is precisely 
+because of the Administration's policy that Iraq has become a terrorist 
+haven where none existed before.
+  Since President Bush landed on an aircraft carrier and declared 
+``mission accomplished'', the estimated number of insurgents in Iraq 
+has quadrupled from 5,000 to 20,000. As a result, the average number of 
+daily attacks by insurgents has climbed from 53 to 75, from May 2004 to 
+May 2006.
+  This war is an expensive quagmire that's weakening the federal 
+government's ability to meet our domestic needs. We have spent over 
+$300 billion so far on the wars in Iraq and Afghanistan, which is 
+costing us about $8 billion a month on average, according to the 
+Department of Defense. It's no wonder that this Congress was recently 
+asked to vote on a budget that cuts education, freezes funding for 
+health care research, and shortchanges medical care for our nation's 
+veterans.
+  The massive deployment of National Guard and Reserve units overseas 
+has undermined our capacity to confront terrorist attacks or natural 
+disasters here at home. We know that state officials in Louisiana and 
+Mississippi struggled to overcome the absence of National Guard members 
+from their states in the aftermath of Hurricane Katrina.
+  Despite these grim realities, politicians on the other side of the 
+aisle are stubbornly restating that--no matter what--we must ``stay the 
+course.'' I strongly disagree. The President and his allies in Congress 
+should heed the words of military and diplomatic leaders who have 
+warned that a continuing presence in Iraq will neither calm the 
+violence nor lead to stability.
+  Mr. Speaker, it is incumbent on this body to offer and debate real 
+strategies for the redeployment of American forces. Instead, this 
+resolution allows only a phony debate on the ``war on terror'' which 
+will not allow amendments that would offer alternatives to the Bush 
+administration's policy in Iraq.
+  Mr. TURNER. Mr. Speaker, the lessons of history demonstrate that 
+threats, left unchecked, become more dangerous over time. In the long-
+term isolationism is not an effective solution for peace-keeping 
+nations.
+  Osama bin Laden, and the al Qaeda terrorist network he founded, were 
+at war with the United States throughout the 1990s.
+  1993: The first attack on the World Trade Center
+  1996: Bin Laden calls on Muslims to harm U.S. troops in the Persian 
+Gulf.
+  1998: Bin Laden claims: Muslims should kill Americans any where--
+including civilians.
+  May 1998: Bin Laden foreshadows the future. He warns the battle will 
+``move to American soil.''
+  June 1998, a grand jury investigation issued an indictment against 
+bin Laden
+  On the 8th anniversary of the UN sanctions against Iraq, two 
+simultaneous explosions occurred at the U.S. Embassies in Kenya and 
+Tanzania. The bomb in Kenya kills 213 people, including 12 American, 
+injuring more than 4,500. In Tanzania, 11 are dead--85 injured.
+  August 20, 1998 President Clinton orders cruise missile attacks at 
+suspected terrorist training camps in Afghanistan and a pharmaceutical 
+plant in the Sudan.
+  Soon after a new indictment was issued against bin Laden.
+  However, Osama bin Laden and al-Qaeda were left virtually unchecked 
+despite these and other terrorist attacks throughout the 1990s and up 
+until 9/11.
+  Recently I visited Kenya, including the former site of the American 
+Embassy in Nairobi. Today that site has been replaced by a park with a 
+fountain, a memorial wall that has all the victim's names on it, and a 
+memorial building. During past wars memorials to the victims of 
+conflicts and those who served bravely to win them, have usually waited 
+until the hostilities ended. In the name of all those who died at the 
+sites of all the terrorist attacks, as well as those who have given the 
+ultimate sacrifice to fight terrorism, we must ensure those memorials 
+future by winning the war on terror.
+  Every event from bin Laden's first bomb in 1992 through today has 
+been part of one long coordinating al-Qaeda war. The coordinated 
+attacks in 1998 should have been a clear warning signal that Osama bin 
+Laden and al Qaeda were determined, willing and able to attack 
+Americans.
+  While Osama bin Laden had declared war on all Americans in 1998, the 
+US didn't declare war on terror until September 12, 2001.
+  The opportunity to stop bin Laden before 9/11 came and went. The 
+lessons of history assure us that left unchecked the forces of evil 
+will grow stronger and will seek to harm us again. Today's discussion 
+is about a simple choice; do we fight terrorism tomorrow or do we stop 
+it with our actions today?
+  Mr. STEARNS. Mr. Speaker, I rise in support of H. Res. 861 and 
+believe many of my colleagues on the other side of the isle have said 
+that the war in Iraq has nothing to do with the Global War on 
+Terrorism. I could not disagree more with their assessment. Iraq is the 
+central front in the overall Global War on Terrorism. An immediate 
+withdrawal would merely embolden our terrorist enemies and lead to open 
+season on America and our allies. We cannot allow this to happen. We 
+must prevail in Iraq. The stakes are too high to fail.
+  Coalition forces are having a great deal of success in Iraq. The 
+recent killing of terrorist leader Abu-Musab al-Zarqawi, along with 
+seven of his aides, is a serious blow to al-Qaeda's operation. The man 
+Osama bin Laden called ``the prince of al Qaeda in Iraq'' arguably had 
+more innocent blood on his hands in the last few years than any other 
+terrorist. Zarqawi led one of the most deadly insurgent groups in Iraq 
+in a bloody campaign of bombings, shootings, beheadings, and 
+kidnappings aimed at killing Iraqi Shi'as to incite sectarian violence 
+and derail democracy in Iraq.
+  Furthermore, after receiving confirmation of Zarqawi's death, 
+Coalition and Iraqi Security Forces conducted 17 simultaneous raids in 
+the Baghdad area, yielding a treasure trove of information and 
+intelligence that is being analyzed for future use.
+  Iraq's National Security Adviser Mouwafak al-Rubaie said today that 
+these documents and computer records would give the Iraqi government 
+the upper hand in its fight against al-Qaeda in Iraq.
+  ``We believe that this is the beginning of the end of al-Qaeda in 
+Iraq,'' al-Rubaie said, adding that the documents showed al-Qaeda is in 
+``pretty bad shape,'' politically and in terms of training, weapons and 
+media.
+
+[[Page H4117]]
+
+  ``Now we have the upper hand,'' he said. ``We feel that we know their 
+locations, the names of their leaders, their whereabouts, their 
+movements, through the documents we found during the last few days.''
+  He also said that he believed the security situation in the country 
+would improve enough to allow a large number of U.S.-led forces to 
+leave Iraq by the end of this year, and a majority to depart by the end 
+of next year. ``And maybe the last soldier will leave Iraq by mid-
+2008,'' he said.
+  Throughout American history, we have been tested in times of war. But 
+virtually every time, we stayed the course and prevailed.
+  We did not experience quick victory in the American Revolution. In 
+fact, it took our Founding Fathers years to win our hard-fought 
+independence. We were defeated at the Battles of Long Island, Harlem 
+Heights, White Plains and others, and we will never forget the dark 
+days at Valley Forge, yet we did not give up our desire for freedom.
+  And let's not forget in World War II, where we suffered rapid and 
+repeated defeats at Guam, Wake Island, the Philippines and Kasserine 
+Pass.
+  We must also remember that the terrorists were at war with us long 
+before we were at war with them. In April 1983, 63 people, including 
+the CIA's Middle East director, were killed in a suicide truck-bomb 
+attack on the U.S. Embassy in Beirut. Later on that year, simultaneous 
+suicide truck-bomb attacks on the American and French compounds in 
+Beirut killed 242 Americans and 58 French. In 1988, all 259 people on 
+board Pan Am Flight 103 were killed when a bomb believed to have been 
+placed on the aircraft by Libyan terrorists exploded. These are just a 
+few examples. Unfortunately, Mr. Speaker there are others.
+
+  Noted Islamic scholar Bernard Lewis has written that the sources of 
+Islamic antagonism toward the West stems from the belief that the 
+American way of life is a direct threat to Islamic values. But it is 
+basic Western democracy that especially threatens Islamic extremist 
+because within its own community more and more Muslims are coming to 
+value the freedom that political democracy allows. Lewis has also 
+written that attitudes toward the West have evolved through contacts 
+with first the Eastern Empire in Constantinople, then Spain, Portugal 
+and France, and through years of direct conflict in the Crusades and 
+the colonial wars of the 19th and 20th centuries. As we can see, the 
+War on Terrorism did not begin on September 11, 2001
+  The Global War on Terrorism will not be won next week, next year, or 
+even in the next 10 years. Like the Cold War, this struggle is a 
+generational conflict, potentially spanning decades. The Cold War 
+stretched from Asia to Africa to the very heart of Europe, just as our 
+struggle today reaches from the Philippines to the mountains of 
+Afghanistan to, as we recently saw, our neighbor Canada. Terrorism 
+knows no bounds and will strike wherever freedom reigns, from London to 
+Madrid, to a quiet field in Pennsylvania.
+  Victory cannot be found on a single battlefield or a single treaty 
+signing. Our enemy does wear a uniform and is not governed by 
+international rules of war. They have one goal: kill as many Americans 
+as possible and establish tyrannical regimes that rule according to a 
+violent and intolerant distortion of Islam.
+  The War on Terror will be a long war. Yet we have mobilized to win 
+other long wars, and we can and will win this one.
+  Last year, I traveled to Iraq and everybody I met was enthusiastic 
+about doing their job and helping the Iraqi people. We found our troops 
+have high morale and a commitment to their mission. The troops told us 
+that we are winning the war.
+  Because of our intervention, a murderous dictator and a totalitarian 
+regime have been overthrown, free elections have been held, a new 
+constitution has been drafted and ratified, and a new national unity 
+government has been completed.
+  Mr. Speaker, Iraq is only one theater in the overall Global War on 
+Terror and success in Iraq is vital to victory. Much has been 
+accomplished but much is left to be done. The question for all of us 
+here is do we have the will to stay the course and leave with honor I 
+believe we do. We must finish the job. The stakes are too high to fail.
+  Mr. NUSSLE. Mr. Speaker, thank you for the opportunity to have this 
+debate. I first of all want to say how proud I am of our brave soldiers 
+deployed in Iraq, Afghanistan, and other regions of the world. 
+Throughout our history, our freedom and our way of life have been 
+preserved by the grave sacrifices made by the men and women of our 
+military. We cannot thank them enough for their service.
+  I want to specifically thank the many Reserve and National Guard 
+units from my home state of Iowa serving overseas. Throughout the War 
+on Terror, Iowa has had one of the highest overseas deployment rates of 
+any state.
+  Recently, I had the opportunity to welcome back a battalion of Marine 
+reservists from Waterloo, Iowa, in my district. I was very impressed by 
+the brave soldiers of Charlie Company, 1st Battalion, 14th Marines who 
+risked their lives conducting vital security operations throughout the 
+Al Anbar province of Iraq in the dangerous areas of Ramadi, Al Asad and 
+Falluja. They left their families and loved ones behind to serve a 
+cause greater than themselves--the cause of freedom.
+  Mr. Speaker, our mission in Iraq is a vital part of the Global War on 
+Terror. Removing Saddam Hussein from power was a difficult but 
+necessary step to eliminate the threat that his regime had posed for so 
+long to the United States and the international community.
+  We should take this opportunity to reflect on our many 
+accomplishments in Iraq over the past three years.
+  Saddam Hussein's reign of terror is over, his sons have been killed, 
+and just last week we learned the good news that the leader of the 
+Iraqi insurgency, the brutal terrorist Abu Musab Al-Zarqawi, has been 
+eliminated.
+  The Iraqi people have taken historic strides towards establishing a 
+free and stable democracy. They have participated in free elections for 
+the first time, drafted a new constitution, and newly elected Prime 
+Minister Nuri Kamal al-Miliki just announced the formation of his 
+cabinet. In addition, the Iraqi security forces continue to increase in 
+number and have taken a larger role in the defense their country.
+  Mr. Speaker, at this time it is necessary to stay the course and 
+follow the path to a lasting peace in Iraq. We will continue to provide 
+for our troops and ensure that they have the best training, equipment, 
+and technology available. And we must not waver in our commitment to 
+win the Global War on Terror and protect our homeland from brutal 
+terrorists who wish to attack our homeland and our very way of life.
+  Mr. SIMPSON. Mr. Speaker, I rise today in strong support of our 
+continued mission in Iraq as part of the Global War on Terror.
+  I am proud to say that throughout the Global War on Terror, thousands 
+of Idahoans have fought valiantly side-by-side with their fellow 
+countrymen and newly freed citizens of Iraq and Afghanistan. During a 
+visit to Iraq in May 2005, I had the opportunity to visit with the 
+brave men and women of the 116th Cavalry Brigade. I was amazed at their 
+level of professionalism and their enthusiasm for the mission. They 
+took great pride in their contributions and were fully committed to 
+finishing the job. I have been similarly impressed by our nation's 
+military as a whole.
+  When I consider what action should be taken in Iraq I look to the 
+advice of the experts, those who are on the ground fighting the war. 
+The message I continually hear from our soldiers and generals is: 
+Finish the job, complete the mission.
+  I know there have been many calls in the United States lately to 
+withdraw our troops from Iraq or set some kind of artificial deadline 
+for withdrawal. Mr. Speaker, I strongly disagree with this defeatist 
+attitude. In fact, a premature withdrawal from Iraq would be disastrous 
+for America.
+  In an interview with Osama bin Laden just prior to the 1998 terrorist 
+attacks on the U.S. embassies in Kenya and Tanzania, bin Laden referred 
+to the United States as a ``paper tiger'' because of our withdrawal 
+from Somalia after the tragic loss of 18 U.S. soldiers. Al-Qaeda 
+learned from this, and similar events, that the United States would 
+retreat rather than fight. During the War on Terror, Al-Qaeda has 
+counted on Americans to similarly become demoralized and once again 
+withdraw from the fight. It is the cornerstone of their strategy.
+  If we lose heart and withdraw from Iraq before the mission is 
+complete, Iraq will become a permanent breeding ground of hate and 
+terror instead of the stable mid-east democracy it is becoming. Our 
+enemies will become further emboldened by their perceived victory. A 
+premature withdrawal from Iraq would only strengthen their resolve to 
+use cowardly and barbarous terrorist attacks to achieve their ends. An 
+artificial timeline for a withdrawal would only have similar results. 
+The enemy need only sit back, wait, and then step forward to declare 
+victory once U.S. forces have left. As a consequence, Americans and 
+democratic societies throughout the world will be in greater danger 
+than ever before.
+  We simply cannot afford to back down, return home, and hope this 
+threat will dissipate on its own. The terrorists must be confronted and 
+must be defeated. We cannot pass this mission on to another generation. 
+This is our job and the time is now. By stepping up and completing this 
+mission we will give the gift of greater peace and stability to future 
+generations.
+  I can understand why so many want to cut and run, it would be the 
+easy thing to do. I do not hesitate to say that the mission in Iraq is 
+a difficult one and it has been costly. The price for freedom is all 
+too often painfully high. I, for one, do not ever want to receive 
+another notice that a fellow Idahoan, or any American,
+
+[[Page H4118]]
+
+has fallen or been wounded in this war. However, quitting now would 
+only prolong bloodshed in the long run, not end it.
+  Once again Mr. Speaker, I support America's efforts to complete the 
+mission in Iraq, and I call on my colleagues on both sides of the aisle 
+to commit to its completion. At such a perilous time in our nation's 
+history let us stand united.
+  Mr. LaTOURETTE. Mr. Speaker, I very much appreciate the leadership 
+allowing this important discussion on the war in Iraq and the ongoing 
+global war on terror.
+  We can all regret the faulty intelligence that overestimated the 
+presence of WMDs. We can focus on the need to press the new Iraqi 
+government to meet speedy and attainable goals for the responsibility 
+for their own security. But, we should never underestimate what's at 
+stake in Iraq for their people or ours.
+  Nor should we ever permit the use of propaganda or terrorist 
+barbarism to signal to the brave men and women serving this Nation in 
+uniform that the resolve of our country is wavering.
+  There are many thoughts that I could lay upon the record of this body 
+about the war on terrorism, but sometimes it's better to shut up and 
+listen to the voices of those who know much more than you or I. One of 
+the casualties of war in my district was a great Marine--Lance Cpl. 
+Andy ``Ace'' Nowacki. Andy, 24, was a member of the Grand River Police 
+Department and was killed by an lED in Iraq on February 26, 2005. His 
+family, though filled with grief, determined that Andy's spirit would 
+live on in many ways. One way will come through the establishment of a 
+scholarship fund at Lakeland Community College.
+  On March 31st of this year, friends, comrades and family gathered to 
+honor Andy's memory and raise funds for the scholarship. One of the 
+people to speak that evening was Lt. Col. Mark A. Smith, the former 
+battalion commander of Andy's unit--the 2nd Battalion, 24th Marines. 
+Lt. Col. Smith's remarks, which I ask through unanimous consent to 
+appear in the Record immediately following my own, centered on the 
+question of ``Why.'' He stated in part: ``. . . think the part that's 
+most lost in public discourse in the ongoing global war on terror is 
+really the ``Why.'' We all know how Andy died . . . I'd like to spend a 
+few minutes talking about why Andy died.''
+  Mr. Speaker, Lt. Col. Mark A. Smith, with the eloquence of a soldier, 
+said it better than I could ever hope to, and I commend his words to 
+the House:
+  I got a call last Saturday when I was on duty from Sheila Nowacki, 
+Andy's mom. And she told me a part of the ceremony was going to be a 
+pretty moving video, and she had a slight task for me. She asked me if 
+I'd speak for a few minutes after the video, and to be positive.
+  Now, as the commanding officer of 2/24th, I don't get the option of 
+saying no to the families of my KIAs for whom I was responsible, but in 
+Sheila's and Dennis's case, I was honored that they even asked me to, 
+so I immediately rogered up to the mission. So, here we go.
+  The only way I know to be positive in talking about Andy is to talk 
+about--from my perspective and from the Marines' perspective in this 
+room who shared time with him in combat--why Andy died. Because I think 
+that the thing that's most lost in public discourse about the ongoing 
+global war on terror is really the ``Why.'' We all know how Andy died. 
+Unfortunately, he was struck by an improvised explosive device while on 
+an ASR in our zone. I'd like to spend just a few minutes talking about 
+why Andy died.
+  Andy died because he was out engaging the enemy. The single most 
+misunderstood aspect of this war is the enemy. And a professional war-
+fighter focuses on one thing and one thing only--the enemy. He doesn't 
+focus on time-lines, he doesn't focus on how fast he can stand up Iraqi 
+battalions. He focuses on the enemy, and there's a particular reason 
+why we need to focus on this enemy. Because this enemy is real, this 
+enemy is vile, this enemy is evil. And this enemy has a 100-year plan 
+to destroy the United States of America--a one hundred year plan. We 
+think in terms of the next football season and they're thinking in 
+terms of 100 years from now and how they're going to destroy this 
+Nation.
+  Can this enemy win this war against us? Unfortunately, I'm here to 
+tell you absolutely he can. He can if he continues to focus on two 
+things which he focuses on every day. The first thing this enemy 
+focuses on is breaking the will of the American people. He does that 
+through videos, he does that through propaganda, and he does that 
+through information. The second way he can win this war is to continue 
+to recruit future generations of jihadists. It's for these reasons, and 
+because of this enemy, that Andy was in Iraq. And while so many still 
+fail to get it, the enemy doesn't. The enemy understands Iraq is the 
+focus of effort, because he understands that as long as Marines and 
+warriors like Andy are in Iraq that the will of the American people is 
+foremost and in his face. He also understands that that is a will that 
+can and does, at every opportunity of battle, destroy this enemy. And 
+then the second thing is what us being there does to this enemy. 
+Contrary to some popular opinion, is it does not create jihadists by us 
+being there. Quite frankly, we deprive them of the next generation of 
+jihadists because no one is more helped and/or more impressed with the 
+Gentle Giants of America than the kids of the Arab world. If you'll 
+just let me tell you two very quick stories, I'll explain why that is.
+  One day we were going out to conduct a raid to arrest the Sgt. Major 
+and the operations officer of the Iraqi Army battalion that we were 
+training. Upon moving into our cordoned positions in the raid force--
+hitting the objective and seizing the Sgt. Major of the Iraqi Army 
+battalion--his very children, the children of the Sgt. Major that we 
+had in flex cuffs and blindfolded, were running around their front yard 
+acting as if they were holding weapons and shooting at the Marines. One 
+of the Marines went up to them, and he took the interpreter with him, 
+and he said, ``Ask these kids what they're doing.'' And the interpreter 
+asked them, and the kids said, in English, ``Mistah, we play U.S. 
+Marines, Mistah. We U.S. Marines.''
+  I don't think those kids are going to grow up to be jihadists. I 
+think those kids are going to grow up to be the honorable people that 
+they saw the U.S. Marines in their zone to be. Further proof of that 
+was mentioned by your emcee tonight when she showed you that picture of 
+Andy and those two Iraqi kids. They say a picture tells a thousand 
+stories . . . that's not a staged picture. That is honest respect for 
+an American Marine, who in this case was Andy Nowacki. And there are 
+thousands of them out there affecting those Iraqi kids every day.
+  The second story I want to tell you about is the election--the very 
+first Iraqi election that occurred in our zone. In order to truly 
+understand it, you have to back up to December of 2004. The election 
+was scheduled for 31 January of 2005. Exactly two weeks before the 
+election was to be held, the Iraqi government said there was no way an 
+election would be held in our zone because in that point in time there 
+were two triangles that were famous in Iraq. One was the Sunni Triangle 
+and one was the Triangle of Death. The Triangle of Death was our zone 
+and it was so named because for four months at that time, on a daily 
+basis, we had gone forward, we had seized terrain, we had lived the 
+misery of the Iraqi people. We had become their neighbors and, in so 
+doing, we had slung steel and harsh language with this enemy on a daily 
+basis, and they did not like that. They did not like the fact that 
+these Marines were forward--living and earning the respect of the Iraqi 
+people. But we were able to convince the Iraqi government that as a 
+result of the efforts of Marines like Andy, the Iraqi people would come 
+out and vote. We couldn't guarantee them that it wouldn't be violent, 
+but we guaranteed them they would come out and vote.
+
+  Now I ask you to picture, in two weeks, having to put together eight 
+polling places. That meant that we had to tactically go out 48 hours 
+prior and we had to seize the locations. We had to set up all the force 
+protection that would allow the Marines to protect the Iraqis from what 
+we knew would be constant and sure attacks on election day. And then 
+most importantly, we had to transport 500 workers from the city of 
+Baghdad to down to our Battalion FOB, house them for two days, and then 
+move them safely to those eight polling sites. You can rest assured 
+that was one big, juicy target that the terrorist wanted to hit. We 
+were able to accomplish all that, but the most telling time in all of 
+that is where we housed these 500 election workers was in our battalion 
+chow hall. My battalion major . . . had a section of our chow hall that 
+was dedicated to our fallen Marines. At that time, there were 12 of 
+them. He had their pictures, and we had an American and a Marine Corps 
+flag. Now for those of you who've never been to Iraq, who've never 
+spent time with the Iraqi people, when you get two of them together, 
+the noise level, the amount of smoking and the amount of drinking that 
+goes on is pretty mind-numbing. When you put 500 of them in a facility, 
+it borders on chaos. Now we accepted that that was going to have to be 
+the cost--that our chow hall was probably going to get pretty torn up. 
+And it did, except for one spot.
+  Any time any of those Iraqi election workers got anywhere near the 
+Sgt. Major's memorial, absolute, utter respectful, solemn silence. They 
+respected the Marines and what they were doing for them, and that was a 
+sight that I will take with me to my grave, and that makes me challenge 
+those who say we're creating jihadists. I argue we are doing just the 
+opposite. On that very election day, the mortars flew, the mortars flew 
+intently. All eight of our sites started getting mortared and rocketed 
+about 30 minutes before the polls were supposed to open. I was sitting 
+in my COC thinking, ``Well, there's the end of my career. I just 
+convinced the whole world that we could
+
+[[Page H4119]]
+
+have an election and they're blowing us up before they've even 
+started.'' But an amazing thing happened. In spite of all the mortars, 
+in spite of all those rockets, in spite of the Marines providing 
+security, telling the Iraqi people to seek cover, they refused, and in 
+broken English constantly reminded the Marines, ``You will protect us. 
+You have brought us democracy. And we will vote.''
+  To conclude, one story from south of our zone where one young man 
+pushed his 70-year-old father four miles under enemy fire in a shopping 
+cart. When asked by the Marines, ``What on God's green earth did he 
+think he was doing?'' He said: ``My father has but one wish before he 
+dies, to show you the respect of voting as a free man.''
+  One hundred years. That's the enemy's plan. He is prepared. Are we? 
+As long as we have warriors, gentle warriors like Andy, the 
+unbelievable support of parents like Dennis and Sheila who do things 
+like this despite having sacrificed what they have sacrificed, and the 
+support of Americans like you, we cannot lose. Sheila asked me to be 
+positive. I don't know how I can be anything but. If it weren't for 
+warriors like Andy and the other ones you see in this room here 
+tonight, we would not be able to gather tonight to laugh, to cry and to 
+celebrate.
+  Sheila asked me to be positive, I don't know how to be anything else. 
+I know now something I didn't know a few years ago: Being positive does 
+not make the world the way you wish it would be, it's accepting the 
+world the way it is and going out and doing what you can do to change 
+it. I used to tell my young daughters when they'd see something on TV 
+or read a fairy tale, I used to tell them there's no such thing as 
+dragons. I don't tell them that anymore. There are dragons. There are 
+fire-breathing, evil dragons that inhabit this world. But I tell them 
+don't be afraid, because for every dragon that is out there, there are 
+10 knights in shining armor that will go forth and suffer great 
+hardship to protect you. And I've seen them, and I've worked with them 
+and they're called United States Marines. So be positive. I will be 
+positive, Sheila, and I will be thankful and humbled that you asked me 
+to speak tonight. And I will forever thank God Almighty for Andy and 
+all the warriors like Andy, and your amazing family, and this blessed 
+land.
+  Mr. SERRANO. Mr. Speaker, I rise today to talk about Iraq, a failure 
+built on the lies of this Administration.
+  I am opposed to H. Res. 861, because contrary to what it states in 
+this resolution, I believe that it is in the best interest of the 
+United States to bring our troops home now.
+  I voted against our involvement in Iraq, and I have opposed funding 
+the conflict. For years, I have been calling for the return of our 
+soldiers. This war has been a mistake, and our continued participation 
+will not change this basic fact.
+  I have the utmost respect for our former Secretary of State Colin 
+Powell. He was a truly outstanding Secretary of State: However, I will 
+never forget how this great American was sent to the United Nations to 
+sell a fabrication and to convince the world that this was a just 
+endeavor with what we all now know was deliberately falsified evidence. 
+This was just one part of a continuous effort to deceive the American 
+public into believing that a conflict, that even many in our military 
+had misgivings about, was the right thing for our nation to do.
+  The image of our President standing on the aircraft carrier and 
+proclaiming ``mission accomplished'' is one that I continue to 
+associate with this failed effort. Since that fabricated public 
+relations moment, both our nation and the nation of Iraq have suffered 
+great personal loss.
+  The American public no longer supports our involvement in Iraq, and 
+we as their representatives, must respect their wishes and bring our 
+troops home.
+  I am saddened and heartbroken when I think about how many brave young 
+men and women have died in this conflict that was never in our nation's 
+interest. Many of these courageous young soldiers who have lost'' their 
+lives came from the Bronx, from my own community, and so it is partly 
+on their behalf that I believe I am now speaking. Too many American 
+soldiers have died, too many innocent Iraqi civilians have suffered and 
+lost their lives, and too many reporters have been killed--all as a 
+result of this failed policy.
+  As I thought about what I wanted to say on the floor today, I went 
+back to the remarks that I spoke on this floor on October 9, 2002, when 
+this House was voting on the authorization for the use of military 
+force against Iraq. At that time I certainly couldn't anticipate what 
+the conditions would be now in June of 2006. However, I said at the 
+time, ``When we engage as a nation in a unilateral military action 
+against an Arab Nation, an action that our allies are cautioning 
+against, how will the United States be viewed in the Arab world? 
+Perhaps the result will be an increase in Al Qaeda 's membership and a 
+renewed hatred toward Americans.'' I think that this has come true and 
+that our image as a nation has certainly been tarnished as a result of 
+this conflict. I regret that--because I know that we live in a nation 
+that does not want to be seen as an enemy by those who live in Arab 
+nations.
+  What has also come true is that Al Qaeda continues to flourish and to 
+find new recruits as a direct result of our nation's actions in Iraq. 
+Although Al Qaeda had at most a negligible presence in Iraq before this 
+conflict, it is now a well established force there. For every terrorist 
+that our nation works so hard to capture, another one is motivated to 
+join out of hate for our nation's involvement in Iraq.
+  This conflict has resulted in worldwide images that I doubt our 
+nation can ever overcome. The pictures associated with the Abu Ghraib 
+prison scandal are firmly etched on the minds of our next generation of 
+youth around the world. Although soldiers of low rank were prosecuted 
+for these atrocities, our leaders at the top never took responsibility.
+  Now an investigation is being conducted into our activities at 
+Haditha, where it seems as though innocent civilians died. These 
+actions are all a direct result of a failed policy and have come at 
+great cost to our image in the world. No longer do nations look at us 
+as the ultimate protector of human rights.
+  As everyone here knows, I am a part of the city that was a target on 
+September 11th. When this Congress was debating the resolution on the 
+use of force against Iraq, I did not believe at the time that in 
+attacking Iraq our country was taking the right course, and I didn't 
+know what words to use that would change the step towards war that our 
+nation seemed so determined to take. I was filled with emotion and I 
+ended my speech that night by saying, ``I cannot agree with the course 
+that our great nation is embarking on, one that brings the threat of 
+war closer and the goal of peace further away.''
+  So now once again we in Congress are debating this war. However, now 
+we have the perspective of time and we can look at all that happened in 
+Iraq, the suffering and the failures, as an unfortunate part of our 
+nation's history. As I once again struggle to find the words that can 
+bring this conflict to an end--I am again filled with emotion. Let us 
+bring our brave American soldiers home now and let us once again 
+embrace the goal of peace.
+  Mr. WU. Mr. Speaker, we are fighting a war on terror, a war we did 
+not start or choose. But to use that war as either justification for a 
+war in Iraq, or a reason for staying, is wrong.
+  A lesson I've learned in life is you finish what you start. This 
+Administration took us off-track from the war on terror and chose the 
+war in Iraq. The torch of the war on terror should, and shall be, 
+passed to future generations, but the war in Iraq was started by this 
+Administration and should be finished by this Administration.
+  This Administration decided to launch the Iraq war based on, at best, 
+shaky intelligence. Until that time, this country had historically set 
+a high threshold in its decisions to go to war. We have done so because 
+outcomes are sometimes uncertain, and the cost in human lives is 
+frequently high.
+  We who question this Administration's decisions have faced the charge 
+that to be candid about this war would upset military morale or even be 
+unpatriotic. Now is the time for this President to be honest and 
+forthright with the American people about its ill-conceived war. In 
+candor, the Administration should say to the American people that no 
+matter what course we choose now, the future in Iraq will be bloody and 
+costly.
+  That is why democracies enter war as a last resort, with solid 
+evidence and a united nation.
+  I have listened to our generals about their view of the future. 
+General Casey has personally said to me that he needs until the summer 
+of 2007 to fully train Iraqi forces. I am willing to allow General 
+Casey the time to complete this task, but we should begin an immediate 
+redeployment of troops.
+  General Casey's projection might place Iraq on a course to embrace a 
+self-governing democracy. However, the single most important action the 
+newly elected Iraqi government can take to give that government 
+legitimacy, is to ask Americans to leave and have Iraqis fight for 
+Iraqis rather than have Americans fight for Iraqis.
+  Seldom mentioned these days is our original mission in Afghanistan, 
+the frontline of the real war on terror. We still have time for a 
+complete success, but unfortunately we now do not have adequate 
+resources in Afghanistan. In order to win, the immediate redeployment 
+of troops from Iraq must include sending some troops to Afghanistan as 
+well as bringing some directly home from Iraq. It is time to return our 
+attention and resources to hunting down Osama Bin Laden and ensuring 
+Afghanistan does not again become a breeding ground for terrorism.
+  A little over sixty years ago, we fought a great war after Pearl 
+Harbor. By this Thanksgiving, the Iraq war will have lasted longer than 
+World War II. 4 long years ago many in
+
+[[Page H4120]]
+
+this Chamber voted to go to war in Iraq. How many would do so today, 
+knowing they are committing us to a war longer than World War II?
+  Let us commit to a final push for an end to the bloodshed and 
+violence in Iraq. Let us return to our original mission to fight the 
+global war on terror that this Administration sidelined in Iraq.
+  I support our troops in Iraq. I support them all the way home--soon.
+  Mr. HIGGINS. Mr. Speaker, while the war in Iraq has been grossly 
+mismanaged, the United States has a moral obligation to the 2,500 
+American military men and women who have given their lives in the fight 
+for freedom to allow the newly established government to develop, 
+stabilize, and to provide for that nation's people.
+  Perhaps the current Administration does not want to openly discuss 
+Iraq policy because they feel it is a black and white issue, either we 
+stay the course or we withdraw our troops. I disagree; I believe that 
+the war in Iraq is anything but black and white. Immediate troop 
+withdrawal would result in an Iraq so destabilized that our homeland 
+security would be more threatened than before the war even began. 
+Staying the course would be equally senseless, as the course we are 
+currently on has done nothing to stabilize Iraq, nor has it quelled the 
+raging insurgency.
+  We recently passed the third anniversary of the date when President 
+Bush declared ``mission accomplished'' regarding Iraq. What we have 
+really accomplished in Iraq is yet to be seen, what is clear is that we 
+need to change our course. We must set a new path towards a unified 
+Iraq with a realistic exit strategy for our troops. We must disarm 
+militias. We must help the new government provide electric power and 
+economic and social services. We must convey to the Iraqis how 
+important it is to the United States that they come together 
+politically and make necessary amendments to their Constitution to 
+achieve functional unity, we must make them see that whether or not a 
+peaceful, democratic Iraq can succeed is ultimately in their hands. If 
+we allow the Iraqis to think that we will be in Iraq indefinitely, 
+there is no incentive for them to make the compromises necessary to 
+unite their country under one stable government.
+  The outcome in Iraq will have a major impact both in the region and 
+on our security here at home for decades to come. We cannot move 
+forward in Iraq without a full debate about the war here at home, 
+without an end to the level of secrecy that the administration and the 
+Department of Defense have built up regarding the war, without an end 
+to the corruption in contracting and profiteering, and without a real 
+plan from the President that sets specific goals, achieves them, and 
+then provides our troops a way out, an exit strategy.
+  I intend to support the resolution on the House floor today because I 
+agree that we cannot simply pull out and leave Iraq; to do so would 
+make that region less stable, less peaceful, and more of a threat to 
+U.S. security. We must prevail in the War on Terror; but let me be 
+clear, I do not support staying the course in Iraq.
+  I will continue to push the Administration and the military to 
+develop a clear plan for Iraq, based on the creation of a national 
+unity government, that will require the new government to live up to 
+its commitments, transfer responsibility for Iraq to Iraqis, and that 
+will bring our troops home as soon as possible.
+  Mr. PORTER. Mr. Speaker, I rise today to recognize the brave men and 
+women of our Armed Forces for their service and dedication to winning 
+the Global War on Terror.
+  On September 11, 2001 a group of 19 hijackers commandeered 4 
+commercial aircraft and crashed them into the World Trade Center in New 
+York City and the Pentagon in Washington, D.C., with the intent on 
+destroying our economy and way of life. Over 3,052 innocent men, women, 
+and children lost their lives in this unprecedented attack. Sadly, the 
+events that transpired on September 11th were the result of years of 
+training and preparation by an enemy that does not value human life, 
+liberty, equality, or religious freedom.
+  Our great Nation lost 473 American lives both civilian and military 
+to the hands of terrorist from 1983 to 2001 for a total of 3,525 
+victims. With each passing decade our enemies have become more 
+sophisticated and desperate to accomplish their aims of a global jihad. 
+Individuals such as, Osama bin Laden, the founder of al Qaeda, have 
+declared war on the Untied States and created worldwide networks of 
+hate to accomplish their aims.
+  On several occasions, bin Laden has explained, that it should be 
+every jihadists mission to obtain nuclear weapons and use them against 
+the United States and its allies. The last 26 years have taught us that 
+we must remain diligent and take every opportunity possible to find and 
+destroy these ruthless killers wherever they reside. In order to 
+accomplish this mission, the brave men and women of America's Armed 
+Forces have answered the call with honor and an intense dedication to 
+the mission of preserving our way of life.
+  One of our most important responsibilities as members of Congress is 
+to make sure our troops have every resource they need while advancing 
+democracy overseas. By visiting these heroes where they serve, we're 
+able to get a much better understanding of what we can do to make their 
+jobs as safe as possible. With this in mind, I decided to lead a 
+Congressional delegation to the Middle East that traveled to Kuwait, 
+Iraq, Pakistan, Afghanistan and Germany.
+  The leaders of these nations understood the importance of ensuring 
+that we remain vigilant in fighting the Global War on Terror and 
+expressed confidence in the abilities of the coalition forces. In Iraq, 
+Kuwait, and Germany I had the special privilege of visiting with 
+members of our Armed Forces and I found their moral to be high and 
+their dedication to the cause unyielding. Soldiers like Sgt. Mark 
+Gregory, Thomas W.. Rigaey, 1st Lt. Marathana Loddy, Lt. Mike Schilling 
+and Staff Sgt. Leonard Campbe1.Vall from my home state of Nevada 
+expressed their determination to see the mission through and understood 
+that it will take time to achieve.
+  Since toppling Saddam Hussein's ruthless government, the people of 
+Iraq have created a 275 member parliament, confirmed the selection of 
+the top seven posts for a national unity government, and laid a 
+foundation for democracy. Now more than ever we must stay the course 
+and support our Iraqi friends as they continue to strengthen the 
+infrastructure of their government.
+  Last week on June 7, 2006 Coalition forces killed Abu Musab al-
+Zarqawi and his top lieutenant and spiritual advisor Sheik Abd aI-
+Rahman. Zarqawi was the operational commander of the terrorist movement 
+in Iraq and was personally responsible for the deaths of many American 
+forces and thousands of innocent Iraqis. The killing of Zarqawi is a 
+testament to the notion that we must stay the course and remain 
+committed to the mission and the Iraqi people.
+  Mr. Speaker, it is with great pride and heartfelt gratitude that I 
+salute the men and women of our Armed Forces and thank them for their 
+service and dedication to our great nation.
+  Mr. CLAY. Mr. Speaker, as a member of the out of Iraq Caucus I rise 
+in opposition to this resolution. We would not even be debating this 
+bill if the American people were not disillusioned by this war and did 
+not want to bring our troops home.
+  I was among those who opposed the tragic decision to launch this war. 
+I warned that the invasion and occupation of Iraq would plunge us into 
+a bloody quagmire of violence that would only intensify the instability 
+in the Middle East and leave this nation less secure and less able to 
+protect our own national interests.
+  The sad truth is that all the grimmest predictions have now come true 
+and today--
+  The Taliban are mounting a major comeback in Afghanistan;
+  Iran is on the verge of producing a nuclear weapon;
+  Somalia is dominated by an al Queda-inspired militia;
+  And, here at home, our Nation is at risk. The fundamental 
+recommendations of the 911 Commission are still waiting.
+  Those who still support the Iraq war often claim it has made this 
+Nation a safer place. That it has kept away the terrorists and stopped 
+another 911 tragedy. Unfortunately, such wishful thinking is only a way 
+to justify the horrendous human suffering that we have caused by our 
+misguided mission, an effort to justify a war that was never properly 
+planned and executed and that has wounded thousands and cost the lives 
+of two thousand five hundred American soldiers.
+  The toll of this war is still climbing and throughout the world 
+terrorism is on the rise.
+  The administration talks a lot about National security but those in 
+Congress knows the war in Iraq has not made America a safer nation.
+  We are appropriating millions and millions of dollars, at a time of 
+skyrocketing Federal deficits, to fortify security in the U.S. Capitol 
+Complex and at all other Federal facilities across this Nation. If 
+Members of Congress believed this Nation is safer than it was before we 
+captured Saddam Hussein, then why would we allow a single lost airplane 
+to trigger the evacuation of the U.S. Capitol? Why does a single 
+suspicious noise cause the lock down of the house office buildings? And 
+just yesterday, why did the leadership of Congress upgrade our supplies 
+of escape hoods?
+  No one in the leadership of Congress is behaving like we have 
+diminished the terrorist threat. We know the war has made U.S. more 
+vulnerable to terrorism.
+  Our National security is still in danger. Democracy is not 
+flourishing in the Middle East. It is time to bring our troops home and 
+to devote our resources to our own national security.
+  I commend my courageous colleague, Mr. Murtha who has displayed 
+tremendous patriotism on the battlefield, and in this chamber.
+
+[[Page H4121]]
+
+I support his call to implement a strategic redeployment from Iraq and 
+implore the Members of this body to have the good sense to listen to 
+the people of this Nation and to support the call to redeploy our U.S. 
+troops in Iraq.
+  Mr. BACA. Mr. Speaker, today I rise to express my concerns over the 
+Bush administration's mismanagement of the war in Iraq.
+  First and foremost, I am disappointed that the President still 
+refuses to put forward a strategy for a successful transition in Iraq 
+and a timetable for the withdrawal of American troops.
+  Almost 2,500 of America's military personnel have lost their lives in 
+this conflict, and thousands more of our troops have been injured and 
+disabled. Among the most recent casualties was a young man from my 
+district and hometown of Rialto, California. U.S. Army Spc. Luis Daniel 
+Santos was just 20 years old and due to come home to his loving 
+family--his parents Irma and Carlos and siblings Carlos Jr., Amy and 
+Eric--next week. Luis was engaged to his sweetheart from Fontana High 
+School and was looking forward to a family barbeque his mother was 
+preparing for him. Tragically, he was killed one week ago in a roadside 
+bombing while maneuvering his Humvee in combat.
+  I offer my condolences to the Santos family and join in mourning the 
+death of this patriotic young man.
+  Military families especially, and Americans generally, understand the 
+sacrifice that service entails and the dangers involved. And we are 
+united in supporting our troops and honoring their sacrifice.
+  However, the American public has lost confidence in President Bush's 
+leadership. The President has chosen to risk the lives of our Armed 
+Forces without providing a coherent exit strategy, a realistic 
+timetable, or the equipment required to complete the mission.
+  The American people want--and our military forces deserve--a clear 
+plan for completing the Iraq transition and bringing our troops home!
+  As if the loss of life weren't overwhelming enough, the war in Iraq 
+has cost American taxpayers more than 300 billion dollars. Americans 
+have other needs and priorities, and 300 billion dollars could help 
+solve some of the challenges we have here at home. That same money 
+could have paid for 5 million additional teachers in our schools, or 14 
+million four-year college scholarships, or 2.5 million new affordable 
+housing units across the country. Think about how much money that is 
+and how much of a difference it could have made for working families 
+like those I represent in San Bernardino County, California.
+  So I reiterate my call for the Bush administration to plan for an 
+orderly withdrawal of American forces in Iraq. We must begin to 
+transfer security responsibilities to the Iraqi people and allow the 
+international community to step in and help.
+  Our brave men and women in the Armed Forces have sacrificed enough. 
+They have completed their mission and accomplished what was needed. 
+Their families have waited for them long enough. Now it is time to 
+bring our troops home.
+  Mr. Speaker, American forces are at great risk as they remain in Iraq 
+without a clear objective. Their mission was to be a liberating force, 
+not an occupation force. We cannot allow our troops to become targets 
+of resentment and terrorism while the administration tries to figure 
+out a plan.
+  American forces in Iraq have gone above and beyond the call of duty. 
+Their heroism and compassion in the most trying of circumstances 
+require us to act in their best interest. Despite inadequate equipment, 
+despite shifting priorities, despite sweltering heat, our military has 
+delivered time and again. The recent success in removing the threat 
+posed by terrorist al-Zarqawi is a testament to their tenacity and grit 
+in the field.
+  But the President must not take their commitment for granted and 
+cannot expect them to serve indefinitely. Military forces in Iraq 
+already are serving longer and longer deployments and a high percentage 
+of returning troops are falling prey to mental health disorders and 
+financial difficulty. We need a real solution, Mr. Speaker.
+  I stand with my Democratic colleagues in asking the President to 
+provide a real solution for peace and security in Iraq and ask my 
+colleagues in Congress to recommit themselves to providing adequate 
+funding for our Armed Forces, both at home and abroad, and our 
+veterans.
+  Mr. WHITFIELD. Mr. Speaker, I rise in support of House Resolution 
+861. Today's debate is about more than just the nations of Iraq and 
+Afghanistan, this debate is about freedom and democracy worldwide and 
+the fight against terror and injustice. Our great nation is doing what 
+we have always done--fighting for the values we hold dear and helping 
+to spread those values to other nations. We also have a choice to make; 
+do we want to fight the terrorists in the streets of America or in Iraq 
+and Afghanistan where al-Qaida has claimed as its battle ground to kill 
+Americans?
+  The Global War on Terror hits home for me because I have the distinct 
+privilege of representing the brave men and women stationed at Fort 
+Campbell, Kentucky. These courageous Americans have been leading the 
+way in the Global War on Terror since September 11, 2001. In 
+Afghanistan, these soldiers liberated the country from the oppressive 
+Taliban regime. They helped stabilize the country and their efforts as 
+well as those of other units laid the foundation for the democratic 
+elections of Afghanistan's president, parliament, and provincial 
+councils.
+  In Iraq, the 101st was deployed before the war began in 2003 and were 
+instrumental in the success of dismantling the regime of the criminal 
+dictator Saddam Hussein. They were also responsible for the location 
+and death of Saddam's two sons. They liberated and rebuilt the town of 
+Mosel, including the reconstruction of the city's infrastructure. The 
+101st is now on its second deployment to Iraq and is involved in the 
+securing of the city of Ramadi where some of the most violent fighting 
+in Iraq still exists. I have personally met with many of the soldiers 
+that have been involved in this fight and they have my utmost 
+admiration and respect. After meeting with the soldiers of Fort 
+Campbell, I am convinced that they understand what they are fighting 
+for in Iraq and are committed to the very end in order to preserve the 
+democracy we have helped create and to ensure the safety of the Iraqi 
+people.
+  One of the largest newspapers in my state, the Louisville Courier-
+Journal recently published an article entitled ``Wounded soldiers 
+refuse to leave Iraq.'' I'd like to share a couple of stories from that 
+article about soldiers from Fort Campbell who are completely committed 
+to their mission in the Global War on Terror:
+
+              [From the Louisville Courier-Journal] S0634
+
+       Specialist Steven Clark from Fitzgerald, Georgia is a 
+     soldier in the 502nd Infantry Regiment of the 101st Airborne. 
+     He is a 25 year old young man with more courage than people 
+     twice his age. In his time in Iraq, he has been shot three 
+     times and has been wounded by shrapnel from a grenade that 
+     tore into his legs and back. He has been awarded three Purple 
+     Hearts, with another on the way, as well as a Bronze Star 
+     with Valor. His Army buddies have nicknamed him ``Bullet 
+     Magnet.'' You may ask why he is still in Iraq and the answer 
+     is because he wants to be. He says that his wounds are not as 
+     important as the mission and he insists on staying.
+       Lieutenant Colonel Thomas Kunk is a commander in the 502nd 
+     Infantry Regiment. One of his duties as an officer is to 
+     decide which of his wounded soldiers can return to duty and 
+     which soldiers get to go home. He says this task is tougher 
+     than it should be because his soldiers research Army 
+     Regulations and argue endlessly in an effort to stay. Colonel 
+     Kunk's story doesn't end there, he was caught in the effects 
+     of a roadside bomb that damaged the nerves and muscles in his 
+     legs causing his legs to swell and throb from pain by the end 
+     of every day. But Colonel Kunk wouldn't think of leaving, he 
+     says he's a father and a grandfather and he wants to do right 
+     by them. So Colonel Kunk stays and he fights because he knows 
+     it's the right thing to do.
+
+  Specialist Clark and Lieutenant Colonel Kunk's commitment is without 
+compromise and their dedication to duty should be commended. Their 
+stories are unique, but their actions are not.
+  There are many soldiers that refuse to leave when they have incurred 
+wounds that would allow them to come home. These service members 
+understand what they are fighting for and they stay to see the mission 
+through to the end.
+  Mr. Speaker, this Congress should follow the example of our men and 
+women in uniform and stay committed to completing our mission and 
+winning the Global War on Terror. If our soldiers, like Specialist 
+Clark and Lieutenant Colonel Kunk, can make the commitment to stay then 
+we owe it to them to provide our support to stay and get the mission 
+done, to do otherwise would undermine our soldiers' efforts.
+  Mr. STARK. Mr. Speaker, I rise today in opposition to this simple-
+minded resolution. President Bush and Republicans in Congress would 
+have you believe that the War on Terror and the War in Iraq are one and 
+the same. But terrorism is not exclusive to a geographic or political 
+entity.
+  Terrorism is the result of an accidental or intentional trauma 
+inflicted on humanity. Numerous examples exist within our own borders.
+  My son is terrorized by the threat of destruction posed by the 
+ignorance, of President Bush in his steadfast opposition to addressing 
+the very real threat of global warming.
+  Parents are terrorized by the lack of treatment for children born 
+with diabetes, leukemia, and multiple sclerosis. Yet right-wing 
+evangelical Pharisees dictate prohibitions on stem cell research that 
+could cure these and other diseases, saving lives.
+  Middle-class Americans are terrorized by the outsourcing of jobs. 
+elimination of pensions and health benefits, and expansion of
+
+[[Page H4122]]
+
+predatory lending. The U.S. Chamber of Commerce promotes these 
+terrifying practices, driving working families to fear for their 
+financial future.
+  All Americans are terrorized by more than 30,000 handgun deaths each 
+year. This trauma is condoned and promoted by the National Rifle 
+Association, a bipartisan terrorist organization.
+  Our brave servicemen and women in uniform are terrorized by the Iraqi 
+insurgency and civil war. Though 2,500 American soldiers and countless 
+Iraqi citizens have died, the right wing noise machine encourages 
+additional deaths by coloring as pro-terrorist those of us who dare to 
+acknowledge the futility of the President's War in Iraq.
+  Terrorism is a very real threat, but it comes in many forms other 
+than those found in Iraq and, as I've outlined here today, we are doing 
+precious little to combat it in America.
+  I urge my colleagues to oppose this resolution and to join me in a 
+call to redirect our attention, our federal dollars, and our lives to 
+our needs here at home.
+  Mr. HONDA. Mr. Speaker, we are on the floor today debating a most 
+serious issue. However, rather than truly addressing solutions, the 
+resolution before us is filled with platitudes which seek to vindicate 
+the ill advised policies of the President's war on Iraq. Rather than 
+allowing a meaningful and constructive debate on Iraq, the Republican 
+Leadership decided not to allow any amendments to their resolution. It 
+is a travesty that the elected representatives of the American people 
+are prevented today from offering policy alternatives that might 
+actually affect the shape of U.S. policy in Iraq.
+  This debate had the potential to mark a turning point to the current 
+vacuum of congressional oversight over the Bush Administration as it 
+pursues its misguided and incompetently planned war in Iraq. Rather 
+than offering real solutions, the Republican Majority in Congress has 
+decided to rubber stamp the President's campaign in Iraq.
+  The American people know what has happened, and demand more than just 
+a rubber stamp from their representatives in Congress. Just as in the 
+case of Vietnam, they see a White House which misled our country into 
+war. Using shoddy evidence and insinuations about the connections 
+between Iraq and al Qaeda, the Bush Administration took our country to 
+war to face the ``imminent threat'' of an Iraq with nuclear weapons.
+  Despite claims by the Republicans and the Bush Administration, there 
+was no significant relationship between Iraq and al Qaeda. Iraq had no 
+weapons of mass destruction, a fact which Hans Blix, the head of the UN 
+weapons inspection team, recently stated would have become clear had 
+President Bush not ignored our allies' requests that we give the 
+inspectors a few more months before invading. After its claims about 
+the weapons of mass destruction were proven to be incorrect, the 
+Administration has continually shifted its rationale for the invasion.
+  As though it were not bad enough that we went into a war in an 
+incompetent and deceptive manner, it is unforgivable that our troops 
+were sent into this war without adequate planning and equipment. Our 
+troops are out there putting their lives on the line, yet the President 
+decided to follow the advice of misguided ideologues in overruling the 
+plans developed by experts before the war. One former commander of U.S. 
+Central command, General Anthony Zinni, said that ``ten years worth of 
+planning were thrown away; troop levels dismissed out of hand . . . 
+these were not tactical mistakes, these were strategic mistakes, 
+mistakes of policy made back here.''
+  There are better ways to support our troops than to send more of them 
+to their death in a poorly planned war. It's time to shift our approach 
+from the ineffectual policies of a President who only listens to 
+advisors with pre-determined hawkish mindsets. As a member of the Out 
+of Iraq Caucus, I stand with my colleagues in urging Congress to 
+urgently re-evaluate the failed policies of the President. 
+Representative Jack Murtha has drafted a resolution that encourages the 
+Iraqi people to take charge of their own security and lays the 
+groundwork for bringing our troops home.
+  These are the sort of options we should be debating today if we truly 
+want to demonstrate our support for our troops. Instead, the Republican 
+Leadership has put forth this political ploy. Congress should fulfill 
+their Constitutional responsibility to exercise oversight instead of 
+continuing to place blind faith in the President as he pursues the war 
+in Iraq.
+  Therefore, Mr. Speaker, I do not support this shameful attempt to 
+provide an illusion of oversight.
+  Mr. MARCHANT. Mr. Speaker, America and its allies are engaged in a 
+war against a terrorist movement that spans all comers of the globe. It 
+is sparked by radical ideologues that breed hatred, oppression, and 
+violence against all of their declared enemies. Since September 11, 
+2001, the powerful coalition of nations, led by the United States, has 
+seen many successes against al-Qaeda and other terrorist groups. It is 
+imperative that we remain united and steadfast in the quest to defeat 
+terrorism around the world.
+  Last year I traveled to the Middle East to visit with troops in 
+Kuwait, Iraq, and Afghanistan. I came away with several observations:
+  First, morale of the troops is HIGH. They are confident of the 
+progress they have made in the mission to spread freedom and democracy 
+in the Middle East. Not ONE serviceman or woman I encountered had any 
+doubts about the purpose and importance of his or her presence there. 
+The troops are positive and appreciative of all of the support they 
+received from back home.
+  Their confidence in their mission is well-justified. Since my visit, 
+the Iraqis have ratified a new constitution and installed a new, strong 
+Prime Minister, Nuri AI-Maliki. And now the latest milestone: Abu Musab 
+al-Zarqawi, al Qaeda's leader in Iraq, was killed in an air raid last 
+week.
+  Mr. Speaker, as I sat in a tent in Kuwait eating dinner with troops 
+from Texas, I was struck by how young most of them were. Those soldiers 
+with me were 18-20 years old. Their experiences and their stories 
+humbled me. Never in my life have I felt such emotion and love for our 
+service men and women than when I sat and looked at these brave young 
+soldiers. Barely out of high school, yet each day these heroes awaken 
+knowing of the perils that lie ahead. Danger awaits them, but they 
+continue to make a great sacrifice each day so that you and I can be 
+free.
+  I sometimes feel that we Americans take our freedoms and our lives 
+for granted. We forget the images of 9/11. Yet while on my trip to the 
+Middle East, the London bombings occurred. This was yet another stark 
+reminder that if we don't fight terrorists abroad, they just get closer 
+to our home.
+  Mr. Speaker, the War on Terror is a global effort; it reaches beyond 
+a small concentration of countries in the Middle East. I'd like to 
+share the story of Marine Staff Sergeant Nathan Fletcher. Sergeant 
+Fletcher's wife, Mindy, lived in Dallas and also worked for another war 
+hero, my fellow Texas Congressman Sam Johnson, on Capitol Hill. He is 
+currently experiencing his third extended separation from Mindy since 
+they married a few years ago and the start of the war on terrorism.
+
+  Sergeant Fletcher is serving in a very remote region in the Horn of 
+Africa. He is part of a Combined Joint Task Force focused on defeating 
+transnational terrorist groups operating in the region. Sergeant 
+Fletcher and his fellow troops in Africa lack amenities like running 
+water, reliable power, and air conditioning. There is no internet, 
+television, or even paved roads. Because they are so far away from the 
+main camp they eat off the local economy. There are no fruits or 
+vegetables where he is based, and so far he has eaten camel, goat, 
+lamb, beef, and a couple things he could not identify. They cook their 
+meals over an open fire and sleep outside every night.
+  Sergeant Fletcher's wife writes, ``His team is doing well and I know 
+they are working very long hours. I can't imagine going 40 days without 
+running water in temperatures over 100 degrees without air 
+conditioning, but I know Nathan and other servicemen and women do it 
+every day.'' She continues, ``Iraq and Afghanistan get most of the 
+focus, but our troops are fighting the global war on terror throughout 
+the world. I am really proud that he is part of making sure al-Qaeda 
+and other terrorists aren't able to expand into another part of the 
+world.''
+  Mr. Speaker, Sergeant Fletcher and the millions of other troops 
+fighting the War on Terror around the world believe in what they're 
+doing. They don't want to stop. They know their mission is right. We 
+owe it to them to see this campaign for democracy through until we are 
+completely victorious.
+  Mindy no doubt wishes that Nathan was at home with her. Nathan no 
+doubt wishes he was at home sitting in the air conditioning and eating 
+a t-bone steak rather than camel steak. Yet they both know the reasons 
+and the importance of the mission.
+  Mr. Speaker, Sergeant Fletcher is enduring these harsh conditions for 
+our freedom. Make no mistake--this mission is not only justified, it is 
+essential. Let us never forget the Pearl Harbors, the attacks of 9/11. 
+Let us never forget the freedom we have. Let us never forget the 
+Sergeant Fletchers and the sacrifices they make for us.
+  Mr. Speaker, we must not lay down our arms now. We must press on, for 
+freedom, for peace.
+  Mr. HOLT. Mr. Speaker, I salute Congressman Murtha and I salute the 
+servicemen and women in the field, at Walter Reed Army Medical Center, 
+and those waiting to serve.
+  I rise today to oppose the resolution before us today because it does 
+nothing to ensure a more stable and secure Iraq nor does it do anything 
+to bring our troops home from Iraq.
+  My constituents have asked me when Congress will get serious and have 
+an open discussion about our future plans and polices in
+
+[[Page H4123]]
+
+Iraq. Today, we begin to answer their calls. But we cannot stop today. 
+We should debate the war in Iraq everyday on the House floor.
+  Yet rather than seriously and substantially debating the issues at 
+hand, the Majority has presented self-congratulatory resolutions that 
+intentionally seek to divide the House. Today is no exception.
+  Earlier today, I meet with a group of 7th and 8th graders from my 
+Central New Jersey district. I asked them what I should say to put the 
+Iraq War in perspective. The students offered a number of observations. 
+One said that too many lives have been lost already. Another said that 
+the reasons for going to war were wrong, maybe even deceptive. A third 
+said that the Iraqi people are worse-off today.
+  They are right. Ther longer U.S. troops remain in Iraq the worse the 
+conditions on the ground get for the Iraqi people.
+  I spoke with Senator Byrd (D-WV) the other day, who was here for the 
+deceptive Gulf of Tonkin Resolution. He says that is one vote he would 
+like to take back. I am not saying that Iraq is another Vietnam, 
+because the two are different. But we should ask ourselves how will 
+posterity regard Congress for giving President Bush everything he asked 
+for without any oversight or accountability.
+  The shifting rationales for the war in Iraq have led to the lack of a 
+clear understanding of why we are there, or how we achieve victory. Our 
+mission cannot be accomplished because there is no clear mission. There 
+have been a number of rotating rationales offered for the war. One was 
+Weapons of Mass Destruction and the threat of a terrorist attack on one 
+of our cities. Then it was Saddam's human rights abuses. Another was 
+the argument that the United Nation's disarmament and containment 
+efforts were not working and that UN resolutions were being violated. 
+Then it was to stand up a democracy to be emulated across the Middle 
+East. Another was to protect America's strategic oil interest in the 
+region. And as we have heard over and over today, it was to fight 
+terrorism and a response to the terrible attacks on September 11th.
+  No it is not about Khobar Towers, or the USS Cole or even the 
+terrible attacks on the World Trade Center. Today's debate is about 
+Iraq, and this is a resolution that says ``stay the course.''
+  This is all classic misdirection. We need to remember that there were 
+no terrorists in Iraq involved in the September 11th attacks. In fact, 
+there were no terrorists threatening us from Iraq before we invaded. 
+The War in Iraq is not about terrorism, except to the extent that Iraq 
+has become a haven and a training ground for terrorists.
+  We must also recognize that our country was propelled into the 
+conflict under false pretenses. That has implications not only for how 
+we got into Iraq, but for why we need to get out, and how we should 
+view future claims of threats to America based on questionable 
+intelligence and even more questionable assumptions.
+  The war in Iraq has warped American priorities, and cost us dearly in 
+terms of lives, money, and lost opportunities for progress at home and 
+abroad. It has hurt our international standing and our ability to 
+counter terrorism abroad. Numerous powder kegs around the world, have 
+been ignored. Here at home, Hurricane Katrina crystallized for the 
+American people the fact that the President and this Congress were 
+willing to place our attention and resources in Iraq, at great cost to 
+our ability to help our own citizens here at home. This includes the 
+short-changing of homeland security measures for our ports, railroads, 
+and chemical plants. Repeatedly, Democrats have tried to get the 
+Congress to invest in these areas, and repeatedly we've been told there 
+is not enough money. And yet, we pay for the war in Iraq--to the tune 
+of $11 million per hour.
+  History will remember this war in Iraq as a colossal blunder. When we 
+leave Iraq--as I hope we will, starting immediately--no one will wish 
+that we'd stayed a little longer. No one will look back and think the 
+current course could have ever been successful.
+  To their credit, our troops have done everything we have asked them. 
+They are heroes. But we have placed them in the middle of a budding 
+civil war. The President's failed strategy has made their jobs 
+impossible, and his refusal to change course has continued to make them 
+targets on the ground.
+  It is time for a more sensible course of action in Iraq. Only a 
+negotiated settlement with broad international help will prevent civil 
+war between the Sunnis and Shiites. We need to ensure that we work 
+together with the community of nations and the United Nations to have 
+any hope for peace, security, and prosperity in Iraq. We have tried to 
+do this almost single handedly for too long and it is time to work with 
+the international community to reconstruct Iraq.
+
+  I have said for almost a year now that the United States must 
+redeploy our troops from Iraq. I am a cosponsor of Congressman Murtha's 
+legislation, H.J Res. 73, which would redeploy the current forces in 
+Iraq at the earliest practicable date. That is because the presence of 
+our troops, who are serving valiantly and ably, is improving neither 
+our security nor that of the Iraqis. In fact, our presence itself is 
+unifying Saddam Hussein loyalists, al Qaeda sympathizers, and many 
+civilians against us. Our presence is fueling the insurgency.
+  Redeploying our forces does not mean walking away from Iraq. Iraq's 
+security forces and government will need our continued moral, 
+political, intelligence and in some cases, financial support. But the 
+hard work of securing the country and building a new society is one 
+that only the Iraqis can do. Reducing and refining our military and 
+political presence in Iraq is the necessary first step in that process.
+  If we are to defend America and our allies from the global jihadist 
+threat, our continued presence in Iraq defeats that purpose. It has 
+been and remains a deadly and unnecessary misadventure that has 
+compromised our ability to advance our interests around the world and 
+at home to defeat the larger threat we face. To get back on course in 
+the global war against al Qaeda, we must change course in Iraq, and 
+now.
+  This war is simply not making us or the Iraqi people safer. The 
+generals understand that. A majority of Iraqis understand that. The 
+majority of the American people understand that. Seventh graders from 
+New Jersey understand it, as well. Let's begin our redeployment 
+immediately so that we can refocus our efforts where they belong: on 
+rallying the world to the cause of defeating Osama bin Laden and those 
+who follow him.
+  Mr. MARKEY. Mr. Speaker, I rise in opposition to this Resolution.
+  The Resolution before this House today engages in a rhetorical 
+fiction. The Republican Leadership has grafted into this Resolution 
+language which confuses the War in Iraq with the War Against Terror. 
+Iraq did not have anything to do with the September 11th attacks. We 
+did not invade Iraq because of 9-11. We invaded Iraq because the Bush 
+Administration convinced Congress and the American people that Saddam 
+Hussein had acquired nuclear weapons and other weapons of mass 
+destruction and might use them.
+  The terrorism now taking place in Iraq is the direct result of the 
+war, not its cause. To suggest otherwise is to ignore the facts.
+  The fact is, this war was a very bad mistake. The Administration 
+launched an invasion into Iraq in March of 2003 even though the 
+Administration knew from the reports it was getting back from the IAEA 
+and the UN inspectors that there where no nuclear or other WMDs at the 
+sites identified by the CIA, by British Intelligence, and by other 
+sources.
+  Now we are bogged down in a quagmire with no end in sight.
+  In February of this year, the President was asked when we could 
+expect all American troops to be out of Iraq, and he replied that this 
+was a decision for a future President and a future Iraqi government to 
+make. In other words, if we continue to pursue the Bush 
+Administration's policies, we will likely have troops deployed in Iraq 
+until at least January of 2009--that's nearly three years from now!
+  What has been the cost of this war in terms of blood?
+  2,500 U.S. troops killed.
+  More than 18,400 American troops wounded.
+  An estimated 38,000 Iraqi civilians killed.
+  What has been the cost of this war in terms of treasure?
+  Nearly $320 billion so far . . .
+  Just think of all the good we could have done in this world or in 
+this country if we had devoted $320 billion for health care, for 
+education, for fighting poverty or creating jobs.
+  What has been the cost in terms of America's influence around the 
+world?
+  It has been severely compromised.
+  We ``cried wolf' over non-existent Iraqi WMDs, over alleged 
+connections between Saddam Hussein and Al Qaeda;
+  We failed to deploy enough troops to suppress the insurgency;
+  We put inadequately trained troops in charge of Abu Ghraib prison;
+  It's time to pursue a new direction.
+  The Iraqis are standing up, but we are standing still, staying the 
+course. It is time to redeploy an increasing percentage of our forces 
+to an over-the-horizon presence, as the gentleman from Pennsylvania 
+(Mr. Murtha) has suggested in the legislation he introduced last year.
+  We should not be planning on maintaining any military bases in Iraq 
+or any long-term troop presence in that country.
+  It is time for us to bring this war to an end, and to bring our 
+troops home.
+  Vote NO on this resolution because it is as much a fraud as the 
+reasons the Bush Administration gave for invading Iraq in the first 
+place.
+  I urge defeat of the Resolution.
+  The SPEAKER pro tempore. Pursuant to House Resolution 868, further 
+proceedings on the resolution will be postponed.
+
+
+
+
+                          ____________________
+```
