@@ -1,0 +1,27 @@
+---
+granule: CREC-2006-06-19-pt1-PgS6047-3
+date: 2006-06-19
+edition: CREC
+section: SENATE
+page: S6047
+citation: 152 Cong. Rec. S6047
+---
+
+# MORNING BUSINESS
+
+**Speaking:** Warner, John (W000154) [R-VA]
+
+```
+                            MORNING BUSINESS
+
+  Mr. WARNER. Mr. President, unless there are other Members seeking 
+recognition, I know our distinguished colleague from New Mexico wishes 
+to speak, and we will continue in morning business with Senators 
+speaking up to 10 minutes each.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The Senate will be in a period of morning business with Senators 
+allowed to speak for up to 10 minutes each.
+  The Senator from New Mexico is recognized.
+
+                          ____________________
+```
