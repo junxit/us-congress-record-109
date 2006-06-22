@@ -1,0 +1,36 @@
+---
+granule: CREC-2006-06-22-pt1-PgS6425
+date: 2006-06-22
+edition: CREC
+section: SENATE
+page: S6425
+citation: 152 Cong. Rec. S6425
+---
+
+# Text of Senate Amendment 4483
+
+**Speaking:** Ensign, John (E000194) [R-NV]
+
+```
+  SA 4483. Mr. ENSIGN submitted an amendment intended to be proposed by 
+him to the bill S. 2766, to authorize appropriations for fiscal year 
+2007 for military activities of the Department of Defense, for military 
+construction, and for defense activities of the Department of Energy, 
+to prescribe personnel strengths for such fiscal year for the Armed 
+Forces, and for other purposes; which was ordered to lie on the table; 
+as follows:
+
+       In lieu of the matter proposed to be inserted, insert the 
+     following:
+
+     SEC. __. PROHIBITION OF FUNDING FOR THE UNITED NATIONS 
+                   DISARMAMENT COMMISSION.
+
+       None of the funds authorized or otherwise made available by 
+     this Act or by any other Act may be obligated or expended in 
+     connection with United States participation in, or support 
+     for, the activities of the United Nations Disarmament 
+     Commission as long as Iran serves as a vice-chair of the 
+     Commission.
+                                 ______
+```
