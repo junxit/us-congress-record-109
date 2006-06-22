@@ -1,0 +1,41 @@
+---
+granule: CRECB-2006-pt9-Pg12455
+date: 2006-06-22
+edition: CRECB
+section: SENATE
+page: 12455
+---
+
+# ADDITIONAL STATEMENTS
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+                       TRIBUTE TO BEVERLY McDAVID
+
+● Mr. BUNNING. Mr. President, today I pay tribute to Beverly 
+McDavid, a teacher from Elliott County High School in Sandy Hook, KY, 
+who is a recipient of the 2006 Disney Teacher Award. Ms. McDavid is 
+being recognized for her commitment to middle school science education. 
+Her ability to inspire her students with creative thinking and 
+innovative teaching methods has resulted in her achieving this 
+prestigious honor.
+  The Disney Teacher Awards celebrate teachers that enlighten the lives 
+of children by using creativity in the classroom to encourage them to 
+achieve more then they ever thought possible. Award winners are chosen 
+by their peers, which consist of leading educational associations from 
+around the United States and former Disney Teacher Honorees.
+  Ms. McDavid brings a unique educational experience to her classroom 
+by encouraging free thinking from her students. She also uses various 
+educational strategies to reach out to the diverse learning needs of 
+her students and encourages them to succeed. Her relentless dedication 
+has proven her a deserving recipient of this outstanding award.
+  I congratulate Ms. McDavid on being a recipient of the Disney Teacher 
+Award. Her love of teaching and devotion to her students make her an 
+example to all the citizens of the Commonwealth.●
+
+                          ____________________
+```
