@@ -1,0 +1,334 @@
+---
+granule: CREC-2006-06-28-pt1-PgS6635-2
+date: 2006-06-28
+edition: CREC
+section: SENATE
+page: S6635
+citation: 152 Cong. Rec. S6635
+---
+
+# Introductory Statement on S. 3588
+
+**Speaking:** Durbin, Richard J. (D000563) [D-IL]
+
+**Measures:** S. 3588
+
+```
+      By Mr. DURBIN (for himself and Ms. Mikulski):
+  S. 3588. A bill to amend the Public Health Service Act to authorize 
+capitation grants to increase the number of nursing faculty and 
+students, and for other purposes; to the Committee on Health, 
+Education, Labor, and Pensions.
+  Mr. DURBIN. Mr. President, I would request the Chair to inform me 
+when I have used 6 minutes of the 10 minutes I have requested.
+  We have a lot of bipartisan battles in the Senate. I am going to try 
+to bring an issue to the consideration of the Senate and to their 
+attention which I believe is very bipartisan. It affects the State of 
+Alaska, the State of North Dakota, the State of Illinois, and the State 
+of Maine. It affects us all. What I am speaking to is the shortage of 
+nurses in America.
+  We face a critical shortage of nurses. The U.S. Department of Health 
+and Human Services looked at all of the licensed nurses and found that 
+in the year 2000, this country was 110,000 nurses short of what was 
+necessary to provide adequate health care. By 2005, the shortage had 
+doubled to 219,000 nurses. By 2020, we will be more than 1 million 
+nurses short of what is necessary to maintain quality health care in 
+America.
+  To avoid this shortage which the Department of Health and Human 
+Services projects, we have to substantially increase the number of 
+nursing graduates and those entering the workforce each year. Just to 
+replace the nurses who are retiring, we need to increase student 
+enrollment by at least 40 percent. The baseline supply for nurses--as 
+you can see on this chart--in our country, for the current time and 
+through the year 2020, is on a steady downward flow, whereas demand 
+goes up dramatically. If we had 90 percent more nursing graduates, we 
+still would not reach the projected demand in America as baby boomers 
+reach the point where they need help and many others need quality 
+nursing.
+  The problem is that there are not enough teachers at schools of 
+nursing. That is what it comes down to. Last year, nursing schools 
+across America denied admission to 35,000 qualified students because 
+there just weren't enough teachers.
+  In my home State of Illinois, schools of nursing are denying 
+qualified students admittance because of the shortage of teachers. This 
+is an indication
+
+[[Page S6636]]
+
+here. These are B.A. and graduate nursing programs in Illinois. These 
+are the enrollees and these are the numbers turned away. As you can 
+see, from the year 2002 to the present time, we are up to 2000 
+potential nursing graduates who are turned away each year despite their 
+qualifications because, sadly, we can't keep up with teaching them.
+  The American Association of Colleges of Nursing surveyed more than 
+400 schools of nursing this last year. Two-thirds of the schools, 
+represented by the blue part of this pie chart--69 percent reported 
+vacancies on their faculty. An additional 15 percent said that they 
+were fully staffed but still needed more faculty.
+  Statistics paint a bleak picture for the availability of nursing 
+faculty now and into the future. Take a look at the age of full-time 
+nursing faculty across America. Unfortunately, that reflects an older 
+population now teaching in our nursing schools, soon to retire. The 
+median age of a doctoral-prepared nursing faculty member in America is 
+52. The average age of retirement for faculty is 62. It is expected 
+that 200 to 300 doctorally prepared faculty will be eligible for 
+retirement each year from 2005 to 2012, reducing even more the faculty 
+available to train the nurses we need.
+  We think help should be on the way, and it should start in the 
+Senate. Our leader on the Democratic side of the aisle is Senator 
+Barbara Mikulski of Maryland. She has been the strong voice for nurses 
+as long as she has served in the Senate. I am happy today to join her 
+in introducing the Nurse Education Expansion and Development Act. The 
+Act would provide schools of nursing with grants to hire and retain new 
+faculty, purchase educational equipment, enhance clinical laboratories 
+and expand and repair infrastructure. This bill would also require the 
+Government Accountability Office, the GAO, to report on ways to 
+increase participation in the nurse faculty profession.
+  Nurses care for our kids, our grandkids, our parents--people whom we 
+love. We know the difference they make in everyone's life and 
+increasingly we are noticing the difference when we do not have enough 
+nurses, these dedicated men and women, when we need them the most. We 
+must take deliberate action now to solve this critical health care 
+problem. I urge all my colleagues on both sides of the aisle to support 
+this Mikulski-Durbin legislation. I think this is an important step in 
+the direction toward quality health care for generations to come.
+  Mr. President, I ask unanimous consent that the text of the bill be 
+printed in the Record.
+  There being no objection, the text of the bill was ordered to be 
+printed in the Record, as follows:
+
+                                S. 3588
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Nurse Education, Expansion, 
+     and Development Act of 2006''.
+
+     SEC. 2. FINDINGS.
+
+       The Congress finds as follows:
+       (1) While the Nurse Reinvestment Act (Public Law 107-205) 
+     helped to increase applications to schools of nursing by 175 
+     percent, schools of nursing have been unable to accommodate 
+     the influx of interested students because they have an 
+     insufficient number of nurse educators. It is estimated 
+     that--
+       (A) in the 2005-2006 school year--
+       (i) 66 percent of schools of nursing had both 1 to 16 
+     vacant faculty positions and needed additional faculty; and
+       (ii) an additional 15.7 percent of schools of nursing 
+     needed additional faculty, but lacked the resources needed to 
+     add more positions; and
+       (B) 41,683 eligible candidates were denied admission to 
+     schools of nursing in 2005, primarily due to an insufficient 
+     number of faculty members.
+       (2) A growing number of nurses with doctoral degrees are 
+     choosing careers outside of education. Over the last few 
+     years, there has been a 12 percent increase in doctoral 
+     nursing graduates seeking employment outside the education 
+     profession.
+       (3) The average age of nurse faculty at retirement is 62.5 
+     years. With the average age of doctorally-prepared professors 
+     currently at 57.5 years, a wave of retirements is expected 
+     within the next 10 years.
+       (4) Master's and doctoral programs in nursing are not 
+     producing a large enough pool of potential nurse educators to 
+     meet the projected demand for nurses over the next 10 years. 
+     While graduations from master's and doctoral programs in 
+     nursing rose by 10.5 percent and 1.5 percent, respectively, 
+     in the 2005-2006 school year, projections still demonstrate a 
+     shortage of nurse faculty. Given current trends, there will 
+     be at least 2,616 unfilled faculty positions in 2012.
+       (5) According to the November 2005 Monthly Labor Review 
+     from the Bureau of Labor Statistics, more than 1,200,000 new 
+     and replacement nurses will be needed by 2014.
+
+     SEC. 3. CAPITATION GRANTS TO INCREASE THE NUMBER OF NURSING 
+                   FACULTY AND STUDENTS.
+
+       (a) Grants.--Part D of title VIII of the Public Health 
+     Service Act (42 U.S.C. 296p) is amended by adding at the end 
+     the following:
+
+     ``SEC. 832. CAPITATION GRANTS.
+
+       ``(a) In General.--For the purpose described in subsection 
+     (b), the Secretary, acting through the Health Resources and 
+     Services Administration, shall award a grant each fiscal year 
+     in an amount determined in accordance with subsection (c) to 
+     each eligible school of nursing that submits an application 
+     in accordance with this section.
+       ``(b) Purpose.--A funding agreement for a grant under this 
+     section is that the eligible school of nursing involved will 
+     expend the grant to increase the number of nursing faculty 
+     and students at the school, including by hiring new faculty, 
+     retaining current faculty, purchasing educational equipment 
+     and audiovisual laboratories, enhancing clinical 
+     laboratories, repairing and expanding infrastructure, or 
+     recruiting students.
+       ``(c) Grant Computation.--
+       ``(1) Amount per student.--Subject to paragraph (2), the 
+     amount of a grant to an eligible school of nursing under this 
+     section for a fiscal year shall be the total of the 
+     following, as determined by the Secretary:
+       ``(A) Not to exceed $1,800 for each full-time or part-time 
+     student who is enrolled at the school in a graduate program 
+     in nursing that--
+       ``(i) leads to a master's degree, a doctoral degree, or an 
+     equivalent degree; and
+       ``(ii) prepares individuals to serve as faculty through 
+     additional course work in education and ensuring competency 
+     in an advanced practice area.
+       ``(B) Not to exceed $1,405 for each full-time or part-time 
+     student who--
+       ``(i) is enrolled at the school in a program in nursing 
+     leading to a bachelor of science degree, a bachelor of 
+     nursing degree, a graduate degree in nursing if such program 
+     does not meet the requirements of subparagraph (A), or an 
+     equivalent degree; and
+       ``(ii) has not more than 3 years of academic credits 
+     remaining in the program.
+       ``(C) Not to exceed $966 for each full-time or part-time 
+     student who is enrolled at the school in a program in nursing 
+     leading to an associate degree in nursing or an equivalent 
+     degree.
+       ``(2) Limitation.--In calculating the amount of a grant to 
+     a school under paragraph (1), the Secretary may not make a 
+     payment with respect to a particular student--
+       ``(A) for more than 2 fiscal years in the case of a student 
+     described in paragraph (1)(A) who is enrolled in a graduate 
+     program in nursing leading to a master's degree or an 
+     equivalent degree;
+       ``(B) for more than 4 fiscal years in the case of a student 
+     described in paragraph (1)(A) who is enrolled in a graduate 
+     program in nursing leading to a doctoral degree or an 
+     equivalent degree;
+       ``(C) for more than 3 fiscal years in the case of a student 
+     described in paragraph (1)(B); or
+       ``(D) for more than 2 fiscal years in the case of a student 
+     described in paragraph (1)(C).
+       ``(d) Eligibility.--For purposes of this section, the term 
+     `eligible school of nursing' means a school of nursing that--
+       ``(1) is accredited by a nursing accrediting agency 
+     recognized by the Secretary of Education;
+       ``(2) has a passage rate on the National Council Licensure 
+     Examination for Registered Nurses of not less than 80 percent 
+     for each of the 3 school years preceding submission of the 
+     grant application; and
+       ``(3) has a graduation rate (based on the number of 
+     students in a class who graduate relative to, for a 
+     baccalaureate program, the number of students who were 
+     enrolled in the class at the beginning of junior year or, for 
+     an associate degree program, the number of students who were 
+     enrolled in the class at the end of the first year) of not 
+     less than 80 percent for each of the 3 school years preceding 
+     submission of the grant application.
+       ``(e) Requirements.--The Secretary may award a grant under 
+     this section to an eligible school of nursing only if the 
+     school gives assurances satisfactory to the Secretary that, 
+     for each school year for which the grant is awarded, the 
+     school will comply with the following:
+       ``(1) The school will maintain a passage rate on the 
+     National Council Licensure Examination for Registered Nurses 
+     of not less than 80 percent.
+       ``(2) The school will maintain a graduation rate (as 
+     described in subsection (d)(3)) of not less than 80 percent.
+       ``(3)(A) Subject to subparagraphs (B) and (C), the first-
+     year enrollment of full-time nursing students in the school 
+     will exceed such enrollment for the preceding school year by 
+     5 percent or 5 students, whichever is greater.
+       ``(B) Subparagraph (A) does not apply to the first school 
+     year for which a school receives a grant under this section.
+       ``(4) Not later than 1 year after receipt of the grant, the 
+     school will formulate and implement a plan to accomplish at 
+     least 2 of the following:
+
+[[Page S6637]]
+
+       ``(A) Establishing or significantly expanding an 
+     accelerated baccalaureate degree nursing program designed to 
+     graduate new nurses in 12 to 18 months.
+       ``(B) Establishing cooperative intradisciplinary education 
+     among schools of nursing with a view toward shared use of 
+     technological resources, including information technology.
+       ``(C) Establishing cooperative interdisciplinary training 
+     between schools of nursing and schools of allied health, 
+     medicine, dentistry, osteopathy, optometry, podiatry, 
+     pharmacy, public health, or veterinary medicine, including 
+     training for the use of the interdisciplinary team approach 
+     to the delivery of health services.
+       ``(D) Integrating core competencies on evidence-based 
+     practice, quality improvements, and patient-centered care.
+       ``(E) Increasing admissions, enrollment, and retention of 
+     qualified individuals who are financially disadvantaged.
+       ``(F) Increasing enrollment of minority and diverse student 
+     populations.
+       ``(G) Increasing enrollment of new graduate baccalaureate 
+     nursing students in graduate programs that educate nurse 
+     faculty members.
+       ``(H) Developing post-baccalaureate residency programs to 
+     prepare nurses for practice in specialty areas where nursing 
+     shortages are most severe.
+       ``(I) Increasing integration of geriatric content into the 
+     core curriculum.
+       ``(J) Partnering with economically disadvantaged 
+     communities to provide nursing education.
+       ``(K) Expanding the ability of nurse managed health centers 
+     to provide clinical education training sites to nursing 
+     students.
+       ``(5) The school will submit an annual report to the 
+     Secretary that includes updated information on the school 
+     with respect to student enrollment, student retention, 
+     graduation rates, passage rates on the National Council 
+     Licensure Examination for Registered Nurses, the number of 
+     graduates employed as nursing faculty or nursing care 
+     providers within 12 months of graduation, and the number of 
+     students who are accepted into graduate programs for further 
+     nursing education.
+       ``(6) The school will allow the Secretary to make on-site 
+     inspections, and will comply with the Secretary's requests 
+     for information, to determine the extent to which the school 
+     is complying with the requirements of this section.
+       ``(f) Reports to Congress.--The Secretary shall evaluate 
+     the results of grants under this section and submit to the 
+     Congress--
+       ``(1) not later than 18 months after the date of the 
+     enactment of this section, an interim report on such results; 
+     and
+       ``(2) not later than the end of fiscal year 2009, a final 
+     report on such results.
+       ``(g) Application.--To seek a grant under this section, a 
+     school nursing shall submit an application to the Secretary 
+     at such time, in such manner, and containing such information 
+     and assurances as the Secretary may require.
+       ``(h) Authorization of Appropriations.--
+       ``(1) In general.--For the costs of carrying out this 
+     section (except the costs described in paragraph (2)), there 
+     are authorized to be appropriated $75,000,000 for fiscal year 
+     2007, $85,000,000 for fiscal year 2008, and $95,000,000 for 
+     fiscal year 2009.
+       ``(2) Administrative costs.--For the costs of administering 
+     this section, including the costs of evaluating the results 
+     of grants and submitting reports to the Congress, there are 
+     authorized to be appropriated such sums as may be necessary 
+     for each of fiscal years 2007, 2008, and 2009.''.
+       (b) GAO Study.--
+       (1) In general.--Not later than 1 year after the date of 
+     the enactment of this Act, the Comptroller General of the 
+     United States shall conduct a study and submit a report to 
+     the Congress on ways to increase participation in the nurse 
+     faculty profession.
+       (2) Contents of report.--The report required by paragraph 
+     (1) shall include the following:
+       (A) A discussion of the master's degree and doctoral degree 
+     programs that are successful in placing graduates as faculty 
+     in schools of nursing.
+       (B) An examination of compensation disparities throughout 
+     the nursing profession and compensation disparities between 
+     higher education instructional faculty generally and higher 
+     education instructional nursing faculty.
+                                 ______
+```
