@@ -1,0 +1,25 @@
+---
+granule: CRECB-2006-pt10-Pg12908-3
+date: 2006-06-28
+edition: CRECB
+section: SENATE
+page: 12908
+---
+
+# CONFIRMATION
+
+```
+                              CONFIRMATION
+
+  Executive nomination confirmed by the Senate Wednesday, June 28, 
+2006:
+
+
+                       DEPARTMENT OF THE TREASURY
+
+       HENRY M. PAULSON, JR., OF NEW YORK, TO BE SECRETARY OF THE 
+     TREASURY.
+       THE ABOVE NOMINATION WAS APPROVED SUBJECT TO THE NOMINEE'S 
+     COMMITMENT TO RESPOND TO REQUESTS TO APPEAR AND TESTIFY 
+     BEFORE ANY DULY CONSTITUTED COMMITTEE OF THE SENATE.
+```
