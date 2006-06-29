@@ -1,0 +1,86 @@
+---
+granule: CREC-2006-06-29-pt2-PgE1346-4
+date: 2006-06-29
+edition: CREC
+section: EXTENSIONS
+page: E1346
+citation: 152 Cong. Rec. E1346
+---
+
+# TRIBUTE TO RABBI STEVEN B. JACOBS
+
+**Speaking:** Sherman, Brad (S000344) [D-CA]
+
+```
+                   TRIBUTE TO RABBI STEVEN B. JACOBS
+
+                                 ______
+                                 
+
+                           HON. BRAD SHERMAN
+
+                             of california
+
+                    in the house of representatives
+
+                        Thursday, June 29, 2006
+
+  Mr. SHERMAN. Mr. Speaker, I rise today to pay tribute to my 
+constituent Rabbi Steven B. Jacobs for his invaluable service to the 
+residents of the San Fernando Valley and to people throughout the 
+world. For the past 36 years, Rabbi Jacobs has provided an unwavering 
+commitment to civil rights and religious pluralism. This year, Rabbi 
+Jacobs will be retiring from his position as Senior Rabbi of Temple Kol 
+Tikvah in Woodland Hills, California. He leaves behind a legacy that 
+exemplifies tikkun olam, the repair and healing of the world.
+  For many years, Rabbi Jacobs has worked to promote social justice and 
+inter-faith and interracial relations. In 1999, he accompanied Reverend 
+Jesse Jackson on an interfaith delegation to Yugoslavia. That 
+delegation sought the release of captured American soldiers. When asked 
+whether it was difficult to balance his spiritual beliefs with his 
+personal feelings and political opinions, the Rabbi commented: ``It is 
+in our life as religious leaders to hold hands, even with people who 
+are our enemies.''
+  Rabbi Jacobs demonstrates the powerful impact that people of faith 
+can have on our society through an unrelenting commitment to the 
+protection of religious and civil rights for all people. He was honored 
+in 2001 with the Walter Cronkite Faith and Freedom Award, presented for 
+his efforts to promote and preserve religious liberty.
+  Rabbi Jacobs has served as an influential member of the Progressive 
+Jewish Alliance, the Southern California Board of Rabbis, the Central 
+Conference of American Rabbis, the UNICEF National Board, and the 
+Muslim American Homeland Security Congress of the Los Angeles County 
+Sheriffs Department. He chaired the Governor of California's Task Force 
+on Refugees and was a delegate to the United Nations' Conference on 
+Refugees.
+  As part of his exemplary international work, Rabbi Jacobs 
+participated in an interfaith delegation to El Salvador. He also served 
+on a mission to Prague, Czech Republic, working in conjunction with the 
+North American Board of Rabbis to improve Jewish-Catholic relations.
+  Rabbi Jacobs continues to fight racism against Muslims and to foster 
+improved Muslim-Jewish relations in Los Angeles. In 2004, he 
+collaborated with the Muslim Public Affairs Council and the Anti-
+Defamation League to condemn terrorism. His efforts to denounce hate 
+speech have allied him with the Los Angeles County Human Relations 
+Commission, the Southern Christian Leadership Conference, the Los 
+Angeles Gay and Lesbian Center, and many other similar organizations. I 
+am pleased that he will continue his work through his most recent 
+endeavor, the Rabbi Steven B. Jacobs Progressive Faith Foundation, 
+whose vision is to promote the values of interfaith acceptance in the 
+public and private sectors.
+  The Rabbi has also fought for wage reform to help ensure a living 
+wage for all workers. He has also worked to mobilize the traditional 
+coalition of African Americans and Jews to ensure fair and honest 
+elections.
+  It is my honor to congratulate Rabbi Steven B. Jacobs for his noble 
+career as Kol Tikvah's senior rabbi. His work has strengthened 
+communities of faith, increased positive social action, and added to 
+international understanding and cooperation. He has touched and 
+improved the lives of people of all faiths not just in the San Fernando 
+Valley but throughout the world.
+
+
+
+
+                          ____________________
+```
