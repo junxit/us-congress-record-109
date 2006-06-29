@@ -1,0 +1,248 @@
+---
+granule: CRECB-2006-pt10-Pg13511-8
+date: 2006-06-29
+edition: CRECB
+section: SENATE
+page: 13511
+---
+
+# LOUIS BRAILLE BICENTENNIAL--BRAILLE LITERACY COMMEMORATIVE COIN ACT
+
+```
+  LOUIS BRAILLE BICENTENNIAL--BRAILLE LITERACY COMMEMORATIVE COIN ACT
+
+  Mr. McCONNELL. I ask unanimous consent that the Senate proceed to the
+
+[[Page 13512]]
+
+ immediate consideration of Calendar No. 475, S. 2321.
+  The PRESIDING OFFICER. The clerk will report the bill by title.
+  The legislative clerk read as follows:
+
+       A bill (S. 2321) to require the Secretary of the Treasury 
+     to mint coins in commemoration of Louis Braille.
+
+  There being no objection, the Senate proceeded to consider the bill.
+  Mr. McCONNELL. I ask unanimous consent that the bill be read a third 
+time and passed, the motion to reconsider be laid upon the table, and 
+any statements relating to the bill be printed in the Record.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The bill (S. 2321) was ordered to be engrossed for a third reading, 
+read the third time and passed, as follows:
+
+                                S. 2321
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Louis Braille Bicentennial--
+     Braille Literacy Commemorative Coin Act''.
+
+     SEC. 2. FINDINGS.
+
+       Congress finds as follows:
+       (1) Louis Braille, who invented the Braille method for 
+     reading and writing by the blind that has allowed millions of 
+     blind people to be literate participants in their societies, 
+     was born in Coupvray, a small village near Paris, on January 
+     4, 1809.
+       (2) Braille lost his sight at the age of 3, after injuring 
+     himself with an awl in the shop of his father Rene, a maker 
+     of harnesses and other objects of leather.
+       (3) A youth who was both intelligent and creative, Braille 
+     was blessed with dedicated parents, a thoughtful local 
+     priest, and an energetic local schoolteacher.
+       (4) Braille adapted to his situation and attended local 
+     school with other children of his age, an unheard-of practice 
+     for a blind child of the period.
+       (5) At the age of 10, when his schooling otherwise would 
+     have stopped, Braille, with the aid of his priest and 
+     schoolteacher, was given a scholarship by a local nobleman 
+     and went to Paris to attend the Royal Institute for Blind 
+     Children, where he became the youngest pupil.
+       (6) At the Institute, most instruction was oral but Braille 
+     found there were books for the blind, large, expensive-to-
+     produce books, in which the text was of large letters 
+     embossed upon the page.
+       (7) Soon, Braille had read all 14 books in the school, but 
+     thirsted for more.
+       (8) Charles Barbier de la Serre, a captain in Napoleon's 
+     army, had invented ``night writing'', a method for 
+     communicating on the battlefield amidst the thick smoke of 
+     combat, or at night without lighting a match (which would aid 
+     enemy gunners), that used dots and dashes that were felt and 
+     interpreted with the fingers. He later adapted the method for 
+     use by the blind, calling it ``Sonography'', because it 
+     represented words by sounds, rather than spelling.
+       (9) Braille adopted the Sonography method instantly, but 
+     soon recognized that the basis in sound and the large number 
+     of dots, as many as 12, used to represent words was too 
+     cumbersome.
+       (10) By the age of 15, and using a blunt awl, the same sort 
+     of tool that had blinded him, Braille had developed what is 
+     essentially modern Braille, a code that uses no more than 6 
+     dots in a ``cell'' of 2 columns of 3 dots each to represent 
+     each letter, and contains a system of punctuation and of 
+     ``contractions'' to speed writing and reading.
+       (11) In contrast to the bulky books consisting of large 
+     embossed letters, Braille books can contain as many as 1,000 
+     characters or contractions on a standard 11-by-12-inch page 
+     of heavy paper, and to this day, Braille can be punched with 
+     an awl-like ``stylus'' into paper held in a metal ``slate'' 
+     that is very similar to the ones that Louis Braille adapted 
+     from Barbier's original ``night writing'' devices.
+       (12) Also a talented organist who supported himself by 
+     giving concerts, Braille went on to develop the Braille 
+     representation of music, and in 1829, published the first-
+     ever Braille book, a manual about how to read and write 
+     music.
+       (13) 8 years later, in 1837, Braille followed that 
+     publication with another book detailing a system of 
+     representation of mathematics.
+       (14) Braille's talents were quickly recognized, and at age 
+     17, he was made the first blind apprentice teacher at the 
+     school, where he taught algebra, grammar, music, and 
+     geography.
+       (15) He and 2 blind classmates, his friends who probably 
+     were the first people to learn to read and write Braille, 
+     later became the first 3 blind full professors at the school.
+       (16) However, despite the fact that many blind people 
+     enthusiastically adopted the system of writing and reading, 
+     there was great skepticism among sighted people about the 
+     real usefulness of Braille's code, and even at the Royal 
+     Institute, it was not taught until after his death on January 
+     6, 1852.
+       (17) Braille did not start to spread widely until 1868 when 
+     a group of British men, later to become known as the Royal 
+     National Institute for the Blind, began publicizing and 
+     teaching the system.
+       (18) Braille did not become the official and sole method of 
+     reading and writing for blind United States citizens until 
+     the 20th Century.
+       (19) Helen Keller, a Braille reader of another generation, 
+     said: ``Braille has been a most precious aid to me in many 
+     ways. It made my going to college possible--it was the only 
+     method by which I could take notes on lectures. All my 
+     examination papers were copied for me in this system. I use 
+     Braille as a spider uses its web--to catch thoughts that flit 
+     across my mind for speeches, messages, and manuscripts.''.
+       (20) While rapid technological advances in the 20th Century 
+     have greatly aided the blind in many ways by speeding access 
+     to information, each advance has seen a commensurate drop in 
+     the teaching of Braille, to the point that only about 10 
+     percent of blind students today are taught the system.
+       (21) However, for the blind not to know Braille is in 
+     itself a handicap, because literacy is the ability to read 
+     and the ability to write and the ability to do the 2 
+     interactively.
+       (22) The National Federation of the Blind, the Nation's 
+     oldest membership organization consisting of blind members, 
+     has been a champion of the Braille code, of Braille literacy 
+     for all blind people, and of the memory of Louis Braille, and 
+     continues its Braille literacy efforts today through its 
+     divisions emphasizing Braille literacy, education of blind 
+     children, and employment of the blind.
+       (23) Braille literacy aids the blind in taking responsible 
+     and self-sufficient roles in society, such as employment. 
+     While 70 percent of the blind are unemployed, 85 percent of 
+     the employed blind are Braille-literate.
+
+     SEC. 3. COIN SPECIFICATIONS.
+
+       (a) In General.--The Secretary of the Treasury (hereafter 
+     in this Act referred to as the ``Secretary'') shall mint and 
+     issue not more than 400,000 $1 coins bearing the designs 
+     specified in section 4(a), each of which shall--
+       (1) weigh 26.73 grams;
+       (2) have a diameter of 1.500 inches; and
+       (3) contain 90 percent silver and 10 percent copper.
+       (b) Legal Tender.--The coins minted under this Act shall be 
+     legal tender, as provided in section 5103 of title 31, United 
+     States Code.
+       (c) Numismatic Items.--For purposes of section 5134 of 
+     title 31, United States Code, all coins minted under this Act 
+     shall be considered to be numismatic items.
+
+     SEC. 4. DESIGN OF COINS.
+
+       (a) Design Requirements.--
+       (1) In general.--The design of the coins minted under this 
+     Act shall be emblematic of the life and legacy of Louis 
+     Braille.
+       (2) Obverse.--The design on the obverse shall bear a 
+     representation of the image of Louis Braille.
+       (3) Reverse.--The design on the reverse shall emphasize 
+     Braille literacy, and shall specifically include the word for 
+     Braille in Braille code (the Braille capital sign and the 
+     letters Brl) represented in a way that complies with section 
+     3 of specification 800 of the National Library Service for 
+     the Blind and Physically Handicapped of the Library of 
+     Congress specifications for Braille, and is tactilely 
+     indiscernible from printed or written Braille.
+       (4) Designation and inscriptions.--On each coin minted 
+     under this Act, there shall be--
+       (A) a designation of the value of the coin;
+       (B) an inscription of the year ``2009''; and
+       (C) inscriptions of the words ``Liberty'', ``In God We 
+     Trust'', ``United States of America'', and ``E Pluribus 
+     Unum''.
+       (b) Selection.--The design for the coins minted under this 
+     Act shall be--
+       (1) selected by the Secretary, after consultation with the 
+     Commission of Fine Arts and the National Federation of the 
+     Blind; and
+       (2) reviewed by the Citizens Coinage Advisory Committee.
+
+     SEC. 5. ISSUANCE OF COINS.
+
+       (a) Quality of Coins.--Coins minted under this Act shall be 
+     issued in uncirculated and proof qualities.
+       (b) Mint Facility.--Only 1 facility of the United States 
+     Mint may be used to strike any particular quality of the 
+     coins minted under this Act.
+       (c) Period for Issuance.--The Secretary may issue coins 
+     minted under this Act only during the 1-year period beginning 
+     on January 1, 2009.
+
+     SEC. 6. SALE OF COINS.
+
+       (a) Sale Price.--The coins issued under this Act shall be 
+     sold by the Secretary at a price equal to the sum of--
+       (1) the face value of the coins;
+       (2) the surcharge provided in section 7(a) with respect to 
+     such coins; and
+       (3) the cost of designing and issuing the coins (including 
+     labor, materials, dies, use of machinery, overhead expenses, 
+     marketing, and shipping).
+       (b) Bulk Sales.--The Secretary shall make bulk sales of the 
+     coins issued under this Act at a reasonable discount.
+       (c) Prepaid Orders.--
+
+[[Page 13513]]
+
+       (1) In general.--The Secretary shall accept prepaid orders 
+     for the coins minted under this Act before the issuance of 
+     such coins.
+       (2) Discount.--Sale prices with respect to prepaid orders 
+     under paragraph (1) shall be at a reasonable discount.
+
+     SEC. 7. SURCHARGES.
+
+       (a) Surcharge Required.--All sales of coins under this Act 
+     shall include a surcharge of $10 per coin.
+       (b) Distribution.--Subject to section 5134(f) of title 31, 
+     United States Code, all surcharges which are received by the 
+     Secretary from the sale of coins issued under this Act shall 
+     be promptly paid by the Secretary to the National Federation 
+     of the Blind, to further its programs to promote Braille 
+     literacy.
+       (c) Audits.--The National Federation of the Blind shall be 
+     subject to the audit requirements of section 5134(f)(2) of 
+     title 31, United States Code, with regard to the amounts 
+     received by the National Federation of the Blind under 
+     subsection (b).
+
+                          ____________________
+```
