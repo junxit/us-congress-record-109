@@ -1,0 +1,18 @@
+---
+granule: CREC-2006-07-14-pt1-PgS7545-9
+date: 2006-07-14
+edition: CREC
+section: SENATE
+page: S7545
+citation: 152 Cong. Rec. S7545
+---
+
+# RECOGNITION OF THE MAJORITY LEADER
+
+```
+                   RECOGNITION OF THE MAJORITY LEADER
+
+  The ACTING PRESIDENT pro tempore. The majority leader is recognized.
+
+                          ____________________
+```
