@@ -1,0 +1,225 @@
+---
+granule: CRECB-2006-pt11-Pg14775-8
+date: 2006-07-18
+edition: CRECB
+section: SENATE
+page: 14775
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate July 18, 2006:
+
+
+                          Department of State
+
+       CLYDE BISHOP, OF DELAWARE, A CAREER MEMBER OF THE SENIOR 
+     FOREIGN SERVICE, CLASS OF COUNSELOR, TO BE AMBASSADOR 
+     EXTRAORDINARY AND PLENIPOTENTIARY OF THE UNITED STATES OF 
+     AMERICA TO THE REPUBLIC OF THE MARSHALL ISLANDS.
+       MARK R. DYBUL, OF FLORIDA, TO BE COORDINATOR OF UNITED 
+     STATES GOVERNMENT ACTIVITIES TO COMBAT HIV/AIDS GLOBALLY, 
+     WITH THE RANK OF AMBASSADOR, VICE RANDALL L. TOBIAS, 
+     RESIGNED.
+
+
+                        National Mediation Board
+
+       PETER W. TREDICK, OF CALIFORNIA, TO BE A MEMBER OF THE 
+     NATIONAL MEDIATION BOARD FOR A TERM EXPIRING JULY 1, 2010. 
+     (REAPPOINTMENT)
+
+
+ Morris K. Udall Scholarship and Excellence In National Environmental 
+                           Policy Foundation
+
+       STEPHEN M. PRESCOTT, OF OKLAHOMA, TO BE A MEMBER OF THE 
+     BOARD OF TRUSTEES OF THE MORRIS K. UDALL SCHOLARSHIP AND 
+     EXCELLENCE IN NATIONAL ENVIRONMENTAL POLICY FOUNDATION FOR A 
+     TERM EXPIRING APRIL 15, 2011, VICE HERBERT GUENTHER, TERM 
+     EXPIRED.
+       ANNE JEANNETTE UDALL, OF NORTH CAROLINA, TO BE A MEMBER OF 
+     THE BOARD OF TRUSTEES OF THE MORRIS K. UDALL SCHOLARSHIP AND 
+     EXCELLENCE IN NATIONAL ENVIRONMENTAL POLICY FOUNDATION FOR A 
+     TERM EXPIRING OCTOBER 6, 2010. (REAPPOINTMENT)
+
+
+                            In the Air Force
+
+       THE FOLLOWING AIR NATIONAL GUARD OF THE UNITED STATES 
+     OFFICER FOR APPOINTMENT IN THE RESERVE
+
+[[Page 14776]]
+
+     OF THE AIR FORCE TO THE GRADE INDICATED UNDER TITLE 10, 
+     U.S.C., SECTION 12203:
+
+                        To be brigadier general
+
+COL. JAMES A. BUNTYN, 0000
+
+
+                              In the Army
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE RESERVE 
+     OF THE ARMY TO THE GRADE INDICATED UNDER TITLE 10, U.S.C., 
+     SECTION 12203:
+
+                        To be brigadier general
+
+COL. GREGORY E. COUCH, 0000
+
+
+                            In the Air Force
+
+       THE FOLLOWING NAMED AIR NATIONAL GUARD OF THE UNITED STATES 
+     OFFICERS FOR APPOINTMENT TO THE GRADE INDICATED IN THE 
+     RESERVE OF THE AIR FORCE UNDER TITLE 10, U.S.C., SECTIONS 
+     12203 AND 12212:
+
+                             To be colonel
+
+GARY L. AKINS, 0000
+JAMES F. ATKINSON III, 0000
+MARK J. BAUER, 0000
+CHARLES C. BLACKISTON III, 0000
+DARYL L. BOHAC, 0000
+GERARD F. BOLDUC, JR., 0000
+DONALD J. BONTE, JR., 0000
+CHRISTOPHER L. BRICKER, 0000
+CRAIG A. CAMPBELL, 0000
+FRANCIS X. CARILLO, JR., 0000
+ROBERT F. CAYTON, 0000
+SEABORN W. CHAVERS, JR., 0000
+MICHAEL B. COMPTON, 0000
+JEFFREY CURRY, 0000
+LOUIS DANNER, 0000
+JOSEPH C. DARROW, JR., 0000
+JOSEPH E. DELUCA, 0000
+ROBERT E. DOLANSKI, 0000
+BRIAN T. DRAVIS, 0000
+JOHN C. ELWOOD, 0000
+JERRY L. FENWICK, 0000
+ROSS W. FLYNN, 0000
+JOHN D. GAICH, 0000
+GERALD L. GALLMEISTER, 0000
+CHRISTIAN J. GATZ, 0000
+MARK P. GAUL, 0000
+KEVIN D. GRAZIER, 0000
+MICHAEL F. HALTOM, 0000
+JOHN D. HART, 0000
+HENRY H. HEARD, 0000
+PENNY A. HEINIGER, 0000
+JOEL E. HENNESS, 0000
+DEBBIE L. HENSON, 0000
+LANCE A. HESTER, 0000
+JOHN J. HIGGINS, 0000
+BRICE R. HUDDLESTON, 0000
+SIDNEY B. JACKSON, 0000
+MARK E. JANNITTO, 0000
+HARLEY C. JERGENSEN, 0000
+SUDHIR S. JINDAL, 0000
+KARL M. KELLER, 0000
+KENNETH D. KING, 0000
+JOSEPH C. KINNEY, 0000
+TIMOTHY J. LABARGE, 0000
+KEITH I. LANG, 0000
+JAMES S. LOTT, JR., 0000
+MATTHEW S. LYNDE, 0000
+PAUL C. MAAS, JR., 0000
+MARK E. MAIER, 0000
+LORI E. MARION, 0000
+LEONARD H. MATTINGLY, 0000
+WILLIAM E. MCARDLE, 0000
+MICHAEL C. MCENULTY, 0000
+GAIL A. MCGINLEY, 0000
+GORDON S. MCKINLEY, 0000
+ROBERT E. MONTGOMERY, 0000
+FELIPE MORALES, 0000
+KEITH A. NEWELL, 0000
+MARK S. NOVAK, 0000
+JOEL F. PANNEBAKER, 0000
+HAROLD A. PARTIN, JR., 0000
+ROBERT A. PAULUKAITIS, 0000
+MARCUS J. QUINT, 0000
+JOHN J. RANKIN, 0000
+NICHOLAS S. RANTIS, 0000
+MICHAEL D. REGAN, 0000
+KIM A. RUTHERFORD, 0000
+MARY A. SALCIDO, 0000
+JOSE J. SALINAS, 0000
+IAN R. SANDERSON, 0000
+WAYNE A. SCHELLER, 0000
+RALPH L. SCHWADER, 0000
+DIANA M. SHOOP, 0000
+KEITH A. SMITH, 0000
+DAVID SNYDER, 0000
+DANIEL R. STEINER, 0000
+KENDALL S. SWITZER, 0000
+GLENN A. TAYLOR, 0000
+KEVIN W. TECHAU, 0000
+GARY M. TURNER, 0000
+TIMOTHY R. VAUGHAN, 0000
+JAMES K. VOGEL, 0000
+ROBERT E. WATERS, JR., 0000
+MICHAEL J. WILLIAMS, 0000
+KENNETH W. WISIAN, 0000
+JEFFREY J. ZILLINGER, 0000
+GLENN ZIMMERMAN, 0000
+
+
+                              In the Navy
+
+       The following named individual for appointment as a Reserve 
+     Officer in the grade indicated in the United States Navy 
+     Reserve under title 10, U.S.C., section 12203:
+
+                             To be captain
+
+Ben M. Smith, 0000
+
+       The following named officer for appointment to the grade 
+     indicated in the United States Navy under title 10, U.S.C., 
+     section 624:
+
+                            To be commander
+
+Sidney E. Hall, 0000
+
+       The following named officer for appointment to the grade 
+     indicated in the United States Navy under title 10, U.S.C., 
+     section 624:
+
+                       To be lieutenant commander
+
+Dawn M. Divano, 0000
+
+       The following named officer for appointment to the grade 
+     indicated in the United States Navy under title 10, U.S.C., 
+     section 624:
+
+                       To be lieutenant commander
+
+Michael J. Lavelle, 0000
+
+       The following named officer for appointment to the grade 
+     indicated in the United States Navy under title 10, U.S.C., 
+     section 624:
+
+                       To be lieutenant commander
+
+Gary C. Norman, 0000
+
+       The following named officers for regular appointment to the 
+     grade indicated in the United States Navy under title 10, 
+     U.S.C., Section 531:
+
+                       To be lieutenant commander
+
+NEAL D. AGAMAITE, 0000
+ALEXANDER J. BORZYCH, 0000
+DAVID C. KLEINBERG, 0000
+```
