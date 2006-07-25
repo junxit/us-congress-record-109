@@ -1,0 +1,414 @@
+---
+granule: CREC-2006-07-25-pt1-PgE1514-2
+date: 2006-07-25
+edition: CREC
+section: EXTENSIONS
+page: E1514
+citation: 152 Cong. Rec. E1514
+---
+
+# GROWING SUPPORT FOR THE SAFE COMMISSION
+
+**Speaking:** Wolf, Frank R. (W000672) [R-VA]
+
+**Measures:** S. 3491, H.R. 5552
+
+```
+                GROWING SUPPORT FOR THE SAFE COMMISSION
+
+                                 ______
+                                 
+
+                           HON. FRANK R. WOLF
+
+                              of virginia
+
+                    in the house of representatives
+
+                         Tuesday, July 25, 2006
+
+  Mr. WOLF. Mr. Speaker, I recently introduced legislation in the House 
+of Representatives aimed at addressing the looming financial crisis 
+facing the Nation, H.R. 5552--the Securing America's Future Economy 
+(SAFE) Commission Act. The bill would establish a national bipartisan 
+commission that will put everything--entitlement spending as well as 
+all other Federal programs and our Nation's tax policies--on the table 
+and require Congress to vote up or down on its recommendations in their 
+entirety, similar to the process set in 1988 to close military bases. 
+Mandating congressional action on the panel's recommendations is what 
+differentiates this commission from previous ones.
+  Support for the bill is coming from both sides of the aisle. I submit 
+for the Record a recent analysis by the Heritage Foundation; a letter 
+of support from the Concord Coalition; a letter from Douglas Holt-
+Eakin, former director of the Congressional Budget Office, and letters 
+from several former Members.
+  I also am pleased to submit today the names of 20 of my colleagues 
+who are co-sponsoring the SAFE Commission measure and urge the 
+remainder of my colleagues to join as well. This legislation will be 
+good for the future of America.
+
+
+                                        The Concord Coalition,
+
+                                     Arlington, VA, June 28, 2006.
+     Hon. Frank Wolf,
+     House of Representatives
+     Washington, DC.
+       Dear Mr. Wolf: On behalf of The Concord Coalition, I am 
+     writing to express our deep appreciation for your leadership 
+     in sponsoring the Securing America's Future Economy (SAFE) 
+     Act, which would establish a bipartisan commission to 
+     recommend legislation addressing our nation's unsustainable 
+     long-term fiscal outlook.
+       We strongly agree with you that the need for serious action 
+     is not just an economic imperative but a moral one as well. 
+     We also share your view that partisan divisions in Washington 
+     have become so wide that a commission may now be the only way 
+     forward on this issue. By establishing a fiscal policy 
+     commission with a broad mandate, meaningful public 
+     engagement, and the ability to consider all policy options, 
+     your legislation represents a very constructive step toward 
+     bringing about consensus solutions. '
+       The demographic and fiscal challenges facing the budget in 
+     the years ahead are well known. Analysts of diverse 
+     ideological perspectives and nonpartisan officials at the 
+     Congressional Budget Office (CBO) and the Government 
+     Accountability Office (GAO) have all warned that current 
+     fiscal policy is unsustainable over the long-term.
+       What is needed now is a clear commitment to address these 
+     issues in a straightforward, generationally equitable and 
+     bipartisan manner. Achieving consensus around the hard 
+     choices that must eventually be made will require open minds 
+     and bipartisan cooperation. Your legislation would establish 
+     a process to do just that.
+       Recently, The Concord Coalition organized a forum with 
+     experts from across the political spectrum to discuss the 
+     possibility of establishing a bipartisan commission to deal 
+     with our long-term fiscal outlook. Three conclusions from the 
+     forum stand out:
+       The commission must have meaningful participation and input 
+     from a broad range of views. Bipartisan support is essential 
+     to enacting and maintaining policies that will put the budget 
+     on a fiscally sustainable course.
+       The commission should have a broad mandate with no 
+     limitations on what policy options the commission can 
+     consider or preconditions on what must be included--or not 
+     included--in a proposal. Everything must be on the table, 
+     including revenues as well as entitlements and other 
+     spending.
+       The commission should engage the public in a dialogue about 
+     the long-term fiscal challenges and the tradeoffs that will 
+     be necessary to bring about a more secure and sustainable 
+     economic future.
+       The Concord Coalition commends your propoal because it 
+     recognizes each of these conclusions. The SAFE Act would 
+     establish a bipartisan commission of experts and legislators 
+     appointed by the President and Congressional leaders of both 
+     parties. The Commission would be directed to hold hearings 
+     across the country and incorporate the input from the public 
+     in its report. This is a very welcome provision. The public 
+     should be treated as if it were, in effect, a member of the 
+     commission. Doing so will enhance the commission's 
+     credibility and help build acceptance for its 
+     recommendations. Our experience hosting meetings around the 
+     nation on this issue has demonstrated that when the American 
+     people are armed with the facts and given the opportunity for 
+     honest dialogue, they are willing to set priorities and make 
+     the hard choices that often are not made in Washington.
+       Most importantly, the Commission would be allowed to 
+     consider all policy options to address the imbalance between 
+     long-term spending commitments and projected revenues, 
+     including reforms of entitlement programs and tax laws. In 
+     our view, this is an essential prerequisite for attracting 
+     well-respected individuals to serve on the commission and for 
+     finding solutions that are both substanive and politically 
+     viable.
+
+[[Page E1515]]
+
+       We particularly commend you for your willingness to 
+     consider constructive suggestions for changes to achieve 
+     broader bipartisan support and increase the prospect that the 
+     commission will produce a balanced proposal that can be 
+     enacted into law. In that regard, we would suggest a few 
+     changes that we believe would strengthen the bill and help 
+     ensure the commission receives the bipartisan support 
+     essential to its success.
+       We believe the commission would have greater credibility if 
+     the appointees were more evenly divided between parties, 
+     potentially with some commission members appointed jointly or 
+     as a result of bipartisan consultation. Further, we would 
+     suggest that the commission have bipartisan co-chairs. We 
+     would also encourage you to consider a more expansive 
+     legislative process, which would allow for greater debate of 
+     policy tradeoffs by allowing the consideration of budget 
+     neutral amendments. Those who oppose the priorities and 
+     tradeoffs recommended by the commission should be challenged 
+     to say what they would do instead and given the opportunity 
+     to put forward alternative policies to address the problem.
+       A commission isn't a silver bullet that will solve our 
+     fiscal problems by itself. It will still take action by 
+     Members of Congress and the administration to adopt the tough 
+     choices. But a commission with credibility and bipartisan 
+     support could provide the leadership necessary to ensure that 
+     these issues receive the attention and serious consideration 
+     they deserve.
+       You deserve great credit for your willingness to undertake 
+     the difficult but absolutely essential task of focusing 
+     attention on the tough choices our nation faces. The Concord 
+     Coalition stands ready to assist in any way that we can.
+           Sincerely,
+                                                  Robert L. Bixby,
+     Executive Director.
+                                  ____
+
+
+ The Wolf SAFE Commission Act: A Chance To Get the Budget Back on Track
+
+                           (By Stuart Butler)
+
+       The recent Mid-Session Review by the Office of Management 
+     and Budget underscores the facts that sensible tax reform 
+     stimulates the economy and that faster growth swells revenue 
+     to the government as a byproduct of new jobs and extra income 
+     for Americans. The review also confirms the overall, 
+     disturbing long-term budget picture indicated in the 
+     Congressional Budget Office's (CBO) longterm forecast. Under 
+     current law, both. taxes and spending will rise rapidly 
+     during future decades towards European levels, with an ever-
+     growing government taking a larger and larger proportion of 
+     the nation's income and threatening America's future economic 
+     growth. Decisive action is needed.
+       But faced with this threat, Washington is paralyzed. Rather 
+     than seriously tackling the tsunami of entitlement spending 
+     that will hit the budget after the baby boomers begin to 
+     retire, Congress actually made the situation far worse by 
+     enacting the huge Medicare prescription drug benefit. And 
+     while the Bush tax reforms have significantly helped in the 
+     short term, even if made permanent they would shave only 
+     about one percentage point from the future growth in taxes. 
+     Absent any additional reforms, the CBO forecasts that, with 
+     the Bush tax cuts extended, federal taxes will top 20 percent 
+     of GDP by about 2025 and approach 23 percent of GDP by 2045. 
+     The historical average, and today's level, is just over 18 
+     percent of GDP.
+       With Congress polarized and paralyzed, some Members of 
+     Congress, along with President Bush, are exploring the idea 
+     of a bipartisan commission as a way to break away from the 
+     path of rapidly rising spending and taxes. President Bush 
+     pressed for an entitlements commission in his State of the 
+     Union address. Senator Judd Gregg (R-NH) has sponsored 
+     legislation (5. 3521) that includes a commission to review 
+     the long-term solvency of Social Security and Medicare. 
+     Meanwhile, Representative Frank Wolf (R-VA) has crafted a 
+     commission bill (``The SAFE Commission Act,'' H.R 5552) 
+     specifically intended to win bipartisan support for bold 
+     action to secure the country's fiscal and economic future. 
+     Senator George Voinovich (R-OH) has introduced that bill in 
+     the Senate (S. 3491).
+       Commissions can help break a political logjam. They can 
+     also become vehicles for action that achieves a short-tem 
+     political fix and yet does little in the long term or even 
+     makes things worse. So the political dynamics and mandate of 
+     a commission are critical. Fortunately, the Wolf commission 
+     bill recognizes these facts of political life and offers 
+     real hope for sensible action. A reason for this is that 
+     in its instructions to the commission, the bill wisely 
+     combines reform with fiscal changes in a manner that could 
+     achieve a breakthrough.
+       The core of the fiscal problem is the sharp projected rise 
+     in future entitlement spending, especially spending on 
+     programs for middle-class retirees. Contrary to many peaple's 
+     perception, taxes are nat falling--as noted, taxes are 
+     projected to rise steadily to record levels under current 
+     law, in real terms and as a percentage of GDP. Still, in 
+     today's political deadlock many lawmakers maintain that tax 
+     revenue must be part of the equation if they are to have the 
+     political ``cover'' to accept curbs an popular entitlements.
+       But for good reasons, conservatives strongly resist the 
+     idea of raising taxes. For one thing, taxes are not the 
+     problem--spending is. Moreover, raising tax rates or 
+     instituting new taxes would threaten economic growth, 
+     compounding the economic harm associated with government 
+     spending. Further, raising taxes likely would reduce the 
+     pressure on Congress to curb spending or, worse still, 
+     encourage lawmakers increase their spending promises.
+       The Wolf bill seeks a solution to this political equation. 
+     It creates a bipartisan commission intended to address the 
+     ``unsustainable imbalance'' between federal commitments and 
+     revenues while increasing national savings and making the 
+     budget process give greater emphasis to long-term fiscal 
+     issues. While the commission could consider a range of 
+     approaches, the bill places emphasis on two: reforms that 
+     would limit the growth of entitlements while strengthening 
+     the safety net and tax reforms that would make the tax system 
+     more economically efficient and improve economic growth. The 
+     commission would hold public hearings around the country to 
+     discuss the long-term fiscal problem, and its recommendations 
+     would receive ``fast-track'' consideration by Congress.
+       By combining a slowdown in entitlement spending with 
+     reforms to strengthen assistance to the needy, a commission 
+     proposal could win support of liberals and others who worry 
+     that surging middle-class retiree spending in the future will 
+     crowd out safety net spending. And by placing an emphasis on 
+     pro-growth tax reform, a commission proposal could also lead 
+     to some additional revenues not by raising taxes but thanks 
+     instead to faster economic growth--just as the Bush tax 
+     reforms produced the recent sharp increase in federal 
+     revenues. Combining these features in a commission proposal 
+     could lead to a package that conservatives, liberals, and 
+     moderates all believe would advance their agendas--a 
+     necessary result for an economically sound agreement to 
+     succeed in a polarized Congress.
+       Some might argue that appointing a commission to address 
+     the long-term fiscal situation is an abrogation of 
+     responsibility by Congress. In an obvious sense, it is. But 
+     the Wolf bill also shows that lawmakers recognize that 
+     America's budgeting system is broken and in the current 
+     environment cannot lead to a responsible long-term federal 
+     budget. Representative Wolf's commission proposal seeks to 
+     alter those destructive dynamics in order to secure a sound 
+     economy for future generations.
+       Stuart M. Butler, Ph.D., is Vice President for Domestic and 
+     Economic Policy Studies at The Heritage Foundation.
+
+
+                                 Council on Foreign Relations,
+
+                                    Washington, DC, July 13, 2006.
+     Congressman Frank R. Wolf,
+     Cannon House Office Building,
+     Washington, DC.
+       Dear Congressman: I am writing regarding your proposed SAFE 
+     Commission. I applaud your desire to address the nation's 
+     long-term fiscal problems and thank you for your efforts.
+       The work of the proposed commission is central to the 
+     continued international competitiveness of the United States 
+     and the standard of living of future generations. The future 
+     growth of mandatory spending is among the greatest of 
+     economic threats, and it is entirely self-inflicted. It is 
+     imperative that our nation restructure its approach to old-
+     age income, health insurance, and long-term care, and it is 
+     better to do it sooner than later.
+       I have taken the liberty of attaching a speech that I gave 
+     a while back. The final two sections make these points in 
+     greater detail.
+       Best of luck in your efforts. Please do not hesitate to 
+     contact me if I can help.
+           Sincerely,
+     Douglas Holtz-Eakin.
+                                  ____
+
+
+
+                                          The Urban Institute,
+
+                                    Washington, DC, June 22, 2006.
+     Representative Frank Wolf,
+     Washington, DC.
+       Dear Representative Wolf: In. response to your letter of 
+     June 16, I strongly support your bill to establish a national 
+     bipartisan commission on entitlement spending and tax policy. 
+     Although many are cynical about the prospects for the success 
+     of any commission, I think that you are right that the 
+     current political climate is not conducive to passing 
+     constructive legislation without some prodding from the 
+     outside.
+       I also believe that the American public is not ready to 
+     accept the sacrifices necessary to avoid a crisis, because 
+     the dire nature of the situation has not been well 
+     communicated by policy makers. Therefore, I particularly 
+     commend your idea of holding town meetings across the country 
+     and I would hope that the commission has a large budget for 
+     this purpose, because I believe that we need lots of 
+     meetings. Ideally, the commission would first produce a white 
+     paper that could be discussed at the meetings. It would 
+     outline the problem in the most objective way possible and 
+     describe the major options for solving it.
+       It is interesting to note that Canada had such meetings 
+     prior to a significant reform of their social security system 
+     and Canadian officials will tell you that they were extremely 
+     helpful in finding a solution. Similarly, Britain is in the 
+     midst of reforming their public pension system and they used 
+     large focus groups to test their options. I would prefer a 
+     town meeting to a focus group format, but however one 
+     proceeds, the involvement of the public is absolutely 
+     crucial.
+
+[[Page E1516]]
+
+       I wish you success in getting your idea enacted and would 
+     be willing to help in any way that I can.
+           Sincerely,
+     Rudolph G. Penner.
+                                  ____
+
+                                      Woodrow Wilson International
+
+
+                                          Center for Scholars,
+
+                                     Washington, DC, July 7, 2006.
+     Hon. Frank R. Wolf,
+     Washington, DC.
+       Dear Frank: Thank you for sending along your excellent 
+     proposal to establish a national bipartisan commission on 
+     America's looming fiscal crisis. I agree that we must hastily 
+     address the very grave financial challenges before our 
+     nation. You have laid out a thoughtful and effective way 
+     forward. In particular, it is important to put everything on 
+     the table--entitlement spending, federal programs, and tax 
+     policy. Mandating congressional action would also ensure that 
+     a prospective commission does not issue a report that gathers 
+     dust on a shelf.
+       On another note, the Iraq Study Group continues to make 
+     excellent progress, and I once again thank you for your 
+     leadership and support of our efforts.
+       With best wishes,
+           Sincerely,
+     Lee H. Hamilton.
+                                  ____
+
+
+
+                               Manatt Jones Global Strategies,
+
+                                    Washington, DC, June 26, 2006.
+     Hon. Frank R. Wolf,
+     House of Representatives,
+     Washington, DC.
+       Dear Congressman Wolf: Thank you for your letter and for 
+     sending me a copy of your legislation, H.R. 5552. I can't 
+     speak highly enough in commending you for leading this much 
+     needed effort and for the comprehensiveness of your proposal.
+       As a former House Budget Committee Chairman who 
+     subsequently headed the American Stock Exchange among other 
+     business activities since leaving the Congress, I have been 
+     appalled and discouraged by the recklessness and disregard of 
+     our government's fiscal policy. These unconscious able 
+     deficits and mounting federal debt load financed primarily by 
+     foreigners are an economic time bomb waiting to explode. If I 
+     were managing a private company this irresponsibly, the 
+     shareholders should demand my resignation.
+       We hear much talk about our national security and energy 
+     security. But to put our economic security so much in the 
+     hands of foreign interests is gambling at its worst.
+       In addition to the economic dangers, this is also a moral 
+     issue in that our generation is saddling our children and 
+     grand-children with the responsibility for paying off our 
+     profligacy. That can only reduce the standard of living of 
+     future generations. How can we justify such immorality.
+       I am so proud that you are stepping forward to try to pass 
+     legislation with teeth to force both the Congress and the 
+     Executive Branch to make hard choices to get our fiscal house 
+     on a path to responsibility. I hope that you will make this a 
+     bi-partisan effort. I will be pleased to support you in every 
+     way I can and to urge my fellow Democrats to join you in this 
+     effort.
+           Sincerely yours,
+     James R. Jones.
+                                  ____
+                                  
+
+                          ____________________
+```
