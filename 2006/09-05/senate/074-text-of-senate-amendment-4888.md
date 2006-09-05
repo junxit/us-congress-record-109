@@ -1,0 +1,95 @@
+---
+granule: CREC-2006-09-05-pt1-PgS8976
+date: 2006-09-05
+edition: CREC
+section: SENATE
+page: S8976
+citation: 152 Cong. Rec. S8976
+---
+
+# Text of Senate Amendment 4888
+
+**Speaking:** Frist, William H. (F000439) [R-TN]
+
+```
+  SA 4888. Mr. FRIST (for Mr. Jeffords (for himself and Mr. Obama)) 
+proposed an amendment to the bill S. 466, to deauthorize a certain 
+portion of the project for navigation, Rockland Harbor, Maine; as 
+follows:
+
+     SEC. XXX. HERBERT HOOVER DIKE SUPPLEMENTAL MAJOR 
+                   REHABILITATION REPORT.
+
+       (a) In General.--Not later than May 31, 2007, the Secretary 
+     shall publish a supplement to the major rehabilitation report 
+     for the Herbert Hoover Dike system, approved by the Chief of 
+     Engineers in November 2000.
+       (b) Inclusions.--The supplemental report under subsection 
+     (a) shall include--
+       (1) an evaluation of existing conditions at the Herbert 
+     Hoover Dike system;
+       (2) an identification of additional risks associated with 
+     flood events at the system that are equal to or greater than 
+     the standard projected flood risks;
+       (3) an evaluation of the potential to integrate projects of 
+     the Corps of Engineers into an enhanced flood protection 
+     system for Lake Okeechobee, including--
+       (A) the potential for additional water storage north of 
+     Lake Okeechobee; and
+       (B) an analysis of other project features included in the 
+     Comprehensive Everglades Restoration Plan; and
+       (4) a review of the report prepared for the South Florida 
+     Water Management District dated April 2006.
+       (c) Authorization of Appropriations.--There is authorized 
+     to be appropriated to carry out this section $1,500,000.
+
+     SEC. XXX. ILLINOIS WATERWAY, SOUTH FORK OF THE SOUTH BRANCH 
+                   OF THE CHICAGO RIVER, ILLINOIS.
+
+       (a) In General.--The portion of the Illinois Waterway 
+     project authorized by the Act of January 21, 1927 (commonly 
+     known as the ``River and Harbor Act of 1927'') (44 Stat. 
+     1013), in the South Fork of the South Branch of the Chicago 
+     River, as identified in subsection (b) is not authorized.
+       (b) Description of Project Portion.--The portion of the 
+     project referred to in subsection (a) is the portion of the 
+     SW \1/4\ of sec. 29, T. 39 N., R. 14 E., Third Principal 
+     Meridian, Cook County, Illinois, and more particularly 
+     described as follows:
+       (1) Commencing at the SW comer of the SW \1/4\.
+       (2) Thence north 1 degree, 32 minutes, 31 seconds west, 
+     bearing based on the Illinois State Plane Coordinate System, 
+     NAD 83 east zone, along the west line of that quarter, 
+     1810.16 feet to the southerly line of the Illinois and 
+     Michigan Canal.
+       (3) Thence north 50 degrees, 41 minutes, 55 seconds east 
+     along that southerly line 62.91 feet to the easterly line of 
+     South Ashland Avenue, as widened by the ordinance dated 
+     November 24, 1920, which is also the east line of an easement 
+     to the State of Illinois for highway purposes numbered 
+     12340342 and recorded July 13, 1939, for a point of 
+     beginnings.
+       (4) Thence continuing north 50 degrees, 41 minutes, 55 
+     seconds east along that southerly line 70.13 feet to the 
+     southerly line of the South Branch Turning Basin per for the 
+     plat numbered 3645392 and recorded January 19, 1905.
+       (5) Thence south 67 degrees, 18 minutes, 31 seconds east 
+     along that southerly line 245.50 feet.
+       (6) Thence north 14 degrees, 35 minutes, 13 seconds east 
+     145.38 feet.
+       (7) Thence north 10 degrees, 57 minutes, 15 seconds east 
+     326.87 feet.
+       (8) Thence north 17 degrees, 52 minutes, 44 seconds west 
+     56.20 feet.
+       (9) Thence north 52 degrees, 7 minutes, 32 seconds west 
+     78.69 feet.
+       (10) Thence north 69 degrees, 26 minutes, 35 seconds west 
+     58.97 feet.
+       (11) Thence north 90 degrees, 00 minutes, 00 seconds west 
+     259.02 feet to the east line of South Ashland Avenue.
+       (12) Thence south 1 degree, 32 minutes, 31 seconds east 
+     along that east line 322.46 feet.
+       (13) Thence south 00 degrees, 14 minutes, 35 seconds east 
+     along that east line 11.56 feet to the point of beginnings.
+                                 ______
+```
