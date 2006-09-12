@@ -1,0 +1,86 @@
+---
+granule: CREC-2006-09-12-pt1-PgS9357
+date: 2006-09-12
+edition: CREC
+section: SENATE
+page: S9357
+citation: 152 Cong. Rec. S9357
+---
+
+# DEFENSE APPROPRIATIONS
+
+**Speaking:** Lieberman, Joseph I. (L000304) [D-CT]
+
+```
+[Congressional Record: September 12, 2006 (Senate)]
+[Page S9357-S9358]
+From the Congressional Record Online via GPO Access [wais.access.gpo.gov]
+[DOCID:cr12se06-173]                         
+
+
+
+ 
+                         DEFENSE APPROPRIATIONS
+
+  Mr. LIEBERMAN. Mr. President, I rise today to give my support to the 
+2007 Defense appropriations bill which passed the Senate last week by a 
+unanimous vote of 98 to 0. The bill provides $469.7 billion in 
+discretionary spending authority for the Department of Defense and will 
+supply critical funding to many Connecticut defense companies that 
+provide our Nation's military with the cutting edge technology, 
+weaponry, and equipment it needs.
+  It includes $2.5 billion for the construction of another Virginia 
+class submarine, which will be built at Connecticut's submarine base in 
+New London. It also includes $54 million for submarine research. This 
+funding will support the significant work of our submarine designers 
+and engineers in New London and will enable important cost-cutting 
+improvements to the Virginia class. Eight million dollars of that 
+funding is targeted for advanced submarine research, which will allow 
+our designers and engineers in New London to begin the early steps of 
+designing a new class of nuclear attack submarines. In aircraft 
+procurement, the bill contains funding for 12 additional Black Hawk 
+helicopters for a total of 94 aircraft and 12 C-17 transport aircraft, 
+also produced in Connecticut. Finally, I am particularly heartened by 
+the inclusion of funding for several of our smaller defense companies 
+and contractors in Connecticut, which provide our troops with 
+sophisticated technological support. Fuel cell development, sonar 
+technology, clotting agents for troops wounded in battle, mobile 
+military health units, and laser machine tool systems are all products 
+of the high-tech defense industry in Connecticut, and I am proud that I 
+was able to secure funding for this burgeoning sector of my State's 
+economy.
+  There were several important amendments proposed to the Defense 
+appropriations bill. Senator Kennedy offered an amendment that would 
+have required the Pentagon to provide information about whether a civil 
+war has developed in Iraq as part of the Defense Department's already 
+mandated quarterly reports. Senator Menendez's proposed amendment 
+prohibited the use of funds for a public relations program designed to 
+monitor news media in the United States and the Middle East to create a 
+database of news stories to promote positive coverage of the Iraq war. 
+Both of these amendments were prevented from being considered 
+explicitly by procedural votes on the Senate floor. If I had voted on 
+those motions, I would have supported both amendments, which would have 
+meant voting against both motions to table. Unfortunately, both 
+amendments were set aside, and my vote would not have changed the 
+procedural outcome in either instance, nor prevented their defeat in a 
+party-line vote.
+  As I have stated earlier, I will be spending much of my time before 
+the
+
+[[Page S9358]]
+
+November election in Connecticut. I believe it is important for me to 
+spend time with people in Connecticut, listening to their ideas and 
+concerns. These next 2 months will provide me with a good opportunity 
+to learn more about their views on how we can move forward to solving 
+our Nation's most pressing problems. That being said, I plan to return 
+to the Senate for votes when my presence is a deciding factor and 
+important committee business in which my participation is crucial. The 
+task of representation is truly a two-way street, and I value those 
+times, such as during campaigns, when citizens and their elected 
+representatives can engage in a democratic dialogue. I am looking 
+forward to continuing to participate in that process and also 
+continuing to represent the people of Connecticut in the U.S. Senate.
+
+                          ____________________
+```
