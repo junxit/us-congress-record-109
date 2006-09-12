@@ -1,0 +1,134 @@
+---
+granule: CRECB-2006-pt13-Pg17818
+date: 2006-09-12
+edition: CRECB
+section: SENATE
+page: 17818
+---
+
+# CONGRATULATING THE COLUMBUS NORTHERN LITTLE LEAGUE TEAM
+
+```
+        CONGRATULATING THE COLUMBUS NORTHERN LITTLE LEAGUE TEAM
+
+  Mr. FRIST. Mr. President, I ask unanimous consent the Senate now 
+proceed to the consideration of S. Res. 568 submitted earlier today.
+  The PRESIDING OFFICER. The clerk will report the resolution by title.
+  The legislative clerk read as follows:
+
+       A resolution (S. Res. 568) congratulating the Columbus 
+     Northern Little League Team of Columbus, GA, for winning the 
+     championship game of the Little League World Series.
+
+  There being no objection, the Senate proceeded to consider the 
+resolution.
+  Mr. OBAMA. Mr. President, I rise today to join my colleagues from 
+Georgia in congratulating the Columbus Northern Little League team for 
+winning the Little League World Series.
+  I would also like to congratulate a team from my home State, the 
+Lemont Little League team from Lemont, IL. On August 23, these young 
+athletes competed in the U.S. semifinals of the Little League World 
+Series. It was the culmination of a long journey. After earning the 
+honor of representing Illinois, the Lemont team traveled to the Great 
+Lakes Regional Tournament in Indianapolis. Early in the regional, they 
+lost games to both Indiana and Kentucky. But they turned things around, 
+beating both of those teams to advance to World Series play in 
+Williamsport, PA.
+  Once again, the team was challenged, losing in its first game. But 
+again, they did not quit, and won their next two games to advance to 
+the U.S. semifinals. The semifinal game against Beaverton, OR, was hard 
+fought. Lemont got on the board first with two runs in the third, but 
+going into the bottom of the sixth and final inning, they were down 4-
+2. Exhibiting the strength and spirit that got them this far, they 
+rallied, scored and got the tying run to third, but still lost 4-3.
+  The young men of Lemont Little League had a terrific run, and I 
+congratulate them for going this far into the tournament. Baseball is a 
+wonderful sport and as the summer winds down, I am sure the boys are 
+already looking to next year. I wish them continued success.
+  Mr. FRIST. I ask unanimous consent the resolution be agreed to, the 
+preamble be agreed to, and the motion to reconsider be laid on the 
+table.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The resolution (S. Res. 568) was agreed to.
+  The preamble was agreed to.
+  The resolution, with its preamble, reads as follows:
+
+                              S. Res. 568
+
+       Whereas, on August 28, 2006, the Columbus Northern Little 
+     League team defeated the Kawaguchi Little League team of 
+     Kawaguchi City, Japan, by 2 runs to 1 run to win the 60th 
+     annual Little League Baseball World Series;
+       Whereas the Columbus Northern Little League team is only 
+     the 2nd team from the State of Georgia to win the Little 
+     League Baseball World Series in the 60-year history of that 
+     tournament;
+       Whereas the Columbus Northern Little League team had an 
+     impressive record of 20 wins and only 1 loss;
+       Whereas, although no other pitcher in the history of the 
+     Little League Baseball World Series had ever won more than 3 
+     games during the tournament, Kyle Carter made history by 
+     striking out 11 batters in the championship game to earn his 
+     4th win of the Little League Baseball World Series;
+       Whereas the success of the Columbus Northern Little League 
+     team depended on the tremendous dedication and sportsmanship 
+     of the team, including--
+       (1) Matthew Hollis, who played 2nd base and centerfield;
+       (2) Ryan Lang, who played right field;
+       (3) Mason Meyers, who played right field and 3rd base;
+       (4) Matthew Kuhlenberg, who played left field;
+       (5) Patrick Stallings, who played 3rd base;
+       (6) Josh Lester, who played 2nd base and shortstop;
+       (7) Brady Hamilton, who played 1st base, outfield, and 
+     pitched for the team;
+       (8) Cody Walker, who caught for the team;
+       (9) Kyle Carter, who pitched for the team;
+       (10) J.T. Phillips, who played shortstop and pitched for 
+     the team; and
+       (11) Kyle Rovig, who played left field and pitched for the 
+     team;
+
+       Whereas the Columbus Northern Little League team was 
+     managed by Randy Morris and coached by Richard Carter, each 
+     of whom demonstrated leadership, professionalism, and respect 
+     for the players who they led and the game of baseball;
+       Whereas the fans of the Columbus Northern Little League 
+     team showed enthusiasm, support, and courtesy for the game of 
+     baseball and all of the players and coaches;
+       Whereas the performance of the Columbus Northern Little 
+     League team demonstrated to parents and communities 
+     throughout the
+
+[[Page 17819]]
+
+     United States that athletic participation builds character 
+     and leadership in children; and
+       Whereas the Columbus Northern Little League team brought 
+     pride and honor to the State of Georgia and the United 
+     States: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) congratulates and honors the Columbus Northern Little 
+     League team and the loyal fans who supported the team on 
+     winning the 60th annual Little League Baseball World Series;
+       (2) recognizes and commends the hard work, dedication, 
+     determination, and commitment to excellence of the members, 
+     parents, coaches, and managers of the Columbus Northern 
+     Little League team;
+       (3) recognizes and commends the people of Columbus, 
+     Georgia, for the outstanding loyalty and support that they 
+     displayed for the Columbus Northern Little League team 
+     throughout the season;
+       (4) commends Little League Baseball for continuing the 
+     tradition of encouraging the development of sportsmanship and 
+     confidence in youth by sponsoring world-class baseball; and
+       (5) respectfully requests that--
+       (A) the American people recognize the achievements of the 
+     Columbus Northern Little League team; and
+       (B) the Secretary of the Senate transmit an enrolled copy 
+     of this resolution to--
+       (i) the City of Columbus; and
+       (ii) each player, manager, and coach of the Columbus 
+     Northern Little League Baseball team.
+
+                          ____________________
+```
