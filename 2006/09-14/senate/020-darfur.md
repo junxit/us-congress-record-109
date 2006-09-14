@@ -1,0 +1,114 @@
+---
+granule: CREC-2006-09-14-pt1-PgS9617-3
+date: 2006-09-14
+edition: CREC
+section: SENATE
+page: S9617
+citation: 152 Cong. Rec. S9617
+---
+
+# DARFUR
+
+**Speaking:** Brownback, Sam (B000953) [R-KS], Boxer, Barbara (B000711) [D-CA], Lincoln, Blanche L. (L000035) [D-AR]
+
+```
+                                 DARFUR
+
+  Mr. BROWNBACK. Mr. President, I will not take my colleagues' time for 
+long, but I draw attention to a situation that has further developed--
+or devolved and deteriorated--and that is the situation in Darfur. It 
+is a situation this Senate has spoken to often. We have spoken on 
+resolutions, on amendments; we have added funds.
+  What we have feared is now upon us. We are now seeing in the IDP 
+camps, the individuals that are displaced internally, diseases such as 
+asthma, malaria, cholera and dysentery. We have had 12 humanitarian 
+workers killed in the last 2 months. That is driving a number of the 
+humanitarian groups out of the region. The NGO, the nongovernment 
+organizations, currently now serve only 60 percent of the people they 
+were serving. The Government of Sudan has reportedly resumed aerial 
+bombings taking place in the northern and southern parts of Darfur.
+  The situation is growing worse. We don't know how many people have 
+died already, but it is set to escalate rapidly. NGOs are fleeing 
+because people are getting killed. The people are concentrated in the 
+camps. They are now not getting food and clean water.
+  Now we have cholera, more misery, malaria and the numbers of people 
+getting killed escalating dramatically. It is going to escalate further 
+and more dramatically if we do not act.
+  We have the government in Khartoum saying they want the African Union 
+troops out.
+  We do not have a big enough force there now. They are scheduled to 
+leave the end of September. We have a United Nations group that is 
+forming to go in, and the government in Khartoum, Sudan, is saying, We 
+are not going to let them in.
+  We have African Union troops preparing to leave. We have the U.N. 
+troops not yet prepared to come in or being allowed in. And we have 
+chaos. There are a lot of people dying in this region. It is 
+escalating. It is time we step up and push again.
+  This Senate has been excellent on this issue. The administration has 
+been very good. I cite particularly Assistant Secretary Zoellick who 
+spent a lot of time working on this issue, trying to bring people 
+together, getting a peace agreement signed a couple of months ago. It 
+was an important peace agreement.
+  The problem that has taken place now, after the peace agreement was 
+signed, the African Union troops were starting to organize to pull out, 
+the government of President al-Bashir in the Sudan decided: This is our 
+time to take over because the rest of the world is looking at Lebanon, 
+they are dealing with Hezbollah, the United States is focused on its 
+election cycle. This is the time for us to move.
+  This is a very difficult, dire situation for people on the ground. I 
+met with a number of the aid organizations today. Their people are 
+getting killed, so they are pulling back, as I cited.
+  When this situation first started developing about 3 years ago, the 
+very situation we are most concerned about is a lot of people getting 
+into the displaced camps, not having access to clean water, disease 
+spreading in the camps, spreading because of the concentration of 
+individuals and the lack of sanitation and clean water, and we really 
+get a mess. That is now where we are.
+  Mrs. BOXER. Will the Senator yield?
+  Mr. BROWNBACK. Yes.
+  Mrs. BOXER. I thank Senator Brownback for raising this issue. We are 
+in a do-or-die moment. We have been there before. I am reading that 
+certain experts are saying in 2 weeks there could be another Rwanda.
+  I am very glad the Senator is speaking out. I was very glad this 
+Senate did act, as we know, on a measure last week, actually voting to 
+send $20 million to the African nations to carry on, as my friend 
+points out. If they do not do it, there is a void. What will fill the 
+void will be disease, rapes, killings and, I hate to say it, continued 
+genocide.
+  I am glad the Senator raised this. The hours are running short. We 
+did vote. It is important we use our bully pulpit in whatever way we 
+can. I personally will be going to the United Nations on Monday 
+literally to knock on doors. I am setting up some appointments. We have 
+to do everything we can to prevent this worsening situation from 
+getting to the point where it is unsalvageable.
+  I thank the Senator for his efforts.
+  Mr. BROWNBACK. I thank my colleague for her interest. I wish her 
+Godspeed in New York with the U.N.
+  My colleague in Connecticut will address this same topic. It is very 
+important to speak. We need to pass the Darfur Accountability Act. It 
+has passed here and in the House. We need to resolve the issues.
+  It is important that the President, in his meetings at the U.N. for 
+General Assembly meetings, raise this issue. It is important to press 
+the Sudanese Government to stop the aerial bombings--they can do that 
+first and foremost--and that the African Union forces stay until a U.N. 
+force is put in place, we pressure the Sudanese Government to accept a 
+U.N. force, or, if not, put in targeted sanctions toward Sudanese 
+officials preventing traveling, dealing with their own personal 
+accounts.
+  There are a series of recommendations of a number of Senators 
+addressed in a letter to the President. It is a bipartisan effort. It 
+is a genocide already. It is one that is set to become a far worse 
+situation.
+  We really need to act.
+  I yield to the floor to the set of speakers listed.
+  The PRESIDING OFFICER. The Senator from Arkansas.
+  Mrs. LINCOLN. Mr. President, I join my colleague from California in 
+thanking Senator Brownback for bringing this issue forward. He has been 
+a tremendous supporter of taking action. He brings to light, tonight, 
+the fact we have to act and we have to act expeditiously.
+  As the situation deteriorates, unfortunately, it moves closer toward 
+a situation that we can do nothing about. I appreciate all of the 
+Senator's efforts in what he is doing for the people of Darfur.
+
+                          ____________________
+```
