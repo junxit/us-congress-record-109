@@ -1,0 +1,89 @@
+---
+granule: CRECB-2006-pt13-Pg18414
+date: 2006-09-18
+edition: CRECB
+section: SENATE
+page: 18414
+---
+
+# SRI LANKA
+
+```
+                               SRI LANKA
+
+  Mr. LEAHY. Mr. President, I wish to take a moment to discuss the 
+situation in Sri Lanka, which not long ago was one of promise after a 
+cease-fire agreement was signed in 2002 between the former government 
+and the LTTE ``Tamil Tigers.'' The cease-fire was never perfect, but 
+for several years negotiations on a political settlement offered a ray 
+of hope for an end to the conflict. After April 2006, however, there 
+was escalating violence and an increasing pattern of violations of the 
+cease-fire agreement by both sides.
+  On July 20, the LTTE closed a reservoir sluice gate in an LTTE-
+controlled area near the eastern town of Trincomalee, cutting the water 
+supply to about 60,000 people in Government-controlled territory. In 
+response, Sri Lankan Government forces conducted airstrikes over 
+several days against LTTE positions in the area and on July 30 began a 
+ground offensive to capture the reservoir's control point. This 
+increase in violence contributed to the more than 800 deaths reported 
+between January and August, including some in which large numbers of 
+civilians were killed in flagrant violations of international law by 
+both sides, and hundreds more combatants and civilians have died since 
+then.
+  Politically motivated killings, the recruitment of child soldiers, 
+indiscriminate raids on civilians, targeting of international aid 
+workers, and torture in police custody are only some of the human 
+rights abuses that have been recently committed as reported by Amnesty 
+International and Human Rights Watch. Additionally, a looming 
+humanitarian crisis exists as the number of Sri Lankans displaced 
+within the country by fighting this year has passed the 200,000 mark, 
+and an estimated 8,700 citizens have fled to India. Road, air, and sea 
+links to the Tamil population in the north have been cut, and food, 
+water, and fuel shortages are severe.
+  We should be deeply concerned with the collapse of the peace process 
+and escalating violence in Sri Lanka. Although it is apparent that 
+neither the Government nor the LTTE can defeat the other militarily, 
+nor have they demonstrated the political will to stop the fighting and 
+resolve this conflict peacefully. A report on September 13 that the 
+Government and the LTTE have proposed new peace talks is welcome. But 
+the Sri Lankan people have been disappointed countless times before. 
+Several steps should be taken immediately, most importantly to prevent 
+further harm to civilians who have suffered disproportionately.
+  It is critical that humanitarian aid be allowed to reach those who 
+have been displaced, whether as a result of the conflict or the 
+lingering effects of the December 2004 tsunami. Relief agencies need 
+unimpeded access to the affected populations, and civilians should be 
+allowed to leave contested areas.
+  The LTTE has been designated a terrorist organization by the U.S. 
+Government on account of its wanton attacks against civilians and 
+forced recruitment of children. These abusive tactics, which flagrantly 
+violate international law, should be universally condemned.
+
+[[Page 18415]]
+
+  There is also the issue of U.S. support to Sri Lankan Government 
+security forces, who have been responsible for violations of human 
+rights. The Department of State needs to be doubly sure that the Leahy 
+amendment, which prohibits U.S. assistance to units of foreign security 
+forces who violate human rights, is being strictly complied with.
+  In addition, we should reaffirm our support for the Sri Lanka 
+Monitoring Mission, which reports on violations of the cease-fire by 
+both sides. A stronger monitoring presence would deter abuses, provide 
+systematic documentation of violations, and help to address the problem 
+of impunity that has contributed to the recurrent cycles of violence 
+and reprisal in Sri Lanka.
+  Sri Lanka is a divided country, but its people, whether Sinhalese, 
+Tamil, or Muslim, are as gentle, industrious, and peace loving as any 
+in the world. The Tamils have legitimate demands, but the LTTE's 
+tactics are deplorable. The Government has been divided, and it has not 
+been able to provide the sustained leadership necessary to reconcile 
+the interests of the conflicting parties.
+  The chairs of the Tokyo Donors' Conference--Japan, the European 
+Union, Norway, and the United States--need to find more effective ways 
+to convince both sides to return to the bargaining table. There is no 
+other way to end this conflict. The longer it takes to resume a process 
+of good faith negotiations, the more responsibility the LTTE and the 
+Government will bear for the needless deaths of innocent civilians.
+
+                          ____________________
+```
