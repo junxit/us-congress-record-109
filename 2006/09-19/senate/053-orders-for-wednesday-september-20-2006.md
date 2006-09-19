@@ -1,0 +1,35 @@
+---
+granule: CREC-2006-09-19-pt1-PgS9735
+date: 2006-09-19
+edition: CREC
+section: SENATE
+page: S9735
+citation: 152 Cong. Rec. S9735
+---
+
+# ORDERS FOR WEDNESDAY, SEPTEMBER 20, 2006
+
+**Speaking:** Frist, William H. (F000439) [R-TN]
+
+**Measures:** H.R. 6061
+
+```
+                ORDERS FOR WEDNESDAY, SEPTEMBER 20, 2006
+
+  Mr. FRIST. Mr. President, I ask unanimous consent that when the 
+Senate completes its business today, it stand in adjournment until 9:30 
+a.m. on Wednesday, September 20. I further ask that following the 
+prayer and pledge, the morning hour be deemed expired, the Journal of 
+proceedings be approved to date, the time for the two leaders be 
+reserved, and the Senate proceed to a period of morning business for up 
+to 30 minutes with the first 15 minutes under the control of the 
+Republican leader or his designee and the final 15 minutes under the 
+control of the Democratic leader or his designee; further, that 
+following morning business, the Senate resume consideration of the 
+motion to proceed to H.R. 6061, the Secure Fence Act, with 1 hour of 
+debate equally divided between the two leaders or their designees, 
+followed by a vote on the motion to invoke cloture.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```
