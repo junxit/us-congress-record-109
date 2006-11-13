@@ -1,0 +1,127 @@
+---
+granule: CRECB-2006-pt17-Pg21894
+date: 2006-11-13
+edition: CRECB
+section: SENATE
+page: 21894
+---
+
+# WAIVING APPLICATION OF THE INDIAN SELF-DETERMINATION AND EDUCATION ASSISTANCE ACT
+
+```
+        WAIVING APPLICATION OF THE INDIAN SELF-DETERMINATION AND
+                        EDUCATION ASSISTANCE ACT
+
+  Mr. FRIST. I ask unanimous consent the Senate proceed to the 
+immediate consideration of Calendar No. 642, S. 3687.
+  The PRESIDING OFFICER. The clerk will report the bill by title.
+  The legislative clerk read as follows:
+
+       A bill (S. 3687) to waive application of the Indian Self-
+     Determination and Education Assistance Act to a specific 
+     parcel of real property transferred by the United States to 2 
+     Indian tribes in the State of Oregon, and for other purposes.
+
+  There being no objection, the Senate proceeded to consider the bill.
+  Mr. FRIST. I ask unanimous consent that the bill be read a third time 
+and passed, the motion to reconsider be laid on the table with no 
+intervening action or debate, and any statements be printed in the 
+Record.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The bill (S. 3687) was ordered to be engrossed for a third reading, 
+was read the third time, and passed, as follows:
+
+                                S. 3687
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. FINDINGS.
+
+       With respect to the parcel of real property in Marion 
+     County, Oregon, deeded by the United States to the 
+     Confederated Tribes of Siletz Indians of Oregon and the 
+     Confederated Tribes of the Grand Ronde Community of Oregon by 
+     quitclaim deed dated June 18, 2002, and recorded in the 
+     public records of Marion County on June 19, 2002, Congress 
+     finds that--
+       (1) the parcel of land described in the quitclaim deed, 
+     comprising approximately 19.86 acres of land originally used 
+     as part of the Chemawa Indian School, was transferred by the 
+     United States in 1973 and 1974 to the State of Oregon for use 
+     for highway and associated road projects;
+       (2) Interstate Route 5 and the Salem Parkway were 
+     completed, and in 1988 the Oregon Department of 
+     Transportation deeded the remaining acreage of the parcel 
+     back to the United States;
+       (3) the United States could no longer use the returned 
+     acreage for the administration of Indian affairs, and 
+     determined it would be most appropriate to transfer the 
+     property to the Confederated Tribes of Siletz Indians of 
+     Oregon and the Confederated Tribes of the Grand Ronde 
+     Community of Oregon;
+       (4) on request of the Confederated Tribes of Siletz Indians 
+     of Oregon and the Confederated Tribes of the Grand Ronde 
+     Community of Oregon, the United States transferred the parcel 
+     jointly to the Tribes for economic development and other 
+     purposes under the Indian Self-Determination and Education 
+     Assistance Act (25 U.S.C. 450 et seq.);
+       (5) the transfer of the parcel was memorialized by the 
+     United States in 2 documents, including--
+       (A) an agreement titled ``Agreement for Transfer of 
+     Federally Owned Buildings, Improvements, Facilities and/or 
+     Land from the United States of America the [sic] Confederated 
+     Tribes of the Grand Ronde Community of Oregon and the 
+     Confederated Tribes of Siletz Tribe [sic] of Oregon'', dated 
+     June 21, 2001; and
+       (B) a quitclaim deed dated June 18, 2002, and recorded in 
+     the public records of Marion County, Oregon, on June 19, 2002 
+     (reel 1959, page 84);
+       (6) use of the parcel by Tribes for economic development 
+     purposes is consistent with the intent and language of the 
+     Indian Self-Determination and Education Assistance Act (25 
+     U.S.C. 450 et seq.) and other Federal Indian law--
+       (A) to encourage tribal economic development; and
+       (B) to promote economic self-sufficiency for Indian tribes;
+       (7) the United States does not desire the return of the 
+     parcel and does not intend under any circumstances to take 
+     action under the Indian Self-Determination and Education 
+     Assistance Act (25 U.S.C. 450 et seq.) or any other legal 
+     authority to seek the return of the parcel; and
+       (8) in reliance on this intent, the Tribes have committed 
+     over $2,500,000 to infrastructure improvements to the parcel, 
+     including
+
+[[Page 21895]]
+
+     roads and sewer and water systems, and have approved plans to 
+     further develop the parcel for economic purposes, the 
+     realization of which is dependent on the ability of the 
+     Tribes to secure conventional financing.
+
+     SEC. 2. WAIVER OF APPLICATION OF INDIAN SELF-DETERMINATION 
+                   AND EDUCATION ASSISTANCE ACT.
+
+       (a) Nonapplication of Law.--Notwithstanding any other 
+     provision of law, the Indian Self-Determination and Education 
+     Assistance Act (25 U.S.C. 450 et seq.) shall not apply to the 
+     transfer of the parcel of real property in Marion County, 
+     Oregon, deeded by the United States to the Confederated 
+     Tribes of Siletz Indians of Oregon and the Confederated 
+     Tribes of the Grand Ronde Community of Oregon by quitclaim 
+     deed dated June 18, 2002, and recorded in the public records 
+     of Marion County on June 19, 2002.
+       (b) New Deed.--The Secretary of the Interior shall issue a 
+     new deed to the Tribes to the parcel described in subsection 
+     (a) that shall not include--
+       (1) any restriction on the right to alienate the parcel; or
+       (2) any reference to any provision of the Indian Self-
+     Determination and Education Assistance Act (25 U.S.C. 450 et 
+     seq.).
+       (c) Prohibition on Gaming.--Class II gaming and class III 
+     gaming under the Indian Gaming Regulatory Act (25 U.S.C. 2701 
+     et seq.) shall not be conducted on the parcel described in 
+     subsection (a).
+
+                          ____________________
+```

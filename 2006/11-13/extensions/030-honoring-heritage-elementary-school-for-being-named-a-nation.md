@@ -1,0 +1,51 @@
+---
+granule: CRECB-2006-pt17-Pg21907-2
+date: 2006-11-13
+edition: CRECB
+section: EXTENSIONS
+page: 21907
+---
+
+# HONORING HERITAGE ELEMENTARY SCHOOL FOR BEING NAMED A NATIONAL BLUE RIBBON SCHOOL
+
+```
+  HONORING HERITAGE ELEMENTARY SCHOOL FOR BEING NAMED A NATIONAL BLUE 
+                             RIBBON SCHOOL
+
+                                 ______
+                                 
+
+                          HON. KENNY MARCHANT
+
+                                of texas
+
+                    in the house of representatives
+
+                       Monday, November 13, 2006
+
+  Mr. MARCHANT. Mr. Speaker, I rise today to recognize Heritage 
+Elementary School located in Colleyville, Texas for being named a 2006 
+No Child Left Behind--Blue Ribbon School. Only 26 public schools in 
+Texas will receive this coveted award this year.
+  The No child Left Behind Blue Ribbon Schools program recognizes 
+schools that make significant progress in closing the achievement gap 
+or whose students achieve at very high levels. Schools must make 
+adequate yearly progress in reading, language arts and mathematics.
+  Heritage Elementary is no exception as Principal Stacy Voigt, her 
+staff, the students and their families have poured dedication and heart 
+into creating a fertile learning environment in Colleyville. They have 
+realized the immense potential of all those involved in making a school 
+Blue Ribbon-worthy.
+  The No child Left Behind Act is the bipartisan landmark education 
+reform law designed to change the culture of America's schools by 
+closing the achievement gap offering more flexibility to States, giving 
+parents more information and options and teaching students based on 
+what works. Under the law's strong accountability provisions, States 
+must describe how they will close the achievement gap and make sure all 
+students, including those with disabilities, achieve academically.
+  I extend my sincere congratulations to Heritage Elementary School for 
+receiving this award. This school's contribution and services should 
+serve as inspiration to us all.
+
+                          ____________________
+```
