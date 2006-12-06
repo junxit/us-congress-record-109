@@ -1,0 +1,34 @@
+---
+granule: CREC-2006-12-06-pt1-PgS11316
+date: 2006-12-06
+edition: CREC
+section: SENATE
+page: S11316
+citation: 152 Cong. Rec. S11316
+---
+
+# 2005 COUNTRY REPORT ON HUMAN RIGHTS PRACTICES IN THE PHILIPPINES
+
+**Speaking:** Dayton, Mark (D000596) [D-MN]
+
+```
+    2005 COUNTRY REPORT ON HUMAN RIGHTS PRACTICES IN THE PHILIPPINES
+
+  Mr. DAYTON. Mr. President, I rise today to express my deep distress 
+about the human rights violations reportedly committed in the 
+Philippines. The U.S. Department of State's 2005 Country Report on 
+Human Rights Practices in the Philippines, released in March 2006, is a 
+very troubling account and, at times, a cynical report on the current 
+state of Philippine human rights problems. The Report cites the 
+Philippine National Police as the worst abuser of human rights in the 
+country, and it describes numerous violations, including extrajudicial 
+killings, disappearances, and physical abuse of suspects and detainees. 
+It cites instances of torture, arbitrary arrests, trafficking of 
+persons, and harassment of human rights personnel and political 
+activists.
+  In light of the report's troubling findings, I respectfully urge my 
+colleagues to review this document and recognize the significance of 
+these extremely serious transgressions.
+
+                          ____________________
+```
