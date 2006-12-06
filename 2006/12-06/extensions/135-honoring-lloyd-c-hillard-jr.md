@@ -1,0 +1,55 @@
+---
+granule: CRECB-2006-pt18-Pg23769-3
+date: 2006-12-06
+edition: CRECB
+section: EXTENSIONS
+page: 23769
+---
+
+# HONORING LLOYD C. HILLARD, JR.
+
+```
+                     HONORING LLOYD C. HILLARD, JR.
+
+                                 ______
+                                 
+
+                             HON. RON LEWIS
+
+                              of kentucky
+
+                    in the house of representatives
+
+                      Wednesday, December 6, 2006
+
+  Mr. LEWIS of Kentucky. Mr. Speaker, I rise today to pay public 
+tribute to Lloyd C. Hillard, Jr., an exemplary community leader, 
+businessman and citizen from my congressional district. Lloyd received 
+this year's Hardin County Distinguished Citizen Award from the Boy 
+Scouts of America during ceremonies earlier this month.
+  A native of Kentucky, Lloyd grew up on a farm in Pine Grove and 
+earned college degrees from the University of Kentucky and the 
+University of Wisconsin. Lloyd has distinguished himself as a business 
+leader, serving as President and CEO of First Citizens Bank, and a good 
+neighbor, through his active involvement in many community and 
+charitable organizations.
+  Though never a scout himself, Lloyd's lifelong example of honesty and 
+devotion to his family and community parallel ideals championed by the 
+Boy Scouts. He first became involved with the Scouts as a young adult, 
+running a school recruitment program.
+  Lloyd has been an especially active member of our community, having 
+served as past president and director of the Bluegrass Council Boy 
+Scouts of America, past chairman of the North Central Kentucky 
+Education Foundation, and former treasurer and director of the Cavalry 
+Armor Foundation.
+  Lloyd was also past chairman of the Hardin County Community 
+Foundation, Helping Hand of the Heartland, and the Hardin County Fund 
+for the Arts. He remains an active member of the local United Way and 
+the Elizabethtown Rotary Club.
+  It is my great privilege to recognize Lloyd C. Hillard, Jr. today, 
+before the entire U.S. House of Representatives, for his example of 
+leadership and service. His unique achievements make him an outstanding 
+American worthy of our collective honor and respect.
+
+                          ____________________
+```
