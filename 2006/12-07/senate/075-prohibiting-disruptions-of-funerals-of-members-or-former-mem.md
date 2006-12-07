@@ -1,0 +1,110 @@
+---
+granule: CRECB-2006-pt18-Pg23047-3
+date: 2006-12-07
+edition: CRECB
+section: SENATE
+page: 23047
+---
+
+# PROHIBITING DISRUPTIONS OF FUNERALS OF MEMBERS OR FORMER MEMBERS OF THE ARMED FORCES
+
+```
+PROHIBITING DISRUPTIONS OF FUNERALS OF MEMBERS OR FORMER MEMBERS OF THE 
+                              ARMED FORCES
+
+  Mr. McCONNELL. Mr. President, I ask unanimous consent that the 
+Committee on the Judiciary be discharged from further consideration of 
+S. 4042 and the Senate proceed to its immediate consideration.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The clerk will report the bill by title.
+  The legislative clerk read as follows:
+
+       A bill (S. 4042) to amend title 18, United States Code, to 
+     prohibit disruptions of funerals of members or former members 
+     of the Armed Forces.
+
+  There being no objection, the Senate proceeded to consider the bill.
+  Mr. McCONNELL. I ask unanimous consent that the bill be read the 
+third time and passed, the motion to reconsider be laid upon the table, 
+and any statements relating to the measure be printed in the Record.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The bill (S. 4042) was ordered to be engrossed for a third reading, 
+was read the third time, and passed, as follows:
+
+                                S. 4042
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. RESPECT FOR THE FUNERALS OF FALLEN HEROES.
+
+       (a) In General.--Chapter 67 of title 18, United States 
+     Code, is amended by adding at the end the following new 
+     section:
+
+     ``Sec. 1388. Prohibition on disruptions of funerals of 
+       members or former members of the Armed Forces
+
+       ``(a) Prohibition.--For any funeral of a member or former 
+     member of the Armed Forces that is not located at a cemetery 
+     under the control of the National Cemetery Administration or 
+     part of Arlington National Cemetery, it shall be unlawful for 
+     any person to engage in an activity during the period 
+     beginning 60 minutes before and ending 60 minutes after such 
+     funeral, any part of which activity--
+       ``(1)(A) takes place within the boundaries of the location 
+     of such funeral or takes place within 150 feet of the point 
+     of the intersection between--
+       ``(i) the boundary of the location of such funeral; and
+       ``(ii) a road, pathway, or other route of ingress to or 
+     egress from the location of such funeral; and
+       ``(B) includes any individual willfully making or assisting 
+     in the making of any noise or diversion that is not part of 
+     such funeral and that disturbs or tends to disturb the peace 
+     or good order of such funeral with the intent of disturbing 
+     the peace or good order of that funeral; or
+       ``(2)(A) is within 300 feet of the boundary of the location 
+     of such funeral; and
+       ``(B) includes any individual willfully and without proper 
+     authorization impeding the access to or egress from such 
+     location with the intent to impede the access to or egress 
+     from such location.
+       ``(b) Penalty.--Any person who violates subsection (a) 
+     shall be fined under this title, imprisoned for not more than 
+     1 year, or both.
+       ``(c) Definitions.--In this section:
+       ``(1) The term `Armed Forces' has the meaning given the 
+     term in section 101 of title 10.
+       ``(2) The term `funeral of a member or former member of the 
+     Armed Forces' means any ceremony or memorial service held in 
+     connection with the burial or cremation of a member or former 
+     member of the Armed Forces.
+       ``(3) The term `boundary of the location', with respect to 
+     a funeral of a member or former member of the Armed Forces, 
+     means--
+       ``(A) in the case of a funeral of a member or former member 
+     of the Armed Forces that is held at a cemetery, the property 
+     line of the cemetery;
+       ``(B) in the case of a funeral of a member or former member 
+     of the Armed Forces that is held at a mortuary, the property 
+     line of the mortuary;
+       ``(C) in the case of a funeral of a member or former member 
+     of the Armed Forces that is held at a house of worship, the 
+     property line of the house of worship; and
+       ``(D) in the case of a funeral of a member or former member 
+     of the Armed Forces that is held at any other kind of 
+     location, the reasonable property line of that location.''.
+       (b) Clerical Amendment.--The table of sections at the 
+     beginning of chapter 67 of such title is amended by inserting 
+     after the item related to section 1387 the following new 
+     item:
+
+``1388. Prohibition on disruptions of funerals of members or former 
+              members of the Armed Forces.''.
+
+[[Page 23048]]
+
+
+
+                          ____________________
+```
