@@ -1,0 +1,24 @@
+---
+granule: CRECB-2006-pt18-Pg23437-2
+date: 2006-12-08
+edition: CRECB
+section: HOUSE
+page: 23437
+---
+
+# LEAVE OF ABSENCE
+
+```
+                            LEAVE OF ABSENCE
+
+  By unanimous consent, leave of absence was granted to:
+  Mr. Burton of Indiana (at the request of Mr. Boehner) for today on 
+account of illness.
+  Mr. Jones of North Carolina (at the request of Mr. Boehner) for today 
+from 2 p.m. and the balance of the week on account of meeting with 
+constituents in the district.
+  Mr. Gary G. Miller of California (at the request of Mr. Boehner) for 
+today after 4:00 p.m. on account of illness.
+
+                          ____________________
+```
